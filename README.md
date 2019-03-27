@@ -18,52 +18,52 @@ Good luck to all and may this path fulfill you, knowing that you will find suppo
 # Table of Resources :blue_book:
 
 1. [Modules in the curriculum](#modules-in-the-curriculum) (structure below)
-2. [Free tools and software](tools_software/README.md)
+2. [Free software](software/README.md)
 
 ---
 
 ## Modules in the curriculum
 
 ### Level 4 (year 1+)
-- Algorithms and Data Structures I (CM1035-01) **(Not currently available)**
-- Discrete Mathematics (CM1020-01) **(Not currently available)**
-- Fundamentals of Computer Science (CM1025-01) **(Not currently available)**
-- How Computers Work (CM1030-01)
-- Introduction to Programming I (CM1005-01)
-- Introduction to Programming II (CM1010-01) **(Not currently available)**
-- Numerical Mathematics (CM1015-01)
-- Web Development (CM1040-01)
+- [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) (CM1035-01) **(Not currently available)**
+- [Discrete Mathematics](modules/level_4/discrete_mathematics) (CM1020-01) **(Not currently available)**
+- [Fundamentals of Computer Science](modules/level_4/fundamentals_of_computer_science) (CM1025-01) **(Not currently available)**
+- [How Computers Work](modules/level_4/how_computers_work) (CM1030-01)
+- [Introduction to Programming I](modules/level_4/introduction_to_programming_i) (CM1005-01)
+- [Introduction to Programming II](modules/level_4/introduction_to_programming_ii) (CM1010-01) **(Not currently available)**
+- [Numerical Mathematics](modules/level_4/numerical_mathematics) (CM1015-01)
+- [Web Development](modules/level_4/web_development) (CM1040-01)
 
 ---
 
 ### Level 5 (year 2+)
-- Object Oriented Programming (CM2005-01)
-- Software Design and Development (CM2010-01)
-- Programming with Data (CM2015-01)
-- Agile Software Projects (CM2020-01)
-- Computer Security (CM2025-01)
-- Graphics Programming (CM2030-01)
-- Algorithms and Data Structures II (CM2035-01)
-- Databases, Networks and the Web (CM2040-01)
+- [Object Oriented Programming](modules/level_5/object_oriented_programming) (CM2005-01)
+- [Software Design and Development](modules/level_5/software_design_and_development) (CM2010-01)
+- [Programming with Data](modules/level_5/programming_with_data) (CM2015-01)
+- [Agile Software Projects](modules/level_5/agile_software_projects) (CM2020-01)
+- [Computer Security](modules/level_5/computer_security) (CM2025-01)
+- [Graphics Programming](modules/level_5/graphics_programming) (CM2030-01)
+- [Algorithms and Data Structures II](modules/level_5/algorithms_and_data_structures_ii) (CM2035-01)
+- [Databases, Networks and the Web](modules/level_5/databases_networks_and_the_web) (CM2040-01)
 
 ---
 
 ### Level 6 (year 3+)
-- Databases and Advanced Data Techniques (CM3010-01)
-- Machine Learning and Neural Networks (CM3015-01)
-- Artificial Intelligence (CM3020-01)
-- Natural Language Processing (CM3060-01)
-- Intelligent Signal Processing (CM3065-01)
+- [Databases and Advanced Data Techniques](modules/level_6/databases_and_advanced_data_techniques) (CM3010-01)
+- [Machine Learning and Neural Networks](modules/level_6/machine_learning_and_neural_networks) (CM3015-01)
+- [Artificial Intelligence](modules/level_6/artificial_intelligence) (CM3020-01)
+- [Natural Language Processing](modules/level_6/natural_language_processing) (CM3060-01)
+- [Intelligent Signal Processing](modules/level_6/intelligent_signal_processing) (CM3065-01)
 
 ### Level 6 — Optional courses (year 3+)
-- Data Science (CM3005-01)
-- Virtual Reality (CM3025-01)
-- Games Development (CM3030-01)
-- Advanced Web Development (CM3035-01)
-- Physical Computing and the Internet of Things (CM3040-01)
-- 3D Graphics and Animation (CM3045-01)
-- Mobile Development (CM3050-01)
-- Interaction Design (CM3055-01)
+- [Data Science](modules/level_6/data_science) (CM3005-01)
+- [Virtual Reality](modules/level_6/virtual_reality) (CM3025-01)
+- [Games Development](modules/level_6/games_development) (CM3030-01)
+- [Advanced Web Development](modules/level_6/advanced_web_development) (CM3035-01)
+- [Physical Computing and the Internet of Things](modules/level_6/physical_computing_and_the_internet_of_things) (CM3040-01)
+- [3D Graphics and Animation](modules/level_6/3d_graphics_and_animation) (CM3045-01)
+- [Mobile Development](modules/level_6/mobile_development) (CM3050-01)
+- [Interaction Design](modules/level_6/interaction_design) (CM3055-01)
 
 ### Level 6 — Final project
-- Final Project (CM3070-01)
+- [Final Project](modules/level_6/final_project) (CM3070-01)
