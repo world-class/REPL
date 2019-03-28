@@ -3,6 +3,7 @@
 ## Free access or discounts
 
 - [Student Developer Pack – GitHub Education](https://education.github.com/pack) — *"give students free access to the best developer tools in one place so they can learn by doing."*
+- [Packt Publishing – free programming ebooks and videos](https://www.packtpub.com/packt/offers/free-learning) — Daily offer of up-to-date, quality material.
 
 ---
 
@@ -52,7 +53,7 @@
 - Graphics software
     - :star: [List of free graphics software](https://en.wikipedia.org/wiki/Category:Free_graphics_software)
     - Graphic art & Office suite
-        - [Calligra](https://www.calligra.org/)
+        - :star: [Calligra](https://www.calligra.org/)
 
 - IDE (Integrated Development Environment)
     - [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
