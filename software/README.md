@@ -2,8 +2,9 @@
 
 ## Free access or discounts
 
-- [Student Developer Pack – GitHub Education](https://education.github.com/pack) — *"give students free access to the best developer tools in one place so they can learn by doing."*
+- [JetBrains for students](https://www.jetbrains.com/student/) — *"Free individual licenses for students and faculty members."* Includes: AppCode, CLion, DataGrip, dotCover, dotMemory, dotTrace, GoLand, IntelliJ IDEA Ultimate, PhpStorm, PyCharm, ReSharper, ReSharper C++, Rider, RubyMine, WebStorm.
 - [Packt Publishing – free programming ebooks and videos](https://www.packtpub.com/packt/offers/free-learning) — Daily offer of up-to-date, quality material.
+- [Student Developer Pack – GitHub Education](https://education.github.com/pack) — *"give students free access to the best developer tools in one place so they can learn by doing."*
 
 ---
 
