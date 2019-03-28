@@ -28,6 +28,8 @@ Good luck to all and may this path fulfill you, knowing that you will find suppo
 
 - Other resources
     - [Free software](software/README.md)
+    - [Online courses (free)](online_courses/free/README.md)
+    - [YouTube videos](youtube/README.md)
 
 ---
 
