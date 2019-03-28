@@ -7,11 +7,12 @@
 ## Artificial intelligence & machine learning
 
 ### First steps
-- [AI for everyone](https://www.coursera.org/learn/ai-for-everyone) — Coursera. Lecturer: Andrew Ng. Free audit.
+- [AI for everyone](https://www.coursera.org/learn/ai-for-everyone) — Coursera. Lecturer: Andrew Ng.
 
 ### Next steps
-- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/) — Coursera. offered by [deeplearning.ai](https://www.deeplearning.ai/). Free audit.
-- [Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model) — Coursera. Duke University. Free audit.
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) — Coursera. Offered by [deeplearning.ai](https://www.deeplearning.ai/).
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/) — Coursera. Offered by [deeplearning.ai](https://www.deeplearning.ai/).
+- [Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model) — Coursera. Duke University.
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) — Coursera. Offered by University of Washington.
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) — Coursera. Lecturer: Andrew Ng. Offered by Stanford.
 
@@ -26,5 +27,5 @@
 ---
 
 ## Learning strategies
-- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) — Coursera. McMaster University & University of California San Diego. Free audit.
-- [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift) — Coursera. McMaster University. Free audit.
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) — Coursera. McMaster University & University of California San Diego.
+- [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift) — Coursera. McMaster University.
