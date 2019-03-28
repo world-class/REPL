@@ -91,7 +91,7 @@
     - :star: [Inkscape](https://inkscape.org/) (Windows, MacOS, Linux)
     - Limited to split, merge, rotate, mix and extract
         - [Master PDF](https://code-industry.net/free-pdf-editor/) (Windows, MacOS, Linux)
-        - [PDF Shuffler](https://sourceforge.net/p/pdfshuffler/wiki/Home/) (Linux)
+        - :star: [PDF Shuffler](https://sourceforge.net/p/pdfshuffler/wiki/Home/) (Linux)
         - [PDFSAM Basic](https://pdfsam.org/download-pdfsam-basic/) (Windows, MacOS, Linux)
     - Online
         - [PDF2GO](https://www.pdf2go.com/) — Easy to use.
@@ -151,7 +151,7 @@
 
 - System utilities
     - :star: [Redshift](http://jonls.dk/redshift/) (Linux) — *Adjusts the color temperature of your screen according to your surroundings.*
-    - [f.lux](https://justgetflux.com/) (Windows, MacOS, Linux, iOS, Android) — *It makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.*
+    - :star: [f.lux](https://justgetflux.com/) (Windows, MacOS, Linux, iOS, Android) — *It makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.*
 
 - Text editors
     - [Comparison of text editors](https://en.wikipedia.org/wiki/Comparison_of_text_editors)
