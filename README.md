@@ -1,4 +1,6 @@
-# REPL — Resources Enriching Perennial Learners
+![Image](_images/repl.png)
+
+---
 
 A twist on the use of **REPL**, which stands for *read–eval–print loop* in computer programming. This repository aims to become a central place to share resources that other learners have found useful, especially in the context of studying computer science at the bachelor level.
 
