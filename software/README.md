@@ -122,6 +122,8 @@
     - Tasks and project management
         - :cloud: [Asana](https://asana.com/) — *Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business.*
         - :cloud: [ClickUp](https://clickup.com/) — *The productivity platform. Create. Plan. Organize. Everything.*
+        - :cloud: [Google Keep](https://keep.google.com/) — *Keep offers a variety of tools for taking notes, including text, lists, images, and audio.*
+        - :cloud: [meistertask](https://www.meistertask.com/) — *The most intuitive project and task management tool on the web.*
         - :cloud: [TickTick](https://ticktick.com) — *Capture ideas, organize to-dos, and make the most of your life.*
         - :cloud: [Todoist](https://todoist.com/) — *Todoist lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind along the way.*
         - :cloud: [Trello](https://trello.com/en) — *Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.*

@@ -37,9 +37,11 @@
 
 ## Linear algebra
 
-- [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (playlist) — 3Blue1Brown
-- [MIT 18.06 Linear Algebra (2005)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) (playlist) — MIT OpenCourseWare
-- [MIT 18.06SC Linear Algebra (2011)](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PL221E2BBF13BECF6C) (playlist) — MIT OpenCourseWare
+- Beginner
+    - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (playlist) — 3Blue1Brown
+- More advanced
+    - [MIT 18.06 Linear Algebra (2005)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) (playlist) — MIT OpenCourseWare
+    - [MIT 18.06SC Linear Algebra (2011)](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PL221E2BBF13BECF6C) (playlist) — MIT OpenCourseWare
 
 ## Probability
 
