@@ -19,9 +19,9 @@
 
 ## Differential equations
 
-    - [Differential equations (2006)](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980) (playlist) — MIT OpenCourseWare
-    - [Differential equations (2011)](https://www.youtube.com/watch?v=76WdBlGpxVw&list=PL64BDFBDA2AF24F7E) (playlist) — MIT OpenCourseWare
-    - [Differential equations (2016)](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) (playlist) — MIT OpenCourseWare
+- [Differential equations (2006)](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980) (playlist) — MIT OpenCourseWare
+- [Differential equations (2011)](https://www.youtube.com/watch?v=76WdBlGpxVw&list=PL64BDFBDA2AF24F7E) (playlist) — MIT OpenCourseWare
+- [Differential equations (2016)](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) (playlist) — MIT OpenCourseWare
 
 ## Calculus
 
