@@ -17,8 +17,15 @@ Good luck to all and may this path fulfill you, knowing that you will find suppo
 
 # Table of Resources :blue_book:
 
-1. [Modules in the curriculum](#modules-in-the-curriculum) (structure below)
-2. [Free software](software/README.md)
+- On this page
+    1. [Modules in the curriculum](#modules-in-the-curriculum)
+    2. [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
+    3. [Contacting each other](#contacting-each-other)
+
+---
+
+- Other resources
+    - [Free software](software/README.md)
 
 ---
 
@@ -67,3 +74,48 @@ Good luck to all and may this path fulfill you, knowing that you will find suppo
 
 ### Level 6 — Final project
 - [Final Project](modules/level_6/final_project) (CM3070-01)
+
+---
+
+## Documents and resources provided publicly by the University of London
+
+### Documents
+- [Code of conduct](https://london.ac.uk/sites/default/files/governance/Code-of-Conduct-Mar-2016.pdf)
+- [Data protection policy](https://london.ac.uk/sites/default/files/governance/data-protection-policy.pdf)
+- [Events Due Diligence Privacy Notice](https://london.ac.uk/sites/default/files/governance/Events-Due-Diligence-Privacy-Notice.pdf)
+- [GDPR Rights guide - students](https://london.ac.uk/sites/default/files/governance/gdpr-rights-guide-students.pdf)
+- [Guidelines for Examinations 2018–2019](https://london.ac.uk/sites/default/files/examiners/guidelines-for-examinations-2018-19.pdf)
+- [Programme Regulations 2018–2019](https://london.ac.uk/sites/default/files/regulations/progregs-llb-2018-19.pdf)
+- [Programme specification, Computer Science 2018-2019](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2018-19..pdf)
+- [Prospectus, Computer Science 2019-2020](https://london.ac.uk/sites/default/files/prospectuses/computer-science-prospectus-2019-20.pdf)
+- [Quick Start Guide - The Online Library](https://onlinelibrary.london.ac.uk/sites/default/files/files/quick-start-guide/academic-search-quick-start.pdf)
+- [Student privacy notice](https://london.ac.uk/sites/default/files/governance/Student-Privacy-Notice-UoL-April-2018-Final.pdf)
+
+### Webpages of interest
+
+- Exams
+    - [Examinations](https://london.ac.uk/current-students/examinations)
+    - [How assessment works](https://london.ac.uk/applications/how-it-works/how-assessment-works)
+- [Funding your study](https://london.ac.uk/applications/funding-your-study)
+- [Main page of the BSc Computer Science](https://london.ac.uk/courses/computer-science)
+    - [Structure of the degree](https://london.ac.uk/computer-science-structure)
+- [Portal](https://my.london.ac.uk/)
+- Specialisms
+    - [Data Science](https://london.ac.uk/courses/computer-science-data-science)
+    - [Games Development](https://london.ac.uk/courses/computer-science-games)
+    - [Machine Learning and Artificial Intelligence](https://london.ac.uk/courses/computer-science-machine-learning-and-ai)
+    - [Physical Computing and the Internet of things](https://london.ac.uk/courses/bsc-computer-science-physical-computing)
+    - [User Experience](https://london.ac.uk/courses/computer-science-user-experience)
+    - [Virtual Reality](https://london.ac.uk/courses/computer-science-virtual-reality)
+    - [Web and Mobile Development](https://london.ac.uk/courses/computer-science-web-and-mobile-development)
+
+---
+
+## Contacting each other
+
+- [Contact page of UoL](https://london.ac.uk/contact-us)
+    - [General enquiries](https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&category=UOL) (non-student → students should ask in [the portal](https://my.london.ac.uk/))
+    - [Student Advice Center](https://london.kb.help/)
+- [Discord channel](https://discord.gg/4S5A8h)
+- [Slack channel](https://londoncs.slack.com/)
+
