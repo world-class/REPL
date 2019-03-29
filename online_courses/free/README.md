@@ -1,4 +1,16 @@
-# Online courses (free)
+# Table of contents
+
+<!-- vim-markdown-toc GFM -->
+
+* [Artificial intelligence & machine learning](#artificial-intelligence--machine-learning)
+    * [First steps](#first-steps)
+    * [Next steps](#next-steps)
+* [Computer science](#computer-science)
+* [Learning strategies](#learning-strategies)
+
+<!-- vim-markdown-toc -->
+
+---
 
 - [Top 50 Free Online Courses of All Time](https://www.classcentral.com/collection/top-free-online-courses) on Class Central.
 

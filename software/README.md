@@ -1,3 +1,15 @@
+# Table of contents
+
+<!-- vim-markdown-toc GFM -->
+
+* [Free Software](#free-software)
+    * [Free access or discounts](#free-access-or-discounts)
+    * [Free software](#free-software-1)
+
+<!-- vim-markdown-toc -->
+
+---
+
 # Free Software
 
 ## Free access or discounts

@@ -1,3 +1,29 @@
+# Table of contents
+
+<!-- vim-markdown-toc GFM -->
+
+* [Artificial intelligence](#artificial-intelligence)
+* [Computer Science](#computer-science)
+* [Mathematics](#mathematics)
+    * [Differential equations](#differential-equations)
+    * [Calculus](#calculus)
+    * [Linear algebra](#linear-algebra)
+    * [Probability](#probability)
+* [Programming](#programming)
+    * [C](#c)
+    * [C++](#c-1)
+    * [JavaScript](#javascript)
+    * [- Node.js Crash Course — Traversy Media](#--nodejs-crash-course--traversy-media)
+    * [Python](#python)
+    * [SQL](#sql)
+    * [Web development](#web-development)
+        * [CSS](#css)
+* [Study skills](#study-skills)
+
+<!-- vim-markdown-toc -->
+
+---
+
 # Artificial intelligence
 
 - [MIT 6.034 Artificial intelligence](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) (playlist) — MIT OpenCourseWare
@@ -30,6 +56,8 @@
 - One step beyond
     - [Highlights of Calculus](https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318) (playlist) — MIT OpenCourseWare
 - More advanced
+    - [Calculus Blue — All about Calculus](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg/playlists) (**big** playlists) — Prof Ghrist Math
+    - [Calculus Single Variable](https://www.youtube.com/watch?v=nqDVJFlahpU&list=PLKc2XOQp0dMwj9zAXD5LlWpriIXIrGaNb) (playlist) — Penn Online Learning
     - [MIT Calculus Revisited: Calculus of Complex Variables](https://www.youtube.com/watch?v=BOx8LRyr8mU&list=PLD971E94905A70448) (playlist) — MIT OpenCourseWare
     - [MIT Calculus Revisited: Multivariable Calculus](https://www.youtube.com/watch?v=wsOoClvZmic&list=PL1C22D4DED943EF7B) (playlist) — MIT OpenCourseWare
     - [MIT Calculus Revisited: Single Variable Calculus](https://www.youtube.com/watch?v=MFRWDuduuSw&list=PL3B08AE665AB9002A) (playlist) — MIT OpenCourseWare
@@ -122,3 +150,9 @@
 
 ### CSS
 - [Bootstrap Grid - CSS Grids Series](https://www.youtube.com/watch?v=Dwzw3hzYcNU&list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw) (playlist) — DevTips
+
+---
+
+# Study skills
+
+- [CrashCourse Study Skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W) (playlist) — CrashCourse
