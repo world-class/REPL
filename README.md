@@ -122,6 +122,9 @@ Good luck to all and may this path fulfill you, knowing that you will find suppo
     - [Student Advice Center](https://london.kb.help/)
 - [Discord channel](https://discord.gg/4S5A8h)
 - [Slack channel](https://londoncs.slack.com/)
+- [Zoom](https://zoom.us/) (video conferencing used on Coursera)
+
+More options for video conferencing on [this page](/software).
 
 <!-- Prepare contributors section
 
