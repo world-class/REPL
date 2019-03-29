@@ -63,22 +63,15 @@ Good luck to all and may this path fulfill you, knowing that you will find suppo
 
 ---
 
-### Level 6 (year 3+)
-- [Databases and Advanced Data Techniques](modules/level_6/databases_and_advanced_data_techniques) (CM3010-01)
-- [Machine Learning and Neural Networks](modules/level_6/machine_learning_and_neural_networks) (CM3015-01)
-- [Artificial Intelligence](modules/level_6/artificial_intelligence) (CM3020-01)
-- [Natural Language Processing](modules/level_6/natural_language_processing) (CM3060-01)
-- [Intelligent Signal Processing](modules/level_6/intelligent_signal_processing) (CM3065-01)
-
-### Level 6 — Optional courses (year 3+)
+### Level 6 — Specialisms (year 3+)
+Each specialism contains five modules. All five must be completed along with one elective module from any other specialism. In the case of no specialism, six electives from any of the specialisms are chosen. A final project must also be completed to graduate.
 - [Data Science](modules/level_6/data_science) (CM3005-01)
+- [Machine Learning & Artificial Intelligence](modules/level_6/ml_ai)
+- [User Experience](modules/level_6/user_experience) (CM3055-01)
+- [Web & Mobile Development](modules/level_6/web_mobile_dev) (CM3035-01)
+- [Physical Computing & the Internet of Things](modules/level_6/phys_computing_iot) (CM3040-01)
+- [Games Development](modules/level_6/games_dev) (CM3030-01)
 - [Virtual Reality](modules/level_6/virtual_reality) (CM3025-01)
-- [Games Development](modules/level_6/games_development) (CM3030-01)
-- [Advanced Web Development](modules/level_6/advanced_web_development) (CM3035-01)
-- [Physical Computing and the Internet of Things](modules/level_6/physical_computing_and_the_internet_of_things) (CM3040-01)
-- [3D Graphics and Animation](modules/level_6/3d_graphics_and_animation) (CM3045-01)
-- [Mobile Development](modules/level_6/mobile_development) (CM3050-01)
-- [Interaction Design](modules/level_6/interaction_design) (CM3055-01)
 
 ### Level 6 — Final project
 - [Final Project](modules/level_6/final_project) (CM3070-01)
