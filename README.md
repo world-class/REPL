@@ -123,3 +123,12 @@ Good luck to all and may this path fulfill you, knowing that you will find suppo
 - [Discord channel](https://discord.gg/4S5A8h)
 - [Slack channel](https://londoncs.slack.com/)
 
+<!-- Prepare contributors section
+
+---
+
+## Contributors
+
+- Sébastien Lavoie ([@sglavoie](https://github.com/sglavoie))
+
+-->

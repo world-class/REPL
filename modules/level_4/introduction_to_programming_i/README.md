@@ -15,7 +15,7 @@
 
 ## JavaScript
 
-- More resources on YouTube on [this page](https://github.com/sglavoie/REPL/tree/master/youtube).
+- More resources on YouTube on [this page](https://github.com/world-class/REPL/tree/master/youtube).
 
 ### p5.js — JavaScript library
 
