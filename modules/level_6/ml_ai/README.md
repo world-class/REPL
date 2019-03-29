@@ -1,14 +1,4 @@
-# *Data Science* specialism modules
-
-### Data Science
-This module will develop your data science skillset so
-that you’ll be able to write programs that can read,
-process and analyse textual and numerical data.
-You will be able to generate plots and interactive
-visualisations of data and understand how to
-apply statistical methods to the interpretation of results. You’ll be able to use data analysis in
-the decision-making process. You’ll also learn
-about application domains for data science.
+# *Machine Learning and Artificial Intelligence* specialism modules
 
 ### Databases and Advanced Data Techniques
 This module aims to show you how to work with
@@ -34,20 +24,26 @@ and optimised. You’ll learn how to develop
 machine learning systems rapidly, and you will
 learn how to verify and evaluate the results.
 
-### Advanced Web Development
-Advanced Web Development teaches you how
-to build dynamic, data-driven websites using
-databases, front-end frameworks and server-side
-programming. You’ll develop the skills needed for
-full stack web development work and develop
-a web developer skillset, enabling you to build
-and deploy complete, data-driven websites.
-You’ll consider different technologies for clientside web development such as HTML, CSS,
-JavaScript and templates. You’ll explore methods
-for developing server-side web applications,
-by building web-accessible wrappers around
-databases, consider scalability issues and learn
-about web app configuration and deployment.
+### Artificial Intelligence
+Focusing on Artificial Intelligence (AI) techniques,
+you will learn the historical development of AI
+including search, vision and planning. You will
+become familiar with the foundations of agent-based approaches to software design, decision
+making and problem solving including under
+uncertainty. You will have an opportunity to
+apply AI techniques to particular problems
+such as game playing and decision making.
+
+### Intelligent Signal Processing
+Studying Intelligent Signal Processing will provide
+a broad experience of digital signal processing
+techniques and applications. You will study how
+programs can capture and process audio and
+video signals. You’ll learn about time domain and
+frequency domain representations and processing
+and how you can extract information from audio
+signals. You’ll implement movement and face
+detection systems that work with live camera input.
 
 ### Natural Language Processing
 Natural Language Processing (NLP) provides

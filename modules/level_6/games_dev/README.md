@@ -1,4 +1,14 @@
-# *Virtual Reality* specialism modules
+# *Games Development* specialism modules
+
+### Artificial Intelligence
+Focusing on Artificial Intelligence (AI) techniques,
+you will learn the historical development of AI
+including search, vision and planning. You will
+become familiar with the foundations of agent-based approaches to software design, decision
+making and problem solving including under
+uncertainty. You will have an opportunity to
+apply AI techniques to particular problems
+such as game playing and decision making.
 
 ### Virtual Reality
 The Virtual Reality (VR) module combines the
@@ -51,20 +61,6 @@ simulation of physics and shader programming.
 You’ll study a range of examples and learn
 how to program graphics in contemporary
 graphical software for different applications.
-
-### Mobile Development
-The Mobile Development module aims to give you
-the fundamental understanding and skills needed
-to develop mobile applications. By studying this
-module, you will learn the principles of effective
-mobile user interface design and how to design
-and build user interfaces. You’ll learn about datadriven mobile apps, and how you can integrate
-an app with a data source. You’ll learn about the mobile development ecosystem and how to
-develop, run and test your applications. You’ll
-work with various sensors available on mobile
-devices using built-in application programming
-interfaces. The style of the module is practical,
-focusing on developing working apps.
 
 ### Interaction Design
 In this module, you’ll examine the notion of

@@ -1,4 +1,12 @@
 # Introduction to Programming I
+This module focuses on basic programming
+techniques. You’ll learn how to use the fundamental
+elements of computer programming such as
+variables, conditionals, functions and loops. You’ll
+learn how to create interactive, graphical computer
+programs. You will also be introduced to basic
+object-oriented programming techniques.
+
 # Table of contents
 
 <!-- vim-markdown-toc GFM -->
