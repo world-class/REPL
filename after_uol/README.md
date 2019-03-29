@@ -50,7 +50,6 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 - [University of California, San Diego: Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 - [University of California, San Diego: Data Science](https://www.edx.org/micromasters/data-science)
 
-
 ---
 
 ### Specializations
