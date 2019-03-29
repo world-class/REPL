@@ -2,18 +2,31 @@
 
 ---
 
-A twist on the use of **REPL**, which stands for *read–eval–print loop* in computer programming. This repository aims to become a central place to share resources that other learners have found useful, especially in the context of studying computer science at the bachelor level.
+A twist on the use of **REPL**, which stands for *read–eval–print
+loop* in computer programming. This repository aims to become a central
+place to share resources that other learners have found useful,
+especially in the context of studying computer science at the bachelor
+level.
 
 
 ## The Learning Hub for UoL's Online CS Students :school:
 
-As the first cohort of students enrolling in the 100% online [BSc Computer Science offered by Goldsmiths, University of London](https://london.ac.uk/courses/computer-science), it is in our interest to cooperate in order to maximize our chances of celebrating all together when we graduate.
+As the first cohort of students enrolling in the 100% online
+[BSc Computer Science offered by Goldsmiths, University of London](https://london.ac.uk/courses/computer-science), 
+it is in our interest to cooperate in order to maximize our chances of
+celebrating all together when we graduate.
 
-Good luck to all and may this path fulfill you, knowing that you will find support along the way!
+Good luck to all and may this path fulfill you, knowing that you will
+find support along the way!
 
 ### Important note before we go :exclamation:
 
-**This is not a place where you'll find prohibited content, such as leaked confidential information and copyrighted material. Anything that could potentially fall under the [regulations of the University of London](https://london.ac.uk/current-students/programme-documents/regulations) will be removed if it appears by accident and you are welcome to report it. :+1:**
+**This is not a place where you'll find prohibited content, such as
+leaked confidential information and copyrighted material. Anything that
+could potentially fall under the
+[regulations of the University of London](https://london.ac.uk/current-students/programme-documents/regulations)
+will be removed if it appears by accident and you are welcome to report
+it. :+1:**
 
 ---
 
@@ -64,7 +77,10 @@ Good luck to all and may this path fulfill you, knowing that you will find suppo
 ---
 
 ### Level 6 — Specialisms (year 3+)
-Each specialism contains five modules. All five must be completed along with one elective module from any other specialism. In the case of no specialism, six electives from any of the specialisms are chosen. A final project must also be completed to graduate.
+Each specialism contains five modules. All five must be completed along
+with one elective module from any other specialism. In the case of no
+specialism, six electives from any of the specialisms are chosen. A
+final project must also be completed to graduate.
 - [Data Science](modules/level_6/data_science) (CM3005-01)
 - [Machine Learning & Artificial Intelligence](modules/level_6/ml_ai)
 - [User Experience](modules/level_6/user_experience) (CM3055-01)
@@ -123,12 +139,10 @@ Each specialism contains five modules. All five must be completed along with one
 
 More options for video conferencing on [this page](/software).
 
-<!-- Prepare contributors section
-
 ---
 
 ## Contributors
 
+- Aleksandar Milosevic ([@amilos](https://github.com/amilos))
+- Spencer Eick ([@eicksl](https://github.com/eicksl))
 - Sébastien Lavoie ([@sglavoie](https://github.com/sglavoie))
-
--->
