@@ -3,8 +3,10 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Mathematics](#mathematics)
+    * [Beginner topics](#beginner-topics)
     * [Calculus](#calculus)
     * [Linear Algebra](#linear-algebra)
+    * [Online tools](#online-tools)
 * [Programming](#programming)
     * [Julia](#julia)
     * [Python](#python)
@@ -14,6 +16,12 @@
 ---
 
 # Mathematics
+
+## Beginner topics
+
+- [Khan Academy](https://www.khanacademy.org/) — Brush up on arithmetic, algebra, geometry, trigonometry, statistics & probability, calculus, differential equations, linear algebra.
+
+---
 
 ## Calculus
 
@@ -25,6 +33,14 @@
 
 - Problem sets
     - [PDF] [Exercises and Problems in Linear Algebra, Portland State University](https://web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf), Version July 13, 2014
+
+---
+
+## Online tools
+
+- [Desmos](https://www.desmos.com/) — *"Graph functions, plot data, evaluate equations, explore transformations, and much more – for free!"*
+- [Symbolab](https://www.symbolab.com/) — *"Symbolab: equation search and math solver - solves algebra, trigonometry and calculus problems step by step."* **(:heavy_dollar_sign: requires subscription for all features)**
+- [Wolfram|Alpha](https://www.wolframalpha.com/) — *"Wolfram|Alpha is a computational knowledge engine or answer engine."* **(:heavy_dollar_sign: requires subscription for all features)**
 
 ---
 
