@@ -93,7 +93,7 @@ Good luck to all and may this path fulfill you, knowing that you will find suppo
 - [Events Due Diligence Privacy Notice](https://london.ac.uk/sites/default/files/governance/Events-Due-Diligence-Privacy-Notice.pdf)
 - [GDPR Rights guide - students](https://london.ac.uk/sites/default/files/governance/gdpr-rights-guide-students.pdf)
 - [Guidelines for Examinations 2018–2019](https://london.ac.uk/sites/default/files/examiners/guidelines-for-examinations-2018-19.pdf)
-- [Programme Regulations 2018–2019](https://london.ac.uk/sites/default/files/regulations/progregs-llb-2018-19.pdf)
+- [Programme Regulations 2018–2019](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2018-19.pdf)
 - [Programme specification, Computer Science 2018-2019](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2018-19..pdf)
 - [Prospectus, Computer Science 2019-2020](https://london.ac.uk/sites/default/files/prospectuses/computer-science-prospectus-2019-20.pdf)
 - [Quick Start Guide - The Online Library](https://onlinelibrary.london.ac.uk/sites/default/files/files/quick-start-guide/academic-search-quick-start.pdf)
