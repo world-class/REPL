@@ -4,6 +4,10 @@
 
 * [Artificial intelligence](#artificial-intelligence)
 * [Computer Science](#computer-science)
+* [Graphic design](#graphic-design)
+    * [3D creation](#3d-creation)
+    * [Raster graphics (JPEG, PNG, GIF, TIFF, BMP, PSD, PSB, etc.)](#raster-graphics-jpeg-png-gif-tiff-bmp-psd-psb-etc)
+    * [Vector graphics, 2D (SVG, CGM, AI, CDR, ODG, XPS, DXF, etc.)](#vector-graphics-2d-svg-cgm-ai-cdr-odg-xps-dxf-etc)
 * [Mathematics](#mathematics)
     * [Differential equations](#differential-equations)
     * [Calculus](#calculus)
@@ -22,35 +26,55 @@
 
 <!-- vim-markdown-toc -->
 
+**Note:**
+- When software is used, [open source software](https://en.wikipedia.org/wiki/Open-source_software) is denoted with a :star:.
+
 ---
 
 # Artificial intelligence
-
 - [MIT 6.034 Artificial intelligence](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) (playlist) — MIT OpenCourseWare
 
 ---
 
 # Computer Science
-
 - [Advanced data structures](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) (playlist) — MIT OpenCourseWare
 - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) — MIT OpenCourseWare
 
 ---
 
-# Mathematics
+# Graphic design
 
+## 3D creation
+- :star: [Blender Guru Tutorials](https://www.youtube.com/user/AndrewPPrice/playlists) (playlists) — Blender Guru
+
+---
+
+## Raster graphics (JPEG, PNG, GIF, TIFF, BMP, PSD, PSB, etc.)
+- :heavy_dollar_sign: [Photoshop Tutorials](https://www.youtube.com/user/NewWorldOps) — Photoshop Tutorials
+- :star: [Tutorials with GIMP](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) — Logos By Nick
+
+---
+
+## Vector graphics, 2D (SVG, CGM, AI, CDR, ODG, XPS, DXF, etc.)
+- :heavy_dollar_sign: [Logo design in Adobe Illustrator](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw/) — Mohamed Achraf
+- :star: [Tutorials with Inkscape](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) — Logos By Nick
+
+---
+
+# Mathematics
 - [Mathematics for Computer Science (2010)](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B) (playlist) — MIT OpenCourseWare
 - [Mathematics for Computer Science (2015)](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ) (playlist) — MIT OpenCourseWare
 
+---
 
 ## Differential equations
-
 - [Differential equations (2006)](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980) (playlist) — MIT OpenCourseWare
 - [Differential equations (2011)](https://www.youtube.com/watch?v=76WdBlGpxVw&list=PL64BDFBDA2AF24F7E) (playlist) — MIT OpenCourseWare
 - [Differential equations (2016)](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) (playlist) — MIT OpenCourseWare
 
-## Calculus
+---
 
+## Calculus
 - Beginner
     - [Essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) (playlist) — 3Blue1Brown
 - One step beyond
@@ -62,17 +86,18 @@
     - [MIT Calculus Revisited: Multivariable Calculus](https://www.youtube.com/watch?v=wsOoClvZmic&list=PL1C22D4DED943EF7B) (playlist) — MIT OpenCourseWare
     - [MIT Calculus Revisited: Single Variable Calculus](https://www.youtube.com/watch?v=MFRWDuduuSw&list=PL3B08AE665AB9002A) (playlist) — MIT OpenCourseWare
 
+---
 
 ## Linear algebra
-
 - Beginner
     - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (playlist) — 3Blue1Brown
 - More advanced
     - [MIT 18.06 Linear Algebra (2005)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) (playlist) — MIT OpenCourseWare
     - [MIT 18.06SC Linear Algebra (2011)](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PL221E2BBF13BECF6C) (playlist) — MIT OpenCourseWare
 
-## Probability
+---
 
+## Probability
 - [Introduction to probability](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) (playlist) — MIT OpenCourseWare
 - [MIT 6.041SC Probabilistic Systems Analysis and Applied Probability (2010)](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe) (playlist) — MIT OpenCourseWare
 - [Probabilistic Systems Analysis and Applied Probability (2011)](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) (playlist) — MIT OpenCourseWare
@@ -102,6 +127,7 @@
 - Beginner
     - Short
         - [JavaScript Tutorial for Beginners: Learn JavaScript Basics in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) — Programming with Mosh
+        - [p5.js – The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) — Channel from Daniel Shiffman, a board member of `p5.js`.
     - Longer
         - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) — Traversy Media
         - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) — freeCodeCamp.org
