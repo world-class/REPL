@@ -1,4 +1,4 @@
-![Image](_images/repl.png)
+<img src="https://raw.githubusercontent.com/world-class/REPL/master/_images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
 
 ---
 
