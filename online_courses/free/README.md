@@ -4,14 +4,17 @@
 
 * [Artificial intelligence & machine learning](#artificial-intelligence--machine-learning)
     * [First steps](#first-steps)
+    * [Deep learning](#deep-learning)
+    * [Machine learning](#machine-learning)
     * [Next steps](#next-steps)
-    * [Next steps: complementary topics](#next-steps-complementary-topics)
+        * [Complementary topics](#complementary-topics)
 * [Computer science](#computer-science)
     * [Algorithms](#algorithms)
     * [Blockchain technology](#blockchain-technology)
     * [Cloud computing](#cloud-computing)
     * [Security](#security)
 * [Learning strategies](#learning-strategies)
+* [Linux](#linux)
 
 <!-- vim-markdown-toc -->
 
@@ -26,15 +29,19 @@
 ### First steps
 - [AI for everyone](https://www.coursera.org/learn/ai-for-everyone) — Coursera. Lecturer: Andrew Ng.
 
-### Next steps
+### Deep learning
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) — Coursera. Offered by [deeplearning.ai](https://www.deeplearning.ai/).
-- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/) — Coursera. Offered by [deeplearning.ai](https://www.deeplearning.ai/).
-- [Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model) — Coursera. Duke University.
+- [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) — by TensorFlow, on Udacity. *"Learn how to build deep learning applications with TensorFlow."*
+
+### Machine learning
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) — Coursera. Lecturer: Andrew Ng. Offered by Stanford.
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) — Coursera. Offered by University of Washington.
 
-### Next steps: complementary topics
+### Next steps
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/) — Coursera. Offered by [deeplearning.ai](https://www.deeplearning.ai/).
+- [Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model) — Coursera. Duke University.
 
+#### Complementary topics
 - [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars) — Coursera. Offered by University of Toronto.
 
 ---
@@ -66,3 +73,9 @@
 ## Learning strategies
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) — Coursera. McMaster University & University of California San Diego.
 - [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift) — Coursera. McMaster University.
+
+---
+
+## Linux
+
+- [Introduction to Linux](https://www.edx.org/course/introduction-to-linux) — edX. *"Develop a good working knowledge of Linux using both the graphical interface and command line, covering the major Linux distribution families."*
