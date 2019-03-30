@@ -11,7 +11,11 @@
     * [Free software](#free-software-1)
         * [2D animation](#2d-animation)
         * [3D animation](#3d-animation)
+        * [3D prototyping](#3d-prototyping)
         * [Audio](#audio)
+            * [Players](#players)
+            * [Production](#production)
+            * [Recording & Editing](#recording--editing)
         * [Burning CDs/DVDs](#burning-cdsdvds)
         * [Data compression — sending bunch of files and reducing their size](#data-compression--sending-bunch-of-files-and-reducing-their-size)
         * [Desktop publishing](#desktop-publishing)
@@ -38,7 +42,7 @@
             * [More advanced](#more-advanced)
         * [System utilities](#system-utilities)
         * [Text editors](#text-editors)
-            * [Beginner friendly:](#beginner-friendly-1)
+            * [Beginner friendly](#beginner-friendly-1)
         * [UX/UI design](#uxui-design)
         * [Version control system](#version-control-system)
         * [Video communication](#video-communication)
@@ -87,13 +91,21 @@
 ### 3D animation
 - :star: [Blender](https://www.blender.org/)
 
+### 3D prototyping
+- :star: [MakeHuman](http://www.makehumancommunity.org/) — *"Makehuman is a free and open source 3D computer graphics software middleware designed for the prototyping of photo realistic humanoids."* ([from Wikipedia](https://en.wikipedia.org/wiki/MakeHuman))
+
 ### Audio
 - :star: [Comparison of free software for audio](https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio)
-- Players
-    - :star: [Amarok](https://amarok.kde.org/) (Windows, MacOS, Linux)
-    - :star: [Clementine](https://www.clementine-player.org/) (Windows, MacOS, Linux)
-- Recording & Editing
-    - :star: [Audacity](https://www.audacityteam.org/) (Windows, MacOS, Linux)
+
+#### Players
+- :star: [Amarok](https://amarok.kde.org/) (Windows, MacOS, Linux)
+- :star: [Clementine](https://www.clementine-player.org/) (Windows, MacOS, Linux)
+
+#### Production
+- :heavy_dollar_sign: [REAPER](https://www.reaper.fm) **(60 days free trial, US$60 for personal license)** (Windows, MacOS, Linux\*) — *"REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset."* (\* experimental)
+
+#### Recording & Editing
+- :star: [Audacity](https://www.audacityteam.org/) (Windows, MacOS, Linux)
 
 ### Burning CDs/DVDs
 - :star: [List of free software](https://en.wikipedia.org/wiki/Category:Free_optical_disc_authoring_software)
@@ -219,7 +231,7 @@
 ### Text editors
 - [Comparison of text editors](https://en.wikipedia.org/wiki/Comparison_of_text_editors)
 
-#### Beginner friendly:
+#### Beginner friendly
 - :star: [Atom](https://atom.io/)
 - :star: [Brackets](http://brackets.io/)
 - :star: [Visual Studio Code](https://code.visualstudio.com/)
