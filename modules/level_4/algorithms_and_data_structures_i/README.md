@@ -1,3 +1,5 @@
+[Go back to the main page](https://world-class.github.io/REPL/)
+
 # Algorithms and Data Structures I
 This module will help you to develop your analytical and problem-solving
 skills. It will encourage you to think about how to use computers to
