@@ -3,7 +3,9 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Free Software](#free-software)
-    * [Free access or discounts](#free-access-or-discounts)
+    * [Discounts](#discounts)
+    * [Free access](#free-access)
+        * [Mixed: Discounts & Free](#mixed-discounts--free)
     * [Free software](#free-software-1)
         * [2D animation](#2d-animation)
         * [3D animation](#3d-animation)
@@ -35,6 +37,7 @@
         * [System utilities](#system-utilities)
         * [Text editors](#text-editors)
             * [Beginner friendly:](#beginner-friendly-1)
+        * [UX/UI design](#uxui-design)
         * [Version control system](#version-control-system)
         * [Video communication](#video-communication)
         * [Video conversion](#video-conversion)
@@ -49,10 +52,14 @@
 
 # Free Software
 
-## Free access or discounts
+## Discounts
+- [Spotify](https://www.spotify.com/student/) — 50% off for students.
 
+## Free access
 - [JetBrains for students](https://www.jetbrains.com/student/) — *"Free individual licenses for students and faculty members."* Includes: AppCode, CLion, DataGrip, dotCover, dotMemory, dotTrace, GoLand, IntelliJ IDEA Ultimate, PhpStorm, PyCharm, ReSharper, ReSharper C++, Rider, RubyMine, WebStorm.
 - [Packt Publishing – free programming ebooks and videos](https://www.packtpub.com/packt/offers/free-learning) — Daily offer of up-to-date, quality material.
+
+### Mixed: Discounts & Free
 - [Student Developer Pack – GitHub Education](https://education.github.com/pack) — *"give students free access to the best developer tools in one place so they can learn by doing."*
 
 ---
@@ -214,6 +221,9 @@
 - :star: [Atom](https://atom.io/)
 - :star: [Brackets](http://brackets.io/)
 - :star: [Visual Studio Code](https://code.visualstudio.com/)
+
+### UX/UI design
+- [Figma](https://www.figma.com/) — *"A better way to design. Design, prototype, and gather feedback all in one place."* **(free for individuals, with limitations)**
 
 ### Version control system
 - [Free version control software](https://en.wikipedia.org/wiki/Category:Free_version_control_software)
