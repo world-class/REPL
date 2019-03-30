@@ -133,7 +133,7 @@ final project must also be completed to graduate.
 - [Contact page of UoL](https://london.ac.uk/contact-us)
     - [General enquiries](https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&category=UOL) (non-student → students should ask in [the portal](https://my.london.ac.uk/))
     - [Student Advice Center](https://london.kb.help/)
-- [Discord channel](https://discord.gg/YEt2f7E)
+- Discord channel (choose one of the following, it is the same channel): [Invitation link #1](https://discord.gg/Hyxse35), [Invitation link #2](https://discord.gg/YEt2f7E)
 - [Slack channel](https://londoncs.slack.com/)
 - [Zoom](https://zoom.us/) (video conferencing used on Coursera)
 

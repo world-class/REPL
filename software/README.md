@@ -223,7 +223,7 @@
 - :star: [Visual Studio Code](https://code.visualstudio.com/)
 
 ### UX/UI design
-- [Figma](https://www.figma.com/) — *"A better way to design. Design, prototype, and gather feedback all in one place."* **(free for individuals, with limitations)**
+- :cloud: [Figma](https://www.figma.com/) — *"A better way to design. Design, prototype, and gather feedback all in one place."* **(free for individuals, with limitations)**
 
 ### Version control system
 - [Free version control software](https://en.wikipedia.org/wiki/Category:Free_version_control_software)
