@@ -55,7 +55,7 @@
 ## Online tools
 - [Desmos](https://www.desmos.com/) — *"Graph functions, plot data, evaluate equations, explore transformations, and much more – for free!"*
 - [Symbolab](https://www.symbolab.com/) — *"Symbolab: equation search and math solver - solves algebra, trigonometry and calculus problems step by step."* **(:heavy_dollar_sign: requires subscription for all features)**
-- [Wolfram|Alpha](https://www.wolframalpha.com/) — *"Wolfram|Alpha is a computational knowledge engine or answer engine."* **(:heavy_dollar_sign: requires subscription for all features)**
+- [Wolfram Alpha](https://www.wolframalpha.com/) — *"Wolfram Alpha is a computational knowledge engine or answer engine."* **(:heavy_dollar_sign: requires subscription for all features)**
 
 ## Statistics
 - [Learn How To Put Statistics To Work](http://www.learner.org/courses/againstallodds/) — Annenberg Learner.

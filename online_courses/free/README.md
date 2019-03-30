@@ -71,12 +71,12 @@
     - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
 
 ### Blockchain technology
-- [Blockchain Revolution for the Enterprise Specialization](https://www.coursera.org/specializations/blockchain-revolution-enterprise) — Coursera. Offered by The Business School for the World | INSEAD. Includes:
+- [Blockchain Revolution for the Enterprise Specialization](https://www.coursera.org/specializations/blockchain-revolution-enterprise) — Coursera. Offered by The Business School for the World INSEAD. Includes:
     - Introduction to Blockchain Technologies
     - Transacting on the Blockchain
     - Blockchain and Business: Applications and Implications
     - Blockchain Opportunity Analysis
-- [Introduction to Blockchain Technologies](https://www.coursera.org/learn/introduction-blockchain-technologies) — Coursera. Offered by The Business School for the World | INSEAD.
+- [Introduction to Blockchain Technologies](https://www.coursera.org/learn/introduction-blockchain-technologies) — Coursera. Offered by The Business School for the World INSEAD.
 - [Supply Chain Finance and Blockchain Technology Specialization](https://www.coursera.org/specializations/supply-chain-finance-and-blockchain-technology) — Coursera. Offered by New York Institute of Finance. Includes:
     - Introduction to Supply Chain Finance & Blockchain Technology
     - Key Success Factors in Supply Chain Finance

@@ -216,8 +216,8 @@ Dan Colman
         - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) — Traversy Media
         - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) — freeCodeCamp.org
     - Very long
-        - [JavaScript ES6 Tutorial | JavaScript from Basic to Advanced | Build Real World Applications Part 1](https://www.youtube.com/watch?v=wbJWUWJWlaY) — Code Geek
-        - [JavaScript ES6 Tutorial | JavaScript from Basic to Advanced | Build Real World Applications Part 2](https://www.youtube.com/watch?v=t8P6FELv71A) — Code Geek
+        - [JavaScript ES6 Tutorial - JavaScript from Basic to Advanced - Build Real World Applications Part 1](https://www.youtube.com/watch?v=wbJWUWJWlaY) — Code Geek
+        - [JavaScript ES6 Tutorial - JavaScript from Basic to Advanced - Build Real World Applications Part 2](https://www.youtube.com/watch?v=t8P6FELv71A) — Code Geek
 
 - More advanced
     - [ECMAScript 6 / ES6 New Features](https://www.youtube.com/watch?v=ZJZfIw3P8No&list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt) — thenewboston
@@ -235,7 +235,7 @@ Dan Colman
     - Longer
         - [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) — freeCodeCamp.org
     - Very long
-        - [Python Tutorial for Beginners | Full Python Programming Course](https://www.youtube.com/watch?v=_uQrJ0TkZlc) — Programming with Mosh
+        - [Python Tutorial for Beginners - Full Python Programming Course](https://www.youtube.com/watch?v=_uQrJ0TkZlc) — Programming with Mosh
 
 - More advanced
     - Machine learning & deep learning
