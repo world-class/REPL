@@ -51,6 +51,7 @@
         * [Video player](#video-player)
         * [Virtualization (running other operating system without installation)](#virtualization-running-other-operating-system-without-installation)
         * [Web browsers](#web-browsers)
+            * [Especially useful for web development](#especially-useful-for-web-development)
 
 <!-- vim-markdown-toc -->
 
@@ -128,10 +129,12 @@
 
 ### IDE (Integrated Development Environment)
 - [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
-- :star: [Eclipse](https://eclipse.org/) (for C, C++, Java, Perl, PHP, Python, Ruby and more)
-- :star: [Netbeans](https://netbeans.org/) (for C, C++, C++11, Fortan, HTML 5, Java, PHP and more)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) (for AngularJS, CoffeeScript, CS, HTML, JavaScript, LESS, Node JS, PHP, Python, Ruby, Sass, TypeScript and more)
-- [PyCharm](https://www.jetbrains.com/pycharm/) (for Python)
+- :star: [Eclipse](https://eclipse.org/) — C, C++, Java, Perl, PHP, Python, Ruby and more. (Windows, MacOS, Linux)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) — AngularJS, CoffeeScript, CS, HTML, JavaScript, LESS, Node JS, PHP, Python, Ruby, Sass, TypeScript and more. (Windows, MacOS, Linux)
+- :star: [Netbeans](https://netbeans.org/) — C, C++, C++11, Fortan, HTML 5, Java, PHP and more. (Works with Java)
+- [PyCharm](https://www.jetbrains.com/pycharm/) — Python. (Windows, MacOS, Linux)
+- :star: [Visual Studio Code](https://code.visualstudio.com/) — C, C#, CSS, D, F#, Go, Java, JavaScript, Lua, Markdown, PHP, Python, R, Ruby, SQL, Swift, TypeScript and more. (Windows, MacOS, Linux)
+- [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) — C#, Visual Basic, F#, C++, HTML, JavaScript, TypeScript, Python, and more. (Windows, MacOS)
 
 ### Image processing
 - :star: [GIMP](https://www.gimp.org/) – Free equivalent to Photoshop
@@ -233,7 +236,7 @@
 
 #### Beginner friendly
 - :star: [Atom](https://atom.io/)
-- :star: [Brackets](http://brackets.io/)
+- :star: [Brackets](http://brackets.io/) — Used in module [Introduction to Programming I](../modules/level_4/introduction_to_programming_i/).
 - :star: [Visual Studio Code](https://code.visualstudio.com/)
 
 ### UX/UI design
@@ -270,8 +273,9 @@
 
 ### Web browsers
 - :star: [List of free web browsers](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages#Web_browsers)
-- Especially useful for web development:
-    - :star: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (works on all major operating systems)
-    - [Google Chrome](https://www.google.com/chrome/) (works on all major operating systems)
-    - [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (**Windows** preferred)
-    - [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser)) (**MacOS** preferred)
+
+#### Especially useful for web development
+- :star: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (works on all major operating systems)
+- [Google Chrome](https://www.google.com/chrome/) (works on all major operating systems)
+- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (**Windows** preferred)
+- [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser)) (**MacOS** preferred)

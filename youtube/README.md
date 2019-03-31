@@ -38,7 +38,6 @@
     * [C](#c)
     * [C++](#c-1)
     * [JavaScript](#javascript)
-    * [- Node.js Crash Course — Traversy Media](#--nodejs-crash-course--traversy-media)
     * [Python](#python)
     * [SQL](#sql)
     * [Web development](#web-development)
@@ -51,7 +50,6 @@
 **Note:**
 - When software is used, [open source software](https://en.wikipedia.org/wiki/Open-source_software) is denoted with a :star:.
 
----
 
 # Artificial intelligence
 - [IIT Madras - Artificial Intelligence](https://www.youtube.com/playlist?list=PLbMVogVj5nJQu5qwm-HmJgjmeGhsErvXD) (playlist) — NPTEL
@@ -68,7 +66,6 @@ Dan Colman
 ## Robotics
 - [Introduction to Robotics](https://www.youtube.com/view_play_list?p=65CC0384A1798ADF&search_query=Artificial+Intelligence++Introduction+to+Robotics) (playlist) — Stanford
 
----
 
 # Computer science
 - [UC Berkeley CS10 Beauty and Joy of Computing Fa10 (1080p HD)](https://www.youtube.com/playlist?list=PLECBD29A17AAF6EF9) (playlist) — Dan Garcia
@@ -92,33 +89,28 @@ Dan Colman
 - [CS50 Beyond 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381Q6R1jRxgXknYO7VuTYPBI) (playlist) — CS50. About HTML, CSS, Git, GitHub, Python, Flask, Object-Oriented Programming, AI, JavaScript, ORMs, APIs, React, security, scalability.
 - [CS50 2018](https://www.youtube.com/watch?v=5azaK2cBKGw&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) (playlist) — CS50 (Harvard's Introductory Computer Science Course). About C, arrays, memory, data structures, HTTP, HTML, CSS, Python, Web programming, SQL.
 
----
 
 # Cryptocurrencies
 
 ## Bitcoin
 - [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/playlist?list=PLqn29N3j3wMgdsN42AABVkc8KbjFtd_GI) (playlist) — Matteo Scappini
 
----
 
 # Graphic design
 
 ## 3D creation
 - :star: [Blender Guru Tutorials](https://www.youtube.com/user/AndrewPPrice/playlists) (playlists) — Blender Guru
 
----
 
 ## Raster graphics (JPEG, PNG, GIF, TIFF, BMP, PSD, PSB, etc.)
 - :heavy_dollar_sign: [Photoshop Tutorials](https://www.youtube.com/user/NewWorldOps) — Photoshop Tutorials
 - :star: [Tutorials with GIMP](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) — Logos By Nick
 
----
 
 ## Vector graphics, 2D (SVG, CGM, AI, CDR, ODG, XPS, DXF, etc.)
 - :heavy_dollar_sign: [Logo design in Adobe Illustrator](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw/) — Mohamed Achraf
 - :star: [Tutorials with Inkscape](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) — Logos By Nick
 
----
 
 # Mathematics
 - [Computer Science - Riemann Hypothesis and its Applications](https://www.youtube.com/playlist?list=PLbMVogVj5nJRaBWHpgPX04ndIF2rloGUC) (playlist) — NPTEL
@@ -185,28 +177,24 @@ Dan Colman
 ## Trigonometry
 - [Rational Trigonometry--- N J Wildberger](https://www.youtube.com/watch?v=GGj399xIssQ&list=PLD6BAC8FA4287A3DD) (playlist) — njwildberger
 
----
 
 # Programming
 
 ## Android
 - [CSSE490: Android Development (Winter 10-11)](https://www.youtube.com/playlist?list=PLBK7yyieyrAYdpaF5Vh1th9EoM49VLFEs) (playlist) — Rose-Hulman Online
 
----
 
 ## C
 - Beginner
     - Long
         - [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) — freeCodeCamp.org
 
----
 
 ## C++
 - Beginner
     - Long
         - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) — freeCodeCamp.org
 
----
 
 ## JavaScript
 - Beginner
@@ -223,7 +211,6 @@ Dan Colman
 - More advanced
     - [ECMAScript 6 / ES6 New Features](https://www.youtube.com/watch?v=ZJZfIw3P8No&list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt) — thenewboston
     - [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) — Traversy Media
----
 
 ## Python
 - Beginner
@@ -244,14 +231,12 @@ Dan Colman
     - Web development with Python
         - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
----
 
 ## SQL
 - Beginner
     - Short
         - [SQL Computer Science](https://www.youtube.com/watch?v=nWyyDHhTxYU&list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt) (playlist) — Socratica
 
----
 
 ## Web development
 - [Web Development Tutorial For Beginners](https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G) — LearnCode.academy
@@ -260,12 +245,10 @@ Dan Colman
 ### CSS
 - [Bootstrap Grid - CSS Grids Series](https://www.youtube.com/watch?v=Dwzw3hzYcNU&list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw) (playlist) — DevTips
 
----
 
 # Study skills
 - [CrashCourse Study Skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W) (playlist) — CrashCourse
 
----
 
 # Virtual reality
 - [CS - Virtual Reality](https://www.youtube.com/playlist?list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh) (playlist) — NPTEL
