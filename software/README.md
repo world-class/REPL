@@ -200,14 +200,14 @@
 - :cloud: [meistertask](https://www.meistertask.com/) — *The most intuitive project and task management tool on the web.*
 - :cloud: [TickTick](https://ticktick.com) — *Capture ideas, organize to-dos, and make the most of your life.*
 - :cloud: [Todoist](https://todoist.com/) — *Todoist lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind along the way.*
-- :cloud: [Trello](https://trello.com/en) — *Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.*
+- :cloud: [Trello](https://trello.com/en) — *Trello's boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.*
 #### Writing assistants
 - :cloud: [Grammarly](https://www.grammarly.com/) — *From grammar and spelling to style and tone, Grammarly helps you eliminate errors and find the perfect words to express yourself.*
 
 ### Programming tools
 #### Python
 ##### Data science
-- [Anaconda distribution](https://www.anaconda.com/) (Windows, MacOS, Linux) — *The World’s Most Popular Python Data Science Distribution*
+- [Anaconda distribution](https://www.anaconda.com/) (Windows, MacOS, Linux) — *The World's Most Popular Python Data Science Distribution*
 
 ### RSS/Atom readers/aggregators — Keeping on top of news
 - :star: [List of free readers](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages#RSS/Atom_readers/aggregators)

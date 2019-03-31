@@ -80,4 +80,4 @@
 ---
 
 # Startups
-- [Notes Essays—Peter Thiel’s CS183: Startup—Stanford, Spring 2012](http://blakemasters.com/peter-thiels-cs183-startup) — There is a book available from those notes: [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2I6AlDJ).
+- [Notes Essays—Peter Thiel's CS183: Startup—Stanford, Spring 2012](http://blakemasters.com/peter-thiels-cs183-startup) — There is a book available from those notes: [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2I6AlDJ).
