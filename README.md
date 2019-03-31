@@ -28,8 +28,6 @@ could potentially fall under the
 will be removed if it appears by accident and you are welcome to report
 it. :+1:**
 
----
-
 # Table of Resources :blue_book:
 
 - On this page
@@ -37,7 +35,6 @@ it. :+1:**
     2. [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
     3. [Contacting each other](#contacting-each-other)
 
----
 
 - Other resources
     - [Free software](software/README.md)
@@ -48,7 +45,6 @@ it. :+1:**
 - Resources for later
     - [Study options after the BSc in Computer Science](after_uol/README.md)
 
----
 
 ## Modules in the curriculum
 
@@ -62,7 +58,6 @@ it. :+1:**
 - [Numerical Mathematics](modules/level_4/numerical_mathematics) (CM1015-01)
 - [Web Development](modules/level_4/web_development) (CM1040-01)
 
----
 
 ### Level 5 (year 2+)
 - [Object Oriented Programming](modules/level_5/object_oriented_programming) (CM2005-01)
@@ -74,7 +69,6 @@ it. :+1:**
 - [Algorithms and Data Structures II](modules/level_5/algorithms_and_data_structures_ii) (CM2035-01)
 - [Databases, Networks and the Web](modules/level_5/databases_networks_and_the_web) (CM2040-01)
 
----
 
 ### Level 6 — Specialisms (year 3+)
 Each specialism contains five modules. All five must be completed along
@@ -92,7 +86,6 @@ final project must also be completed to graduate.
 ### Level 6 — Final project
 - [Final Project](modules/level_6/final_project) (CM3070-01)
 
----
 
 ## Documents and resources provided publicly by the University of London
 
@@ -126,7 +119,6 @@ final project must also be completed to graduate.
     - [Virtual Reality](https://london.ac.uk/courses/computer-science-virtual-reality)
     - [Web and Mobile Development](https://london.ac.uk/courses/computer-science-web-and-mobile-development)
 
----
 
 ## Contacting each other
 
@@ -139,7 +131,6 @@ final project must also be completed to graduate.
 
 More options for video conferencing on [this page](/software).
 
----
 
 ## Contributors
 
