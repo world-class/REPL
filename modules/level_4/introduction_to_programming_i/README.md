@@ -16,17 +16,17 @@ object-oriented programming techniques.
 * [Programming resources](#programming-resources)
     * [JavaScript](#javascript)
         * [p5.js — JavaScript library](#p5js--javascript-library)
+    * [Text editor](#text-editor)
 
 <!-- vim-markdown-toc -->
-
----
 
 # Programming resources
 
 ## JavaScript
-
-- More resources on YouTube on [this page](https://github.com/world-class/REPL/tree/master/youtube).
+More resources on YouTube on [this page](https://github.com/world-class/REPL/tree/master/youtube).
 
 ### p5.js — JavaScript library
-
 - [The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) — Channel from Daniel Shiffman, a board member of `p5.js`.
+
+## Text editor
+The recommended text editor for this module is [Brackets](http://brackets.io/). More options available on the [free software page](../../../software/).
