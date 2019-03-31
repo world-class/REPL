@@ -7,6 +7,9 @@
 * [Artificial intelligence](#artificial-intelligence)
     * [Machine learning](#machine-learning)
 * [Computer science](#computer-science)
+    * [Algorithms](#algorithms)
+    * [Articles](#articles)
+    * [Free ebooks](#free-ebooks)
 * [Mathematics](#mathematics)
     * [Beginner topics](#beginner-topics)
     * [Calculus](#calculus)
@@ -18,18 +21,17 @@
         * [Swift](#swift)
     * [Julia](#julia)
     * [Python](#python)
+    * [Questions and answers](#questions-and-answers)
 * [Startups](#startups)
 
 <!-- vim-markdown-toc -->
 
----
 
 # Artificial intelligence
 ## Machine learning
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) — Google. — *"Google's fast-paced, practical introduction to machine learning."*
 - [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) — University of Oxford.
 
----
 
 # Computer science
 - [Computer Science 162, 001 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDrt_oPWfQ4-fjHm2KSSOPq) — UC Berkeley.
@@ -38,7 +40,16 @@
 - [Computer Science 61B, 001 - Fall 2014](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDVox3OKFhF4LxMHqpi2GS2) — UC Berkeley.
 - [Understanding Computers and the Internet](http://computerscience1.tv/2011/spring/) — Harvard Extension School. About hardware, Internet, multimedia, security, website development, programming.
 
----
+## Algorithms
+- [Algorithms in the "Real World" (2018)](http://www.cs.cmu.edu/~guyb/realworld.html) — Compression, error correcting codes, cryptography, parallel algorithms, locality and I/O efficient algorithms, indexing and searching, nearest neighbors, dimensionality reduction.
+- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/) — *"This is a dictionary of algorithms, algorithmic techniques, data structures, archetypal problems, and related definitions."*
+- [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/)
+
+## Articles
+- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+
+## Free ebooks
+- [IT eBooks](http://it-ebooks.info/)
 
 # Mathematics
 - [Mathematics 16A, 002 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk) — UC Berkeley.
@@ -63,7 +74,6 @@
 - [Learn How To Put Statistics To Work](http://www.learner.org/courses/againstallodds/) — Annenberg Learner.
 - [Statistics 20, 003 - Fall 2010](https://archive.org/details/ucberkeley-webcast-PLFCCED623A3AB020F) — UC Berkeley.
 
----
 
 # Programming
 
@@ -77,7 +87,8 @@
 ## Python
 - [Quantitative Economics with Python](https://lectures.quantecon.org/py/) — Great reference for scientific libraries, working with data, advanced Python concepts, dynamic programming.
 
----
+## Questions and answers
+- [Stack Overflow](https://stackoverflow.com/) — *"Stack Overflow is a question and answer site for professional and enthusiast programmers."* ([from Wikipedia](https://en.wikipedia.org/wiki/Stack_Overflow)
 
 # Startups
 - [Notes Essays—Peter Thiel's CS183: Startup—Stanford, Spring 2012](http://blakemasters.com/peter-thiels-cs183-startup) — There is a book available from those notes: [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2I6AlDJ).

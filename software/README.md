@@ -16,18 +16,26 @@
             * [Players](#players)
             * [Production](#production)
             * [Recording & Editing](#recording--editing)
+        * [Automation](#automation)
         * [Burning CDs/DVDs](#burning-cdsdvds)
+        * [Code snippets savers](#code-snippets-savers)
         * [Data compression — sending bunch of files and reducing their size](#data-compression--sending-bunch-of-files-and-reducing-their-size)
+        * [Data converter](#data-converter)
+        * [Data storage & syncronization](#data-storage--syncronization)
         * [Desktop publishing](#desktop-publishing)
         * [Ebook readers](#ebook-readers)
+        * [Format checker & validator](#format-checker--validator)
+        * [FTP](#ftp)
         * [Graphics software](#graphics-software)
         * [IDE (Integrated Development Environment)](#ide-integrated-development-environment)
         * [Image processing](#image-processing)
+        * [Learning environment](#learning-environment)
         * [Mathematical tools](#mathematical-tools)
         * [Office suite](#office-suite)
         * [Password manager](#password-manager)
         * [PDF editors](#pdf-editors)
         * [PDF viewers](#pdf-viewers)
+        * [Presentation sharing](#presentation-sharing)
         * [Productivity](#productivity)
             * [Managing documents](#managing-documents)
             * [Note taking](#note-taking)
@@ -52,6 +60,8 @@
         * [Virtualization (running other operating system without installation)](#virtualization-running-other-operating-system-without-installation)
         * [Web browsers](#web-browsers)
             * [Especially useful for web development](#especially-useful-for-web-development)
+        * [Website annotation](#website-annotation)
+        * [Website testing](#website-testing)
 
 <!-- vim-markdown-toc -->
 
@@ -108,11 +118,26 @@
 #### Recording & Editing
 - :star: [Audacity](https://www.audacityteam.org/) (Windows, MacOS, Linux)
 
+### Automation
+- [IFTTT](https://ifttt.com/) — *"If This Then That, also known as IFTTT is a free web-based service to create chains of simple conditional statements, called applets."* ([from Wikipedia](https://en.wikipedia.org/wiki/IFTTT))
+
 ### Burning CDs/DVDs
 - :star: [List of free software](https://en.wikipedia.org/wiki/Category:Free_optical_disc_authoring_software)
 
+### Code snippets savers
+- :cloud: [Gist](https://gist.github.com/) (from GitHub) — *"Instantly share code, notes, and snippets."*
+- :cloud: [Ideone](https://ideone.com/) — *"Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages."*
+
 ### Data compression — sending bunch of files and reducing their size
 - :star: [Free data compression software](https://en.wikipedia.org/wiki/Category:Free_data_compression_software)
+
+### Data converter
+- :cloud: [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/) — *"I will convert your Excel data into one of several web-friendly formats, including HTML, JSON and XML."*
+
+### Data storage & syncronization
+- :cloud: [Dropbox](https://www.dropbox.com/) (Windows, MacOS, Linux) — **2GB Free**. *"Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software."* ([from Wikipedia](https://en.wikipedia.org/wiki/Dropbox_%28service%29)
+- :cloud: [Google Drive](https://www.google.com/drive/) (Windows, MacOS, officially) — **15GB Free**. *"Google Drive is a file storage and synchronization service developed by Google. [...] Google Drive allows users to store files on their servers, synchronize files across devices, and share files."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Drive))
+- :cloud: [pCloud](https://www.pcloud.com/) (Windows, MacOS, Linux) — **10GB Free**. *"pCloud is the secure cloud storage, where you can store, share and work on all your files. You can access them on any device, anywhere you go!"*
 
 ### Desktop publishing
 - :star: [Scribus](https://www.scribus.net/) (Windows, MacOS, Linux) — *One of the premier Open Source desktop applications.*
@@ -121,6 +146,12 @@
 - :star: [Calibre](https://calibre-ebook.com/) (Windows, MacOS, Linux)
 - [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) (Windows, MacOS, Android, iOS)
 - :cloud: [Kindle Cloud Reader](https://read.amazon.com/) (Windows, MacOS, Linux)
+
+### Format checker & validator
+- :cloud: [JSONLint](https://jsonlint.com/) — *"JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format. Copy and paste, directly type, or input a URL in the editor above and let JSONLint tidy and validate your messy JSON code."*
+
+### FTP
+- :cloud: [net2ftp](http://net2ftp.com/) — *"net2ftp is a web based FTP client. It is mainly aimed at managing websites using a browser."*
 
 ### Graphics software
 - :star: [List of free graphics software](https://en.wikipedia.org/wiki/Category:Free_graphics_software)
@@ -140,6 +171,9 @@
 - :star: [GIMP](https://www.gimp.org/) – Free equivalent to Photoshop
 - :star: [Inkscape](https://inkscape.org/) – Vector graphics editor
 - :star: [Krita](https://krita.org/en/) – Digital painting and sketching application
+
+### Learning environment
+- :cloud: [GoConqr](https://www.goconqr.com/) — *"GoConqr is a personal learning environment that allows students & teachers to create, discover and share learning resources. Goconqr includes study tools to create Mind Maps, Flashcards, Notes and Quizzes."*
 
 ### Mathematical tools
 - :star: [Free plotting software](https://en.wikipedia.org/wiki/Category:Free_plotting_software)
@@ -188,19 +222,28 @@
     - :star: [Okular](https://okular.kde.org/) (KDE)
     - :star: [CUPS](https://www.cups.org/)
 
+### Presentation sharing
+- [SlideShare](https://www.slideshare.net/) — *"Share what you know and love through presentations, infographics, documents and more."*
+
 ### Productivity
 #### Managing documents
 - :cloud: [Google Docs](https://www.google.com/docs/about/) — *Web-based app designed to store, create, and edit spreadsheets and documents online.*
+
 #### Note taking
-- :cloud: [Evernote](https://evernote.com/) — *Evernote helps you capture and prioritize ideas, projects, and to-do lists, so nothing falls through the cracks.*
+- :cloud: [Evernote](https://evernote.com/) — *"Evernote is a mobile app designed for note taking, organizing, task lists, and archiving.*" ([from Wikipedia](https://en.wikipedia.org/wiki/Evernote))
+
 #### Tasks and project management
 - :cloud: [Asana](https://asana.com/) — *Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business.*
 - :cloud: [ClickUp](https://clickup.com/) — *The productivity platform. Create. Plan. Organize. Everything.*
 - :cloud: [Google Keep](https://keep.google.com/) — *Keep offers a variety of tools for taking notes, including text, lists, images, and audio.*
 - :cloud: [meistertask](https://www.meistertask.com/) — *The most intuitive project and task management tool on the web.*
+- :cloud: [Pearltrees](https://www.pearltrees.com/) — *"Pearltrees refers to itself as "a place for your interests". Functionally the product is a visual and collaborative curation tool that allows users to organize, explore and share any URL they find online as well as to upload personal photos, files and notes."* ([from Wikipedia](https://en.wikipedia.org/wiki/Pearltrees)
+- :cloud: [Pocket](https://getpocket.com/) — *"Pocket, previously known as Read It Later, is an application and web service for managing a reading list of articles from the Internet."* ([from Wikipedia](https://en.wikipedia.org/wiki/Pocket_%28service%29))
 - :cloud: [TickTick](https://ticktick.com) — *Capture ideas, organize to-dos, and make the most of your life.*
 - :cloud: [Todoist](https://todoist.com/) — *Todoist lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind along the way.*
 - :cloud: [Trello](https://trello.com/en) — *Trello's boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.*
+- :cloud: [Wunderlist](https://www.wunderlist.com/) — *"Whether you’re planning a holiday, sharing a shopping list with a partner or managing multiple work projects, Wunderlist is here to help you tick off all your personal and professional to-dos."*
+
 #### Writing assistants
 - :cloud: [Grammarly](https://www.grammarly.com/) — *From grammar and spelling to style and tone, Grammarly helps you eliminate errors and find the perfect words to express yourself.*
 - :star: [UMLet](https://www.umlet.com/) — *UMLet is a UML tool aimed at providing a fast way of creating UML diagrams. UML elements are modified using text input instead of pop-up dialogs.* 
@@ -246,12 +289,13 @@
 
 ### Version control system
 - [Free version control software](https://en.wikipedia.org/wiki/Category:Free_version_control_software)
-- :star: [Git](https://git-scm.com/)
+- :star: [Git](https://git-scm.com/) — *"Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files."* ([from Wikipedia](https://en.wikipedia.org/wiki/Git))
+- [Perforce (Helix Core)](https://www.perforce.com/) — *"[...] software used for application development, including version control software, web-based repository management, developer collaboration, application lifecycle management and Agile planning software."* ([from Wikipedia](https://en.wikipedia.org/wiki/Perforce))
 
 ### Video communication
 - [Appear.in](https://appear.in/) — *"Easy video meetings for your business."*
 - [Facebook Live](https://live.fb.com/) — *"A fun, powerful way to connect with your followers and create new ones along the way.*"
-- [Google Hangouts](https://hangouts.google.com/) — *"Messaging, Voice and Video Calls."*
+- [Google Hangouts](http://www.google.com/hangouts/) — *"Google Hangouts is a communication platform developed by Google which includes messaging, video chat, and VOIP features."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Hangouts)
 - [Skype](https://www.skype.com/) — *"[...] specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches via the Internet. Skype also provides instant messaging services. Users may transmit text, video, audio and images. Skype allows video conference calls."* [(from Wikipedia)](https://en.wikipedia.org/wiki/Skype)
 - [Slack calls](https://slack.com/) — *"With Slack Calls, you can make a voice or video call with any member of your workspace."*
 - [Zoom](https://zoom.us/) — *"[...] remote conferencing services using cloud computing. Zoom offers communications software that combines video conferencing, online meetings, chat, and mobile collaboration."* [(from Wikipedia)](https://en.wikipedia.org/wiki/Zoom_Video_Communications)
@@ -281,3 +325,10 @@
 - [Google Chrome](https://www.google.com/chrome/) (works on all major operating systems)
 - [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (**Windows** preferred)
 - [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser)) (**MacOS** preferred)
+
+### Website annotation
+- [Bounce](https://www.bounceapp.com/) — *"A little app from ZURB that lets people add feedback to any interface and toss that back and forth with other people."*
+
+### Website testing
+- [CodePen](https://codepen.io/) — *"CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them.*" ([from Wikipedia](https://en.wikipedia.org/wiki/CodePen))
+- [JSFiddle](https://jsfiddle.net/) — *"JSFiddle is an online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets, known as 'fiddles'. It allows for simulated AJAX calls."* ([from Wikipedia](https://en.wikipedia.org/wiki/JSFiddle))
