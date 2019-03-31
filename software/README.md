@@ -203,6 +203,7 @@
 - :cloud: [Trello](https://trello.com/en) — *Trello's boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.*
 #### Writing assistants
 - :cloud: [Grammarly](https://www.grammarly.com/) — *From grammar and spelling to style and tone, Grammarly helps you eliminate errors and find the perfect words to express yourself.*
+- [UMLet](https://www.umlet.com/) - *UMLet is a UML tool aimed at providing a fast way of creating UML diagrams. UML elements are modified using text input instead of pop-up dialogs.* 
 
 ### Programming tools
 #### Python
