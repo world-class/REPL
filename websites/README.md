@@ -19,6 +19,7 @@
 * [Programming](#programming)
     * [iOS](#ios)
         * [Swift](#swift)
+    * [JavaScript](#javascript)
     * [Julia](#julia)
     * [Python](#python)
     * [Questions and answers](#questions-and-answers)
@@ -80,6 +81,9 @@
 ## iOS
 ### Swift
 - [Developing iOS 10 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120?ign-mpt=uo%3D8) — Stanford
+
+## JavaScript
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) — *"This is a series of books diving deep into the core mechanisms of the JavaScript language."*
 
 ## Julia
 - [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/) — Learning Julia, dynamic programming, many mathematical concepts.
