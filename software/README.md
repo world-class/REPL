@@ -52,6 +52,7 @@
         * [System utilities](#system-utilities)
         * [Text editors](#text-editors)
             * [Beginner friendly](#beginner-friendly-1)
+        * [Touch typing](#touch-typing)
         * [UX/UI design](#uxui-design)
         * [Version control system](#version-control-system)
         * [Video communication](#video-communication)
@@ -291,6 +292,9 @@
 - :star: [Atom](https://atom.io/)
 - :star: [Brackets](http://brackets.io/) — Used in module [Introduction to Programming I](../modules/level_4/introduction_to_programming_i/).
 - :star: [Visual Studio Code](https://code.visualstudio.com/)
+
+### Touch typing
+- [Typing.com](https://www.typing.com/) — Learn to type for free without looking at your keyboard.
 
 ### UX/UI design
 - :cloud: [Figma](https://www.figma.com/) — *"A better way to design. Design, prototype, and gather feedback all in one place."* **(free for individuals, with limitations)**
