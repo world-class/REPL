@@ -7,7 +7,9 @@
 
 * [Artificial intelligence](#artificial-intelligence)
     * [Deep learning](#deep-learning)
+    * [General learning](#general-learning)
     * [Machine learning](#machine-learning)
+    * [Research](#research)
     * [Robotics](#robotics)
 * [Computer science](#computer-science)
     * [Algorithms](#algorithms)
@@ -17,15 +19,18 @@
     * [Mixed topics](#mixed-topics)
 * [Cryptocurrencies](#cryptocurrencies)
     * [Bitcoin](#bitcoin)
+* [Engineering](#engineering)
 * [Graphic design](#graphic-design)
     * [3D creation](#3d-creation)
     * [Raster graphics (JPEG, PNG, GIF, TIFF, BMP, PSD, PSB, etc.)](#raster-graphics-jpeg-png-gif-tiff-bmp-psd-psb-etc)
     * [Vector graphics, 2D (SVG, CGM, AI, CDR, ODG, XPS, DXF, etc.)](#vector-graphics-2d-svg-cgm-ai-cdr-odg-xps-dxf-etc)
 * [Mathematics](#mathematics)
+    * [Beginner-oriented](#beginner-oriented)
     * [Calculus](#calculus)
     * [Complex analysis](#complex-analysis)
     * [Differential equations](#differential-equations)
     * [Discrete mathematics](#discrete-mathematics)
+* [General topics](#general-topics)
     * [Linear algebra](#linear-algebra)
     * [Numerical analysis](#numerical-analysis)
     * [Probability & statistics](#probability--statistics)
@@ -42,6 +47,7 @@
     * [SQL](#sql)
     * [Web development](#web-development)
         * [CSS](#css)
+* [Software engineering](#software-engineering)
 * [Study skills](#study-skills)
 * [Virtual reality](#virtual-reality)
 
@@ -59,15 +65,23 @@
 - [Deep Learning Oxford course](https://www.youtube.com/playlist?list=PLcmaziH9sW6PHBhsM_qgf52Ay6EVY8cWT) (playlist) - 
 Dan Colman
 
+## General learning
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/) - *"I'm on a warpath to inspire and educate developers to build Artificial Intelligence. Games, music, chatbots, art, I'll teach you how to make it all yourself."*
+
 ## Machine learning
 - [Machine Learning Course - CS 156](https://www.youtube.com/playlist?list=PLD63A284B7615313A) (playlist) - caltech
 - [Neural Networks for Machine Learning - Geoffrey Hinton 2016](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) (playlist) - Colin McDonnell
+
+## Research
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz/) - *"Awesome research for everyone."*
 
 ## Robotics
 - [Introduction to Robotics](https://www.youtube.com/view_play_list?p=65CC0384A1798ADF&search_query=Artificial+Intelligence++Introduction+to+Robotics) (playlist) - Stanford
 
 
 # Computer science
+- [CrashCourse Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) (playlist) - CrashCourse
+- [Computerphile](https://www.youtube.com/user/Computerphile/) - *"Videos all about computers and computer stuff. Sister channel of Numberphile."*
 - [UC Berkeley CS10 Beauty and Joy of Computing Fa10 (1080p HD)](https://www.youtube.com/playlist?list=PLECBD29A17AAF6EF9) (playlist) - Dan Garcia
 
 ## Algorithms
@@ -96,6 +110,10 @@ Dan Colman
 - [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/playlist?list=PLqn29N3j3wMgdsN42AABVkc8KbjFtd_GI) (playlist) - Matteo Scappini
 
 
+# Engineering
+- [CrashCourse Engineering](https://www.youtube.com/watch?v=ToC8rFFp88Y&list=PL8dPuuaLjXtO4A_tL6DLZRotxEb114cMR) (playlist) - CrashCourse
+
+
 # Graphic design
 
 ## 3D creation
@@ -116,6 +134,9 @@ Dan Colman
 - [Computer Science - Riemann Hypothesis and its Applications](https://www.youtube.com/playlist?list=PLbMVogVj5nJRaBWHpgPX04ndIF2rloGUC) (playlist) - NPTEL
 - [Mathematics for Computer Science (2010)](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B) (playlist) - MIT OpenCourseWare
 - [Mathematics for Computer Science (2015)](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ) (playlist) - MIT OpenCourseWare
+
+## Beginner-oriented
+- [Eddie Woo](https://www.youtube.com/user/misterwootube/) - Covers topics ranging from quadratic equations, graphing, functions, factorization, probability, trigonometry, series on finances, calculus, geometry, series & sequences, etc.
 
 ## Calculus
 - Beginner
@@ -143,6 +164,9 @@ Dan Colman
 ## Discrete mathematics
 - [Computer Sc - Discrete Mathematical Structures](https://www.youtube.com/view_play_list?p=0862D1A947252D20) (playlist) - Kamala Krithivasan
 
+# General topics
+- [Numberphile](https://www.youtube.com/user/numberphile/) - *"Videos about numbers - it's that simple."*
+
 ## Linear algebra
 - Beginner
     - [Essence of linear algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (playlist) - 3Blue1Brown
@@ -156,6 +180,7 @@ Dan Colman
 - [IIT Bombay – Elementary Numerical Analysis](https://www.youtube.com/playlist?list=PLbMVogVj5nJTtsC5V9n452YKc4mJAhrmm) (playlist) - NPTEL
 
 ## Probability & statistics
+- [CrashCourse Statistics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) (playlist) - CrashCourse
 - [Introduction to probability](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) (playlist) - MIT OpenCourseWare
 - [MIT 6.041SC Probabilistic Systems Analysis and Applied Probability (2010)](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe) (playlist) - MIT OpenCourseWare
 - [Probabilistic Systems Analysis and Applied Probability (2011)](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) (playlist) - MIT OpenCourseWare
@@ -244,6 +269,10 @@ Dan Colman
 
 ### CSS
 - [Bootstrap Grid - CSS Grids Series](https://www.youtube.com/watch?v=Dwzw3hzYcNU&list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw) (playlist) - DevTips
+
+
+# Software engineering
+- [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ) - *"I make fun and informative software engineering videos for a globally diverse audience on topics like JavaScript, Python, C, and Linux.*"
 
 
 # Study skills
