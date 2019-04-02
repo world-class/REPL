@@ -70,7 +70,7 @@ it. :+1:**
 - [Databases, Networks and the Web](modules/level_5/databases_networks_and_the_web) (CM2040-01)
 
 
-### Level 6 — Specialisms (year 3+)
+### Level 6 - Specialisms (year 3+)
 Each specialism contains five modules. All five must be completed along
 with one elective module from any other specialism. In the case of no
 specialism, six electives from any of the specialisms are chosen. A
@@ -83,7 +83,7 @@ final project must also be completed to graduate.
 - [Games Development](modules/level_6/games_dev) (CM3030-01)
 - [Virtual Reality](modules/level_6/virtual_reality) (CM3025-01)
 
-### Level 6 — Final project
+### Level 6 - Final project
 - [Final Project](modules/level_6/final_project) (CM3070-01)
 
 
@@ -138,3 +138,4 @@ More options for video conferencing on [this page](/software).
 - Chris Castelo ([@ChrisCastelo](https://github.com/ChrisCastelo))
 - Spencer Eick ([@eicksl](https://github.com/eicksl))
 - Sébastien Lavoie ([@sglavoie](https://github.com/sglavoie))
+- [@zubmic](https://github.com/zubmic)

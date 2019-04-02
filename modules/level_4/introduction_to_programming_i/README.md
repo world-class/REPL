@@ -13,7 +13,7 @@ introduced to basic object-oriented programming techniques.
 
 * [Programming resources](#programming-resources)
     * [JavaScript](#javascript)
-        * [p5.js — JavaScript library](#p5js--javascript-library)
+        * [p5.js - JavaScript library](#p5js--javascript-library)
     * [Sleuth assignments](#sleuth-assignments)
         * [Tips & Tricks](#tips--tricks)
     * [Text editor](#text-editor)
@@ -25,9 +25,9 @@ introduced to basic object-oriented programming techniques.
 More resources on YouTube on [this page](../../../youtube/).
 
 ## JavaScript
-### p5.js — JavaScript library
-- [p5.js](https://p5js.org/) — Official website to find [the reference guide](https://p5js.org/reference) and an [online editor](https://editor.p5js.org/) to practice. Next step: [p5.js libraries](https://p5js.org/libraries/).
-- [The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) — Channel from Daniel Shiffman, a board member of `p5.js`.
+### p5.js - JavaScript library
+- [p5.js](https://p5js.org/) - Official website to find [the reference guide](https://p5js.org/reference) and an [online editor](https://editor.p5js.org/) to practice. Next step: [p5.js libraries](https://p5js.org/libraries/).
+- [The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) - Channel from Daniel Shiffman, a board member of `p5.js`.
 
 ## Sleuth assignments
 ### Tips & Tricks
