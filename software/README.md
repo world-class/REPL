@@ -12,6 +12,7 @@
         * [2D animation](#2d-animation)
         * [3D animation](#3d-animation)
         * [3D prototyping](#3d-prototyping)
+	* [Antivirus](#antivirus)
         * [Audio](#audio)
             * [Players](#players)
             * [Production](#production)
@@ -106,6 +107,9 @@
 
 ### 3D prototyping
 - :star: [MakeHuman](http://www.makehumancommunity.org/) — *"Makehuman is a free and open source 3D computer graphics software middleware designed for the prototyping of photo realistic humanoids."* ([from Wikipedia](https://en.wikipedia.org/wiki/MakeHuman))
+
+### Antivirus
+- :star: [Clamav](https://www.clamav.net/) (Windows, Linux, MacOS, BSD, Solaris) - *"ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats."* ([from Clamav](https://www.clamav.net/))
 
 ### Audio
 - :star: [Comparison of free software for audio](https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio)
