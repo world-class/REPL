@@ -6,7 +6,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [Online options](#online-options)
+* [Study: Online options](#study-online-options)
     * [Doctor of Computer Science](#doctor-of-computer-science)
     * [Master's Degree](#masters-degree)
         * [Analytics](#analytics)
@@ -15,11 +15,13 @@
         * [Machine learning](#machine-learning)
     * [MicroMasters on edX](#micromasters-on-edx)
     * [Specializations on Coursera](#specializations-on-coursera)
+* [Work: Remote options](#work-remote-options)
+    * [Finding opportunities](#finding-opportunities)
+    * [Freelancing](#freelancing)
 
 <!-- vim-markdown-toc -->
 
-
-## Online options
+## Study: Online options
 _Note: All degrees are in Computer Science, unless specified otherwise._
 
 ### Doctor of Computer Science
@@ -70,3 +72,14 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 - [University of Illinois: Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [University of Illinois: Data Mining](https://www.coursera.org/specializations/data-mining)
 - [University of Maryland, College Park & University of Michigan: Survey Data Collection and Analytics](https://www.coursera.org/specializations/data-collection)
+
+## Work: Remote options
+### Finding opportunities
+- [Remote only](https://remoteonly.org/)
+- [Remote](https://remote.com/)
+- [We Work Remotely](https://weworkremotely.com/)
+
+### Freelancing
+- [Fiverr](https://www.fiverr.com/)
+- [Guru](https://www.guru.com/)
+- [Toptal](https://www.toptal.com/)
