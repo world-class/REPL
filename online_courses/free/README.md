@@ -19,9 +19,11 @@
 * [Git & GitHub](#git--github)
 * [Learning strategies](#learning-strategies)
 * [Linux](#linux)
+* [Mathematics](#mathematics)
 
 <!-- vim-markdown-toc -->
 
+---
 
 - [Top 50 Free Online Courses of All Time](https://www.classcentral.com/collection/top-free-online-courses) on Class Central.
 
@@ -120,5 +122,12 @@
 
 
 ## Linux
-
 - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux) - edX. *"Develop a good working knowledge of Linux using both the graphical interface and command line, covering the major Linux distribution families."*
+
+
+## Mathematics
+- [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics) - Coursera. *"This course introduces the Bayesian approach to statistics, starting with the concept of probability and moving to the analysis of data. We will learn about the philosophy of the Bayesian approach as well as how to implement it for common types of data. We will compare the Bayesian approach to the more commonly-taught Frequentist approach, and see some of the benefits of the Bayesian approach."*
+- [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) - Coursera. Includes:
+    - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+    - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
+    - [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)
