@@ -12,7 +12,7 @@
         * [2D animation](#2d-animation)
         * [3D animation](#3d-animation)
         * [3D prototyping](#3d-prototyping)
-	* [Antivirus](#antivirus)
+        * [Antivirus](#antivirus)
         * [Audio](#audio)
             * [Players](#players)
             * [Production](#production)
@@ -20,7 +20,7 @@
         * [Automation](#automation)
         * [Burning CDs/DVDs](#burning-cdsdvds)
         * [Code snippets savers](#code-snippets-savers)
-        * [Data compression - sending bunch of files and reducing their size](#data-compression--sending-bunch-of-files-and-reducing-their-size)
+        * [Data compression - sending bunch of files and reducing their size](#data-compression---sending-bunch-of-files-and-reducing-their-size)
         * [Data converter](#data-converter)
         * [Data storage & syncronization](#data-storage--syncronization)
         * [Desktop publishing](#desktop-publishing)
@@ -31,6 +31,10 @@
         * [Graphics software](#graphics-software)
         * [IDE (Integrated Development Environment)](#ide-integrated-development-environment)
         * [Image processing](#image-processing)
+        * [LaTeX](#latex)
+            * [Online editors](#online-editors)
+            * [Plugins](#plugins)
+            * [TeX editors](#tex-editors)
         * [Learning environment](#learning-environment)
         * [Mathematical tools](#mathematical-tools)
         * [Office suite](#office-suite)
@@ -46,7 +50,7 @@
         * [Programming tools](#programming-tools)
             * [Python](#python)
                 * [Data science](#data-science)
-        * [RSS/Atom readers/aggregators - Keeping on top of news](#rssatom-readersaggregators--keeping-on-top-of-news)
+        * [RSS/Atom readers/aggregators - Keeping on top of news](#rssatom-readersaggregators---keeping-on-top-of-news)
         * [Screen recorders](#screen-recorders)
             * [Beginner friendly](#beginner-friendly)
             * [More advanced](#more-advanced)
@@ -184,6 +188,19 @@
 - :star: [GIMP](https://www.gimp.org/) – Free equivalent to Photoshop
 - :star: [Inkscape](https://inkscape.org/) – Vector graphics editor
 - :star: [Krita](https://krita.org/en/) – Digital painting and sketching application
+
+### LaTeX
+#### Online editors
+- :cloud: [Overleaf](https://www.overleaf.com/) - *"The easy to use, online, collaborative LaTeX editor."*
+
+#### Plugins
+- [Vimtex](https://github.com/lervag/vimtex) - *"A modern vim plugin for editing LaTeX files."*
+
+#### TeX editors
+- :star: [Kile](https://kile.sourceforge.io/) (Windows, MacOS, Linux) - *"Kile is a TeX/LaTeX editor to edit TeX/LaTeX source code. It runs on Unix-like systems including Mac OS X and Linux, as well as Microsoft Windows via the KDE on Windows initiative, with the Qt and KDE libraries installed."*
+- :star: [LyX](https://www.lyx.org/) (Windows, MacOS, Linux) - *"LyX is an open source document processor based on the LaTeX typesetting system."* ([from Wikipedia](https://en.wikipedia.org/wiki/LyX))
+- :star: [Texmaker](http://www.xm1math.net/texmaker/) (Windows, MacOS, Linux) - *"Texmaker is a cross-platform open-source LaTeX editor with an integrated PDF viewer."* ([from Wikipedia](https://en.wikipedia.org/wiki/Texmaker))
+- :star: [TeXstudio](https://www.texstudio.org/) - *"TeXstudio is a cross-platform open-source LaTeX editor. Its features include an interactive spelling checker, code folding, and syntax highlighting."* ([from Wikipedia](https://en.wikipedia.org/wiki/TeXstudio))
 
 ### Learning environment
 - :cloud: [GoConqr](https://www.goconqr.com/) - *"GoConqr is a personal learning environment that allows students & teachers to create, discover and share learning resources. Goconqr includes study tools to create Mind Maps, Flashcards, Notes and Quizzes."*

@@ -10,6 +10,7 @@
     * [Algorithms](#algorithms)
     * [Articles](#articles)
     * [Free ebooks](#free-ebooks)
+* [LaTeX](#latex)
 * [Mathematics](#mathematics)
     * [Beginner topics](#beginner-topics)
     * [Calculus](#calculus)
@@ -51,6 +52,11 @@
 
 ## Free ebooks
 - [IT eBooks](http://it-ebooks.info/)
+
+# LaTeX
+- [Overleaf](https://www.overleaf.com/) - *"The easy to use, online, collaborative LaTeX editor."*
+- [Templates](http://www.latextemplates.com/) - *"The best source of free quality LaTeX templates."*
+- [Wikibook](https://en.wikibooks.org/wiki/LaTeX) - *"This is a guide to the LaTeX typesetting system. It is intended as a useful resource for everybody, from new users who wish to learn, to old hands who need a quick reference."*
 
 # Mathematics
 - [Mathematics 16A, 002 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk) - UC Berkeley.
