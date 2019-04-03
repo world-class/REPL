@@ -10,21 +10,21 @@
     * [Machine learning](#machine-learning)
     * [Next steps](#next-steps)
         * [Complementary topics](#complementary-topics)
+* [Command-line (terminal, shell)](#command-line-terminal-shell)
 * [Computer science](#computer-science)
     * [Algorithms](#algorithms)
     * [Blockchain technology](#blockchain-technology)
     * [Cloud computing](#cloud-computing)
     * [Security](#security)
+* [Git & GitHub](#git--github)
 * [Learning strategies](#learning-strategies)
 * [Linux](#linux)
 
 <!-- vim-markdown-toc -->
 
----
 
 - [Top 50 Free Online Courses of All Time](https://www.classcentral.com/collection/top-free-online-courses) on Class Central.
 
----
 
 ## Artificial intelligence & machine learning
 
@@ -59,7 +59,10 @@
     - Visual Perception for Self-Driving Cars
     - Motion Planning for Self-Driving Cars
 
----
+
+## Command-line (terminal, shell)
+- [Command Line Essentials: Git Bash for Windows](https://www.udemy.com/git-bash/) - Udemy. *"A step-by-step guide for Windows users unfamiliar with Bash or the terminal environment."*
+
 
 ## Computer science
 
@@ -102,13 +105,19 @@
 - [Security and Privacy for Big Data - Part 1](https://www.coursera.org/learn/security-privacy-big-data) - Coursera. Offered by Digital Academy.
 - [Security and Privacy for Big Data - Part 2](https://www.coursera.org/learn/security-privacy-big-data-protection) - Coursera. Offered by Digital Academy.
 
----
+
+## Git & GitHub
+- [Git Essential Training](https://www.linkedin.com/learning/git-essential-training) (_free with free trial_) - LinkedIn Learning. *"Using a step-by-step approach, author Kevin Skoglund presents the commands that enable efficient code management and reveals the fundamental concepts behind version control systems and the Git architecture. Discover how to track changes to files in a repository, review previous edits, and compare versions of a file; create branches to test new ideas without altering the main project; and merge those changes into the project if they work out.*"
+- [Git Started with GitHub](https://www.udemy.com/git-started-with-github/) - Udacity. *"This course is designed to jump right into showing how Git and GitHub work together, focusing on the Git basic workflow. Students can expect to learn the minimum needed to start using Git in about 30 minutes."*
+- [How to Use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) - Udacity. *"This course, built with input from GitHub, will introduce the basics of using version control by focusing on a particular version control system called Git and a collaboration platform called GitHub."*
+- [Short and Sweet: Get Started with Git and GitHub Right Now](https://www.udemy.com/short-and-sweet-get-started-with-git-and-github-right-now/) - Udemy. *"In just 30 minutes, this "Short and Sweet" course covers the essential ideas you need to move forward, without a lot of filler. At the end of the course, you'll be able to set up a GitHub account, install Git, create and configure new Git and GitHub repositories, create a change history for your software projects, and publish your software projects to GitHub."*
+- [The Ultimate GIT 5-day Challenge](https://www.udemy.com/the-ultimate-git-5-day-challenge/) - Udacity. *"A quick way to determine if working with GIT is something you want to learn more about. This course takes us step-by-step through some basic GIT operations. The course will not dive too deep, and takes small steps on each of five days. As we continue through the course, we learn a basic, single-person workflow that could allow anyone to store files at GitHub or BitBucket."*
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) - Coursera. *"In this course, you will not learn everything there is to know about Git, but you will build a strong conceptual understanding of the technology, and afterward will be able to confidently dig deeper on any topic that interests you."*
 
 ## Learning strategies
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) - Coursera. McMaster University & University of California San Diego.
 - [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift) - Coursera. McMaster University.
 
----
 
 ## Linux
 
