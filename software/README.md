@@ -24,7 +24,6 @@
         * [Data converter](#data-converter)
         * [Data storage & syncronization](#data-storage--syncronization)
         * [Desktop publishing](#desktop-publishing)
-        * [Disposable/temporary emails](#disposabletemporary-emails)
         * [Ebook readers](#ebook-readers)
         * [Format checker & validator](#format-checker--validator)
         * [FTP](#ftp)
@@ -151,13 +150,6 @@
 
 ### Desktop publishing
 - :star: [Scribus](https://www.scribus.net/) (Windows, MacOS, Linux) - *One of the premier Open Source desktop applications.*
-
-### Disposable/temporary emails
-*"Disposable email addressing, also known as DEA or dark mail, refers to an approach where a unique email address is used for every contact or entity. The benefit is that if anyone compromises the address or utilises it in connection with email abuse, the address owner can easily cancel (or "dispose" of) it without affecting any of their other contacts."* ([from Wikipedia](https://en.wikipedia.org/wiki/Disposable_email_address))
-- :cloud: [Spamgourmet](https://www.spamgourmet.com/) - Customize disposable emails on the fly.
-- :cloud: [Temp Mail Address](https://www.tempmailaddress.com/) - Get an email assigned live that will expire according to your needs.
-- :cloud: [Temp Mail](https://temp-mail.org/) - Automatically get assigned a temporary account where you can see in real time your emails coming in.
-- :cloud: [ThrowAwayMail](https://www.throwawaymail.com/) - Obtain a temporary email that's valid for 48 hours.
 
 ### Ebook readers
 - :star: [Calibre](https://calibre-ebook.com/) (Windows, MacOS, Linux)

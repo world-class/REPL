@@ -17,6 +17,8 @@
     * [Linear Algebra](#linear-algebra)
     * [Online tools](#online-tools)
     * [Statistics](#statistics)
+* [Online services](#online-services)
+    * [Disposable/temporary emails](#disposabletemporary-emails)
 * [Programming](#programming)
     * [Coding challenges](#coding-challenges)
     * [iOS](#ios)
@@ -83,8 +85,16 @@
 - [Statistics 20, 003 - Fall 2010](https://archive.org/details/ucberkeley-webcast-PLFCCED623A3AB020F) - UC Berkeley.
 
 
-# Programming
+# Online services
+## Disposable/temporary emails
+*"Disposable email addressing, also known as DEA or dark mail, refers to an approach where a unique email address is used for every contact or entity. The benefit is that if anyone compromises the address or utilises it in connection with email abuse, the address owner can easily cancel (or "dispose" of) it without affecting any of their other contacts."* ([from Wikipedia](https://en.wikipedia.org/wiki/Disposable_email_address))
+- [Spamgourmet](https://www.spamgourmet.com/) - Customize disposable emails on the fly.
+- [Temp Mail Address](https://www.tempmailaddress.com/) - Get an email assigned live that will expire according to your needs.
+- [Temp Mail](https://temp-mail.org/) - Automatically get assigned a temporary account where you can see in real time your emails coming in.
+- [ThrowAwayMail](https://www.throwawaymail.com/) - Obtain a temporary email that's valid for 48 hours.
 
+
+# Programming
 ## Coding challenges
 - [Challenge Rocket](https://challengerocket.com/) - *"Solve a challenge. Test your skills. Get hired."*
 - [Code Abbey](https://www.codeabbey.com/) - Somewhat more beginner-oriented. *"We believe that three things lead to success: Practice, Practice and Practice!"*
