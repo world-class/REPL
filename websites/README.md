@@ -18,6 +18,7 @@
     * [Online tools](#online-tools)
     * [Statistics](#statistics)
 * [Programming](#programming)
+    * [Coding challenges](#coding-challenges)
     * [iOS](#ios)
         * [Swift](#swift)
     * [JavaScript](#javascript)
@@ -83,6 +84,19 @@
 
 
 # Programming
+
+## Coding challenges
+- [Challenge Rocket](https://challengerocket.com/) - *"Solve a challenge. Test your skills. Get hired."*
+- [Code Abbey](https://www.codeabbey.com/) - Somewhat more beginner-oriented. *"We believe that three things lead to success: Practice, Practice and Practice!"*
+- [CodeSignal](https://codesignal.com/) - *"CodeSignal (formerly CodeFights) is a skills-based assessment platform operated by American company BrainFights, Inc., whose mission is to discover, develop and promote technical talent. [...] CodeSignal applies game mechanics that offer developers of all skill levels online computer programming challenges for both instructional and recruiting purposes."* ([from Wikipedia](https://en.wikipedia.org/wiki/CodeSignal))
+- [CodeWars](https://www.codewars.com/) - *"Achieve mastery through challenge. Improve your skills by training with others on real code challenges."*
+- [Coderbyte](https://coderbyte.com/) - *"Get access to the best collection of coding challenges that you can solve directly online in 10 programming languages. The challenges come with official solutions and tens of thousands of user solutions. You can also brush up on your skills by reading our tutorials in topics like advanced JavaScript features, data structures, and algorithm interview questions asked at companies like Google and Microsoft."*
+- [CodinGame](https://www.codingame.com/) - *"The new way to improve your programming skills while having fun and getting noticed."*
+- [HackerRank](https://www.hackerrank.com/) - *"Join over 5 million developers. Practice coding, prepare for interviews, and get hired."*
+- [LeetCode](https://leetcode.com/) - *"LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews."*
+- [Project Euler](https://projecteuler.net/) - *"Project Euler (named after Leonhard Euler) is a website dedicated to a series of computational problems intended to be solved with computer programs."* ([from Wikipedia](https://en.wikipedia.org/wiki/Project_Euler))
+- [Topcoder](https://www.topcoder.com/) - *"Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients."* ([from Wikipedia](https://en.wikipedia.org/wiki/Topcoder))
+
 
 ## iOS
 ### Swift
