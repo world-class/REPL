@@ -708,3 +708,6 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/vim,tags,emacs,pycharm,eclipse,netbeans,webstorm,jetbrains,visualstudio,visualstudiocode
+
+# Custom code
+scripts/
