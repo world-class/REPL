@@ -16,6 +16,14 @@
     * [Blockchain technology](#blockchain-technology)
     * [Cloud computing](#cloud-computing)
     * [Security](#security)
+* [Databases](#databases)
+* [Foreign languages](#foreign-languages)
+    * [Spanish](#spanish)
+        * [Artificial intelligence](#artificial-intelligence)
+            * [Machine learning](#machine-learning-1)
+        * [Cloud computing](#cloud-computing-1)
+        * [Programming](#programming)
+        * [Web development](#web-development)
 * [Git & GitHub](#git--github)
 * [Learning strategies](#learning-strategies)
 * [Linux](#linux)
@@ -108,6 +116,57 @@
 - [Security and Privacy for Big Data - Part 2](https://www.coursera.org/learn/security-privacy-big-data-protection) - Coursera. Offered by Digital Academy.
 
 
+## Databases
+- [Database systems Specialization](https://www.coursera.org/specializations/database-systems) - Coursera. Includes:
+    - [Relational database systems](https://www.coursera.org/learn/relational-database)
+    - [Business intelligence and data warehousing](https://www.coursera.org/learn/business-intelligence-data-warehousing)
+    - [NoSQL systems](https://www.coursera.org/learn/nosql-databases)
+    - [Designing data-intensive applications](https://www.coursera.org/learn/data-intensive-applications)
+
+
+## Foreign languages
+### Spanish
+#### Artificial intelligence
+- [Introducción a la inteligencia artificial Specialization](https://www.coursera.org/specializations/inteligencia-artificial) - Coursera. Includes:
+    - [Sesenta años de inteligencia artificial](https://www.coursera.org/learn/sesenta-anos-inteligencia-artificial?specialization=inteligencia-artificial)
+    - [Razonamiento artificial](https://www.coursera.org/learn/razonamiento-artificial?specialization=inteligencia-artificial)
+    - [Resolución de problemas por búsqueda](https://www.coursera.org/learn/resolucion-busqueda?specialization=inteligencia-artificial)
+    - [Aprendizaje de máquinas](https://www.coursera.org/learn/aprendizaje-maquinas?specialization=inteligencia-artificial)
+    - [Cómputo evolutivo](https://www.coursera.org/learn/computo-evolutivo)
+    - [Comportamiento adaptativo](https://www.coursera.org/learn/comportamiento-adapta)
+    - [Creatividad artificial](https://www.coursera.org/learn/creatividad-artificial)
+    - [Cognición encarnada](https://www.coursera.org/learn/cognicion)
+    - [Inteligencia artificial: Proyecto final](https://www.coursera.org/learn/inteligencia-artificial-proyecto)
+
+##### Machine learning
+- [Machine Learning with TensorFlow on Google Cloud Platform en Español Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-es) - Coursera. Includes:
+    - [How Google does Machine Learning en Español](https://www.coursera.org/learn/google-machine-learning-es?specialization=machine-learning-tensorflow-gcp-es)
+    - [Launching into Machine Learning en Español](https://www.coursera.org/learn/launching-machine-learning-es?specialization=machine-learning-tensorflow-gcp-es)
+    - [Intro to TensorFlow en Español](https://www.coursera.org/learn/intro-tensorflow-es?specialization=machine-learning-tensorflow-gcp-es)
+    - [Feature Engineering en Español](https://www.coursera.org/learn/feature-engineering-es?specialization=machine-learning-tensorflow-gcp-es)
+    - [Art and Science of Machine Learning en Español](https://www.coursera.org/learn/art-science-ml-es)
+- [How Google does Machine Learning en Español](https://www.coursera.org/learn/google-machine-learning-es) - Coursera.
+
+#### Cloud computing
+- [Architecting with Google Cloud Platform en Español Specialization](https://www.coursera.org/specializations/gcp-architecture-es) - Coursera. Includes:
+    - [Google Cloud Platform Fundamentals: Core Infrastructure en Español](https://www.coursera.org/learn/gcp-fundamentals-es?specialization=gcp-architecture-es)
+    - [Essential Cloud Infrastructure: Foundation en Español](https://www.coursera.org/learn/gcp-infrastructure-foundation-es?specialization=gcp-architecture-es)
+    - [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es?specialization=gcp-architecture-es)
+    - [Elastic Cloud Infrastructure: Scaling and Automation en Español](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es?specialization=gcp-architecture-es)
+    - [Elastic Cloud Infrastructure: Containers and Services en Español](https://www.coursera.org/learn/gcp-infrastructure-containers-services-es)
+    - [Reliable Cloud Infrastructure: Design and Process en Español](https://www.coursera.org/learn/cloud-infrastructure-design-process-es)
+
+#### Programming
+- [Introducción a la programación con Python](https://www.coursera.org/learn/introduccion-python) - Coursera.
+
+#### Web development
+- [Full Stack Web Development en Español Specialization](https://www.coursera.org/specializations/fullstack-web-development-espanol) - Coursera. Includes:
+    - [Diseñando páginas web con Bootstrap 4](https://www.coursera.org/learn/disenando-paginas-bootstrap4)
+    - [Desarrollo de páginas con Angular](https://www.coursera.org/learn/desarrollar-paginas-web-con-angular)
+    - [Desarrollo de Aplicaciones Mobile Multiplataforma con Nativescript, Angular y Redux](https://www.coursera.org/learn/aplicaciones-mobile-multiplataforma-nativescript-angular-redux)
+    - [Desarrollo del lado servidor: NodeJS, Express y MongoDB](https://www.coursera.org/learn/desarrollo-lado-servidor-nodejs-express-mongodb)
+
+
 ## Git & GitHub
 - [Git Essential Training](https://www.linkedin.com/learning/git-essential-training) (_free with free trial_) - LinkedIn Learning. *"Using a step-by-step approach, author Kevin Skoglund presents the commands that enable efficient code management and reveals the fundamental concepts behind version control systems and the Git architecture. Discover how to track changes to files in a repository, review previous edits, and compare versions of a file; create branches to test new ideas without altering the main project; and merge those changes into the project if they work out.*"
 - [Git Started with GitHub](https://www.udemy.com/git-started-with-github/) - Udacity. *"This course is designed to jump right into showing how Git and GitHub work together, focusing on the Git basic workflow. Students can expect to learn the minimum needed to start using Git in about 30 minutes."*
@@ -127,6 +186,7 @@
 
 ## Mathematics
 - [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics) - Coursera. *"This course introduces the Bayesian approach to statistics, starting with the concept of probability and moving to the analysis of data. We will learn about the philosophy of the Bayesian approach as well as how to implement it for common types of data. We will compare the Bayesian approach to the more commonly-taught Frequentist approach, and see some of the benefits of the Bayesian approach."*
+- [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - Coursera. *"Learn how to think the way mathematicians do – a powerful cognitive process developed over thousands of years."*
 - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) - Coursera. Includes:
     - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
     - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
