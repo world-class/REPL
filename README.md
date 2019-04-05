@@ -109,6 +109,7 @@ final project must also be completed to graduate.
 - [Funding your study](https://london.ac.uk/applications/funding-your-study)
 - [Main page of the BSc Computer Science](https://london.ac.uk/courses/computer-science)
     - [Structure of the degree](https://london.ac.uk/computer-science-structure)
+- [Online library](https://onlinelibrary.london.ac.uk/)
 - [Portal](https://my.london.ac.uk/)
 - Specialisms
     - [Data Science](https://london.ac.uk/courses/computer-science-data-science)

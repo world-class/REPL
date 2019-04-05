@@ -10,3 +10,16 @@ pages. You'll consider accessibility and usability issues, and how you
 can overcome them. You'll learn about website deployment and how to
 make your websites accessible to other people. The module also enables
 you to present your work online in the form of a website.
+
+Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/p88ho/syllabus-web-development-cm1040).
+
+# Resources
+## Programming
+- [Mozilla Developer Network Tutorials](https://developer.mozilla.org/)
+- [W3 Schools Online Web Tutorials](http://www.w3schools.com/)
+
+### JavaScript
+- [Eloquent JavaScript](http://eloquentjavascript.net/), by Marijn Haverbeke. The book can be downloaded:
+    - [As PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf);
+    - [As EPUB](https://eloquentjavascript.net/Eloquent_JavaScript.epub);
+    - [As MOBI](https://eloquentjavascript.net/Eloquent_JavaScript.mobi) (for Kindle).

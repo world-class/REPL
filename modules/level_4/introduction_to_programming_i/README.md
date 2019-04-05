@@ -7,13 +7,15 @@ variables, conditionals, functions and loops. You'll learn how to
 create interactive, graphical computer programs. You will also be
 introduced to basic object-oriented programming techniques.
 
+Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1010).
+
 # Table of contents
 
 <!-- vim-markdown-toc GFM -->
 
 * [Programming resources](#programming-resources)
     * [JavaScript](#javascript)
-        * [p5.js - JavaScript library](#p5js--javascript-library)
+        * [p5.js - JavaScript library](#p5js---javascript-library)
     * [Sleuth assignments](#sleuth-assignments)
         * [Tips & Tricks](#tips--tricks)
     * [Text editor](#text-editor)
