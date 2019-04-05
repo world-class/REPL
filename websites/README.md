@@ -20,6 +20,7 @@
     * [Statistics](#statistics)
 * [Online services](#online-services)
     * [Disposable/temporary emails](#disposabletemporary-emails)
+* [Open source](#open-source)
 * [Programming](#programming)
     * [Coding challenges](#coding-challenges)
     * [iOS](#ios)
@@ -29,6 +30,10 @@
     * [Python](#python)
     * [Questions and answers](#questions-and-answers)
 * [Startups](#startups)
+* [Web](#web)
+    * [Buying a domain name](#buying-a-domain-name)
+    * [Cloud Computing](#cloud-computing)
+    * [Information on websites](#information-on-websites)
 
 <!-- vim-markdown-toc -->
 
@@ -97,6 +102,10 @@
 - [ThrowAwayMail](https://www.throwawaymail.com/) - Obtain a temporary email that's valid for 48 hours.
 
 
+# Open source
+- [Open Source Guides](https://opensource.guide/) - *"Open source software is made by people just like you. Learn how to launch and grow your project."*
+
+
 # Programming
 ## Coding challenges
 - [Challenge Rocket](https://challengerocket.com/) - *"Solve a challenge. Test your skills. Get hired."*
@@ -129,3 +138,24 @@
 
 # Startups
 - [Notes Essays-Peter Thiel's CS183: Startup-Stanford, Spring 2012](http://blakemasters.com/peter-thiels-cs183-startup) - There is a book available from those notes: [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2I6AlDJ).
+
+# Web
+## Buying a domain name
+- [BlueHost](https://www.bluehost.com/)
+- [BuyDomains.com](https://www.buydomains.com/)
+- [Domain.com](https://www.domain.com/)
+- [DreamHost](https://www.dreamhost.com/)
+- [GoDaddy](https://godaddy.com/domains)
+- [HostGator](https://www.hostgator.com/)
+- [Name.com](https://www.name.com/)
+- [NameCheap](https://www.namecheap.com/)
+
+## Cloud Computing
+- [AWS](https://aws.amazon.com/) - *"Amazon Web Services is a subsidiary of Amazon that provides on-demand cloud computing platforms to individuals, companies and governments, on a metered pay-as-you-go basis."* ([from Wikipedia](https://en.wikipedia.org/wiki/Amazon_Web_Services))
+- [Digital Ocean](https://www.digitalocean.com/) - *"DigitalOcean provides developers cloud services that help to deploy and scale applications that run simultaneously on multiple computers."* ([from Wikipedia](https://en.wikipedia.org/wiki/DigitalOcean))
+- [Google Cloud Platform](https://cloud.google.com/) - *"Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Cloud_Platform))
+- [Linode](https://www.linode.com/) - *"Instantly deploy an SSD cloud server running with your choice of Linux distro, resources, and node location."*
+- [Rackspace Cloud](https://www.rackspace.com/cloud) - *"The Rackspace Cloud is a set of cloud computing products and services billed on a utility computing basis from the US-based company Rackspace. Offerings include web application hosting or platform as a service ("Cloud Sites"), Cloud Storage ("Cloud Files"), virtual private server ("Cloud Servers"), load balancers, databases, backup, and monitoring."* ([from Wikipedia](https://en.wikipedia.org/wiki/Rackspace_Cloud))
+
+## Information on websites
+- [SecurityTrails - DNS Trail](https://securitytrails.com/dns-trails) - Review the history of a domain name.
