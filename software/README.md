@@ -37,6 +37,7 @@
         * [Learning environment](#learning-environment)
         * [Mathematical tools](#mathematical-tools)
         * [Office suite](#office-suite)
+        * [Operating Systems](#operating-systems)
         * [Password manager](#password-manager)
         * [PDF editors](#pdf-editors)
         * [PDF viewers](#pdf-viewers)
@@ -188,6 +189,9 @@
 #### Plugins
 - [Vimtex](https://github.com/lervag/vimtex) - *"A modern vim plugin for editing LaTeX files."*
 
+#### Distributions
+- [TexLive](https://tug.org/texlive/) - *"A free software distribution for the TeX typesetting system "*
+
 #### TeX editors
 - :star: [Kile](https://kile.sourceforge.io/) (Windows, MacOS, Linux) - *"Kile is a TeX/LaTeX editor to edit TeX/LaTeX source code. It runs on Unix-like systems including Mac OS X and Linux, as well as Microsoft Windows via the KDE on Windows initiative, with the Qt and KDE libraries installed."*
 - :star: [LyX](https://www.lyx.org/) (Windows, MacOS, Linux) - *"LyX is an open source document processor based on the LaTeX typesetting system."* ([from Wikipedia](https://en.wikipedia.org/wiki/LyX))
@@ -207,6 +211,10 @@
 - :star: [LibreOffice](https://www.libreoffice.org/) (Windows, MacOS, Linux)
 - :cloud: [Google Docs](https://www.google.com/docs/about/) (Windows, MacOS, Linux)
 - [WPS Office](https://www.wps.com/office-free) (Windows, Linux, Android, iOS)
+
+### Operating Systems (Linux Distributions)
+- :star: [Ubuntu](https://www.ubuntu.com/download/desktop/) - A beginner friendly distribution based on Debian. 
+- :star: [Fedora](https://getfedora.org/en/workstation/) - A more developer centric distribution based on Red Hat Enterprise Linux (RHEL) ecosystem.
 
 ### Password manager
 - Beginner friendly
