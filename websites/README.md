@@ -20,6 +20,7 @@
     * [Statistics](#statistics)
 * [Online services](#online-services)
     * [Disposable/temporary emails](#disposabletemporary-emails)
+    * [File sharing & storage](#file-sharing--storage)
 * [Open source](#open-source)
 * [Programming](#programming)
     * [Coding challenges](#coding-challenges)
@@ -101,6 +102,17 @@
 - [Temp Mail Address](https://www.tempmailaddress.com/) - Get an email assigned live that will expire according to your needs.
 - [Temp Mail](https://temp-mail.org/) - Automatically get assigned a temporary account where you can see in real time your emails coming in.
 - [ThrowAwayMail](https://www.throwawaymail.com/) - Obtain a temporary email that's valid for 48 hours.
+
+## File sharing & storage
+- [Box](https://www.box.com/) - **10GB Free (250MB file size limit)**. *"Box, Inc., based in Redwood City, California, is a cloud content management and file sharing service for businesses. Official clients and apps are available for Windows, macOS, and several mobile platforms."* ([from Wikipedia](https://en.wikipedia.org/wiki/Box_(company)))
+- [DeepTransfer](https://deeptransfer.net/) - Send files up to **3GB** each, **14 days** file expiration, unlimited number of files sent.
+- [Dropbox](https://www.dropbox.com/) - **2GB Free**. *"Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software."* ([from Wikipedia](https://en.wikipedia.org/wiki/Dropbox_%28service%29))
+- [Firefox Send](https://send.firefox.com/) - Send up to **2.5GB** files when signing up or **1GB privately**, without signing in.
+- [Google Drive](https://www.google.com/drive/) - **15GB Free**. *"Google Drive is a file storage and synchronization service developed by Google. [...] Google Drive allows users to store files on their servers, synchronize files across devices, and share files."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Drive))
+- [Hightail](https://www.hightail.com/) - **2GB Free (100MB file size limit), 7 days file expiration**. *"Hightail, formerly YouSendIt, is a cloud service that lets users send, receive, digitally sign and synchronize files."* ([from Wikipedia](https://en.wikipedia.org/wiki/Hightail))
+- [Sync](https://www.sync.com/) - **5 GB of secure file storage with basic sharing features**. 2048-bit RSA, SSL/TLS encryption, end-to-end encryption, 30 days version history, restore & rewind, password protected sharing, remote device lockout.
+- [WeTransfer](https://wetransfer.com/) - Free: Send up to **2GB** with **7 days** file expiration.
+- [pCloud](https://www.pcloud.com/) - **10GB Free**. *"pCloud is the secure cloud storage, where you can store, share and work on all your files. You can access them on any device, anywhere you go!"*
 
 
 # Open source
