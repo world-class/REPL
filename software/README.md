@@ -33,6 +33,7 @@
         * [LaTeX](#latex)
             * [Online editors](#online-editors)
             * [Plugins](#plugins)
+            * [Distributions](#distributions)
             * [TeX editors](#tex-editors)
         * [Learning environment](#learning-environment)
         * [Mathematical tools](#mathematical-tools)
