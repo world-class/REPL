@@ -212,7 +212,7 @@
 - :cloud: [Google Docs](https://www.google.com/docs/about/) (Windows, MacOS, Linux)
 - [WPS Office](https://www.wps.com/office-free) (Windows, Linux, Android, iOS)
 
-### Operating Systems (Linux Distributions)
+### Operating Systems
 - :star: [Ubuntu](https://www.ubuntu.com/download/desktop/) - A beginner friendly distribution based on Debian. 
 - :star: [Fedora](https://getfedora.org/en/workstation/) - A more developer centric distribution based on Red Hat Enterprise Linux (RHEL) ecosystem.
 
