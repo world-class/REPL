@@ -39,6 +39,8 @@
         * [Mathematical tools](#mathematical-tools)
         * [Office suite](#office-suite)
         * [Operating Systems](#operating-systems)
+            * [Linux distributions](#linux-distributions)
+                * [Beginner-friendly](#beginner-friendly)
         * [Password manager](#password-manager)
         * [PDF editors](#pdf-editors)
         * [PDF viewers](#pdf-viewers)
@@ -53,11 +55,11 @@
                 * [Data science](#data-science)
         * [RSS/Atom readers/aggregators - Keeping on top of news](#rssatom-readersaggregators---keeping-on-top-of-news)
         * [Screen recorders](#screen-recorders)
-            * [Beginner friendly](#beginner-friendly)
+            * [Beginner friendly](#beginner-friendly-1)
             * [More advanced](#more-advanced)
         * [System utilities](#system-utilities)
         * [Text editors](#text-editors)
-            * [Beginner friendly](#beginner-friendly-1)
+            * [Beginner friendly](#beginner-friendly-2)
         * [Touch typing](#touch-typing)
         * [UX/UI design](#uxui-design)
         * [Version control system](#version-control-system)
@@ -114,20 +116,20 @@
 - :star: [MakeHuman](http://www.makehumancommunity.org/) - *"Makehuman is a free and open source 3D computer graphics software middleware designed for the prototyping of photo realistic humanoids."* ([from Wikipedia](https://en.wikipedia.org/wiki/MakeHuman))
 
 ### Antivirus
-- :star: [Clamav](https://www.clamav.net/) (Windows, Linux, MacOS, BSD, Solaris) - *"ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats."* ([from Clamav](https://www.clamav.net/))
+- :star: [Clamav](https://www.clamav.net/) (Windows, Linux, macOS, BSD, Solaris) - *"ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats."* ([from Clamav](https://www.clamav.net/))
 
 ### Audio
 - :star: [Comparison of free software for audio](https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio)
 
 #### Players
-- :star: [Amarok](https://amarok.kde.org/) (Windows, MacOS, Linux)
-- :star: [Clementine](https://www.clementine-player.org/) (Windows, MacOS, Linux)
+- :star: [Amarok](https://amarok.kde.org/) (Windows, macOS, Linux)
+- :star: [Clementine](https://www.clementine-player.org/) (Windows, macOS, Linux)
 
 #### Production
-- :heavy_dollar_sign: [REAPER](https://www.reaper.fm) **(60 days free trial, US$60 for personal license)** (Windows, MacOS, Linux\*) - *"REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset."* (\* experimental)
+- :heavy_dollar_sign: [REAPER](https://www.reaper.fm) **(60 days free trial, US$60 for personal license)** (Windows, macOS, Linux\*) - *"REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset."* (\* experimental)
 
 #### Recording & Editing
-- :star: [Audacity](https://www.audacityteam.org/) (Windows, MacOS, Linux)
+- :star: [Audacity](https://www.audacityteam.org/) (Windows, macOS, Linux)
 
 ### Automation
 - [IFTTT](https://ifttt.com/) - *"If This Then That, also known as IFTTT is a free web-based service to create chains of simple conditional statements, called applets."* ([from Wikipedia](https://en.wikipedia.org/wiki/IFTTT))
@@ -146,17 +148,17 @@
 - :cloud: [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/) - *"I will convert your Excel data into one of several web-friendly formats, including HTML, JSON and XML."*
 
 ### Data storage & syncronization
-- :cloud: [Dropbox](https://www.dropbox.com/) (Windows, MacOS, Linux) - **2GB Free**. *"Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software."* ([from Wikipedia](https://en.wikipedia.org/wiki/Dropbox_%28service%29)
-- :cloud: [Google Drive](https://www.google.com/drive/) (Windows, MacOS, officially) - **15GB Free**. *"Google Drive is a file storage and synchronization service developed by Google. [...] Google Drive allows users to store files on their servers, synchronize files across devices, and share files."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Drive))
-- :cloud: [pCloud](https://www.pcloud.com/) (Windows, MacOS, Linux) - **10GB Free**. *"pCloud is the secure cloud storage, where you can store, share and work on all your files. You can access them on any device, anywhere you go!"*
+- :cloud: [Dropbox](https://www.dropbox.com/) (Windows, macOS, Linux) - **2GB Free**. *"Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software."* ([from Wikipedia](https://en.wikipedia.org/wiki/Dropbox_%28service%29)
+- :cloud: [Google Drive](https://www.google.com/drive/) (Windows, macOS, officially) - **15GB Free**. *"Google Drive is a file storage and synchronization service developed by Google. [...] Google Drive allows users to store files on their servers, synchronize files across devices, and share files."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Drive))
+- :cloud: [pCloud](https://www.pcloud.com/) (Windows, macOS, Linux) - **10GB Free**. *"pCloud is the secure cloud storage, where you can store, share and work on all your files. You can access them on any device, anywhere you go!"*
 
 ### Desktop publishing
-- :star: [Scribus](https://www.scribus.net/) (Windows, MacOS, Linux) - *One of the premier Open Source desktop applications.*
+- :star: [Scribus](https://www.scribus.net/) (Windows, macOS, Linux) - *One of the premier Open Source desktop applications.*
 
 ### Ebook readers
-- :star: [Calibre](https://calibre-ebook.com/) (Windows, MacOS, Linux)
-- [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) (Windows, MacOS, Android, iOS)
-- :cloud: [Kindle Cloud Reader](https://read.amazon.com/) (Windows, MacOS, Linux)
+- :star: [Calibre](https://calibre-ebook.com/) (Windows, macOS, Linux)
+- [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) (Windows, macOS, Android, iOS)
+- :cloud: [Kindle Cloud Reader](https://read.amazon.com/) (Windows, macOS, Linux)
 
 ### Format checker & validator
 - :cloud: [JSONLint](https://jsonlint.com/) - *"JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format. Copy and paste, directly type, or input a URL in the editor above and let JSONLint tidy and validate your messy JSON code."*
@@ -171,12 +173,12 @@
 
 ### IDE (Integrated Development Environment)
 - [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
-- :star: [Eclipse](https://eclipse.org/) - C, C++, Java, Perl, PHP, Python, Ruby and more. (Windows, MacOS, Linux)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - AngularJS, CoffeeScript, CS, HTML, JavaScript, LESS, Node JS, PHP, Python, Ruby, Sass, TypeScript and more. (Windows, MacOS, Linux)
+- :star: [Eclipse](https://eclipse.org/) - C, C++, Java, Perl, PHP, Python, Ruby and more. (Windows, macOS, Linux)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - AngularJS, CoffeeScript, CS, HTML, JavaScript, LESS, Node JS, PHP, Python, Ruby, Sass, TypeScript and more. (Windows, macOS, Linux)
 - :star: [Netbeans](https://netbeans.org/) - C, C++, C++11, Fortan, HTML 5, Java, PHP and more. (Works with Java)
-- [PyCharm](https://www.jetbrains.com/pycharm/) - Python. (Windows, MacOS, Linux)
-- :star: [Visual Studio Code](https://code.visualstudio.com/) - C, C#, CSS, D, F#, Go, Java, JavaScript, Lua, Markdown, PHP, Python, R, Ruby, SQL, Swift, TypeScript and more. (Windows, MacOS, Linux)
-- [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - C#, Visual Basic, F#, C++, HTML, JavaScript, TypeScript, Python, and more. (Windows, MacOS)
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Python. (Windows, macOS, Linux)
+- :star: [Visual Studio Code](https://code.visualstudio.com/) - C, C#, CSS, D, F#, Go, Java, JavaScript, Lua, Markdown, PHP, Python, R, Ruby, SQL, Swift, TypeScript and more. (Windows, macOS, Linux)
+- [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - C#, Visual Basic, F#, C++, HTML, JavaScript, TypeScript, Python, and more. (Windows, macOS)
 
 ### Image processing
 - :star: [GIMP](https://www.gimp.org/) – Free equivalent to Photoshop
@@ -191,12 +193,12 @@
 - [Vimtex](https://github.com/lervag/vimtex) - *"A modern vim plugin for editing LaTeX files."*
 
 #### Distributions
-- [TexLive](https://tug.org/texlive/) - *"A free software distribution for the TeX typesetting system "*
+- [TexLive](https://tug.org/texlive/) - *"A free software distribution for the TeX typesetting system."*
 
 #### TeX editors
-- :star: [Kile](https://kile.sourceforge.io/) (Windows, MacOS, Linux) - *"Kile is a TeX/LaTeX editor to edit TeX/LaTeX source code. It runs on Unix-like systems including Mac OS X and Linux, as well as Microsoft Windows via the KDE on Windows initiative, with the Qt and KDE libraries installed."*
-- :star: [LyX](https://www.lyx.org/) (Windows, MacOS, Linux) - *"LyX is an open source document processor based on the LaTeX typesetting system."* ([from Wikipedia](https://en.wikipedia.org/wiki/LyX))
-- :star: [Texmaker](http://www.xm1math.net/texmaker/) (Windows, MacOS, Linux) - *"Texmaker is a cross-platform open-source LaTeX editor with an integrated PDF viewer."* ([from Wikipedia](https://en.wikipedia.org/wiki/Texmaker))
+- :star: [Kile](https://kile.sourceforge.io/) (Windows, macOS, Linux) - *"Kile is a TeX/LaTeX editor to edit TeX/LaTeX source code. It runs on Unix-like systems including Mac OS X and Linux, as well as Microsoft Windows via the KDE on Windows initiative, with the Qt and KDE libraries installed."*
+- :star: [LyX](https://www.lyx.org/) (Windows, macOS, Linux) - *"LyX is an open source document processor based on the LaTeX typesetting system."* ([from Wikipedia](https://en.wikipedia.org/wiki/LyX))
+- :star: [Texmaker](http://www.xm1math.net/texmaker/) (Windows, macOS, Linux) - *"Texmaker is a cross-platform open-source LaTeX editor with an integrated PDF viewer."* ([from Wikipedia](https://en.wikipedia.org/wiki/Texmaker))
 - :star: [TeXstudio](https://www.texstudio.org/) - *"TeXstudio is a cross-platform open-source LaTeX editor. Its features include an interactive spelling checker, code folding, and syntax highlighting."* ([from Wikipedia](https://en.wikipedia.org/wiki/TeXstudio))
 
 ### Learning environment
@@ -209,30 +211,40 @@
 - :star: [SciPy](https://www.scipy.org/) - Library used for scientific computing and technical computing
 
 ### Office suite
-- :star: [LibreOffice](https://www.libreoffice.org/) (Windows, MacOS, Linux)
-- :cloud: [Google Docs](https://www.google.com/docs/about/) (Windows, MacOS, Linux)
+- :star: [LibreOffice](https://www.libreoffice.org/) (Windows, macOS, Linux)
+- :cloud: [Google Docs](https://www.google.com/docs/about/) (Windows, macOS, Linux)
 - [WPS Office](https://www.wps.com/office-free) (Windows, Linux, Android, iOS)
 
 ### Operating Systems
-- :star: [Ubuntu](https://www.ubuntu.com/download/desktop/) - A beginner friendly distribution based on Debian. 
+- [FreeBSD](https://www.freebsd.org/) - *"FreeBSD is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution, which was based on Research Unix. The first version of FreeBSD was released in 1993."* ([from Wikipedia](https://en.wikipedia.org/wiki/FreeBSD))
+- [Linux](https://www.linux.org/) - *"Linux is a family of free and open-source software operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991 by Linus Torvalds. Linux is typically packaged in a Linux distribution."* ([from Wikipedia](https://en.wikipedia.org/wiki/Linux))
+- [macOS](https://www.apple.com/lae/macos/mojave/) - *"It is the primary operating system for Apple's Mac family of computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows."* ([from Wikipedia](https://en.wikipedia.org/wiki/MacOS))
+- [Windows](https://www.microsoft.com/en-us/windows) - *"Microsoft Windows is a group of several graphical operating system families, all of which are developed, marketed, and sold by Microsoft. Each family caters to a certain sector of the computing industry."* ([from Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows))
+
+#### Linux distributions
+- [DistroWatch](https://distrowatch.com/) - *"DistroWatch is a website which provides news, popularity rankings, and other general information about various Linux distributions as well as other free software/open source Unix-like operating systems such as OpenSolaris, MINIX and BSD. It now contains information on several hundred distributions."* ([from Wikipedia](https://en.wikipedia.org/wiki/DistroWatch))
+
+##### Beginner-friendly
 - :star: [Fedora](https://getfedora.org/en/workstation/) - A more developer centric distribution based on Red Hat Enterprise Linux (RHEL) ecosystem.
+- :star: [Linux Mint](https://linuxmint.com/) - *"Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.""* ([from Wikipedia](https://en.wikipedia.org/wiki/Linux_Mint)
+- :star: [Ubuntu](https://www.ubuntu.com/download/desktop/) - A beginner-friendly distribution based on Debian.
 
 ### Password manager
 - Beginner friendly
-    - [Dashlane](https://www.dashlane.com/) (Windows, MacOS, Linux, Chromebook)
-    - :star: [KeePassXC](https://keepassxc.org/) (Windows, MacOS, Linux)
-    - [LastPass](https://www.lastpass.com/) (Windows, MacOS, Linux, Chromebook)
+    - [Dashlane](https://www.dashlane.com/) (Windows, macOS, Linux, Chromebook)
+    - :star: [KeePassXC](https://keepassxc.org/) (Windows, macOS, Linux)
+    - [LastPass](https://www.lastpass.com/) (Windows, macOS, Linux, Chromebook)
 - More advanced
-    - :star: [gopass](https://www.gopass.pw/) (Windows, MacOS, Linux)
-    - :star: [pass](https://www.passwordstore.org/) (Windows, MacOS, Linux, Android, iOS)
+    - :star: [gopass](https://www.gopass.pw/) (Windows, macOS, Linux)
+    - :star: [pass](https://www.passwordstore.org/) (Windows, macOS, Linux, Android, iOS)
 
 ### PDF editors
-- :star: [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) (Windows, MacOS, Linux)
-- :star: [Inkscape](https://inkscape.org/) (Windows, MacOS, Linux)
+- :star: [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) (Windows, macOS, Linux)
+- :star: [Inkscape](https://inkscape.org/) (Windows, macOS, Linux)
 - Limited to split, merge, rotate, mix and extract
-    - [Master PDF](https://code-industry.net/free-pdf-editor/) (Windows, MacOS, Linux)
+    - [Master PDF](https://code-industry.net/free-pdf-editor/) (Windows, macOS, Linux)
     - :star: [PDF Shuffler](https://sourceforge.net/p/pdfshuffler/wiki/Home/) (Linux)
-    - [PDFSAM Basic](https://pdfsam.org/download-pdfsam-basic/) (Windows, MacOS, Linux)
+    - [PDFSAM Basic](https://pdfsam.org/download-pdfsam-basic/) (Windows, macOS, Linux)
 - Online
     - [PDF2GO](https://www.pdf2go.com/) - Easy to use.
     - [PDFEscape](https://www.pdfescape.com/) - Intuitive. Limited to 10MB filesize.
@@ -240,14 +252,14 @@
 
 
 ### PDF viewers
-- :star: Firefox, Google Chrome, :star: Chromium - Built-in viewer (Windows, MacOS, Linux)
-- [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) (Windows, MacOS, Linux)
+- :star: Firefox, Google Chrome, :star: Chromium - Built-in viewer (Windows, macOS, Linux)
+- [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) (Windows, macOS, Linux)
 - [PDF Reader – PDF Viewer & Epub, Ebook reader](https://play.google.com/store/apps/details?id=com.officetool.pdfreader2018.pdfviewer) (Android)
 - [PDF Viewer Pro](https://itunes.apple.com/us/app/pdf-viewer-pro-by-pspdfkit/id1120099014) (iOS)
 - As secondary feature
-    - :star: [GIMP](https://www.gimp.org/) (Windows, MacOS, Linux)
-    - :star: [Inkscape](https://inkscape.org/) (Windows, MacOS, Linux)
-    - :star: [Scribus](https://www.scribus.net/) (Windows, MacOS, Linux)
+    - :star: [GIMP](https://www.gimp.org/) (Windows, macOS, Linux)
+    - :star: [Inkscape](https://inkscape.org/) (Windows, macOS, Linux)
+    - :star: [Scribus](https://www.scribus.net/) (Windows, macOS, Linux)
 - Linux
     - :star: [Evince](https://wiki.gnome.org/Apps/Evince) (GNOME)
     - :star: [Okular](https://okular.kde.org/) (KDE)
@@ -277,13 +289,13 @@
 
 #### Writing assistants
 - :cloud: [Grammarly](https://www.grammarly.com/) - *From grammar and spelling to style and tone, Grammarly helps you eliminate errors and find the perfect words to express yourself.*
-- :star: [UMLet](https://www.umlet.com/) - *UMLet is a UML tool aimed at providing a fast way of creating UML diagrams. UML elements are modified using text input instead of pop-up dialogs.* 
+- :star: [UMLet](https://www.umlet.com/) - *UMLet is a UML tool aimed at providing a fast way of creating UML diagrams. UML elements are modified using text input instead of pop-up dialogs.*
 - :star: :cloud: [UMLetino](http://www.umletino.com/) - *UMLetino 14.3 is a free online UML tool for fast UML diagrams. It runs in your browser, and does not require any installs.*
 
 ### Programming tools
 #### Python
 ##### Data science
-- [Anaconda distribution](https://www.anaconda.com/) (Windows, MacOS, Linux) - *The World's Most Popular Python Data Science Distribution*
+- [Anaconda distribution](https://www.anaconda.com/) (Windows, macOS, Linux) - *The World's Most Popular Python Data Science Distribution*
 
 ### RSS/Atom readers/aggregators - Keeping on top of news
 - :star: [List of free readers](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages#RSS/Atom_readers/aggregators)
@@ -296,16 +308,16 @@
 - :cloud: [Apowersoft Free Online Screen Recorder](https://www.apowersoft.com/free-online-screen-recorder) (Windows, Android, iOS)
 - [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=en) (Android)
 - [Go Record: Screen Recorder](https://itunes.apple.com/us/app/go-record-screen-recorder/id1345200849) (iOS)
-- [Screencast o matic](https://screencast-o-matic.com/screen-recorder) (Windows, MacOS, Chromebook)
+- [Screencast o matic](https://screencast-o-matic.com/screen-recorder) (Windows, macOS, Chromebook)
 - :star: [Simple Screen Recorder](https://www.maartenbaert.be/simplescreenrecorder/) (Linux)
 
 #### More advanced
-- :star: [ffmpeg](https://ffmpeg.org/) (Windows, MacOS, Linux)
-- :star: [OBS Studio](https://obsproject.com/) (Windows, MacOS, Linux)
+- :star: [ffmpeg](https://ffmpeg.org/) (Windows, macOS, Linux)
+- :star: [OBS Studio](https://obsproject.com/) (Windows, macOS, Linux)
 
 ### System utilities
 - :star: [Redshift](http://jonls.dk/redshift/) (Linux) - *Adjusts the color temperature of your screen according to your surroundings.*
-- :star: [f.lux](https://justgetflux.com/) (Windows, MacOS, Linux, iOS, Android) - *It makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.*
+- :star: [f.lux](https://justgetflux.com/) (Windows, macOS, Linux, iOS, Android) - *It makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.*
 
 ### Text editors
 - [Comparison of text editors](https://en.wikipedia.org/wiki/Comparison_of_text_editors)
@@ -343,9 +355,9 @@
 ### Video player
 - [Comparison of video player software](https://en.wikipedia.org/wiki/Comparison_of_video_player_software)
 - :star: [Media Player Classic](https://mpc-hc.org/) (Windows)
-- :star: [mpv](https://mpv.io/) (Windows, MacOS, Linux)
+- :star: [mpv](https://mpv.io/) (Windows, macOS, Linux)
 - :star: [SMPlayer](https://www.smplayer.info/) (Windows, Linux)
-- :star: [VLC](https://www.videolan.org/vlc/) (Windows, MacOS, Linux)
+- :star: [VLC](https://www.videolan.org/vlc/) (Windows, macOS, Linux)
 
 ### Virtualization (running other operating system without installation)
 - [Free virtualization software](https://en.wikipedia.org/wiki/Category:Free_virtualization_software)
@@ -358,7 +370,7 @@
 - :star: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (works on all major operating systems)
 - [Google Chrome](https://www.google.com/chrome/) (works on all major operating systems)
 - [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) (**Windows** preferred)
-- [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser)) (**MacOS** preferred)
+- [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser)) (**macOS** preferred)
 
 ### Website annotation
 - [Bounce](https://www.bounceapp.com/) - *"A little app from ZURB that lets people add feedback to any interface and toss that back and forth with other people."*
