@@ -21,6 +21,7 @@
 * [Online services](#online-services)
     * [Disposable/temporary emails](#disposabletemporary-emails)
     * [File sharing & storage](#file-sharing--storage)
+    * [Image hosting](#image-hosting)
 * [Open source](#open-source)
 * [Programming](#programming)
     * [Coding challenges](#coding-challenges)
@@ -113,6 +114,18 @@
 - [Sync](https://www.sync.com/) - **5 GB of secure file storage with basic sharing features**. 2048-bit RSA, SSL/TLS encryption, end-to-end encryption, 30 days version history, restore & rewind, password protected sharing, remote device lockout.
 - [WeTransfer](https://wetransfer.com/) - Free: Send up to **2GB** with **7 days** file expiration.
 - [pCloud](https://www.pcloud.com/) - **10GB Free**. *"pCloud is the secure cloud storage, where you can store, share and work on all your files. You can access them on any device, anywhere you go!"*
+
+## Image hosting
+- [500px](https://web.500px.com/) - Primarily used to showcase photography.
+- [Flickr](https://www.flickr.com/) - *"Flickr is an image hosting service and video hosting service. It was created by Ludicorp in 2004."* ([from Wikipedia](https://en.wikipedia.org/wiki/Flickr))
+- [Free Image Hosting.net](http://www.freeimagehosting.net/) - No sign up required.
+- [Google Photos](https://photos.google.com/) (storage included with Google Drive, **15GB for free**) - *"Google Photos is a photo sharing and storage service developed by Google."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Photos))
+- [ImageShack](https://imageshack.us/)- *"Unlimited space to host images, easy to use image uploader, albums, photo hosting, sharing, dynamic image resizing on web and mobile."*
+- [Imgbox](https://imgbox.com/) - *"Hotlinking, super blazing fast, 10MB maximum file size, simple interface, unlimited storage space, unlimited storage time."*
+- [Imgur](https://imgur.com) - *"Imgur is an online image sharing community and image host founded by Alan Schaaf in 2009."* ([from Wikipedia](https://en.wikipedia.org/wiki/Imgur))
+- [Postimage](https://postimages.org/) - *"Provides free image upload and hosting integration for forums. Free picture hosting and photo sharing for websites and blogs."*
+- [TinyPic](http://tinypic.com/) - No sign up required. *"TinyPic is a photo and video sharing service, owned and operated by Photobucket.com, that allows users to upload, link and share, images and videos on the Internet. The idea is similar to URL shortening in which each uploaded image is given a relatively short internet address."* ([from Wikipedia](https://en.wikipedia.org/wiki/TinyPic))
+- [Use](https://www.use.com/) - *"Use.com offers unlimited free image hosting - No sign up required! It's easy to upload, link, and share your photos on eBay®, craigslist®, MySpace®, blogs..."*
 
 
 # Open source
