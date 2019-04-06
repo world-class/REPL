@@ -10,7 +10,7 @@
 * [Computer science](#computer-science)
     * [Algorithms](#algorithms)
     * [Articles](#articles)
-    * [Free ebooks](#free-ebooks)
+    * [Free (e)books](#free-ebooks)
 * [LaTeX](#latex)
 * [Mathematics](#mathematics)
     * [Beginner topics](#beginner-topics)
@@ -61,8 +61,9 @@
 ## Articles
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
-## Free ebooks
+## Free (e)books
 - [IT eBooks](http://it-ebooks.info/)
+- [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html), by Harold Abelson, Gerald Jay Sussman and Julie Sussman. *"Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License by the MIT Press."*
 
 # LaTeX
 - [Overleaf](https://www.overleaf.com/) - *"The easy to use, online, collaborative LaTeX editor."*
