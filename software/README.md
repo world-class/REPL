@@ -365,6 +365,7 @@
 
 ### Web browsers
 - :star: [List of free web browsers](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages#Web_browsers)
+- [Vivaldi](https://vivaldi.com/) - *"Vivaldi is a new browser with unrivaled customization and control. Fast, secure and flexible – this is a browser made for you."*
 
 #### Especially useful for web development
 - :star: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (works on all major operating systems)
