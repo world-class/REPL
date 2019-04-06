@@ -12,7 +12,7 @@ level.
 ## The Learning Hub for UoL's Online CS Students :school:
 
 As the first cohort of students enrolling in the 100% online
-[BSc Computer Science offered by Goldsmiths, University of London](https://london.ac.uk/courses/computer-science), 
+[BSc Computer Science offered by Goldsmiths, University of London](https://london.ac.uk/courses/computer-science),
 it is in our interest to cooperate in order to maximize our chances of
 celebrating all together when we graduate.
 
@@ -140,3 +140,4 @@ More options for video conferencing on [this page](/software).
 - Spencer Eick ([@eicksl](https://github.com/eicksl))
 - Sébastien Lavoie ([@sglavoie](https://github.com/sglavoie))
 - [@zubmic](https://github.com/zubmic)
+- Kajetan Maurycy Olszewski ([@kaemo](https://github.com/kaemo))
