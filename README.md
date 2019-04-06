@@ -136,6 +136,7 @@ More options for video conferencing on [this page](/software).
 ## Contributors
 
 - Aleksandar Milosevic ([@amilos](https://github.com/amilos))
+- Ankush Menat ([@amenat](https://github.com/amenat))
 - Chris Castelo ([@ChrisCastelo](https://github.com/ChrisCastelo))
 - Kajetan Maurycy Olszewski ([@kaemo](https://github.com/kaemo))
 - Spencer Eick ([@eicksl](https://github.com/eicksl))
