@@ -1,5 +1,7 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
+# Websites
+
 # Table of contents
 
 <!-- vim-markdown-toc GFM -->
@@ -36,6 +38,8 @@
     * [Buying a domain name](#buying-a-domain-name)
     * [Cloud Computing](#cloud-computing)
     * [Information on websites](#information-on-websites)
+    * [Website annotation](#website-annotation)
+    * [Website testing](#website-testing)
 
 <!-- vim-markdown-toc -->
 
@@ -185,3 +189,11 @@
 
 ## Information on websites
 - [SecurityTrails - DNS Trail](https://securitytrails.com/dns-trails) - Review the history of a domain name.
+
+## Website annotation
+- [Bounce](https://www.bounceapp.com/) - *"A little app from ZURB that lets people add feedback to any interface and toss that back and forth with other people."*
+
+## Website testing
+- [CodePen](https://codepen.io/) - *"CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them.*" ([from Wikipedia](https://en.wikipedia.org/wiki/CodePen))
+- [JSFiddle](https://jsfiddle.net/) - *"JSFiddle is an online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets, known as 'fiddles'. It allows for simulated AJAX calls."* ([from Wikipedia](https://en.wikipedia.org/wiki/JSFiddle))
+
