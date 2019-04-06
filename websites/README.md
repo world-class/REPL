@@ -65,6 +65,7 @@
 - [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/)
 
 ## Articles
+- [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 ## Free (e)books
