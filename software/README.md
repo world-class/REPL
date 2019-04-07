@@ -168,6 +168,8 @@
 - :star: [List of free graphics software](https://en.wikipedia.org/wiki/Category:Free_graphics_software)
 - Graphic art & Office suite
     - :star: [Calligra](https://www.calligra.org/)
+    - :star: [Gimp](https://www.gimp.org/) - *"GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring."* (from [gimp.org](https://www.gimp.org/) (Linux, MacOs, Windows, BSD, Solaris)
+    - :star: [draw.io](https://about.draw.io/integrations/) - *"Create flow charts, process diagrams, org charts, UML diagrams, ER models, network diagrams, and much more."* (from [draw.io](https://about.draw.io/)) (Linux, MacOS, Windows, Browser, ChromeOS)
 
 ### IDE (Integrated Development Environment)
 - [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
