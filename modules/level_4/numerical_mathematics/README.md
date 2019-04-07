@@ -1,5 +1,18 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
+# Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Numerical Mathematics](#numerical-mathematics)
+* [Resources](#resources)
+    * [Notes](#notes)
+    * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
+    * [Reference books](#reference-books)
+
+<!-- vim-markdown-toc -->
+
+---
+
 # Numerical Mathematics
 This module helps hone your skills in thinking abstractly. It also
 introduces you to many of the standard continuous models used to
@@ -13,8 +26,13 @@ functions, graphing and linear algebra.
 
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/Yk0uo/syllabus-numerical-mathematics-cm1015).
 
-# Notes
+# Resources
+## Notes
 - [Anki deck](https://github.com/kaemo/cm1015-anki-deck)
 
-# Reference books
+## On REPL (see relevant sections)
+- [YouTube](../../../youtube/)
+- [Websites](../../../websites/)
+
+## Reference books
 - [Foundation Maths](https://www.dawsonera.com/readonline/9781292095196), Sixth Edition, by Anthony Croft and Robert Davidson.

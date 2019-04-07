@@ -1,5 +1,17 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
+# Table of contents
+
+<!-- vim-markdown-toc GFM -->
+
+* [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
+* [Resources](#resources)
+    * [On REPL](#on-repl)
+
+<!-- vim-markdown-toc -->
+
+---
+
 # Algorithms and Data Structures I
 This module will help you to develop your analytical and problem-solving
 skills. It will encourage you to think about how to use computers to
@@ -15,3 +27,8 @@ learn a simple model for execution of computation, and how to describe
 computational problems and their solutions. The model will allow you
 to compare algorithms regarding their correctness and regarding their
 efficiency.
+
+# Resources
+## On REPL
+- [YouTube](../../../youtube/): See section on algorithms.
+- [Websites](../../../websites/): See section on algorithms.

@@ -1,5 +1,22 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
+# Table of contents
+
+<!-- vim-markdown-toc GFM -->
+
+* [Introduction to Programming I](#introduction-to-programming-i)
+* [Resources](#resources)
+    * [JavaScript](#javascript)
+        * [p5.js - JavaScript library](#p5js---javascript-library)
+    * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
+    * [Sleuth assignments](#sleuth-assignments)
+        * [Tips & Tricks](#tips--tricks)
+    * [Text editor](#text-editor)
+
+<!-- vim-markdown-toc -->
+
+---
+
 # Introduction to Programming I
 This module focuses on basic programming techniques. You'll learn
 how to use the fundamental elements of computer programming such as
@@ -9,27 +26,16 @@ introduced to basic object-oriented programming techniques.
 
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1010).
 
-# Table of contents
-
-<!-- vim-markdown-toc GFM -->
-
-* [Programming resources](#programming-resources)
-    * [JavaScript](#javascript)
-        * [p5.js - JavaScript library](#p5js---javascript-library)
-    * [Sleuth assignments](#sleuth-assignments)
-        * [Tips & Tricks](#tips--tricks)
-    * [Text editor](#text-editor)
-
-<!-- vim-markdown-toc -->
-
-# Programming resources
-
-More resources on YouTube on [this page](../../../youtube/).
-
+# Resources
 ## JavaScript
 ### p5.js - JavaScript library
 - [p5.js](https://p5js.org/) - Official website to find [the reference guide](https://p5js.org/reference) and an [online editor](https://editor.p5js.org/) to practice. Next step: [p5.js libraries](https://p5js.org/libraries/).
 - [The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) - Channel from Daniel Shiffman, a board member of `p5.js`.
+
+## On REPL (see relevant sections)
+- [Podcasts](../../../podcasts/)
+- [Websites](../../../websites/)
+- [YouTube](../../../youtube/)
 
 ## Sleuth assignments
 ### Tips & Tricks

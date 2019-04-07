@@ -1,5 +1,18 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
+# Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Web Development](#web-development)
+* [Resources](#resources)
+    * [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
+    * [Programming](#programming)
+        * [JavaScript](#javascript)
+
+<!-- vim-markdown-toc -->
+
+---
+
 # Web Development
 This module provides you with a foundational web development skillset.
 You will learn the critical languages of the web: HTML, CSS and
@@ -14,6 +27,11 @@ you to present your work online in the form of a website.
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/p88ho/syllabus-web-development-cm1040).
 
 # Resources
+## On REPL (See sections on Web development)
+- [Podcasts](../../../podcasts/)
+- [YouTube](../../../youtube/)
+- [Websites](../../../websites/)
+
 ## Programming
 - [Mozilla Developer Network Tutorials](https://developer.mozilla.org/)
 - [W3 Schools Online Web Tutorials](http://www.w3schools.com/)

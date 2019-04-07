@@ -70,8 +70,6 @@
         * [Virtualization (running other operating system without installation)](#virtualization-running-other-operating-system-without-installation)
         * [Web browsers](#web-browsers)
             * [Especially useful for web development](#especially-useful-for-web-development)
-        * [Website annotation](#website-annotation)
-        * [Website testing](#website-testing)
 
 <!-- vim-markdown-toc -->
 
