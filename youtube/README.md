@@ -41,10 +41,13 @@
 * [Programming](#programming)
     * [Android](#android)
     * [C](#c)
-    * [C++](#c-1)
+    * [C#](#c-1)
+    * [C++](#c-2)
     * [JavaScript](#javascript)
+    * [PHP](#php)
     * [Python](#python)
     * [SQL](#sql)
+        * [PostgreSQL](#postgresql)
     * [Web development](#web-development)
         * [CSS](#css)
 * [Software engineering](#software-engineering)
@@ -204,10 +207,8 @@ Dan Colman
 
 
 # Programming
-
 ## Android
 - [CSSE490: Android Development (Winter 10-11)](https://www.youtube.com/playlist?list=PLBK7yyieyrAYdpaF5Vh1th9EoM49VLFEs) (playlist) - Rose-Hulman Online
-
 
 ## C
 - Beginner
@@ -215,32 +216,34 @@ Dan Colman
         - [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - freeCodeCamp.org
 
 
+## C# #
+- [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4) - Literally a course you can take in 24 hours (23h58m41s)... If you don't sleep. - freeCodeCamp.org
+
 ## C++
 - Beginner
     - Long
         - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - freeCodeCamp.org
 
-
 ## JavaScript
 - Beginner
-    - Short
-        - [JavaScript Tutorial for Beginners: Learn JavaScript Basics in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Programming with Mosh
-        - [p5.js – The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) - Channel from Daniel Shiffman, a board member of `p5.js`.
-    - Longer
-        - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) - Traversy Media
-        - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) - freeCodeCamp.org
-    - Very long
-        - [JavaScript ES6 Tutorial - JavaScript from Basic to Advanced - Build Real World Applications Part 1](https://www.youtube.com/watch?v=wbJWUWJWlaY) - Code Geek
-        - [JavaScript ES6 Tutorial - JavaScript from Basic to Advanced - Build Real World Applications Part 2](https://www.youtube.com/watch?v=t8P6FELv71A) - Code Geek
+    - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) [1h40m] - Traversy Media
+    - [JavaScript ES6 Tutorial - JavaScript from Basic to Advanced - Build Real World Applications Part 1](https://www.youtube.com/watch?v=wbJWUWJWlaY) [7h09m] - Code Geek
+    - [JavaScript ES6 Tutorial - JavaScript from Basic to Advanced - Build Real World Applications Part 2](https://www.youtube.com/watch?v=t8P6FELv71A) [8h51m] - Code Geek
+    - [JavaScript Tutorial for Beginners: Learn JavaScript Basics in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) [48m16s] - Programming with Mosh
+    - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) [3h26m] - freeCodeCamp.org
+    - [p5.js – The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) - Channel from Daniel Shiffman, a board member of `p5.js`.
 
 - More advanced
     - [ECMAScript 6 / ES6 New Features](https://www.youtube.com/watch?v=ZJZfIw3P8No&list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt) - thenewboston
     - [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) - Traversy Media
 
+## PHP
+- [PHP Programming Language - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c) [4h37m] - freeCodeCamp.org
+
 ## Python
 - Beginner
     - Short
-        - [Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) - MIT OpenCourseWare
+        - [Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) (playlist) - MIT OpenCourseWare
         - [Introduction to Python 3 Programming Tutorial](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln) (playlist) - sentdex
         - [Python Programming Tutorials Computer Science](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) (playlist) - Socratica
         - [Python Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) (playlist) - CS Dojo
@@ -256,11 +259,14 @@ Dan Colman
     - Web development with Python
         - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
-
 ## SQL
 - Beginner
-    - Short
-        - [SQL Computer Science](https://www.youtube.com/watch?v=nWyyDHhTxYU&list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt) (playlist) - Socratica
+    - [SQL - Full course for beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) [4h20m] - freeCodeCamp.org
+    - [SQL Computer Science](https://www.youtube.com/watch?v=nWyyDHhTxYU&list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt) (playlist) - Socratica
+
+### PostgreSQL
+- Beginner
+    - [Learn PostgreSQL - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4) [4h19m] - freeCodeCamp.org
 
 
 ## Web development
@@ -270,14 +276,11 @@ Dan Colman
 ### CSS
 - [Bootstrap Grid - CSS Grids Series](https://www.youtube.com/watch?v=Dwzw3hzYcNU&list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw) (playlist) - DevTips
 
-
 # Software engineering
 - [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ) - *"I make fun and informative software engineering videos for a globally diverse audience on topics like JavaScript, Python, C, and Linux.*"
 
-
 # Study skills
 - [CrashCourse Study Skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W) (playlist) - CrashCourse
-
 
 # Virtual reality
 - [CS - Virtual Reality](https://www.youtube.com/playlist?list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUb6dh) (playlist) - NPTEL
