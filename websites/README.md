@@ -13,6 +13,10 @@
     * [Algorithms](#algorithms)
     * [Articles](#articles)
     * [Free (e)books](#free-ebooks)
+* [Data science](#data-science)
+    * [Jupyter](#jupyter)
+    * [Pandas](#pandas)
+    * [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
 * [LaTeX](#latex)
 * [Mathematics](#mathematics)
     * [Beginner topics](#beginner-topics)
@@ -71,6 +75,20 @@
 ## Free (e)books
 - [IT eBooks](http://it-ebooks.info/)
 - [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html), by Harold Abelson, Gerald Jay Sussman and Julie Sussman. *"Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License by the MIT Press."*
+
+# Data science
+## Jupyter
+- [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+- [Six easy ways to run your Jupyter Notebook in the cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
+- [Tutorial: Advanced Jupyter Notebooks](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
+
+## Pandas
+- [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro) - *"This series is about how to make effective use of pandas, a data analysis library for the Python programming language. It's targeted at an intermediate level: people who have some experience with pandas, but are looking to improve."*
+- [Official website](https://pandas.pydata.org/) - *"pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."*
+
+## Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)
+- [Kaggle: Micro-Courses](https://www.kaggle.com/learn/overview) - *"Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."*
+- [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) - *"This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks."*
 
 # LaTeX
 - [Overleaf](https://www.overleaf.com/) - *"The easy to use, online, collaborative LaTeX editor."*
