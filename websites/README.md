@@ -30,6 +30,7 @@
     * [Image hosting](#image-hosting)
 * [Open source](#open-source)
 * [Programming](#programming)
+    * [Basics](#basics)
     * [Coding challenges](#coding-challenges)
     * [iOS](#ios)
         * [Swift](#swift)
@@ -156,6 +157,9 @@
 
 
 # Programming
+## Basics
+- [SoloLearn](https://www.sololearn.com/) - *"Learn on the web and on the go. Available on all major devices and platforms. Always pick up where you left off. More simple and enjoyable than ever!"*
+
 ## Coding challenges
 - [Challenge Rocket](https://challengerocket.com/) - *"Solve a challenge. Test your skills. Get hired."*
 - [Code Abbey](https://www.codeabbey.com/) - Somewhat more beginner-oriented. *"We believe that three things lead to success: Practice, Practice and Practice!"*
