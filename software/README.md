@@ -20,7 +20,7 @@
         * [Automation](#automation)
         * [Burning CDs/DVDs](#burning-cdsdvds)
         * [Code snippets savers](#code-snippets-savers)
-	* [Crossplatform compatiblity](#crossplatform-compatibility)
+        * [Cross-platform compatibility](#cross-platform-compatibility)
         * [Data compression - sending bunch of files and reducing their size](#data-compression---sending-bunch-of-files-and-reducing-their-size)
         * [Data converter](#data-converter)
         * [Data storage & syncronization](#data-storage--syncronization)
@@ -140,8 +140,8 @@
 - :cloud: [Gist](https://gist.github.com/) (from GitHub) - *"Instantly share code, notes, and snippets."*
 - :cloud: [Ideone](https://ideone.com/) - *"Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages."*
 
-### Crossplatform Compatibility
-- :start [Wine](https://www.winehq.org/) - *"Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD."* (Android, Linux, macOs)
+### Cross-platform compatibility
+- :star: [Wine](https://www.winehq.org/) - *"Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD."* (Android, Linux, macOS)
 
 ### Data compression - sending bunch of files and reducing their size
 - :star: [Free data compression software](https://en.wikipedia.org/wiki/Category:Free_data_compression_software)
@@ -172,7 +172,7 @@
 - :star: [List of free graphics software](https://en.wikipedia.org/wiki/Category:Free_graphics_software)
 - Graphic art & Office suite
     - :star: [Calligra](https://www.calligra.org/)
-    - :star: [draw.io](https://about.draw.io/integrations/) - *"Create flow charts, process diagrams, org charts, UML diagrams, ER models, network diagrams, and much more."* (from [draw.io](https://about.draw.io/)) (Linux, MacOS, Windows, Browser, ChromeOS)
+    - :cloud: :star: [draw.io](https://about.draw.io/integrations/) - *"Create flow charts, process diagrams, org charts, UML diagrams, ER models, network diagrams, and much more."* (from [draw.io](https://about.draw.io/)) (Linux, MacOS, Windows, Browser, ChromeOS)
 
 ### IDE (Integrated Development Environment)
 - [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
@@ -235,9 +235,9 @@
 ### Password manager
 - Beginner friendly
     - [Dashlane](https://www.dashlane.com/) (Windows, macOS, Linux, Chromebook)
+    - :star: [KeePass](https://keepass.info/) (Windows, macOS, BSD)
     - :star: [KeePassXC](https://keepassxc.org/) (Windows, macOS, Linux)
     - [LastPass](https://www.lastpass.com/) (Windows, macOS, Linux, Chromebook)
-    - :star: [KeePass](https://keepass.info/) (Windows, macOs, BSD)
 - More advanced
     - :star: [gopass](https://www.gopass.pw/) (Windows, macOS, Linux)
     - :star: [pass](https://www.passwordstore.org/) (Windows, macOS, Linux, Android, iOS)
@@ -278,7 +278,7 @@
 
 #### Note taking
 - :cloud: [Evernote](https://evernote.com/) - *"Evernote is a mobile app designed for note taking, organizing, task lists, and archiving.*" ([from Wikipedia](https://en.wikipedia.org/wiki/Evernote))
-- :star: [Joplin](https://github.com/laurent22/joplin) - *"Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks."* (from [Joplin Github](https://github.com/laurent22/joplin)) (Windows, Linux, macOs, Android, iOS).
+- :star: [Joplin](https://github.com/laurent22/joplin) - *"Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks."* (from [Joplin Github](https://github.com/laurent22/joplin)) (Windows, Linux, macOS, Android, iOS).
 
 #### Tasks and project management
 - :cloud: [Asana](https://asana.com/) - *Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business.*

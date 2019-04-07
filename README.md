@@ -140,6 +140,6 @@ More options for video conferencing on [this page](/software).
 - Ankush Menat ([@amenat](https://github.com/amenat))
 - Chris Castelo ([@ChrisCastelo](https://github.com/ChrisCastelo))
 - Kajetan Maurycy Olszewski ([@kaemo](https://github.com/kaemo))
+- Michał Żuber ([@zubmic](https://github.com/zubmic))
 - Spencer Eick ([@eicksl](https://github.com/eicksl))
 - Sébastien Lavoie ([@sglavoie](https://github.com/sglavoie))
-- Michał Żuber [@zubmic](https://github.com/zubmic)
