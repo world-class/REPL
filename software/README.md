@@ -139,6 +139,8 @@
 - :cloud: [Gist](https://gist.github.com/) (from GitHub) - *"Instantly share code, notes, and snippets."*
 - :cloud: [Ideone](https://ideone.com/) - *"Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages."*
 
+### Crossplatform Compatibility
+- :start [Wine](https://www.winehq.org/) - *"Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD."* (Android, Linux, macOs)
 ### Data compression - sending bunch of files and reducing their size
 - :star: [Free data compression software](https://en.wikipedia.org/wiki/Category:Free_data_compression_software)
 
@@ -155,7 +157,7 @@
 
 ### Ebook readers
 - :star: [Calibre](https://calibre-ebook.com/) (Windows, macOS, Linux)
-- [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) (Windows, macOS, Android, iOS)
+- [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) (Windows, macOS, Android, iOS, Linux - installed by Wine)
 - :cloud: [Kindle Cloud Reader](https://read.amazon.com/) (Windows, macOS, Linux)
 
 ### Format checker & validator
@@ -168,7 +170,6 @@
 - :star: [List of free graphics software](https://en.wikipedia.org/wiki/Category:Free_graphics_software)
 - Graphic art & Office suite
     - :star: [Calligra](https://www.calligra.org/)
-    - :star: [Gimp](https://www.gimp.org/) - *"GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring."* (from [gimp.org](https://www.gimp.org/) (Linux, MacOs, Windows, BSD, Solaris)
     - :star: [draw.io](https://about.draw.io/integrations/) - *"Create flow charts, process diagrams, org charts, UML diagrams, ER models, network diagrams, and much more."* (from [draw.io](https://about.draw.io/)) (Linux, MacOS, Windows, Browser, ChromeOS)
 
 ### IDE (Integrated Development Environment)
@@ -234,6 +235,7 @@
     - [Dashlane](https://www.dashlane.com/) (Windows, macOS, Linux, Chromebook)
     - :star: [KeePassXC](https://keepassxc.org/) (Windows, macOS, Linux)
     - [LastPass](https://www.lastpass.com/) (Windows, macOS, Linux, Chromebook)
+    - :star: [KeePass](https://keepass.info/) (Windows, macOs, BSD)
 - More advanced
     - :star: [gopass](https://www.gopass.pw/) (Windows, macOS, Linux)
     - :star: [pass](https://www.passwordstore.org/) (Windows, macOS, Linux, Android, iOS)
