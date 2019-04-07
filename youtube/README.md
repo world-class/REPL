@@ -69,14 +69,14 @@
 Dan Colman
 
 ## General learning
-- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/) - *"I'm on a warpath to inspire and educate developers to build Artificial Intelligence. Games, music, chatbots, art, I'll teach you how to make it all yourself."*
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/) (channel) - *"I'm on a warpath to inspire and educate developers to build Artificial Intelligence. Games, music, chatbots, art, I'll teach you how to make it all yourself."*
 
 ## Machine learning
 - [Machine Learning Course - CS 156](https://www.youtube.com/playlist?list=PLD63A284B7615313A) (playlist) - caltech
 - [Neural Networks for Machine Learning - Geoffrey Hinton 2016](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) (playlist) - Colin McDonnell
 
 ## Research
-- [Two Minute Papers](https://www.youtube.com/user/keeroyz/) - *"Awesome research for everyone."*
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz/) (channel) - *"Awesome research for everyone."*
 
 ## Robotics
 - [Introduction to Robotics](https://www.youtube.com/view_play_list?p=65CC0384A1798ADF&search_query=Artificial+Intelligence++Introduction+to+Robotics) (playlist) - Stanford
@@ -84,7 +84,7 @@ Dan Colman
 
 # Computer science
 - [CrashCourse Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) (playlist) - CrashCourse
-- [Computerphile](https://www.youtube.com/user/Computerphile/) - *"Videos all about computers and computer stuff. Sister channel of Numberphile."*
+- [Computerphile](https://www.youtube.com/user/Computerphile/) (channel) - *"Videos all about computers and computer stuff. Sister channel of Numberphile."*
 - [UC Berkeley CS10 Beauty and Joy of Computing Fa10 (1080p HD)](https://www.youtube.com/playlist?list=PLECBD29A17AAF6EF9) (playlist) - Dan Garcia
 
 ## Algorithms
@@ -124,13 +124,13 @@ Dan Colman
 
 
 ## Raster graphics (JPEG, PNG, GIF, TIFF, BMP, PSD, PSB, etc.)
-- :heavy_dollar_sign: [Photoshop Tutorials](https://www.youtube.com/user/NewWorldOps) - Photoshop Tutorials
-- :star: [Tutorials with GIMP](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) - Logos By Nick
+- :heavy_dollar_sign: [Photoshop Tutorials](https://www.youtube.com/user/NewWorldOps) (channel) - Photoshop Tutorials
+- :star: [Tutorials with GIMP](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) (channel) - Logos By Nick
 
 
 ## Vector graphics, 2D (SVG, CGM, AI, CDR, ODG, XPS, DXF, etc.)
-- :heavy_dollar_sign: [Logo design in Adobe Illustrator](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw/) - Mohamed Achraf
-- :star: [Tutorials with Inkscape](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) - Logos By Nick
+- :heavy_dollar_sign: [Logo design in Adobe Illustrator](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw/) (channel) - Mohamed Achraf
+- :star: [Tutorials with Inkscape](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w) (channel) - Logos By Nick
 
 
 # Mathematics
@@ -139,7 +139,7 @@ Dan Colman
 - [Mathematics for Computer Science (2015)](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ) (playlist) - MIT OpenCourseWare
 
 ## Beginner-oriented
-- [Eddie Woo](https://www.youtube.com/user/misterwootube/) - Covers topics ranging from quadratic equations, graphing, functions, factorization, probability, trigonometry, series on finances, calculus, geometry, series & sequences, etc.
+- [Eddie Woo](https://www.youtube.com/user/misterwootube/) (channel) - Covers topics ranging from quadratic equations, graphing, functions, factorization, probability, trigonometry, series on finances, calculus, geometry, series & sequences, etc.
 
 ## Calculus
 - Beginner
@@ -168,7 +168,7 @@ Dan Colman
 - [Computer Sc - Discrete Mathematical Structures](https://www.youtube.com/view_play_list?p=0862D1A947252D20) (playlist) - Kamala Krithivasan
 
 # General topics
-- [Numberphile](https://www.youtube.com/user/numberphile/) - *"Videos about numbers - it's that simple."*
+- [Numberphile](https://www.youtube.com/user/numberphile/) (channel) - *"Videos about numbers - it's that simple."*
 
 ## Linear algebra
 - Beginner
@@ -199,7 +199,7 @@ Dan Colman
 - [IIT Madras – Regression analysis](https://www.youtube.com/playlist?list=PLbMVogVj5nJSpj5sl-8tdKARg1lw2wEa-) (playlist) - NPTEL
 
 ## Topology
-- [Algebraic Topology: a beginner's course - N J Wildberger](https://www.youtube.com/course?list=EC41FDABC6AA085E78) - UNSWelearning
+- [Algebraic Topology: a beginner's course - N J Wildberger](https://www.youtube.com/course?list=EC41FDABC6AA085E78) (playlist) - UNSWelearning
 - [IIT Madras – Topology](https://www.youtube.com/playlist?list=PLbMVogVj5nJRR7zYZifYopb52zjoScx1d) (playlist) - NPTEL
 
 ## Trigonometry
@@ -212,17 +212,15 @@ Dan Colman
 
 ## C
 - Beginner
-    - Long
-        - [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - freeCodeCamp.org
+    - [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) [3h46m] - freeCodeCamp.org
 
 
 ## C# #
-- [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4) - Literally a course you can take in 24 hours (23h58m41s)... If you don't sleep. - freeCodeCamp.org
+- [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4) [24h00m] - Literally a course you can take in 24 hours... If you don't sleep. - freeCodeCamp.org
 
 ## C++
 - Beginner
-    - Long
-        - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - freeCodeCamp.org
+    - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) [4h01m] - freeCodeCamp.org
 
 ## JavaScript
 - Beginner
@@ -234,30 +232,27 @@ Dan Colman
     - [p5.js – The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) - Channel from Daniel Shiffman, a board member of `p5.js`.
 
 - More advanced
-    - [ECMAScript 6 / ES6 New Features](https://www.youtube.com/watch?v=ZJZfIw3P8No&list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt) - thenewboston
-    - [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) - Traversy Media
+    - [ECMAScript 6 / ES6 New Features](https://www.youtube.com/watch?v=ZJZfIw3P8No&list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt) (playlist) - thenewboston
+    - [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) [1h30m] - Traversy Media
 
 ## PHP
 - [PHP Programming Language - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c) [4h37m] - freeCodeCamp.org
 
 ## Python
 - Beginner
-    - Short
-        - [Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) (playlist) - MIT OpenCourseWare
-        - [Introduction to Python 3 Programming Tutorial](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln) (playlist) - sentdex
-        - [Python Programming Tutorials Computer Science](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) (playlist) - Socratica
-        - [Python Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) (playlist) - CS Dojo
-        - [Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) (playlist) - Corey Schafer
-    - Longer
-        - [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) - freeCodeCamp.org
-    - Very long
-        - [Python Tutorial for Beginners - Full Python Programming Course](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Programming with Mosh
+    - [Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) (playlist) - MIT OpenCourseWare
+    - [Introduction to Python 3 Programming Tutorial](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln) (playlist) - sentdex
+    - [Python Programming Tutorials Computer Science](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) (playlist) - Socratica
+    - [Python Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) (playlist) - CS Dojo
+    - [Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) (playlist) - Corey Schafer
+    - [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) [4h27m] - freeCodeCamp.org
+    - [Python Tutorial for Beginners - Full Python Programming Course](https://www.youtube.com/watch?v=_uQrJ0TkZlc) [6h14m] - Programming with Mosh
 
 - More advanced
     - Machine learning & deep learning
-        - [sentdex](https://www.youtube.com/user/sentdex/)
+        - [sentdex](https://www.youtube.com/user/sentdex/) (channel)
     - Web development with Python
-        - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+        - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) (channel)
 
 ## SQL
 - Beginner
@@ -270,14 +265,14 @@ Dan Colman
 
 
 ## Web development
-- [Web Development Tutorial For Beginners](https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G) - LearnCode.academy
+- [Web Development Tutorial For Beginners](https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G) (playlist) - LearnCode.academy
 - [Learn HTML/CSS](https://www.youtube.com/watch?v=iHZWS61Vyxk&list=PLMvLDJ7usmZDSg1z0X--3qz38IHjdieXR) (playlist) - Neil Rowe
 
 ### CSS
 - [Bootstrap Grid - CSS Grids Series](https://www.youtube.com/watch?v=Dwzw3hzYcNU&list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw) (playlist) - DevTips
 
 # Software engineering
-- [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ) - *"I make fun and informative software engineering videos for a globally diverse audience on topics like JavaScript, Python, C, and Linux.*"
+- [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ) (channel) - *"I make fun and informative software engineering videos for a globally diverse audience on topics like JavaScript, Python, C, and Linux.*"
 
 # Study skills
 - [CrashCourse Study Skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W) (playlist) - CrashCourse
