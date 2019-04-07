@@ -20,6 +20,7 @@
         * [Automation](#automation)
         * [Burning CDs/DVDs](#burning-cdsdvds)
         * [Code snippets savers](#code-snippets-savers)
+	* [Crossplatform compatiblity](#crossplatform-compatibility)
         * [Data compression - sending bunch of files and reducing their size](#data-compression---sending-bunch-of-files-and-reducing-their-size)
         * [Data converter](#data-converter)
         * [Data storage & syncronization](#data-storage--syncronization)
@@ -141,6 +142,7 @@
 
 ### Crossplatform Compatibility
 - :start [Wine](https://www.winehq.org/) - *"Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD."* (Android, Linux, macOs)
+
 ### Data compression - sending bunch of files and reducing their size
 - :star: [Free data compression software](https://en.wikipedia.org/wiki/Category:Free_data_compression_software)
 
