@@ -30,6 +30,7 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 ## JavaScript
 ### p5.js - JavaScript library
 - [p5.js](https://p5js.org/) - Official website to find [the reference guide](https://p5js.org/reference) and an [online editor](https://editor.p5js.org/) to practice. Next step: [p5.js libraries](https://p5js.org/libraries/).
+    - [Examples](https://p5js.org/examples/) are also available to get started.
 - [The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) - Channel from Daniel Shiffman, a board member of `p5.js`.
 
 ## On REPL (see relevant sections)
@@ -41,7 +42,7 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 ### Tips & Tricks
 - Get familiar with finding precise coordinates in an image inside Brackets (text editor).
 - Practice all basic drawing functions with `p5.js` in the [online editor](https://editor.p5js.org/) before attempting to solve crimes.
-- You have a maximum number of three (3) attempts for each case: go ahead when you are pretty confident you are on the right path on your first attempt.
+- You have a maximum number of attempts for each case: go ahead when you are pretty confident you are on the right path on your first attempt. You will have to wait a certain amount of time (about 24 hours) before you can attempt to solve the crime again.
 
 ## Text editor
 The recommended text editor for this module is [Brackets](http://brackets.io/). More options available on the [free software page](../../../software/).
