@@ -32,8 +32,10 @@ it. :+1:**
 
 - On this page
     1. [Modules in the curriculum](#modules-in-the-curriculum)
-    2. [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
-    3. [Contacting each other](#contacting-each-other)
+    2. [Calendar due dates and events](#calendar-due-dates-and-events)
+    3. [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
+    4. [Contacting each other](#contacting-each-other)
+    5. [Contributors](#contributors)
 
 
 - Other resources
@@ -86,6 +88,10 @@ final project must also be completed to graduate.
 
 ### Level 6 - Final project
 - [Final Project](modules/level_6/final_project) (CM3070-01)
+
+
+## Calendar due dates and events
+Find out what, when and where things are happening with this [Google Calendar](https://calendar.google.com/calendar/r?cid=cG1hYW9mNTVhcmIzYWt1OTBkMm41Ymhhc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 
 ## Documents and resources provided publicly by the University of London
