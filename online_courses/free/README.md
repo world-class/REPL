@@ -60,8 +60,10 @@
     - Machine Learning: Clustering & Retrieval
 
 ### Next steps
-- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/) - Coursera. Offered by [deeplearning.ai](https://www.deeplearning.ai/).
 - [Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model) - Coursera. Duke University.
+- TensorFlow Specialization - Coursera. Offered by [deeplearning.ai](https://www.deeplearning.ai/). Includes:
+    - [Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
+    - [Course 2: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 
 #### Complementary topics
 - [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars) - Coursera. Offered by University of Toronto. Includes:
