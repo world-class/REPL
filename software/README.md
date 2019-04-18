@@ -278,7 +278,8 @@
 
 #### Note taking
 - :cloud: [Evernote](https://evernote.com/) - *"Evernote is a mobile app designed for note taking, organizing, task lists, and archiving.*" ([from Wikipedia](https://en.wikipedia.org/wiki/Evernote))
-- :star: [Joplin](https://github.com/laurent22/joplin) - *"Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks."* (from [Joplin Github](https://github.com/laurent22/joplin)) (Windows, Linux, macOS, Android, iOS).
+- :star: [Joplin](https://github.com/laurent22/joplin) (Windows, Linux, macOS, Android, iOS) - *"Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks."* (from [Joplin Github](https://github.com/laurent22/joplin))
+- :star: :cloud: [Simplenote](https://simplenote.com/) (Windows, Mac, Linux, Android, iOS, web) - *The simplest way to keep notes. Light, clean, and free.*
 
 #### Tasks and project management
 - :cloud: [Asana](https://asana.com/) - *Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business.*
