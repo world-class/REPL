@@ -22,6 +22,7 @@
     * [Beginner topics](#beginner-topics)
     * [Calculus](#calculus)
     * [Linear Algebra](#linear-algebra)
+    * [Modular arithmetic](#modular-arithmetic)
     * [Online tools](#online-tools)
     * [Statistics](#statistics)
 * [Online services](#online-services)
@@ -109,6 +110,9 @@
 - [Applied Linear Algebra 1](https://open.math.uwaterloo.ca/4?gid=314) - University of Waterloo (Canada).
 - Problem sets
     - [PDF] [Exercises and Problems in Linear Algebra, Portland State University](https://web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf), Version July 13, 2014
+
+## Modular arithmetic
+- [Modular arithmetic](https://modular-arithmetic.appspot.com/#modularArithmetic) - Clear, simple explanations: _"Numbers in a given modulo "wrap around". They reach a certain value, and then continue from the beginning up to that value. Then, begin again. [...]"_
 
 ## Online tools
 - [Desmos](https://www.desmos.com/) - *"Graph functions, plot data, evaluate equations, explore transformations, and much more – for free!"*

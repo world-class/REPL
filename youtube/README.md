@@ -32,6 +32,7 @@
     * [Discrete mathematics](#discrete-mathematics)
 * [General topics](#general-topics)
     * [Linear algebra](#linear-algebra)
+    * [Modular arithmetic](#modular-arithmetic)
     * [Numerical analysis](#numerical-analysis)
     * [Probability & statistics](#probability--statistics)
     * [Real analysis](#real-analysis)
@@ -178,6 +179,9 @@ Dan Colman
     - [IIT Madras - Linear Algebra](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7) (playlist) - NPTEL
     - [MIT 18.06 Linear Algebra (2005)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) (playlist) - MIT OpenCourseWare
     - [MIT 18.06SC Linear Algebra (2011)](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PL221E2BBF13BECF6C) (playlist) - MIT OpenCourseWare
+
+## Modular arithmetic
+- [Modular Arithmetic and Algorithms](https://www.youtube.com/watch?v=akfFEj7oTn0&list=PLjyyswMG9g9A0bI2SLnIiWANzSKrEuVYK) (playlist) - Samuel Chukwuemeka
 
 ## Numerical analysis
 - [IIT Bombay – Elementary Numerical Analysis](https://www.youtube.com/playlist?list=PLbMVogVj5nJTtsC5V9n452YKc4mJAhrmm) (playlist) - NPTEL
