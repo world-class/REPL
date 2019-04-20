@@ -8,6 +8,7 @@
 * [Resources](#resources)
     * [JavaScript](#javascript)
         * [p5.js - JavaScript library](#p5js---javascript-library)
+    * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
     * [Sleuth assignments](#sleuth-assignments)
         * [Tips & Tricks](#tips--tricks)
@@ -32,6 +33,9 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 - [p5.js](https://p5js.org/) - Official website to find [the reference guide](https://p5js.org/reference) and an [online editor](https://editor.p5js.org/) to practice. Next step: [p5.js libraries](https://p5js.org/libraries/).
     - [Examples](https://p5js.org/examples/) are also available to get started.
 - [The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) - Channel from Daniel Shiffman, a board member of `p5.js`.
+
+## Kinks to be aware of
+- [List of reported errors and bugs with the module](../../../kinks/level4/introduction_to_programming_i/).
 
 ## On REPL (see relevant sections)
 - [Podcasts](../../../podcasts/)
