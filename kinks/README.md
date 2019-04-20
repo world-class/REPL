@@ -4,10 +4,14 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Kinks found in Level 4 modules](#kinks-found-in-level-4-modules)
+    * [Introduction to programming I](#introduction-to-programming-i)
     * [Numerical mathematics](#numerical-mathematics)
 
 <!-- vim-markdown-toc -->
 
 # Kinks found in Level 4 modules
+## Introduction to programming I
+- See [this page](../kinks/level4/introduction_to_programming_i/README.md).
+
 ## Numerical mathematics
-- Please refer to [the main page of the module](../modules/level_4/numerical_mathematics/README.md).
+- See [this page](../kinks/level4/numerical_mathematics/README.md).
