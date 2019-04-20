@@ -21,10 +21,10 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 ## Week 1
 ### Video: 1.001 Introduction to number bases and modular arithmetic
-- At 11:16, (255, 255, 255) is white, not blue.
+- At 11:16, `(255, 255, 255)` is **white**, not blue.
 
 ### Video: 1.101 Introduction to number bases
-- At 11:34: Wrong. Each column is a power of 60, so it should be times 1, times 60 and times 3600.
+- At 11:34: Wrong. Each column is a power of 60, so it should be times `1`, times `60` and times `3600`.
 
 
 ### Video: 1.107 Place value for fractional numbers: binary
@@ -32,7 +32,13 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 ### Practice quiz: 1.110 Rational and irrational numbers: decimal and binary
 - Answers should be given without spaces.
-- When a repeating fractional part is present, the answer should be written as `i.rr...`, where `i` stands for **integer part**, **r** is the repeating fraction and one must include three dots at the end. Example: `3.12121212121212` is written as `3.1212...`.
+- When a repeating fractional part is present, the answer should be written as `i.rr...`, where `i` stands for **integer part**, `r` is the **repeating** fraction and one must include three dots at the end. Example:
+
+    3.12121212121212
+
+  is written as
+  
+    3.1212...
 
 ## Week 2
 ### Video: 1.401 Octal and hexadecimal (integer)
@@ -46,9 +52,18 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - 73.06 in octal is 111011.00011 in binary
 
 ### Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal
-- At 7:38: This is wrong. `C` (base 16) = 12 (base 10) = 1100 (base 2), not 1101.
-- At 11:24: The grouping of digits is wrong. `1.001.111 1` in binary should read `1 001.111 1`, having only one radix point.
-- At 11:37: It is said the answer is 11.71 (base 8). Wrong: It's 11.74 (base 8).
+- At 7:38, this is wrong. `C` (base 16) = 12 (base 10) = 1100 (base 2), not 1101.
+- At 11:24, The grouping of digits is wrong.
+
+    1.001.111 1
+
+  in binary should read
+
+    1 001.111 1
+
+  having only one radix point.
+
+- At 11:37, it is said the answer is `11.71` (base 8). Wrong: It's `11.74` (base 8).
 
 ### Practice quiz: 1.406 Translate between binary and hexadecimal/octal
 - Question 6: `73.06` (base 8) *is* `111011.00011` in binary.
