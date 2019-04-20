@@ -5,6 +5,7 @@
 
 * [Numerical Mathematics](#numerical-mathematics)
 * [Resources](#resources)
+    * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [Notes](#notes)
     * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
     * [Reference books](#reference-books)
@@ -27,6 +28,9 @@ functions, graphing and linear algebra.
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/Yk0uo/syllabus-numerical-mathematics-cm1015).
 
 # Resources
+## Kinks to be aware of
+- [List of reported errors and bugs with the module](../../../kinks/level4/numerical_mathematics/).
+
 ## Notes
 - [Anki deck](https://github.com/kaemo/cm1015-anki-deck)
 
