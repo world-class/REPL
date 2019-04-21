@@ -3,7 +3,7 @@
 # Table of contents
 <!-- vim-markdown-toc GFM -->
 
-* [Introduction to programming I](#introduction-to-programming-i)
+* [Introduction to programming I - Reported problems](#introduction-to-programming-i---reported-problems)
     * [Sleuth cases](#sleuth-cases)
         * [101, stage 3](#101-stage-3)
         * [201, stage 4](#201-stage-4)
@@ -19,7 +19,7 @@
 <!-- vim-markdown-toc -->
 
 
-# Introduction to programming I
+# Introduction to programming I - Reported problems
 This page is about the [Introduction to programming I module](../../../modules/level_4/introduction_to_programming_i/).
 
 ## Sleuth cases

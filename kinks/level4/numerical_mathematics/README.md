@@ -3,7 +3,7 @@
 # Table of contents
 <!-- vim-markdown-toc GFM -->
 
-* [Numerical Mathematics](#numerical-mathematics)
+* [Numerical Mathematics - Reported problems](#numerical-mathematics---reported-problems)
     * [Week 1](#week-1)
         * [Video: 1.001 Introduction to number bases and modular arithmetic](#video-1001-introduction-to-number-bases-and-modular-arithmetic)
         * [Video: 1.101 Introduction to number bases](#video-1101-introduction-to-number-bases)
@@ -22,7 +22,7 @@
 
 <!-- vim-markdown-toc -->
 
-# Numerical Mathematics
+# Numerical Mathematics - Reported problems
 This page is about the [numerical mathematics module](../../../modules/level_4/numerical_mathematics/).
 
 ## Week 1
