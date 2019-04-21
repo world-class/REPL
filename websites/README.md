@@ -23,6 +23,7 @@
     * [Calculus](#calculus)
     * [Linear Algebra](#linear-algebra)
     * [Modular arithmetic](#modular-arithmetic)
+    * [Number bases](#number-bases)
     * [Online tools](#online-tools)
     * [Statistics](#statistics)
 * [Online services](#online-services)
@@ -113,6 +114,9 @@
 
 ## Modular arithmetic
 - [Modular arithmetic](https://modular-arithmetic.appspot.com/#modularArithmetic) - Clear, simple explanations: _"Numbers in a given modulo "wrap around". They reach a certain value, and then continue from the beginning up to that value. Then, begin again. [...]"_
+
+## Number bases
+- [Multiplication in base five](https://www.basic-mathematics.com/multiplication-in-base-five.html).
 
 ## Online tools
 - [Desmos](https://www.desmos.com/) - *"Graph functions, plot data, evaluate equations, explore transformations, and much more – for free!"*
