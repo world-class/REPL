@@ -11,9 +11,12 @@
         * [Practice quiz: 1.110 Rational and irrational numbers: decimal and binary](#practice-quiz-1110-rational-and-irrational-numbers-decimal-and-binary)
     * [Week 2](#week-2)
         * [Video: 1.401 Octal and hexadecimal (integer)](#video-1401-octal-and-hexadecimal-integer)
+        * [Practice quiz: 1.404 Translate between decimal and hexadecimal or octal (fractional)](#practice-quiz-1404-translate-between-decimal-and-hexadecimal-or-octal-fractional)
         * [Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal](#video-1405-special-relationship-between-binary-and-hexadecimal-and-binary-and-octal)
         * [Practice quiz: 1.406 Translate between binary and hexadecimal/octal](#practice-quiz-1406-translate-between-binary-and-hexadecimaloctal)
         * [Practice quiz: 1.602 Arithmetic in hexadecimal/octal](#practice-quiz-1602-arithmetic-in-hexadecimaloctal)
+    * [Week 6](#week-6)
+        * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
 
 <!-- vim-markdown-toc -->
 
@@ -49,6 +52,9 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - At 6:01, the hexadecimal number `11F` should have an expansion starting with `1 × 16^2`, not `1 × 16 (base 2)` as displayed.
 - In the quiz at 6:29, the third answer is 256, not 64. The last part is asking in the quiz for multiples in binary while the answer is given for hexadecimal.
 
+### Practice quiz: 1.404 Translate between decimal and hexadecimal or octal (fractional)
+- `3.44` in octal is `3 + 1/2 + 1/16`, not `3 + 1/2 + 1/32`.
+
 ### Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal
 - At 7:38, this is wrong. `C` (base 16) = 12 (base 10) = 1100 (base 2), not 1101.
 - At 11:24, The grouping of digits is wrong.
@@ -68,3 +74,8 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 ### Practice quiz: 1.602 Arithmetic in hexadecimal/octal
 - `6D * 60` in hexadecimal is `28E0`.
+- `6C * 3B` in hexadecimal is `18E4`.
+
+## Week 6
+### Lesson 3.1: Video 3.101 Cartesian coordinates
+- There is no sound.
