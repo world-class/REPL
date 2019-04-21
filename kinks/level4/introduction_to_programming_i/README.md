@@ -31,6 +31,7 @@ This page is about the [Introduction to programming I module](../../../modules/l
   where `R`, `G` and `B` stand for **red**, **green**, **blue** and can have values from 0 to 255 and `A` stands for **alpha** and is optional. In this case, a value of about `100` is fine so you can see through the shape being drawn.
 
 ### 201, stage 4
+- Some students were given cases where body parts of the judge are missing (i.e., legs appear outside the canvas, for instance). In those cases, you may be better off just failing all your attempts and wait for a new randomized case to be given to you as you probably won't be able to get 100%.
 - If your answer isn't accepted, try increasing the number of times you have `vertex()` in your code. Answers including at least 40 to 50 vertices have been reported to work better.
 - You should only use `beginShape();`, `vertex(x1, y1);` and `endShape(CLOSE);` in your code.
 
