@@ -30,6 +30,7 @@
     * [Complex analysis](#complex-analysis)
     * [Differential equations](#differential-equations)
     * [Discrete mathematics](#discrete-mathematics)
+* [Encryption](#encryption)
 * [General topics](#general-topics)
     * [Linear algebra](#linear-algebra)
     * [Modular arithmetic](#modular-arithmetic)
@@ -167,6 +168,9 @@ Dan Colman
 
 ## Discrete mathematics
 - [Computer Sc - Discrete Mathematical Structures](https://www.youtube.com/view_play_list?p=0862D1A947252D20) (playlist) - Kamala Krithivasan
+
+# Encryption
+- [RSA algorithm](https://www.youtube.com/watch?v=Py06YA4dfKE) - from CS50's videos.
 
 # General topics
 - [Numberphile](https://www.youtube.com/user/numberphile/) (channel) - *"Videos about numbers - it's that simple."*
