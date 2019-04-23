@@ -15,6 +15,9 @@
         * [Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal](#video-1405-special-relationship-between-binary-and-hexadecimal-and-binary-and-octal)
         * [Practice quiz: 1.406 Translate between binary and hexadecimal/octal](#practice-quiz-1406-translate-between-binary-and-hexadecimaloctal)
         * [Practice quiz: 1.602 Arithmetic in hexadecimal/octal](#practice-quiz-1602-arithmetic-in-hexadecimaloctal)
+    * [Week 3](#week-3)
+        * [Lesson 1.10: Video 1.1006 Mod, rem and division](#lesson-110-video-11006-mod-rem-and-division)
+        * [Lesson 1.11: Video 1.1101 Encryption using modular arithmetic](#lesson-111-video-11101-encryption-using-modular-arithmetic)
     * [Week 4](#week-4)
         * [Lesson 2.2: Video 2.201 Arithmetic progressions](#lesson-22-video-2201-arithmetic-progressions)
     * [Week 6](#week-6)
@@ -78,6 +81,17 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Practice quiz: 1.602 Arithmetic in hexadecimal/octal
 - `6D * 60` in hexadecimal is `28E0`.
 - `6C * 3B` in hexadecimal is `18E4`.
+
+## Week 3
+### Lesson 1.10: Video 1.1006 Mod, rem and division
+- At 1:49, the expression isn't rendered properly (the congruence symbol doesn't appear). Subsequent expressions also present this issue.
+
+### Lesson 1.11: Video 1.1101 Encryption using modular arithmetic
+- At 3:43, a banner appears in the background and has nothing to do with was it being taught.
+- At 4:40 and 4:52, the congruence symbol is not rendered properly.
+- At 6:04, it should be `c^7`, not `c^3`.
+- At 8:43, the equation appears in the background and can't be read.
+- At 11:28, again the expression can't be read.
 
 ## Week 4
 ### Lesson 2.2: Video 2.201 Arithmetic progressions
