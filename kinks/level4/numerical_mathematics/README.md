@@ -88,10 +88,19 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 ### Lesson 1.11: Video 1.1101 Encryption using modular arithmetic
 - At 3:43, a banner appears in the background and has nothing to do with was it being taught.
-- At 4:40 and 4:52, the congruence symbol is not rendered properly.
-- At 6:04, it should be `c^7`, not `c^3`.
-- At 8:43, the equation appears in the background and can't be read.
-- At 11:28, again the expression can't be read.
+- At 4:40 and 4:52, the congruence symbol is not rendered properly:
+    
+    C ≡ M^e (mod p)
+
+- At 6:04, it should be `C^7 (mod 11)`, not `C^3 (mod 11)`.
+- At 8:43, the equation appears in the background and can't be read. The equation is:
+
+    ed = 3 × 7 is 21
+
+- At 11:28, again the expression can't be read. The expression is:
+
+    a^p ≡ a (mod p)
+
 
 ## Week 4
 ### Lesson 2.2: Video 2.201 Arithmetic progressions
