@@ -11,17 +11,20 @@
     * [Machine learning](#machine-learning)
     * [Next steps](#next-steps)
         * [Complementary topics](#complementary-topics)
+* [Business](#business)
 * [Command-line (terminal, shell)](#command-line-terminal-shell)
 * [Computer science](#computer-science)
     * [Algorithms](#algorithms)
     * [Blockchain technology](#blockchain-technology)
     * [Cloud computing](#cloud-computing)
     * [Security](#security)
+* [Data science](#data-science)
+    * [Machine learning](#machine-learning-1)
 * [Databases](#databases)
 * [Foreign languages](#foreign-languages)
     * [Spanish](#spanish)
         * [Artificial intelligence](#artificial-intelligence)
-            * [Machine learning](#machine-learning-1)
+            * [Machine learning](#machine-learning-2)
         * [Cloud computing](#cloud-computing-1)
         * [Programming](#programming)
         * [Web development](#web-development)
@@ -72,6 +75,9 @@
     - Visual Perception for Self-Driving Cars
     - Motion Planning for Self-Driving Cars
 
+## Business
+- [Launching Breakthrough Technologies](https://www.edx.org/course/launching-breakthrough-technologies) - edX. Offered by Harvard University.
+
 
 ## Command-line (terminal, shell)
 - [Command Line Essentials: Git Bash for Windows](https://www.udemy.com/git-bash/) - Udemy. *"A step-by-step guide for Windows users unfamiliar with Bash or the terminal environment."*
@@ -118,6 +124,9 @@
 - [Security and Privacy for Big Data - Part 1](https://www.coursera.org/learn/security-privacy-big-data) - Coursera. Offered by Digital Academy.
 - [Security and Privacy for Big Data - Part 2](https://www.coursera.org/learn/security-privacy-big-data-protection) - Coursera. Offered by Digital Academy.
 
+## Data science
+### Machine learning
+- [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning) - edX. Offered by Harvard University. Includes: R basics, visualization, probability, inference and modeling, productivity tools, wrangling, linear regression, machine learning, capstone.
 
 ## Databases
 - [Database systems Specialization](https://www.coursera.org/specializations/database-systems) - Coursera. Includes:
