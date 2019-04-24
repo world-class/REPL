@@ -19,6 +19,7 @@
         * [Lesson 1.10: Video 1.1006 Mod, rem and division](#lesson-110-video-11006-mod-rem-and-division)
         * [Lesson 1.11: Video 1.1101 Encryption using modular arithmetic](#lesson-111-video-11101-encryption-using-modular-arithmetic)
     * [Week 4](#week-4)
+        * [Lesson 2.1: Video 2.103 Defining sequences](#lesson-21-video-2103-defining-sequences)
         * [Lesson 2.2: Video 2.201 Arithmetic progressions](#lesson-22-video-2201-arithmetic-progressions)
     * [Week 6](#week-6)
         * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
@@ -103,6 +104,9 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 
 ## Week 4
+### Lesson 2.1: Video 2.103 Defining sequences
+- Audio is out of sync from 15:19 onward: please refer to the transcript to better follow along.
+
 ### Lesson 2.2: Video 2.201 Arithmetic progressions
 - The video doesn't match the transcript and is missing from the module. For now, the video can be downloaded [from this link](https://www.dropbox.com/s/ct3v62zv1ka1pka/2_201_arithmetic_progression.mp4?dl=1). If you want to add subtitles, you can [download them here](https://www.dropbox.com/s/e73v0r27bosggqi/2_201_subtitles-en.vtt?dl=1).
   - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`2_201_arithmetic_progression.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`2_201_subtitles-en.vtt`). They will automatically be added and synced to the video.
