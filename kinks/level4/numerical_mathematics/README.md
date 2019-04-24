@@ -88,6 +88,8 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - At 1:49, the expression isn't rendered properly (the congruence symbol doesn't appear). Subsequent expressions also present this issue.
 
 ### Lesson 1.11: Video 1.1101 Encryption using modular arithmetic
+- The video contains many display errors that are fixed in a previously uploaded version. While not being flawless, it's much better. For now, the video can be downloaded [from this link](https://www.dropbox.com/s/w52vpsau7ly6tc6/1_1101_Encryption_using_modular_arithmetic.mp4?dl=1). If you want to add subtitles, you can [download them here](https://www.dropbox.com/s/5hso65rut3u337q/1_1101_subtitles-en.vtt?dl=1).
+  - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`1_1101_Encryption_using_modular_arithmetic.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`1_1101_subtitles-en.vtt`). They will automatically be added and synced to the video.
 - At 3:43, a banner appears in the background and has nothing to do with was it being taught.
 - At 4:40 and 4:52, the congruence symbol is not rendered properly:
     
