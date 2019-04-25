@@ -8,7 +8,9 @@
 
 * [Artificial intelligence](#artificial-intelligence)
     * [Machine learning](#machine-learning)
-* [Career advice](#career-advice)
+* [Career](#career)
+    * [Advice](#advice)
+    * [Resume building](#resume-building)
 * [Computer science](#computer-science)
     * [Algorithms](#algorithms)
     * [Articles](#articles)
@@ -56,8 +58,12 @@
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) - Google. - *"Google's fast-paced, practical introduction to machine learning."*
 - [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - University of Oxford.
 
-# Career advice
+# Career 
+## Advice
 - [TopResume](https://www.topresume.com/career-advice). *"Job-search tips and expert advice to help you get ahead in your career."*
+
+## Resume building
+- [Kickresume](https://www.kickresume.com/) - *" We help students take first steps towards a successful career. Kickresume Premium is now free for all students. Verify your student status with ISIC, ITIC or EURO>26."*
 
 # Computer science
 - [Computer Science 162, 001 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDrt_oPWfQ4-fjHm2KSSOPq) - UC Berkeley.
