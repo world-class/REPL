@@ -50,3 +50,9 @@ This page is about the [Introduction to programming I module](../../../modules/l
 ### Lesson 2.2
 #### Practice quiz: Using the console and debugging syntax errors
 - Question 3: "triangle" is misspelled → `trinagle`, adding an additional error which is not an argument error. However, the spelling mistake shouldn't be taken into account.
+
+## Week 5
+### Lesson 4.2
+#### Practice quiz: Conditionals with types
+- Question 3: The question says the answer "No, because  answer is neither a number, nor is it equal to the number 42" is correct. However the correct answer is "Yes, because answer is equal to 42".
+- Question 5: The question says the answer `parseInt(a+b)*c` is correct and the others are all wrong, however `(a+b)*c` is also correct. They both produce the same result. 
