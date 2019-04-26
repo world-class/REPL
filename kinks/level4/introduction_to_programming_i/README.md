@@ -15,7 +15,7 @@
             * [Video: RGB colours](#video-rgb-colours)
         * [Lesson 2.2](#lesson-22)
             * [Practice quiz: Using the console and debugging syntax errors](#practice-quiz-using-the-console-and-debugging-syntax-errors)
-    * [Week 5](#week-5)
+    * [Week 7](#week-7)
         * [Lesson 4.2](#lesson-42)
             * [Practice quiz: Conditionals with types](#practice-quiz-conditionals-with-types)
 
