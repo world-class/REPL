@@ -1,20 +1,16 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
 # Table of contents
-
-<!-- vim-markdown-toc GFM -->
-
-* [Introduction to Programming I](#introduction-to-programming-i)
-* [Resources](#resources)
-    * [JavaScript](#javascript)
-        * [p5.js - JavaScript library](#p5js---javascript-library)
-    * [Kinks to be aware of](#kinks-to-be-aware-of)
-    * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
-    * [Sleuth assignments](#sleuth-assignments)
-        * [Tips & Tricks](#tips--tricks)
-    * [Text editor](#text-editor)
-
-<!-- vim-markdown-toc -->
+- [Table of contents](#table-of-contents)
+- [Introduction to Programming I](#introduction-to-programming-i)
+- [Resources](#resources)
+  - [JavaScript](#javascript)
+    - [p5.js - JavaScript library](#p5js---javascript-library)
+  - [Kinks to be aware of](#kinks-to-be-aware-of)
+  - [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
+  - [Sleuth assignments](#sleuth-assignments)
+    - [Tips & Tricks](#tips--tricks)
+  - [Text editor](#text-editor)
 
 ---
 

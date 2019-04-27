@@ -2,21 +2,18 @@
 
 # Data Science
 # Table of contents
-
-<!-- vim-markdown-toc GFM -->
-
-* [*Data Science* specialism modules](#data-science-specialism-modules)
-    * [Data Science](#data-science)
-    * [Databases and Advanced Data Techniques](#databases-and-advanced-data-techniques)
-    * [Machine Learning and Neural Networks](#machine-learning-and-neural-networks)
-    * [Advanced Web Development](#advanced-web-development)
-    * [Natural Language Processing](#natural-language-processing)
-* [Resources](#resources)
-    * [Jupyter](#jupyter)
-    * [Pandas](#pandas)
-    * [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
-
-<!-- vim-markdown-toc -->
+- [Data Science](#data-science)
+- [Table of contents](#table-of-contents)
+- [*Data Science* specialism modules](#data-science-specialism-modules)
+  - [Data Science](#data-science-1)
+  - [Databases and Advanced Data Techniques](#databases-and-advanced-data-techniques)
+  - [Machine Learning and Neural Networks](#machine-learning-and-neural-networks)
+  - [Advanced Web Development](#advanced-web-development)
+  - [Natural Language Processing](#natural-language-processing)
+- [Resources](#resources)
+  - [Jupyter](#jupyter)
+  - [Pandas](#pandas)
+  - [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
 
 ---
 

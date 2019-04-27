@@ -2,22 +2,18 @@
 
 # Podcasts
 # Table of contents
-
-
-<!-- vim-markdown-toc GFM -->
-
-* [Education](#education)
-* [Programming](#programming)
-    * [Beginner-friendly](#beginner-friendly)
-    * [Cybersecurity](#cybersecurity)
-    * [Interviews](#interviews)
-    * [Music](#music)
-    * [Python](#python)
-    * [Software development](#software-development)
-    * [Testing](#testing)
-    * [Web development](#web-development)
-
-<!-- vim-markdown-toc -->
+- [Podcasts](#podcasts)
+- [Table of contents](#table-of-contents)
+  - [Education](#education)
+  - [Programming](#programming)
+    - [Beginner-friendly](#beginner-friendly)
+    - [Cybersecurity](#cybersecurity)
+    - [Interviews](#interviews)
+    - [Music](#music)
+    - [Python](#python)
+    - [Software development](#software-development)
+    - [Testing](#testing)
+    - [Web development](#web-development)
 
 ---
 

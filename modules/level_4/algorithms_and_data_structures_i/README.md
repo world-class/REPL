@@ -1,14 +1,10 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
 # Table of contents
-
-<!-- vim-markdown-toc GFM -->
-
-* [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
-* [Resources](#resources)
-    * [On REPL](#on-repl)
-
-<!-- vim-markdown-toc -->
+- [Table of contents](#table-of-contents)
+- [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
+- [Resources](#resources)
+  - [On REPL](#on-repl)
 
 ---
 

@@ -1,30 +1,27 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
-
-* [Numerical Mathematics - Reported problems](#numerical-mathematics---reported-problems)
-    * [Week 1](#week-1)
-        * [Video: 1.001 Introduction to number bases and modular arithmetic](#video-1001-introduction-to-number-bases-and-modular-arithmetic)
-        * [Video: 1.101 Introduction to number bases](#video-1101-introduction-to-number-bases)
-        * [Video: 1.107 Place value for fractional numbers: binary](#video-1107-place-value-for-fractional-numbers-binary)
-        * [Practice quiz: 1.110 Rational and irrational numbers: decimal and binary](#practice-quiz-1110-rational-and-irrational-numbers-decimal-and-binary)
-    * [Week 2](#week-2)
-        * [Video: 1.401 Octal and hexadecimal (integer)](#video-1401-octal-and-hexadecimal-integer)
-        * [Practice quiz: 1.404 Translate between decimal and hexadecimal or octal (fractional)](#practice-quiz-1404-translate-between-decimal-and-hexadecimal-or-octal-fractional)
-        * [Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal](#video-1405-special-relationship-between-binary-and-hexadecimal-and-binary-and-octal)
-        * [Practice quiz: 1.406 Translate between binary and hexadecimal/octal](#practice-quiz-1406-translate-between-binary-and-hexadecimaloctal)
-        * [Practice quiz: 1.602 Arithmetic in hexadecimal/octal](#practice-quiz-1602-arithmetic-in-hexadecimaloctal)
-    * [Week 3](#week-3)
-        * [Lesson 1.10: Video 1.1006 Mod, rem and division](#lesson-110-video-11006-mod-rem-and-division)
-        * [Lesson 1.11: Video 1.1101 Encryption using modular arithmetic](#lesson-111-video-11101-encryption-using-modular-arithmetic)
-    * [Week 4](#week-4)
-        * [Lesson 2.1: Video 2.103 Defining sequences](#lesson-21-video-2103-defining-sequences)
-        * [Lesson 2.2: Video 2.201 Arithmetic progressions](#lesson-22-video-2201-arithmetic-progressions)
-    * [Week 6](#week-6)
-        * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
-
-<!-- vim-markdown-toc -->
+- [Table of contents](#table-of-contents)
+- [Numerical Mathematics - Reported problems](#numerical-mathematics---reported-problems)
+  - [Week 1](#week-1)
+    - [Video: 1.001 Introduction to number bases and modular arithmetic](#video-1001-introduction-to-number-bases-and-modular-arithmetic)
+    - [Video: 1.101 Introduction to number bases](#video-1101-introduction-to-number-bases)
+    - [Video: 1.107 Place value for fractional numbers: binary](#video-1107-place-value-for-fractional-numbers-binary)
+    - [Practice quiz: 1.110 Rational and irrational numbers: decimal and binary](#practice-quiz-1110-rational-and-irrational-numbers-decimal-and-binary)
+  - [Week 2](#week-2)
+    - [Video: 1.401 Octal and hexadecimal (integer)](#video-1401-octal-and-hexadecimal-integer)
+    - [Practice quiz: 1.404 Translate between decimal and hexadecimal or octal (fractional)](#practice-quiz-1404-translate-between-decimal-and-hexadecimal-or-octal-fractional)
+    - [Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal](#video-1405-special-relationship-between-binary-and-hexadecimal-and-binary-and-octal)
+    - [Practice quiz: 1.406 Translate between binary and hexadecimal/octal](#practice-quiz-1406-translate-between-binary-and-hexadecimaloctal)
+    - [Practice quiz: 1.602 Arithmetic in hexadecimal/octal](#practice-quiz-1602-arithmetic-in-hexadecimaloctal)
+  - [Week 3](#week-3)
+    - [Lesson 1.10: Video 1.1006 Mod, rem and division](#lesson-110-video-11006-mod-rem-and-division)
+    - [Lesson 1.11: Video 1.1101 Encryption using modular arithmetic](#lesson-111-video-11101-encryption-using-modular-arithmetic)
+  - [Week 4](#week-4)
+    - [Lesson 2.1: Video 2.103 Defining sequences](#lesson-21-video-2103-defining-sequences)
+    - [Lesson 2.2: Video 2.201 Arithmetic progressions](#lesson-22-video-2201-arithmetic-progressions)
+  - [Week 6](#week-6)
+    - [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
 
 # Numerical Mathematics - Reported problems
 This page is about the [numerical mathematics module](../../../modules/level_4/numerical_mathematics/).

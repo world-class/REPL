@@ -1,15 +1,12 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
-
-* [Web Development](#web-development)
-* [Resources](#resources)
-    * [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
-    * [Programming](#programming)
-        * [JavaScript](#javascript)
-
-<!-- vim-markdown-toc -->
+- [Table of contents](#table-of-contents)
+- [Web Development](#web-development)
+- [Resources](#resources)
+  - [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
+  - [Programming](#programming)
+    - [JavaScript](#javascript)
 
 ---
 

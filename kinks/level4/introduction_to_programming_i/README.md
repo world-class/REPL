@@ -1,26 +1,22 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
-
-* [Introduction to programming I - Reported problems](#introduction-to-programming-i---reported-problems)
-    * [Sleuth cases](#sleuth-cases)
-        * [101, stage 3](#101-stage-3)
-        * [201, stage 4](#201-stage-4)
-    * [Week 1](#week-1)
-        * [Lesson 1.1](#lesson-11)
-            * [Video: 2D coordinate system](#video-2d-coordinate-system)
-    * [Week 3](#week-3)
-        * [Lesson 2.1](#lesson-21)
-            * [Video: RGB colours](#video-rgb-colours)
-        * [Lesson 2.2](#lesson-22)
-            * [Practice quiz: Using the console and debugging syntax errors](#practice-quiz-using-the-console-and-debugging-syntax-errors)
-    * [Week 7](#week-7)
-        * [Lesson 4.2](#lesson-42)
-            * [Practice quiz: Conditionals with types](#practice-quiz-conditionals-with-types)
-
-<!-- vim-markdown-toc -->
-
+- [Table of contents](#table-of-contents)
+- [Introduction to programming I - Reported problems](#introduction-to-programming-i---reported-problems)
+  - [Sleuth cases](#sleuth-cases)
+    - [101, stage 3](#101-stage-3)
+    - [201, stage 4](#201-stage-4)
+  - [Week 1](#week-1)
+    - [Lesson 1.1](#lesson-11)
+      - [Video: 2D coordinate system](#video-2d-coordinate-system)
+  - [Week 3](#week-3)
+    - [Lesson 2.1](#lesson-21)
+      - [Video: RGB colours](#video-rgb-colours)
+    - [Lesson 2.2](#lesson-22)
+      - [Practice quiz: Using the console and debugging syntax errors](#practice-quiz-using-the-console-and-debugging-syntax-errors)
+  - [Week 7](#week-7)
+    - [Lesson 4.2](#lesson-42)
+      - [Practice quiz: Conditionals with types](#practice-quiz-conditionals-with-types)
 
 # Introduction to programming I - Reported problems
 This page is about the [Introduction to programming I module](../../../modules/level_4/introduction_to_programming_i/).

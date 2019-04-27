@@ -1,16 +1,13 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
-
-* [Numerical Mathematics](#numerical-mathematics)
-* [Resources](#resources)
-    * [Kinks to be aware of](#kinks-to-be-aware-of)
-    * [Notes](#notes)
-    * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
-    * [Reference books](#reference-books)
-
-<!-- vim-markdown-toc -->
+- [Table of contents](#table-of-contents)
+- [Numerical Mathematics](#numerical-mathematics)
+- [Resources](#resources)
+  - [Kinks to be aware of](#kinks-to-be-aware-of)
+  - [Notes](#notes)
+  - [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
+  - [Reference books](#reference-books)
 
 ---
 

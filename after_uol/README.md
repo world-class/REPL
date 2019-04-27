@@ -3,23 +3,20 @@
 # After UoL's Online Bachelor Degree
 
 ## Table of contents
-
-<!-- vim-markdown-toc GFM -->
-
-* [Study: Online options](#study-online-options)
-    * [Doctor of Computer Science](#doctor-of-computer-science)
-    * [Master's Degree](#masters-degree)
-        * [Analytics](#analytics)
-        * [Cyber security](#cyber-security)
-        * [Data science](#data-science)
-        * [Machine learning](#machine-learning)
-    * [MicroMasters on edX](#micromasters-on-edx)
-    * [Specializations on Coursera](#specializations-on-coursera)
-* [Work: Remote options](#work-remote-options)
-    * [Finding opportunities](#finding-opportunities)
-    * [Freelancing](#freelancing)
-
-<!-- vim-markdown-toc -->
+- [After UoL's Online Bachelor Degree](#after-uols-online-bachelor-degree)
+  - [Table of contents](#table-of-contents)
+  - [Study: Online options](#study-online-options)
+    - [Doctor of Computer Science](#doctor-of-computer-science)
+    - [Master's Degree](#masters-degree)
+      - [Analytics](#analytics)
+      - [Cyber security](#cyber-security)
+      - [Data science](#data-science)
+      - [Machine learning](#machine-learning)
+    - [MicroMasters on edX](#micromasters-on-edx)
+    - [Specializations on Coursera](#specializations-on-coursera)
+  - [Work: Remote options](#work-remote-options)
+    - [Finding opportunities](#finding-opportunities)
+    - [Freelancing](#freelancing)
 
 ## Study: Online options
 _Note: All degrees are in Computer Science, unless specified otherwise._
