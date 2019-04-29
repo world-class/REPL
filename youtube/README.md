@@ -167,6 +167,7 @@ Dan Colman
 - [Computer Sc - Discrete Mathematical Structures](https://www.youtube.com/view_play_list?p=0862D1A947252D20) (playlist) - Kamala Krithivasan
 
 # Encryption
+- [Lecture 12: The RSA Cryptosystem and Efficient Exponentiation](https://www.youtube.com/watch?v=QSlWzKNbKrU) - Christof Paar
 - [RSA algorithm](https://www.youtube.com/watch?v=Py06YA4dfKE) - from CS50's videos.
 
 # General topics
@@ -182,6 +183,7 @@ Dan Colman
     - [MIT 18.06SC Linear Algebra (2011)](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PL221E2BBF13BECF6C) (playlist) - MIT OpenCourseWare
 
 ## Modular arithmetic
+- [Lecture 2: Modular Arithmetic and Historical Ciphers](https://www.youtube.com/watch?v=W1SY6qKZrUk) - Christof Paar
 - [Modular Arithmetic and Algorithms](https://www.youtube.com/watch?v=akfFEj7oTn0&list=PLjyyswMG9g9A0bI2SLnIiWANzSKrEuVYK) (playlist) - Samuel Chukwuemeka
 
 ## Numerical analysis
