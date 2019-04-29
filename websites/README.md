@@ -22,6 +22,7 @@
 - [Mathematics](#mathematics)
   - [Beginner topics](#beginner-topics)
   - [Calculus](#calculus)
+  - [Encryption](#encryption)
   - [Linear Algebra](#linear-algebra)
   - [Modular arithmetic](#modular-arithmetic)
   - [Number bases](#number-bases)
@@ -109,6 +110,10 @@
 
 ## Calculus
 - [Calculus III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) - *Here are my online notes for my Calculus III course that I teach here at Lamar University. Despite the fact that these are my “class notes”, they should be accessible to anyone wanting to learn Calculus III or needing a refresher in some of the topics from the class.*
+
+## Encryption
+- [Part 1: How RSA Works With Examples](http://doctrina.org/How-RSA-Works-With-Examples.html) - Barry Steyn
+- [Part 2: Why RSA Works: Three Fundamental Questions Answered](http://doctrina.org/Why-RSA-Works-Three-Fundamental-Questions-Answered.html) - Barry Steyn
 
 ## Linear Algebra
 - [Applied Linear Algebra 1](https://open.math.uwaterloo.ca/4?gid=314) - University of Waterloo (Canada).
