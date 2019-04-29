@@ -200,3 +200,4 @@
     - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
     - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
     - [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)
+- [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) - Coursera. *"By the end, you will be able to apply the basics of the number theory to encrypt and decrypt messages, and to break the code if one applies RSA carelessly. You will even pass a cryptographic quest!"*
