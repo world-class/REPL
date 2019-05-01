@@ -107,8 +107,7 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - Audio is out of sync from 15:19 onward: please refer to the transcript to better follow along.
 
 ### Lesson 2.2: Video 2.201 Arithmetic progressions
-- The video doesn't match the transcript and is missing from the module. For now, the video can be downloaded [from this link](https://www.dropbox.com/s/ct3v62zv1ka1pka/2_201_arithmetic_progression.mp4?dl=1). If you want to add subtitles, you can [download them here](https://www.dropbox.com/s/e73v0r27bosggqi/2_201_subtitles-en.vtt?dl=1).
-  - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`2_201_arithmetic_progression.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`2_201_subtitles-en.vtt`). They will automatically be added and synced to the video.
+**Partially fixed**. The transcript and subtitles do not appear at this moment.
 
 ## Week 6
 ### Lesson 3.1: Video 3.101 Cartesian coordinates
