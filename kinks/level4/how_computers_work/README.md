@@ -12,4 +12,4 @@ This page is about the [How Computers Work module](../../../modules/level_4/how_
 ## Week 2
 ### Review quiz (unverified)
 - The answer to question 2 should be `yes`.
-- The answer to question 19 should be `yes`.
+- The answer to question 19 should be `yes and`.
