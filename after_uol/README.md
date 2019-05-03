@@ -8,13 +8,15 @@
   - [Study: Online options](#study-online-options)
     - [Doctor of Computer Science](#doctor-of-computer-science)
     - [Master's Degree](#masters-degree)
-      - [Analytics](#analytics)
-      - [Cyber security](#cyber-security)
-      - [Data science](#data-science)
-      - [Machine learning](#machine-learning)
+        - [Analytics](#analytics)
+        - [Cyber security](#cyber-security)
+        - [Data science](#data-science)
+        - [Machine learning](#machine-learning)
     - [MicroMasters on edX](#micromasters-on-edx)
     - [Specializations on Coursera](#specializations-on-coursera)
-  - [Work: Remote options](#work-remote-options)
+        - [Cybersecurity](#cybersecurity)
+        - [Data science](#data-science-1)
+- [Work: Remote options](#work-remote-options)
     - [Finding opportunities](#finding-opportunities)
     - [Freelancing](#freelancing)
 
@@ -25,7 +27,6 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 - [Colorado Technical University](https://www.coloradotech.edu/degrees/doctorates/computer-science)
 - [Columbia University](https://cvn.columbia.edu/program/columbia-university-computer-science-doctorate-degree-doctor-engineering)
 - [Northcentral University](https://www.ncu.edu/programs-degrees/doctoral/doctor-philosophy-computer-science)
-
 
 ### Master's Degree
 - [Arizona State University](https://www.coursera.org/degrees/master-of-computer-science-asu) - Coursera
@@ -62,12 +63,18 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 - [University of California, San Diego: Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 - [University of California, San Diego: Data Science](https://www.edx.org/micromasters/data-science)
 
-
 ### Specializations on Coursera
 - [Arizona State University: Data Systems](https://www.coursera.org/specializations/data-systems)
-- [University System of Georgia: Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain)
+- [University at Buffalo: Computer Vision Specialization](https://www.coursera.org/specializations/computervision)
 - [University of Illinois: Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [University of Illinois: Data Mining](https://www.coursera.org/specializations/data-mining)
+
+#### Cybersecurity
+- [University System of Georgia: Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain)
+- [University of Colorado: Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design)
+
+#### Data science
+- [University of California, San Diego: Python Data Products for Predictive Analytics Specialization](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics)
 - [University of Maryland, College Park & University of Michigan: Survey Data Collection and Analytics](https://www.coursera.org/specializations/data-collection)
 
 ## Work: Remote options
