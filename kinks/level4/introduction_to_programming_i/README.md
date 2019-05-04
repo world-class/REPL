@@ -10,8 +10,6 @@
     - [Lesson 1.1](#lesson-11)
       - [Video: 2D coordinate system](#video-2d-coordinate-system)
   - [Week 3](#week-3)
-    - [Lesson 2.1](#lesson-21)
-      - [Video: RGB colours](#video-rgb-colours)
     - [Lesson 2.2](#lesson-22)
       - [Practice quiz: Using the console and debugging syntax errors](#practice-quiz-using-the-console-and-debugging-syntax-errors)
   - [Week 7](#week-7)
@@ -42,10 +40,6 @@ This page is about the [Introduction to programming I module](../../../modules/l
 
 
 ## Week 3
-### Lesson 2.1
-#### Video: RGB colours
-- At 7:20, the instructor says "sum", but the operation being done is a multiplication.
-
 ### Lesson 2.2
 #### Practice quiz: Using the console and debugging syntax errors
 - Question 3: "triangle" is misspelled → `trinagle`, adding an additional error which is not an argument error. However, the spelling mistake shouldn't be taken into account.
