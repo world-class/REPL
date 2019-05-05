@@ -1,6 +1,6 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
-# *Virtual Reality* specialism modules
+# *User Experience* specialism modules
 
 ### Virtual Reality
 The Virtual Reality (VR) module combines the theory and psychology of VR
@@ -14,31 +14,29 @@ development skills, including creating 3D environments, designing and
 implementing 3D interaction for VR and building social VR experiences
 with interactive virtual characters.
 
-### Games Development
-This module introduces you to i) industry standard tools for game
-development, such as game engines, and ii) the process of game
-development, including prototyping and playtesting. You will undertake a
-series of game development projects, each lasting a few weeks and with
-a specific brief. For each project, you'll propose a game that fits
-the brief then deliver the game and document it thoroughly. Through this
-process, you'll develop an awareness of intended audience and the use
-of media for documentation. Contemporary video game production draws on
-a range of techniques from AI to perform tasks like controlling virtual
-agents and generating novel content. This module also introduces crucial
-game AI concepts. Compared to mainstream AI, the emphasis is less on
-optimal problem-solving and more on entertaining the player with limited
-computational resources. This module provides practical experience of
-programming game AI systems and an understanding of the relevant theory.
+### Advanced Web Development
+Advanced Web Development teaches you how to build dynamic, data-driven
+websites using databases, front-end frameworks and server-side
+programming. You'll develop the skills needed for full stack web
+development work and develop a web developer skillset, enabling you
+to build and deploy complete, data-driven websites. You'll consider
+different technologies for clientside web development such as HTML,
+CSS, JavaScript and templates. You'll explore methods for developing
+server-side web applications, by building web-accessible wrappers
+around databases, consider scalability issues and learn about web app
+configuration and deployment.
 
-### 3D Graphics and Animation
-This module covers advanced methods used in current state-of-the-art
-graphics and animation systems. It includes mathematical foundations,
-computational techniques and their use in creative practice. In this
-module, you'll learn how to write programs that generate animated
-3D graphics. There are several distinct study areas: 3D modelling and
-animation, the graphics pipeline, simulation of physics and shader
-programming. You'll study a range of examples and learn how to program
-graphics in contemporary graphical software for different applications.
+### Physical Computing and the Internet of Things
+Studying this module will introduce the technology involved in the
+development and programming of hardware devices that can sense and act
+in the environment. It explains and demonstrates how the environment,
+which is inherently continuous, can be monitored by analogue electrical
+and mechanical sensors, then captured and analysed using a computer,
+which is a discrete system. A focus of this module is the interface
+between the digital and the analogue. You'll learn basic physics,
+electronics, programming and software engineering. The module's
+practical objective is the development of the skills needed for
+designing and building interactive physical devices.
 
 ### Mobile Development
 The Mobile Development module aims to give you the fundamental

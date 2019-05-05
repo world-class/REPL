@@ -1,34 +1,27 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
-# *Virtual Reality* specialism modules
+# *Web and Mobile Development* specialism modules
 
-### Virtual Reality
-The Virtual Reality (VR) module combines the theory and psychology of VR
-with practical development skills. You'll learn the skills needed to
-design compelling VR environments and the skills that apply to creative
-practice, science and industry. This module gives you the skills needed
-to develop VR, including understanding the basic theory of presence in
-VR, which underlies the basic design principles. Using a 3D engine to
-create interactive virtual environments, you'll also learn practical
-development skills, including creating 3D environments, designing and
-implementing 3D interaction for VR and building social VR experiences
-with interactive virtual characters.
+### Databases and Advanced Data Techniques
+This module aims to show you how to work with data in your computer
+programs. You will learn how to use SQL and NoSQL databases to store
+tabular data and documents. You will learn about the ethics of gathering
+and processing data and why it is important to consider issues around
+data security. You will learn about open data resources, and how you can
+access them from your computer programs. You will learn about audio and
+video data, and the challenges of working with this kind of data.
 
-### Games Development
-This module introduces you to i) industry standard tools for game
-development, such as game engines, and ii) the process of game
-development, including prototyping and playtesting. You will undertake a
-series of game development projects, each lasting a few weeks and with
-a specific brief. For each project, you'll propose a game that fits
-the brief then deliver the game and document it thoroughly. Through this
-process, you'll develop an awareness of intended audience and the use
-of media for documentation. Contemporary video game production draws on
-a range of techniques from AI to perform tasks like controlling virtual
-agents and generating novel content. This module also introduces crucial
-game AI concepts. Compared to mainstream AI, the emphasis is less on
-optimal problem-solving and more on entertaining the player with limited
-computational resources. This module provides practical experience of
-programming game AI systems and an understanding of the relevant theory.
+### Advanced Web Development
+Advanced Web Development teaches you how to build dynamic, data-driven
+websites using databases, front-end frameworks and server-side
+programming. You'll develop the skills needed for full stack web
+development work and develop a web developer skillset, enabling you
+to build and deploy complete, data-driven websites. You'll consider
+different technologies for clientside web development such as HTML,
+CSS, JavaScript and templates. You'll explore methods for developing
+server-side web applications, by building web-accessible wrappers
+around databases, consider scalability issues and learn about web app
+configuration and deployment.
 
 ### 3D Graphics and Animation
 This module covers advanced methods used in current state-of-the-art
