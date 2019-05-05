@@ -43,6 +43,7 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 - Get familiar with finding precise coordinates in an image inside Brackets (text editor).
 - Practice all basic drawing functions with `p5.js` in the [online editor](https://editor.p5js.org/) before attempting to solve crimes.
 - You have a maximum number of attempts for each case: go ahead when you are pretty confident you are on the right path on your first attempt. You will have to wait a certain amount of time (about 24 hours) before you can attempt to solve the crime again.
-
+### Utils and aids (student created)
+- JavaScript library with visual aids for solving case 202 stage 4 [utils4sleuth.js](https://gist.github.com/amilos/beb1eee1cbd334f1e9abca8c9772c725)
 ## Text editor
 The recommended text editor for this module is [Brackets](http://brackets.io/). More options available on the [free software page](../../../software/).
