@@ -1,20 +1,24 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
 # Table of contents
-- [Table of contents](#table-of-contents)
-- [Introduction to programming I - Reported problems](#introduction-to-programming-i---reported-problems)
-  - [Sleuth cases](#sleuth-cases)
-    - [101, stage 3](#101-stage-3)
-    - [201, stage 4](#201-stage-4)
-  - [Week 1](#week-1)
-    - [Lesson 1.1](#lesson-11)
-      - [Video: 2D coordinate system](#video-2d-coordinate-system)
-  - [Week 3](#week-3)
-    - [Lesson 2.2](#lesson-22)
-      - [Practice quiz: Using the console and debugging syntax errors](#practice-quiz-using-the-console-and-debugging-syntax-errors)
-  - [Week 7](#week-7)
-    - [Lesson 4.2](#lesson-42)
-      - [Practice quiz: Conditionals with types](#practice-quiz-conditionals-with-types)
+<!-- vim-markdown-toc GFM -->
+
+* [Introduction to programming I - Reported problems](#introduction-to-programming-i---reported-problems)
+    * [Sleuth cases](#sleuth-cases)
+        * [101, stage 3](#101-stage-3)
+        * [201, stage 4](#201-stage-4)
+        * [Other glitches](#other-glitches)
+    * [Week 1](#week-1)
+        * [Lesson 1.1](#lesson-11)
+            * [Video: 2D coordinate system](#video-2d-coordinate-system)
+    * [Week 3](#week-3)
+        * [Lesson 2.2](#lesson-22)
+            * [Practice quiz: Using the console and debugging syntax errors](#practice-quiz-using-the-console-and-debugging-syntax-errors)
+    * [Week 7](#week-7)
+        * [Lesson 4.2](#lesson-42)
+            * [Practice quiz: Conditionals with types](#practice-quiz-conditionals-with-types)
+
+<!-- vim-markdown-toc -->
 
 # Introduction to programming I - Reported problems
 This page is about the [Introduction to programming I module](../../../modules/level_4/introduction_to_programming_i/).
@@ -31,6 +35,20 @@ This page is about the [Introduction to programming I module](../../../modules/l
 - Some students were given cases where body parts of the judge are missing (i.e., legs appear outside the canvas, for instance). In those cases, you may be better off just failing all your attempts and wait for a new randomized case to be given to you as you probably won't be able to get 100%.
 - If your answer isn't accepted, try increasing the number of times you have `vertex()` in your code. Answers including at least 40 to 50 vertices have been reported to work better.
 - You should only use `beginShape();`, `vertex(x1, y1);` and `endShape(CLOSE);` in your code.
+
+### Other glitches
+- Some cases ask to set the value of a variable to `mouseX` for instance and then make sure it doesn't go above or below a certain value with `min()` and `max()` functions. Answers can wrongly be accepted if you first set
+
+      variable = mouseX
+
+  and then reassign it by applying a function that is missing a parameter:
+
+      variable = max(X)
+
+  where `X` is an integer. The variable should be assign in one statement as follow instead:
+
+      variable = max(mouseX, X)
+
 
 ## Week 1
 ### Lesson 1.1
