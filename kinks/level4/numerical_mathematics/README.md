@@ -1,27 +1,31 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
 # Table of contents
-- [Table of contents](#table-of-contents)
-- [Numerical Mathematics - Reported problems](#numerical-mathematics---reported-problems)
-  - [Week 1](#week-1)
-    - [Video: 1.001 Introduction to number bases and modular arithmetic](#video-1001-introduction-to-number-bases-and-modular-arithmetic)
-    - [Video: 1.101 Introduction to number bases](#video-1101-introduction-to-number-bases)
-    - [Video: 1.107 Place value for fractional numbers: binary](#video-1107-place-value-for-fractional-numbers-binary)
-    - [Practice quiz: 1.110 Rational and irrational numbers: decimal and binary](#practice-quiz-1110-rational-and-irrational-numbers-decimal-and-binary)
-  - [Week 2](#week-2)
-    - [Video: 1.401 Octal and hexadecimal (integer)](#video-1401-octal-and-hexadecimal-integer)
-    - [Practice quiz: 1.404 Translate between decimal and hexadecimal or octal (fractional)](#practice-quiz-1404-translate-between-decimal-and-hexadecimal-or-octal-fractional)
-    - [Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal](#video-1405-special-relationship-between-binary-and-hexadecimal-and-binary-and-octal)
-    - [Practice quiz: 1.406 Translate between binary and hexadecimal/octal](#practice-quiz-1406-translate-between-binary-and-hexadecimaloctal)
-    - [Practice quiz: 1.602 Arithmetic in hexadecimal/octal](#practice-quiz-1602-arithmetic-in-hexadecimaloctal)
-  - [Week 3](#week-3)
-    - [Lesson 1.10: Video 1.1006 Mod, rem and division](#lesson-110-video-11006-mod-rem-and-division)
-    - [Lesson 1.11: Video 1.1101 Encryption using modular arithmetic](#lesson-111-video-11101-encryption-using-modular-arithmetic)
-  - [Week 4](#week-4)
-    - [Lesson 2.1: Video 2.103 Defining sequences](#lesson-21-video-2103-defining-sequences)
-    - [Lesson 2.2: Video 2.201 Arithmetic progressions](#lesson-22-video-2201-arithmetic-progressions)
-  - [Week 6](#week-6)
-    - [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
+<!-- vim-markdown-toc GFM -->
+
+* [Numerical Mathematics - Reported problems](#numerical-mathematics---reported-problems)
+    * [Week 1](#week-1)
+        * [Video: 1.001 Introduction to number bases and modular arithmetic](#video-1001-introduction-to-number-bases-and-modular-arithmetic)
+        * [Video: 1.101 Introduction to number bases](#video-1101-introduction-to-number-bases)
+        * [Video: 1.107 Place value for fractional numbers: binary](#video-1107-place-value-for-fractional-numbers-binary)
+        * [Practice quiz: 1.110 Rational and irrational numbers: decimal and binary](#practice-quiz-1110-rational-and-irrational-numbers-decimal-and-binary)
+    * [Week 2](#week-2)
+        * [Video: 1.401 Octal and hexadecimal (integer)](#video-1401-octal-and-hexadecimal-integer)
+        * [Practice quiz: 1.404 Translate between decimal and hexadecimal or octal (fractional)](#practice-quiz-1404-translate-between-decimal-and-hexadecimal-or-octal-fractional)
+        * [Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal](#video-1405-special-relationship-between-binary-and-hexadecimal-and-binary-and-octal)
+        * [Practice quiz: 1.406 Translate between binary and hexadecimal/octal](#practice-quiz-1406-translate-between-binary-and-hexadecimaloctal)
+        * [Practice quiz: 1.602 Arithmetic in hexadecimal/octal](#practice-quiz-1602-arithmetic-in-hexadecimaloctal)
+    * [Week 3](#week-3)
+        * [Lesson 1.10: Video 1.1006 Mod, rem and division](#lesson-110-video-11006-mod-rem-and-division)
+        * [Lesson 1.11: Video 1.1101 Encryption using modular arithmetic](#lesson-111-video-11101-encryption-using-modular-arithmetic)
+    * [Week 4](#week-4)
+        * [Lesson 2.1: Video 2.103 Defining sequences](#lesson-21-video-2103-defining-sequences)
+        * [Lesson 2.2: Video 2.201 Arithmetic progressions](#lesson-22-video-2201-arithmetic-progressions)
+    * [Week 6](#week-6)
+        * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
+
+<!-- vim-markdown-toc -->
+
 
 # Numerical Mathematics - Reported problems
 This page is about the [numerical mathematics module](../../../modules/level_4/numerical_mathematics/).
@@ -41,11 +45,12 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - Answers should be given without spaces.
 - When a repeating fractional part is present, the answer should be written as `i.rr...`, where `i` stands for **integer part**, `r` is the **repeating** fraction and one must include three dots at the end. Example:
 
-    3.12121212121212
+      3.12121212121212
 
   is written as
-  
-    3.1212...
+
+      3.1212...
+
 
 ## Week 2
 ### Video: 1.401 Octal and hexadecimal (integer)
@@ -63,11 +68,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - At 7:38, this is wrong. `C` (base 16) = 12 (base 10) = 1100 (base 2), not 1101.
 - At 11:24, The grouping of digits is wrong.
 
-    1.001.111 1
+      1.001.111 1
 
   in binary should read
 
-    1 001.111 1
+      1 001.111 1
 
   having only one radix point.
 
@@ -89,17 +94,17 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
   - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`1_1101_Encryption_using_modular_arithmetic.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`1_1101_subtitles-en.vtt`). They will automatically be added and synced to the video.
 - At 3:43, a banner appears in the background and has nothing to do with was it being taught.
 - At 4:40 and 4:52, the congruence symbol is not rendered properly:
-    
-    C ≡ M^e (mod p)
+
+      C ≡ M^e (mod p)
 
 - At 6:04, it should be `C^7 (mod 11)`, not `C^3 (mod 11)`.
 - At 8:43, the equation appears in the background and can't be read. The equation is:
 
-    ed = 3 × 7 is 21
+      ed = 3 × 7 is 21
 
 - At 11:28, again the expression can't be read. The expression is:
 
-    a^p ≡ a (mod p)
+      a^p ≡ a (mod p)
 
 
 ## Week 4
