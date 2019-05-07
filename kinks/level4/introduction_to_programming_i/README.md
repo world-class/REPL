@@ -18,6 +18,7 @@
         * [Lesson 4.1](#lesson-41)
             * [Video: Conditional statements using ==](#video-conditional-statements-using-)
         * [Lesson 4.2](#lesson-42)
+            * [Practice quiz: Introducing types: String, Number, Boolean](#practice-quiz-introducing-types-string-number-boolean)
             * [Practice quiz: Conditionals with types](#practice-quiz-conditionals-with-types)
 
 <!-- vim-markdown-toc -->
@@ -70,6 +71,9 @@ This page is about the [Introduction to programming I module](../../../modules/l
 - The bomb exercise template is missing. You can [download it here](https://www.dropbox.com/s/wudoo14bsg1l7am/Bomb%20Template.zip?dl=1).
 
 ### Lesson 4.2
+#### Practice quiz: Introducing types: String, Number, Boolean
+- Question 5: The question asks for **two** ways to reuse the variable `numWays` but expects **three** selected answers.
+
 #### Practice quiz: Conditionals with types
 - Question 3: The question says the answer _"No, because  answer is neither a number, nor is it equal to the number 42"_ is correct. However the correct answer is _"Yes, because answer is equal to 42"_.
 - Question 5: The question says the answer `parseInt(a+b)*c` is correct and the others are all wrong: however `(a+b)*c` is also correct. They both produce the same result. 
