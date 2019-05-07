@@ -1,13 +1,18 @@
 [Go back to the main page](https://world-class.github.io/REPL/)
 
 # Table of contents
-- [Table of contents](#table-of-contents)
-- [Numerical Mathematics](#numerical-mathematics)
-- [Resources](#resources)
-  - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Notes](#notes)
-  - [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
-  - [Reference books](#reference-books)
+<!-- vim-markdown-toc GFM -->
+
+* [Numerical Mathematics](#numerical-mathematics)
+* [Resources](#resources)
+    * [Kinks to be aware of](#kinks-to-be-aware-of)
+    * [Notes](#notes)
+    * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
+    * [Reference books](#reference-books)
+    * [Useful formulae](#useful-formulae)
+        * [On summation](#on-summation)
+
+<!-- vim-markdown-toc -->
 
 ---
 
@@ -37,3 +42,7 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 
 ## Reference books
 - [Foundation Maths](https://www.dawsonera.com/readonline/9781292095196), Sixth Edition, by Anthony Croft and Robert Davidson.
+
+## Useful formulae
+### On summation
+![summation formulae](https://raw.githubusercontent.com/world-class/REPL/master/modules/level_4/numerical_mathematics/summation_formulae.png)
