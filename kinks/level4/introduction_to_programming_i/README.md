@@ -15,6 +15,8 @@
         * [Lesson 2.2](#lesson-22)
             * [Practice quiz: Using the console and debugging syntax errors](#practice-quiz-using-the-console-and-debugging-syntax-errors)
     * [Week 7](#week-7)
+        * [Lesson 4.1](#lesson-41)
+            * [Video: Conditional statements using ==](#video-conditional-statements-using-)
         * [Lesson 4.2](#lesson-42)
             * [Practice quiz: Conditionals with types](#practice-quiz-conditionals-with-types)
 
@@ -63,6 +65,10 @@ This page is about the [Introduction to programming I module](../../../modules/l
 - Question 3: "triangle" is misspelled → `trinagle`, adding an additional error which is not an argument error. However, the spelling mistake shouldn't be taken into account.
 
 ## Week 7
+### Lesson 4.1
+#### Video: Conditional statements using ==
+- The bomb exercise template is missing. You can [download it here](https://www.dropbox.com/s/wudoo14bsg1l7am/Bomb%20Template.zip?dl=1).
+
 ### Lesson 4.2
 #### Practice quiz: Conditionals with types
 - Question 3: The question says the answer _"No, because  answer is neither a number, nor is it equal to the number 42"_ is correct. However the correct answer is _"Yes, because answer is equal to 42"_.
