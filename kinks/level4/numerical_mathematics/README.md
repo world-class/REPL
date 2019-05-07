@@ -21,8 +21,14 @@
     * [Week 4](#week-4)
         * [Lesson 2.1: Video 2.103 Defining sequences](#lesson-21-video-2103-defining-sequences)
         * [Lesson 2.2: Video 2.201 Arithmetic progressions](#lesson-22-video-2201-arithmetic-progressions)
+    * [Week 5](#week-5)
+        * [Lesson 2.5: Video 2.502 Series: sums of terms of sequences; summation symbol: sigma notation](#lesson-25-video-2502-series-sums-of-terms-of-sequences-summation-symbol-sigma-notation)
+        * [Lesson 2.5: Video 2.509 Finite sums](#lesson-25-video-2509-finite-sums)
+        * [Lesson 2.6: Practice quiz: 2.602 Limits of sequences](#lesson-26-practice-quiz-2602-limits-of-sequences)
     * [Week 6](#week-6)
         * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
+    * [Week 8](#week-8)
+        * [Summative quiz](#summative-quiz)
 
 <!-- vim-markdown-toc -->
 
@@ -114,7 +120,21 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 2.2: Video 2.201 Arithmetic progressions
 **Partially fixed**. The transcript and subtitles do not appear at this moment.
 
+## Week 5
+### Lesson 2.5: Video 2.502 Series: sums of terms of sequences; summation symbol: sigma notation
+- At 20:38, the number `32` was skipped when calculating the sum of the series.
+
+### Lesson 2.5: Video 2.509 Finite sums
+- At 10:11, the summation for the term `k^2` is omitted.
+
+### Lesson 2.6: Practice quiz: 2.602 Limits of sequences
+- Question 1: There is no clear way to indicate that there is no limit or what the considered interval really is.
+
 ## Week 6
 ### Lesson 3.1: Video 3.101 Cartesian coordinates
 - There is no sound. For now, you can download the video [from this link](https://www.dropbox.com/s/922gj1vefoedx0y/3_101_cartesian_coordinates.mp4?dl=1). You can get the subtitles [from this link](https://www.dropbox.com/s/arvg0fuu7867vnl/3_101_subtitles-en.vtt?dl=1).
   - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`3_101_cartesian_coordinates.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`3_101_subtitles-en.vtt`). They will automatically be added and synced to the video.
+
+## Week 8
+### Summative quiz
+- The quiz doesn't let the student see what the mistakes are once the quiz has been submitted.
