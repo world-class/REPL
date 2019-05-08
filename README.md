@@ -146,6 +146,7 @@ More options for video conferencing on [this page](/software).
 - Aleksandar Milosevic ([@amilos](https://github.com/amilos))
 - Ankush Menat ([@amenat](https://github.com/amenat))
 - Chris Castelo ([@ChrisCastelo](https://github.com/ChrisCastelo))
+- Diego Cabrejas ([@dcabrejas](https://github.com/dcabrejas))
 - Gareth Erskine-Jones ([@gsej](https://github.com/gsej))
 - Kajetan Maurycy Olszewski ([@kaemo](https://github.com/kaemo))
 - Michał Żuber ([@zubmic](https://github.com/zubmic))
