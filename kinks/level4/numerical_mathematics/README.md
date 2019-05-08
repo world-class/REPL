@@ -25,11 +25,12 @@
         * [Lesson 2.5: Video 2.502 Series: sums of terms of sequences; summation symbol: sigma notation](#lesson-25-video-2502-series-sums-of-terms-of-sequences-summation-symbol-sigma-notation)
         * [Lesson 2.5: Video 2.509 Finite sums](#lesson-25-video-2509-finite-sums)
         * [Lesson 2.6: Practice quiz: 2.602 Limits of sequences](#lesson-26-practice-quiz-2602-limits-of-sequences)
+        * [Summative quiz](#summative-quiz)
     * [Week 6](#week-6)
         * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
-        * [Summative quiz](#summative-quiz)
-    * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz-1)
+    * [Week 8](#week-8)
+        * [Summative quiz](#summative-quiz-2)
 
 <!-- vim-markdown-toc -->
 
@@ -130,6 +131,9 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 ### Lesson 2.6: Practice quiz: 2.602 Limits of sequences
 - Question 1: There is no clear way to indicate that there is no limit or what the considered interval really is.
+
+### Summative quiz
+- Question 2: The quiz does not accept the valid answer and tells the user that the wrong answer is correct instead.
 
 ## Week 6
 ### Lesson 3.1: Video 3.101 Cartesian coordinates
