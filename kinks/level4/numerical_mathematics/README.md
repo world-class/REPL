@@ -27,8 +27,9 @@
         * [Lesson 2.6: Practice quiz: 2.602 Limits of sequences](#lesson-26-practice-quiz-2602-limits-of-sequences)
     * [Week 6](#week-6)
         * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
-    * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz)
+    * [Week 8](#week-8)
+        * [Summative quiz](#summative-quiz-1)
 
 <!-- vim-markdown-toc -->
 
@@ -134,6 +135,9 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 3.1: Video 3.101 Cartesian coordinates
 - There is no sound. For now, you can download the video [from this link](https://www.dropbox.com/s/922gj1vefoedx0y/3_101_cartesian_coordinates.mp4?dl=1). You can get the subtitles [from this link](https://www.dropbox.com/s/arvg0fuu7867vnl/3_101_subtitles-en.vtt?dl=1).
   - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`3_101_cartesian_coordinates.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`3_101_subtitles-en.vtt`). They will automatically be added and synced to the video.
+
+### Summative quiz
+- No formatting seems appropriate to answer question 2. None of the following is accepted: `inf`, `infinity`, `infty`.
 
 ## Week 8
 ### Summative quiz
