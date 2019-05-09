@@ -28,6 +28,7 @@
         * [Summative quiz](#summative-quiz)
     * [Week 6](#week-6)
         * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
+        * [Lesson 3.2: Video 3.211 Plotting graphs by hand – reciprocal](#lesson-32-video-3211-plotting-graphs-by-hand--reciprocal)
         * [Summative quiz](#summative-quiz-1)
     * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz-2)
@@ -139,6 +140,9 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 3.1: Video 3.101 Cartesian coordinates
 - There is no sound. For now, you can download the video [from this link](https://www.dropbox.com/s/922gj1vefoedx0y/3_101_cartesian_coordinates.mp4?dl=1). You can get the subtitles [from this link](https://www.dropbox.com/s/arvg0fuu7867vnl/3_101_subtitles-en.vtt?dl=1).
   - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`3_101_cartesian_coordinates.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`3_101_subtitles-en.vtt`). They will automatically be added and synced to the video.
+
+### Lesson 3.2: Video 3.211 Plotting graphs by hand – reciprocal
+- There is no sound nor visual guidance from 8:16 till 8:35.
 
 ### Summative quiz
 - No formatting seems appropriate to answer question 2. None of the following is accepted: `inf`, `infinity`, `infty`.
