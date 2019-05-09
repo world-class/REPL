@@ -3,58 +3,56 @@
 # Websites
 
 # Table of contents
-- [Websites](#websites)
-- [Table of contents](#table-of-contents)
-- [Artificial intelligence](#artificial-intelligence)
-  - [Machine learning](#machine-learning)
-- [Career](#career)
-  - [Advice](#advice)
-  - [Resume building](#resume-building)
-- [Computer science](#computer-science)
-  - [Algorithms](#algorithms)
-  - [Articles](#articles)
-  - [Free (e)books](#free-ebooks)
-- [Data science](#data-science)
-  - [Jupyter](#jupyter)
-  - [Pandas](#pandas)
-  - [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
-- [LaTeX](#latex)
-- [Mathematics](#mathematics)
-  - [Beginner topics](#beginner-topics)
-  - [Calculus](#calculus)
-  - [Encryption](#encryption)
-  - [Linear Algebra](#linear-algebra)
-  - [Modular arithmetic](#modular-arithmetic)
-  - [Number bases](#number-bases)
-  - [Online tools](#online-tools)
-  - [Statistics](#statistics)
-- [Online services](#online-services)
-  - [Disposable/temporary emails](#disposabletemporary-emails)
-  - [File sharing & storage](#file-sharing--storage)
-  - [Image hosting](#image-hosting)
-- [Open source](#open-source)
-- [Programming](#programming)
-  - [Basics](#basics)
-  - [Coding challenges](#coding-challenges)
-  - [iOS](#ios)
-    - [Swift](#swift)
-  - [JavaScript](#javascript)
-  - [Julia](#julia)
-  - [Python](#python)
-  - [Questions and answers](#questions-and-answers)
-- [Startups](#startups)
-- [Web](#web)
-  - [Buying a domain name](#buying-a-domain-name)
-  - [Cloud Computing](#cloud-computing)
-  - [Information on websites](#information-on-websites)
-  - [Website annotation](#website-annotation)
-  - [Website testing](#website-testing)
-
+* [Artificial intelligence](#artificial-intelligence)
+    * [Machine learning](#machine-learning)
+* [Career](#career)
+    * [Advice](#advice)
+    * [Resume building](#resume-building)
+* [Computer science](#computer-science)
+    * [Algorithms](#algorithms)
+    * [Articles](#articles)
+    * [Free (e)books](#free-ebooks)
+* [Data science](#data-science)
+    * [Jupyter](#jupyter)
+    * [Pandas](#pandas)
+    * [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
+* [LaTeX](#latex)
+* [Mathematics](#mathematics)
+    * [Beginner topics](#beginner-topics)
+    * [Calculus](#calculus)
+    * [Encryption](#encryption)
+    * [Limits](#limits)
+    * [Linear Algebra](#linear-algebra)
+    * [Modular arithmetic](#modular-arithmetic)
+    * [Number bases](#number-bases)
+    * [Online tools](#online-tools)
+    * [Statistics](#statistics)
+* [Online services](#online-services)
+    * [Disposable/temporary emails](#disposabletemporary-emails)
+    * [File sharing & storage](#file-sharing--storage)
+    * [Image hosting](#image-hosting)
+* [Open source](#open-source)
+* [Programming](#programming)
+    * [Basics](#basics)
+    * [Coding challenges](#coding-challenges)
+    * [iOS](#ios)
+        * [Swift](#swift)
+    * [JavaScript](#javascript)
+    * [Julia](#julia)
+    * [Python](#python)
+    * [Questions and answers](#questions-and-answers)
+* [Startups](#startups)
+* [Web](#web)
+    * [Buying a domain name](#buying-a-domain-name)
+    * [Cloud Computing](#cloud-computing)
+    * [Information on websites](#information-on-websites)
+    * [Website annotation](#website-annotation)
+    * [Website testing](#website-testing)
 
 # Artificial intelligence
 ## Machine learning
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) - Google. - *"Google's fast-paced, practical introduction to machine learning."*
-- [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - University of Oxford.
+- [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - University of Oxford
 
 # Career 
 ## Advice
@@ -64,10 +62,10 @@
 - [Kickresume](https://www.kickresume.com/) - *" We help students take first steps towards a successful career. Kickresume Premium is now free for all students. Verify your student status with ISIC, ITIC or EURO>26."*
 
 # Computer science
-- [Computer Science 162, 001 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDrt_oPWfQ4-fjHm2KSSOPq) - UC Berkeley.
-- [Computer Science 188, 001 - Spring 2015](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u) - UC Berkeley.
-- [Computer Science 194, 024 - Spring 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE) - UC Berkeley.
-- [Computer Science 61B, 001 - Fall 2014](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDVox3OKFhF4LxMHqpi2GS2) - UC Berkeley.
+- [Computer Science 162, 001 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDrt_oPWfQ4-fjHm2KSSOPq) - UC Berkeley
+- [Computer Science 188, 001 - Spring 2015](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u) - UC Berkeley
+- [Computer Science 194, 024 - Spring 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE) - UC Berkeley
+- [Computer Science 61B, 001 - Fall 2014](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDVox3OKFhF4LxMHqpi2GS2) - UC Berkeley
 - [Understanding Computers and the Internet](http://computerscience1.tv/2011/spring/) - Harvard Extension School. About hardware, Internet, multimedia, security, website development, programming.
 
 ## Algorithms
@@ -103,7 +101,7 @@
 - [Wikibook](https://en.wikibooks.org/wiki/LaTeX) - *"This is a guide to the LaTeX typesetting system. It is intended as a useful resource for everybody, from new users who wish to learn, to old hands who need a quick reference."*
 
 # Mathematics
-- [Mathematics 16A, 002 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk) - UC Berkeley.
+- [Mathematics 16A, 002 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk) - UC Berkeley
 
 ## Beginner topics
 - [Khan Academy](https://www.khanacademy.org/) - Brush up on arithmetic, algebra, geometry, trigonometry, statistics & probability, calculus, differential equations, linear algebra.
@@ -115,8 +113,11 @@
 - [Part 1: How RSA Works With Examples](http://doctrina.org/How-RSA-Works-With-Examples.html) - Barry Steyn
 - [Part 2: Why RSA Works: Three Fundamental Questions Answered](http://doctrina.org/Why-RSA-Works-Three-Fundamental-Questions-Answered.html) - Barry Steyn
 
+## Limits
+- [Limits and continuity](https://www.khanacademy.org/math/differential-calculus/dc-limits) - Khan Academy
+
 ## Linear Algebra
-- [Applied Linear Algebra 1](https://open.math.uwaterloo.ca/4?gid=314) - University of Waterloo (Canada).
+- [Applied Linear Algebra 1](https://open.math.uwaterloo.ca/4?gid=314) - University of Waterloo (Canada)
 - Problem sets
     - [PDF] [Exercises and Problems in Linear Algebra, Portland State University](https://web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf), Version July 13, 2014
 
@@ -124,7 +125,7 @@
 - [Modular arithmetic](https://modular-arithmetic.appspot.com/#modularArithmetic) - Clear, simple explanations: _"Numbers in a given modulo "wrap around". They reach a certain value, and then continue from the beginning up to that value. Then, begin again. [...]"_
 
 ## Number bases
-- [Multiplication in base five](https://www.basic-mathematics.com/multiplication-in-base-five.html).
+- [Multiplication in base five](https://www.basic-mathematics.com/multiplication-in-base-five.html)
 
 ## Online tools
 - [Desmos](https://www.desmos.com/) - *"Graph functions, plot data, evaluate equations, explore transformations, and much more – for free!"*
@@ -132,8 +133,8 @@
 - [Wolfram Alpha](https://www.wolframalpha.com/) - *"Wolfram Alpha is a computational knowledge engine or answer engine."* **(:heavy_dollar_sign: requires subscription for all features)**
 
 ## Statistics
-- [Learn How To Put Statistics To Work](http://www.learner.org/courses/againstallodds/) - Annenberg Learner.
-- [Statistics 20, 003 - Fall 2010](https://archive.org/details/ucberkeley-webcast-PLFCCED623A3AB020F) - UC Berkeley.
+- [Learn How To Put Statistics To Work](http://www.learner.org/courses/againstallodds/) - Annenberg Learner
+- [Statistics 20, 003 - Fall 2010](https://archive.org/details/ucberkeley-webcast-PLFCCED623A3AB020F) - UC Berkeley
 
 
 # Online services
