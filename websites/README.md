@@ -155,6 +155,7 @@
 - [Sync](https://www.sync.com/) - **5 GB of secure file storage with basic sharing features**. 2048-bit RSA, SSL/TLS encryption, end-to-end encryption, 30 days version history, restore & rewind, password protected sharing, remote device lockout.
 - [WeTransfer](https://wetransfer.com/) - Free: Send up to **2GB** with **7 days** file expiration.
 - [pCloud](https://www.pcloud.com/) - **10GB Free**. *"pCloud is the secure cloud storage, where you can store, share and work on all your files. You can access them on any device, anywhere you go!"*
+- [Firefox Send](https://send.firefox.com/) - Free: Send up to **2.5GB**, decide for how long to store your files online, who can download them and how many times. 
 
 ## Image hosting
 - [500px](https://web.500px.com/) - Primarily used to showcase photography.
