@@ -30,6 +30,7 @@
     * [Week 6](#week-6)
         * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
         * [Lesson 3.2: Video 3.211 Plotting graphs by hand – reciprocal](#lesson-32-video-3211-plotting-graphs-by-hand--reciprocal)
+        * [Lesson 3.4: Video 3.401 Kinematic equations](#lesson-34-video-3401-kinematic-equations)
         * [Summative quiz](#summative-quiz-1)
     * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz-2)
@@ -147,6 +148,16 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 ### Lesson 3.2: Video 3.211 Plotting graphs by hand – reciprocal
 - There is no sound nor visual guidance from 8:16 till 8:35.
+
+### Lesson 3.4: Video 3.401 Kinematic equations
+- At 8:13, the last SUVAT equation contains an exponent that should not be there. This equation is wrong:
+
+      s(t) = vt - 1/2 × a^2 × t^2
+
+  It should read as follow:
+
+      s(t) = vt - 1/2 × at^2
+
 
 ### Summative quiz
 - No formatting seems appropriate to answer question 2. None of the following is accepted: `inf`, `infinity`, `infty`.
