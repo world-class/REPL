@@ -22,10 +22,13 @@
         * [Lesson 2.1: Video 2.103 Defining sequences](#lesson-21-video-2103-defining-sequences)
         * [Lesson 2.2: Video 2.201 Arithmetic progressions](#lesson-22-video-2201-arithmetic-progressions)
     * [Week 5](#week-5)
-        * [Lesson 2.5: Video 2.502 Series: sums of terms of sequences; summation symbol: sigma notation](#lesson-25-video-2502-series-sums-of-terms-of-sequences-summation-symbol-sigma-notation)
-        * [Lesson 2.5: Video 2.509 Finite sums](#lesson-25-video-2509-finite-sums)
-        * [Lesson 2.6: Practice quiz: 2.602 Limits of sequences](#lesson-26-practice-quiz-2602-limits-of-sequences)
-        * [Lesson 2.6: Video 2.604 Patterns in series; limit; convergent and divergent series](#lesson-26-video-2604-patterns-in-series-limit-convergent-and-divergent-series)
+        * [Lesson 2.5](#lesson-25)
+            * [Video 2.502 Series: sums of terms of sequences; summation symbol: sigma notation](#video-2502-series-sums-of-terms-of-sequences-summation-symbol-sigma-notation)
+            * [Video 2.509 Finite sums](#video-2509-finite-sums)
+        * [Lesson 2.6](#lesson-26)
+            * [Practice quiz: 2.602 Limits of sequences](#practice-quiz-2602-limits-of-sequences)
+            * [Video 2.604 Patterns in series; limit; convergent and divergent series](#video-2604-patterns-in-series-limit-convergent-and-divergent-series)
+            * [Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series](#practice-quiz-2608-criteria-for-identifying-convergentdivergent-sequences-and-series)
         * [Summative quiz](#summative-quiz)
     * [Week 6](#week-6)
         * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
@@ -111,17 +114,23 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 **Partially fixed**. The transcript and subtitles do not appear at this moment.
 
 ## Week 5
-### Lesson 2.5: Video 2.502 Series: sums of terms of sequences; summation symbol: sigma notation
+### Lesson 2.5
+#### Video 2.502 Series: sums of terms of sequences; summation symbol: sigma notation
 - At 20:38, the number `32` was skipped when calculating the sum of the series.
 
-### Lesson 2.5: Video 2.509 Finite sums
+#### Video 2.509 Finite sums
 - At 10:11, the summation for the term $k^2$ is omitted.
 
-### Lesson 2.6: Practice quiz: 2.602 Limits of sequences
+### Lesson 2.6
+#### Practice quiz: 2.602 Limits of sequences
 - Question 1: There is no clear way to indicate that there is no limit or what the considered interval really is.
 
-### Lesson 2.6: Video 2.604 Patterns in series; limit; convergent and divergent series
+#### Video 2.604 Patterns in series; limit; convergent and divergent series
 - The result for the last example is $\frac{1}{3}$, not $270$.
+
+#### Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series
+- Question 1: The answer is `divergent`. There is no clear way to input it.
+- Question 2: The answer is $\frac{3}{4}$.
 
 ### Summative quiz
 - Question 2: The quiz does not accept the valid answer and tells the user that the wrong answer is correct instead.
