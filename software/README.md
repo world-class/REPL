@@ -342,6 +342,9 @@
 - [Typing.com](https://www.typing.com/) - Learn to type for free without looking at your keyboard.
 
 ### UX/UI design
+See also [Graphics software](#graphics-software).
+- [Adobe XD](https://www.adobe.com/products/xd.html) - *"Wireframe, design, prototype, present, and share amazing experiences for web, mobile, voice, and more — all in one app. XD is made for designers, creative teams, and organizations that need to design at scale. It’s everything you need to work more efficiently, collaborate effortlessly, and create and manage your design system."*
+- :heavy_dollar_sign: [Balsamiq](https://balsamiq.com/) - *"With Balsamiq Wireframes, anyone can design great user interfaces."*
 - :cloud: [Figma](https://www.figma.com/) - *"A better way to design. Design, prototype, and gather feedback all in one place."* **(free for individuals, with limitations)**
 
 ### Version control system
