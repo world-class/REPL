@@ -1,4 +1,4 @@
-[Go back to the main page](https://world-class.github.io/REPL/)
+[Go back to the main page](https://github.com/world-class/REPL)
 
 # Discrete Mathematics
 This module helps hone your skills in thinking abstractly. It also

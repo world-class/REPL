@@ -1,4 +1,4 @@
-[Go back to the main page](https://world-class.github.io/REPL/)
+[Go back to the main page](https://github.com/world-class/REPL)
 
 # Programming with Data
 This module demonstrates how to work with data: getting data from a

@@ -1,4 +1,4 @@
-[Go back to the main page](https://world-class.github.io/REPL/)
+[Go back to the main page](https://github.com/world-class/REPL)
 
 # Object-Oriented Programming
 This module will provide you with an object-oriented programming

@@ -1,4 +1,4 @@
-[Go back to the main page](https://world-class.github.io/REPL/)
+[Go back to the main page](https://github.com/world-class/REPL)
 
 # How Computers Work
 How Computers Work helps you understand and interact with computer

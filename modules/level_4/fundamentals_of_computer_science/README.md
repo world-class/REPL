@@ -1,4 +1,4 @@
-[Go back to the main page](https://world-class.github.io/REPL/)
+[Go back to the main page](https://github.com/world-class/REPL)
 
 # Fundamentals of Computer Science
 In this module, you'll gain a broad understanding of key topic
