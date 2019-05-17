@@ -98,7 +98,7 @@ Find out what, when and where things are happening with this [Google Calendar](h
 ## Documents and resources provided publicly by the University of London
 
 ### Documents
-- [Code of conduct](https://london.ac.uk/sites/default/files/governance/Code-of-Conduct-Mar-2016.pdf)
+- [Code of conduct](https://london.ac.uk/about-us/how-university-run/policies/vle-code-conduct)
 - [Data protection policy](https://london.ac.uk/sites/default/files/governance/data-protection-policy.pdf)
 - [Events Due Diligence Privacy Notice](https://london.ac.uk/sites/default/files/governance/Events-Due-Diligence-Privacy-Notice.pdf)
 - [GDPR Rights guide - students](https://london.ac.uk/sites/default/files/governance/gdpr-rights-guide-students.pdf)
