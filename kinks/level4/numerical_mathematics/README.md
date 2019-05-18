@@ -91,6 +91,8 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - `6C × 3B` in hexadecimal is `18E4`.
 
 ## Week 3
+### Video: 1.1004 Multiplicative identity, inverse mod k, exponentiation mod k
+- At 27:20, 8<sup>3</sup> is _not_ 255 but 512.
 ### Lesson 1.10: Video 1.1006 Mod, rem and division
 - At 1:49, the expression isn't rendered properly (the congruence symbol doesn't appear). Subsequent expressions also present this issue.
 
