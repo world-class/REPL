@@ -13,3 +13,8 @@ This page is about the [How Computers Work module](../../../modules/level_4/how_
 ### Review quiz (unverified)
 - The answer to question 2 should be `yes`.
 - The answer to question 19 should be `yes and`.
+
+## Week 6
+### Lesson 6.1 Compression
+- Video: Compression - It loops the whole introduction twice up until around
+    2m30s mark.
