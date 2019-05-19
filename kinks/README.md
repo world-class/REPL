@@ -16,3 +16,7 @@
 
 ## Numerical mathematics
 - See [this page](../kinks/level4/numerical_mathematics/README.md).
+
+## Web Development
+- See [this page](../kinks/level4/web_development/README.md).
+
