@@ -34,7 +34,9 @@
         * [Summative quiz](#summative-quiz)
     * [Week 6](#week-6)
         * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
-        * [Lesson 3.2: Video 3.211 Plotting graphs by hand – reciprocal](#lesson-32-video-3211-plotting-graphs-by-hand--reciprocal)
+        * [Lesson 3.2](#lesson-32)
+            * [Video 3.207 Plotting graphs by hand – straight lines](#video-3207-plotting-graphs-by-hand--straight-lines)
+            * [Video 3.211 Plotting graphs by hand – reciprocal](#video-3211-plotting-graphs-by-hand--reciprocal)
         * [Summative quiz](#summative-quiz-1)
     * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz-2)
@@ -146,7 +148,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - There is no sound. For now, you can download the video [from this link](https://www.dropbox.com/s/922gj1vefoedx0y/3_101_cartesian_coordinates.mp4?dl=1). You can get the subtitles [from this link](https://www.dropbox.com/s/arvg0fuu7867vnl/3_101_subtitles-en.vtt?dl=1).
   - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`3_101_cartesian_coordinates.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`3_101_subtitles-en.vtt`). They will automatically be added and synced to the video.
 
-### Lesson 3.2: Video 3.211 Plotting graphs by hand – reciprocal
+### Lesson 3.2
+#### Video 3.207 Plotting graphs by hand – straight lines
+- At 4:17, the result of <img src="/kinks/level4/numerical_mathematics/tex/eb9206846219f7bd2134c599345334ae.svg?invert_in_darkmode&sanitize=true" align=middle width=86.64136634999998pt height=27.77565449999998pt/> is <img src="/kinks/level4/numerical_mathematics/tex/735e5448bc7bd9a66cbe8daec991d1e4.svg?invert_in_darkmode&sanitize=true" align=middle width=39.53182859999999pt height=21.18721440000001pt/>, **not** <img src="/kinks/level4/numerical_mathematics/tex/30d6e1c3d5720df08f9690f8865067db.svg?invert_in_darkmode&sanitize=true" align=middle width=52.317261149999986pt height=21.18721440000001pt/>.
+
+#### Video 3.211 Plotting graphs by hand – reciprocal
 - There is no sound nor visual guidance from 8:16 till 8:35.
 
 ### Summative quiz
