@@ -1,10 +1,15 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-- [Table of contents](#table-of-contents)
-- [How computers work - Reported problems](#how-computers-work---reported-problems)
-  - [Week 2](#week-2)
-    - [Review quiz (unverified)](#review-quiz-unverified)
+<!-- vim-markdown-toc GFM -->
+
+* [How computers work - Reported problems](#how-computers-work---reported-problems)
+    * [Week 2](#week-2)
+        * [Review quiz (unverified)](#review-quiz-unverified)
+    * [Week 6](#week-6)
+        * [Lesson 6.1 Compression](#lesson-61-compression)
+
+<!-- vim-markdown-toc -->
 
 # How computers work - Reported problems
 This page is about the [How Computers Work module](../../../modules/level_4/how_computers_work/).
