@@ -1,12 +1,16 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-- [Table of contents](#table-of-contents)
-- [Web Development](#web-development)
-- [Resources](#resources)
-  - [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
-  - [Programming](#programming)
-    - [JavaScript](#javascript)
+<!-- vim-markdown-toc GFM -->
+
+* [Web Development](#web-development)
+* [Resources](#resources)
+    * [Kinks to be aware of](#kinks-to-be-aware-of)
+    * [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
+    * [Programming](#programming)
+        * [JavaScript](#javascript)
+
+<!-- vim-markdown-toc -->
 
 ---
 
@@ -24,6 +28,9 @@ you to present your work online in the form of a website.
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/p88ho/syllabus-web-development-cm1040).
 
 # Resources
+## Kinks to be aware of
+- [List of reported errors and bugs with the module](../../../kinks/level4/web_development/).
+
 ## On REPL (See sections on Web development)
 - [Podcasts](../../../podcasts/)
 - [YouTube](../../../youtube/)
