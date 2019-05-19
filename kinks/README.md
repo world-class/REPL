@@ -1,11 +1,15 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-- [Table of contents](#table-of-contents)
-- [Kinks found in Level 4 modules](#kinks-found-in-level-4-modules)
-  - [How Computers Work](#how-computers-work)
-  - [Introduction to programming I](#introduction-to-programming-i)
-  - [Numerical mathematics](#numerical-mathematics)
+<!-- vim-markdown-toc GFM -->
+
+* [Kinks found in Level 4 modules](#kinks-found-in-level-4-modules)
+    * [How Computers Work](#how-computers-work)
+    * [Introduction to programming I](#introduction-to-programming-i)
+    * [Numerical mathematics](#numerical-mathematics)
+    * [Web Development](#web-development)
+
+<!-- vim-markdown-toc -->
 
 # Kinks found in Level 4 modules
 ## How Computers Work
