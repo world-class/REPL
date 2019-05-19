@@ -16,6 +16,7 @@
         * [Practice quiz: 1.406 Translate between binary and hexadecimal/octal](#practice-quiz-1406-translate-between-binary-and-hexadecimaloctal)
         * [Practice quiz: 1.602 Arithmetic in hexadecimal/octal](#practice-quiz-1602-arithmetic-in-hexadecimaloctal)
     * [Week 3](#week-3)
+        * [Video: 1.1004 Multiplicative identity, inverse mod k, exponentiation mod k](#video-11004-multiplicative-identity-inverse-mod-k-exponentiation-mod-k)
         * [Lesson 1.10: Video 1.1006 Mod, rem and division](#lesson-110-video-11006-mod-rem-and-division)
         * [Lesson 1.11: Video 1.1101 Encryption using modular arithmetic](#lesson-111-video-11101-encryption-using-modular-arithmetic)
     * [Week 4](#week-4)
