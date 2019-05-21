@@ -37,6 +37,8 @@
         * [Lesson 3.2](#lesson-32)
             * [Video 3.207 Plotting graphs by hand – straight lines](#video-3207-plotting-graphs-by-hand--straight-lines)
             * [Video 3.211 Plotting graphs by hand – reciprocal](#video-3211-plotting-graphs-by-hand--reciprocal)
+        * [Lesson 3.4](#lesson-34)
+            * [Video 3.401 Kinematic equations](#video-3401-kinematic-equations)
         * [Summative quiz](#summative-quiz-1)
     * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz-2)
@@ -154,6 +156,10 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 #### Video 3.211 Plotting graphs by hand – reciprocal
 - There is no sound nor visual guidance from 8:16 till 8:35.
+
+### Lesson 3.4
+#### Video 3.401 Kinematic equations
+- At 8:00, the last formula presented at the bottom of the slide should not have <img src="/kinks/level4/numerical_mathematics/tex/321d804a84f72d8ae1f91649242677fe.svg?invert_in_darkmode&sanitize=true" align=middle width=15.24170009999999pt height=26.76175259999998pt/> but <img src="/kinks/level4/numerical_mathematics/tex/44bc9d542a92714cac84e01cbbb7fd61.svg?invert_in_darkmode&sanitize=true" align=middle width=8.68915409999999pt height=14.15524440000002pt/> instead, as follow: <p align="center"><img src="/kinks/level4/numerical_mathematics/tex/547f5a95d26e3d1bd22d499ecb373627.svg?invert_in_darkmode&sanitize=true" align=middle width=116.27196735pt height=32.990165999999995pt/></p>
 
 ### Summative quiz
 - No formatting seems appropriate to answer question 2. None of the following is accepted: `inf`, `infinity`, `infty`.
