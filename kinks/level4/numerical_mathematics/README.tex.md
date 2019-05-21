@@ -166,4 +166,5 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 ## Week 8
 ### Summative quiz
-- The quiz doesn't let the student see what the mistakes are once the quiz has been submitted.
+- Question 4: The grader appears to consistently invert the solution when converting from radians to degrees. For example, **40 radians** is **~131.83°** but the expected answer is **0.698°**, which is the result **in radians** of **40°**.
+- [**fixed**] The quiz doesn't let the student see what the mistakes are once the quiz has been submitted.
