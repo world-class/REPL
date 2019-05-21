@@ -80,7 +80,7 @@ with one elective module from any other specialism. In the case of no
 specialism, six electives from any of the specialisms are chosen. A
 final project must also be completed to graduate.
 - [Data Science](modules/level_6/data_science) (CM3005-01)
-- [Machine Learning & Artificial Intelligence](modules/level_6/ml_ai)
+- [Machine Learning & Artificial Intelligence](modules/level_6/ml_ai) (CM3020-01)
 - [User Experience](modules/level_6/user_experience) (CM3055-01)
 - [Web & Mobile Development](modules/level_6/web_mobile_dev) (CM3035-01)
 - [Physical Computing & the Internet of Things](modules/level_6/phys_computing_iot) (CM3040-01)

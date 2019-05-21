@@ -37,6 +37,8 @@
         * [Lesson 3.2](#lesson-32)
             * [Video 3.207 Plotting graphs by hand – straight lines](#video-3207-plotting-graphs-by-hand--straight-lines)
             * [Video 3.211 Plotting graphs by hand – reciprocal](#video-3211-plotting-graphs-by-hand--reciprocal)
+        * [Lesson 3.4](#lesson-34)
+            * [Video 3.401 Kinematic equations](#video-3401-kinematic-equations)
         * [Summative quiz](#summative-quiz-1)
     * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz-2)
@@ -154,6 +156,10 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 #### Video 3.211 Plotting graphs by hand – reciprocal
 - There is no sound nor visual guidance from 8:16 till 8:35.
+
+### Lesson 3.4
+#### Video 3.401 Kinematic equations
+- At 8:00, the last formula presented at the bottom of the slide should not have $a^2$ but $a$ instead, as follow: $$s(t) = vt - \frac{1}{2}at^2$$
 
 ### Summative quiz
 - No formatting seems appropriate to answer question 2. None of the following is accepted: `inf`, `infinity`, `infty`.
