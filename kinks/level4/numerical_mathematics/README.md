@@ -33,8 +33,10 @@
             * [Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series](#practice-quiz-2608-criteria-for-identifying-convergentdivergent-sequences-and-series)
         * [Summative quiz](#summative-quiz)
     * [Week 6](#week-6)
-        * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
+        * [Lesson 3.1](#lesson-31)
+            * [Video 3.101 Cartesian coordinates](#video-3101-cartesian-coordinates)
         * [Lesson 3.2](#lesson-32)
+            * [Video 3.204 Functions and tables of values](#video-3204-functions-and-tables-of-values)
             * [Video 3.207 Plotting graphs by hand – straight lines](#video-3207-plotting-graphs-by-hand--straight-lines)
             * [Video 3.211 Plotting graphs by hand – reciprocal](#video-3211-plotting-graphs-by-hand--reciprocal)
         * [Lesson 3.4](#lesson-34)
@@ -146,11 +148,15 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - Question 2: The quiz does not accept the valid answer and tells the user that the wrong answer is correct instead.
 
 ## Week 6
-### Lesson 3.1: Video 3.101 Cartesian coordinates
+### Lesson 3.1
+#### Video 3.101 Cartesian coordinates
 - There is no sound. For now, you can download the video [from this link](https://www.dropbox.com/s/922gj1vefoedx0y/3_101_cartesian_coordinates.mp4?dl=1). You can get the subtitles [from this link](https://www.dropbox.com/s/arvg0fuu7867vnl/3_101_subtitles-en.vtt?dl=1).
   - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`3_101_cartesian_coordinates.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`3_101_subtitles-en.vtt`). They will automatically be added and synced to the video.
 
 ### Lesson 3.2
+#### Video 3.204 Functions and tables of values
+- At 10:44, <img src="/kinks/level4/numerical_mathematics/tex/9680fc2ff8bcf42879e130a812238fa7.svg?invert_in_darkmode&sanitize=true" align=middle width=118.12329209999999pt height=27.77565449999998pt/>, not <img src="/kinks/level4/numerical_mathematics/tex/d4d5ded94bbc2a526071d2b3e62cbbea.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/>.
+
 #### Video 3.207 Plotting graphs by hand – straight lines
 - At 4:17, the result of <img src="/kinks/level4/numerical_mathematics/tex/eb9206846219f7bd2134c599345334ae.svg?invert_in_darkmode&sanitize=true" align=middle width=86.64136634999998pt height=27.77565449999998pt/> is <img src="/kinks/level4/numerical_mathematics/tex/735e5448bc7bd9a66cbe8daec991d1e4.svg?invert_in_darkmode&sanitize=true" align=middle width=39.53182859999999pt height=21.18721440000001pt/>, **not** <img src="/kinks/level4/numerical_mathematics/tex/30d6e1c3d5720df08f9690f8865067db.svg?invert_in_darkmode&sanitize=true" align=middle width=52.317261149999986pt height=21.18721440000001pt/>.
 
