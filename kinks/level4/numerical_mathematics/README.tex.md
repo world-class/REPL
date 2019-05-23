@@ -33,8 +33,10 @@
             * [Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series](#practice-quiz-2608-criteria-for-identifying-convergentdivergent-sequences-and-series)
         * [Summative quiz](#summative-quiz)
     * [Week 6](#week-6)
-        * [Lesson 3.1: Video 3.101 Cartesian coordinates](#lesson-31-video-3101-cartesian-coordinates)
+        * [Lesson 3.1](#lesson-31)
+            * [Video 3.101 Cartesian coordinates](#video-3101-cartesian-coordinates)
         * [Lesson 3.2](#lesson-32)
+            * [Video 3.204 Functions and tables of values](#video-3204-functions-and-tables-of-values)
             * [Video 3.207 Plotting graphs by hand – straight lines](#video-3207-plotting-graphs-by-hand--straight-lines)
             * [Video 3.211 Plotting graphs by hand – reciprocal](#video-3211-plotting-graphs-by-hand--reciprocal)
         * [Lesson 3.4](#lesson-34)
@@ -146,11 +148,15 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - Question 2: The quiz does not accept the valid answer and tells the user that the wrong answer is correct instead.
 
 ## Week 6
-### Lesson 3.1: Video 3.101 Cartesian coordinates
+### Lesson 3.1
+#### Video 3.101 Cartesian coordinates
 - There is no sound. For now, you can download the video [from this link](https://www.dropbox.com/s/922gj1vefoedx0y/3_101_cartesian_coordinates.mp4?dl=1). You can get the subtitles [from this link](https://www.dropbox.com/s/arvg0fuu7867vnl/3_101_subtitles-en.vtt?dl=1).
   - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`3_101_cartesian_coordinates.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`3_101_subtitles-en.vtt`). They will automatically be added and synced to the video.
 
 ### Lesson 3.2
+#### Video 3.204 Functions and tables of values
+- At 10:44, $f(\frac{-3}{4}) = \frac{-2}{\frac{-3}{4}} = \frac{8}{3}$, not $\frac{2}{3}$.
+
 #### Video 3.207 Plotting graphs by hand – straight lines
 - At 4:17, the result of $\frac{-1}{2}x + 3 = 0$ is $x = 6$, **not** $x = -6$.
 
