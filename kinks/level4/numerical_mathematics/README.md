@@ -12,7 +12,7 @@
     * [Week 2](#week-2)
         * [Video: 1.401 Octal and hexadecimal (integer)](#video-1401-octal-and-hexadecimal-integer)
         * [Practice quiz: 1.404 Translate between decimal and hexadecimal or octal (fractional)](#practice-quiz-1404-translate-between-decimal-and-hexadecimal-or-octal-fractional)
-        * [Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal](#video-1405-special-relationship-between-binary-and-hexadecimal-and-binary-and-octal)
+        * [FIXED - Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal](#fixed---video-1405-special-relationship-between-binary-and-hexadecimal-and-binary-and-octal)
         * [Practice quiz: 1.406 Translate between binary and hexadecimal/octal](#practice-quiz-1406-translate-between-binary-and-hexadecimaloctal)
         * [Practice quiz: 1.602 Arithmetic in hexadecimal/octal](#practice-quiz-1602-arithmetic-in-hexadecimaloctal)
     * [Week 3](#week-3)
@@ -85,10 +85,9 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - `3.44` in octal is <img src="/kinks/level4/numerical_mathematics/tex/f03b8ce4e91db42f7e7d426d03a4c530.svg?invert_in_darkmode&sanitize=true" align=middle width=73.97702069999998pt height=27.77565449999998pt/>, not <img src="/kinks/level4/numerical_mathematics/tex/7f3d1f907178e8fb43776d4a6f090654.svg?invert_in_darkmode&sanitize=true" align=middle width=73.97702069999998pt height=27.77565449999998pt/>.
 - Options may present groupings of numbers. If a grouping is supposed to be of **3** digits for instance and you're presented with **4** digits, assume that the last digit should be in subscript (representing the number base, such as **2** for binary or **8** for octal) so that it makes sense when reading. In a grouping of 3 digits, `0002` should be interpreted as `000`, base `2`.
 
-### Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal
+### FIXED - Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal
 - At 7:38, this is wrong. `C` (base 16) = 12 (base 10) = 1100 (base 2), not 1101.
-- At 11:24, The grouping of digits is wrong. <img src="/kinks/level4/numerical_mathematics/tex/e69897cf733cbdb021a347ca0f09add0.svg?invert_in_darkmode&sanitize=true" align=middle width=74.88612284999998pt height=21.18721440000001pt/> in binary should read <img src="/kinks/level4/numerical_mathematics/tex/1f215210468e20aa9e617c590d043540.svg?invert_in_darkmode&sanitize=true" align=middle width=70.31989964999998pt height=21.18721440000001pt/>, having only one radix point.
-
+- At 11:24, The grouping of digits is wrong. <img src="/kinks/level4/numerical_mathematics/tex/e69897cf733cbdb021a347ca0f09add0.svg?invert_in_darkmode&sanitize=true" align=middle width=74.88612284999998pt height=21.18721440000001pt/> in binary should read <img src="/kinks/level4/numerical_mathematics/tex/dd335c95a331b81f6a13c73d69528be6.svg?invert_in_darkmode&sanitize=true" align=middle width=86.75831834999998pt height=21.18721440000001pt/>, having only one radix point.
 - At 11:37, it is said the answer is `11.71` (base 8). Wrong: It's `11.74` (base 8).
 
 ### Practice quiz: 1.406 Translate between binary and hexadecimal/octal
