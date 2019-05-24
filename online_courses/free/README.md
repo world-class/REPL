@@ -2,35 +2,43 @@
 
 # Free online courses
 # Table of contents
-- [Free online courses](#free-online-courses)
-- [Table of contents](#table-of-contents)
-  - [Artificial intelligence & machine learning](#artificial-intelligence--machine-learning)
-    - [First steps](#first-steps)
-    - [Deep learning](#deep-learning)
-    - [Machine learning](#machine-learning)
-    - [Next steps](#next-steps)
-      - [Complementary topics](#complementary-topics)
-  - [Business](#business)
-  - [Command-line (terminal, shell)](#command-line-terminal-shell)
-  - [Computer science](#computer-science)
-    - [Algorithms](#algorithms)
-    - [Blockchain technology](#blockchain-technology)
-    - [Cloud computing](#cloud-computing)
-    - [Security](#security)
-  - [Data science](#data-science)
-    - [Machine learning](#machine-learning-1)
-  - [Databases](#databases)
-  - [Foreign languages](#foreign-languages)
-    - [Spanish](#spanish)
-      - [Artificial intelligence](#artificial-intelligence)
-        - [Machine learning](#machine-learning-2)
-      - [Cloud computing](#cloud-computing-1)
-      - [Programming](#programming)
-      - [Web development](#web-development)
-  - [Git & GitHub](#git--github)
-  - [Learning strategies](#learning-strategies)
-  - [Linux](#linux)
-  - [Mathematics](#mathematics)
+<!-- vim-markdown-toc GFM -->
+
+* [Artificial intelligence & machine learning](#artificial-intelligence--machine-learning)
+    * [First steps](#first-steps)
+    * [Deep learning](#deep-learning)
+    * [Machine learning](#machine-learning)
+    * [Next steps](#next-steps)
+        * [Complementary topics](#complementary-topics)
+* [Business](#business)
+* [Command-line (terminal, shell)](#command-line-terminal-shell)
+* [Computer science](#computer-science)
+    * [Algorithms](#algorithms)
+    * [Blockchain technology](#blockchain-technology)
+    * [Cloud computing](#cloud-computing)
+    * [Computer vision](#computer-vision)
+    * [Security](#security)
+* [Cybersecurity](#cybersecurity)
+* [Data science](#data-science)
+    * [Data analytics](#data-analytics)
+    * [Data collection](#data-collection)
+    * [Data mining](#data-mining)
+    * [Machine learning](#machine-learning-1)
+* [Databases](#databases)
+* [Foreign languages](#foreign-languages)
+    * [Spanish](#spanish)
+        * [Artificial intelligence](#artificial-intelligence)
+            * [Machine learning](#machine-learning-2)
+        * [Cloud computing](#cloud-computing-1)
+        * [Programming](#programming)
+        * [Web development](#web-development)
+* [Git & GitHub](#git--github)
+* [Internet of Things](#internet-of-things)
+* [Learning strategies](#learning-strategies)
+* [Linux](#linux)
+* [Mathematics](#mathematics)
+
+<!-- vim-markdown-toc -->
 
 ---
 
@@ -90,6 +98,7 @@
     - Graph Search, Shortest Paths, and Data Structures
     - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
     - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+- [University of California, San Diego: Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures) - edX MicroMaster
 
 ### Blockchain technology
 - [Blockchain Revolution for the Enterprise Specialization](https://www.coursera.org/specializations/blockchain-revolution-enterprise) - Coursera. Offered by The Business School for the World INSEAD. Includes:
@@ -111,6 +120,10 @@
     - Google Cloud Platform Fundamentals: Core Infrastructure
     - Managing Security in Google Cloud Platform
     - Mitigating Security Vulnerabilities on Google Cloud Platform
+- [University of Illinois: Cloud Computing](https://www.coursera.org/specializations/cloud-computing) - Coursera Specialization
+
+### Computer vision
+- [University at Buffalo: Computer Vision Specialization](https://www.coursera.org/specializations/computervision) - Coursera Specialization
 
 ### Security
 - [Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design) - Coursera. Offered by University of Colorado. Includes:
@@ -121,9 +134,28 @@
 - [Security and Privacy for Big Data - Part 1](https://www.coursera.org/learn/security-privacy-big-data) - Coursera. Offered by Digital Academy.
 - [Security and Privacy for Big Data - Part 2](https://www.coursera.org/learn/security-privacy-big-data-protection) - Coursera. Offered by Digital Academy.
 
+
+## Cybersecurity
+- [University System of Georgia: Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain)
+- [University of Colorado: Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design)
+
+
 ## Data science
+- [Arizona State University: Data Systems](https://www.coursera.org/specializations/data-systems) - Coursera Specialization
+- [University of California, San Diego: Data Science](https://www.edx.org/micromasters/data-science) - edX MicroMaster
+
+### Data analytics
+- [University of California, San Diego: Python Data Products for Predictive Analytics Specialization](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics) - Coursera Specialization
+
+### Data collection
+- [University of Maryland, College Park & University of Michigan: Survey Data Collection and Analytics](https://www.coursera.org/specializations/data-collection)  - Coursera Specialization
+
+### Data mining
+- [University of Illinois: Data Mining](https://www.coursera.org/specializations/data-mining) - Coursera Specialization
+
 ### Machine learning
 - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning) - edX. Offered by Harvard University. Includes: R basics, visualization, probability, inference and modeling, productivity tools, wrangling, linear regression, machine learning, capstone.
+
 
 ## Databases
 - [Database systems Specialization](https://www.coursera.org/specializations/database-systems) - Coursera. Includes:
@@ -183,6 +215,11 @@
 - [Short and Sweet: Get Started with Git and GitHub Right Now](https://www.udemy.com/short-and-sweet-get-started-with-git-and-github-right-now/) - Udemy. *"In just 30 minutes, this "Short and Sweet" course covers the essential ideas you need to move forward, without a lot of filler. At the end of the course, you'll be able to set up a GitHub account, install Git, create and configure new Git and GitHub repositories, create a change history for your software projects, and publish your software projects to GitHub."*
 - [The Ultimate GIT 5-day Challenge](https://www.udemy.com/the-ultimate-git-5-day-challenge/) - Udacity. *"A quick way to determine if working with GIT is something you want to learn more about. This course takes us step-by-step through some basic GIT operations. The course will not dive too deep, and takes small steps on each of five days. As we continue through the course, we learn a basic, single-person workflow that could allow anyone to store files at GitHub or BitBucket."*
 - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) - Coursera. *"In this course, you will not learn everything there is to know about Git, but you will build a strong conceptual understanding of the technology, and afterward will be able to confidently dig deeper on any topic that interests you."*
+
+
+## Internet of Things
+- [Curtin University](https://www.edx.org/micromasters/curtinx-internet-of-things-iot) (Internet of Things) - edX MicroMaster
+
 
 ## Learning strategies
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) - Coursera. McMaster University & University of California San Diego.

@@ -3,22 +3,20 @@
 # After UoL's Online Bachelor Degree
 
 ## Table of contents
-- [After UoL's Online Bachelor Degree](#after-uols-online-bachelor-degree)
-  - [Table of contents](#table-of-contents)
-  - [Study: Online options](#study-online-options)
-    - [Doctor of Computer Science](#doctor-of-computer-science)
-    - [Master's Degree](#masters-degree)
-        - [Analytics](#analytics)
-        - [Cyber security](#cyber-security)
-        - [Data science](#data-science)
-        - [Machine learning](#machine-learning)
-    - [MicroMasters on edX](#micromasters-on-edx)
-    - [Specializations on Coursera](#specializations-on-coursera)
-        - [Cybersecurity](#cybersecurity)
-        - [Data science](#data-science-1)
-- [Work: Remote options](#work-remote-options)
-    - [Finding opportunities](#finding-opportunities)
-    - [Freelancing](#freelancing)
+<!-- vim-markdown-toc GFM -->
+
+* [Study: Online options](#study-online-options)
+    * [Doctor of Computer Science](#doctor-of-computer-science)
+    * [Master's Degree](#masters-degree)
+        * [Analytics](#analytics)
+        * [Cyber security](#cyber-security)
+        * [Data science](#data-science)
+        * [Machine learning](#machine-learning)
+* [Work: Remote options](#work-remote-options)
+    * [Finding opportunities](#finding-opportunities)
+    * [Freelancing](#freelancing)
+
+<!-- vim-markdown-toc -->
 
 ## Study: Online options
 _Note: All degrees are in Computer Science, unless specified otherwise._
@@ -56,26 +54,6 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 
 #### Machine learning
 - [Imperial College London](https://www.coursera.org/degrees/msc-machine-learning-imperial) (Machine learning) - Coursera
-
-
-### MicroMasters on edX
-- [Curtin University](https://www.edx.org/micromasters/curtinx-internet-of-things-iot) (Internet of Things)
-- [University of California, San Diego: Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
-- [University of California, San Diego: Data Science](https://www.edx.org/micromasters/data-science)
-
-### Specializations on Coursera
-- [Arizona State University: Data Systems](https://www.coursera.org/specializations/data-systems)
-- [University at Buffalo: Computer Vision Specialization](https://www.coursera.org/specializations/computervision)
-- [University of Illinois: Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
-- [University of Illinois: Data Mining](https://www.coursera.org/specializations/data-mining)
-
-#### Cybersecurity
-- [University System of Georgia: Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain)
-- [University of Colorado: Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design)
-
-#### Data science
-- [University of California, San Diego: Python Data Products for Predictive Analytics Specialization](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics)
-- [University of Maryland, College Park & University of Michigan: Survey Data Collection and Analytics](https://www.coursera.org/specializations/data-collection)
 
 ## Work: Remote options
 ### Finding opportunities
