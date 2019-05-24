@@ -17,7 +17,9 @@
     * [Blockchain technology](#blockchain-technology)
     * [Cloud computing](#cloud-computing)
     * [Computer vision](#computer-vision)
+    * [Design and product](#design-and-product)
     * [Security](#security)
+    * [Software development](#software-development)
 * [Cybersecurity](#cybersecurity)
 * [Data science](#data-science)
     * [Data analytics](#data-analytics)
@@ -106,6 +108,7 @@
     - Transacting on the Blockchain
     - Blockchain and Business: Applications and Implications
     - Blockchain Opportunity Analysis
+- [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) - Coursera. Offered by University at Buffalo, The State University of New York.
 - [Introduction to Blockchain Technologies](https://www.coursera.org/learn/introduction-blockchain-technologies) - Coursera. Offered by The Business School for the World INSEAD.
 - [Supply Chain Finance and Blockchain Technology Specialization](https://www.coursera.org/specializations/supply-chain-finance-and-blockchain-technology) - Coursera. Offered by New York Institute of Finance. Includes:
     - Introduction to Supply Chain Finance & Blockchain Technology
@@ -114,6 +117,7 @@
     - Future Development in Supply Chain Finance and Blockchain Technology
 
 ### Cloud computing
+- [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) - Coursera. Offered by Google Cloud.
 - [Building Scalable Java Microservices with Spring Boot and Spring Cloud](https://www.coursera.org/learn/google-cloud-java-spring) - Coursera. Offered by Google Cloud.
 - [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) - Coursera. Offered by Google Cloud.
 - [Security in Google Cloud Platform Specialization](https://www.coursera.org/specializations/security-google-cloud-platform) - Coursera. Offered by Google Cloud. Includes:
@@ -125,6 +129,11 @@
 ### Computer vision
 - [University at Buffalo: Computer Vision Specialization](https://www.coursera.org/specializations/computervision) - Coursera Specialization
 
+### Design and product
+- [Agile Development Specialization](https://www.coursera.org/specializations/agile-development) - Coursera. Offered by University of Virginia.
+- [Building AI Powered Chatbots Without Programming](https://www.coursera.org/learn/building-ai-powered-chatbots) - Coursera. Offered by IBM.
+- [Software Product Management Specialization](https://www.coursera.org/specializations/product-management) - Coursera. Offered by University of Alberta.
+
 ### Security
 - [Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design) - Coursera. Offered by University of Colorado. Includes:
     - Cloud Computing Security
@@ -134,6 +143,11 @@
 - [Security and Privacy for Big Data - Part 1](https://www.coursera.org/learn/security-privacy-big-data) - Coursera. Offered by Digital Academy.
 - [Security and Privacy for Big Data - Part 2](https://www.coursera.org/learn/security-privacy-big-data-protection) - Coursera. Offered by Digital Academy.
 
+### Software development
+- [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) - Coursera. Offered by Google Cloud.
+- [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming) - Coursera. Offered by Duke University.
+- [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) - Coursera. University of Michigan.
+- [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) - Coursera. Offered by EPFL.
 
 ## Cybersecurity
 - [University System of Georgia: Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain)
