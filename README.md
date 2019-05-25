@@ -92,7 +92,8 @@ final project must also be completed to graduate.
 
 
 ## Calendar due dates and events
-Find out what, when and where things are happening with this [Google Calendar](https://calendar.google.com/calendar/r?cid=cG1hYW9mNTVhcmIzYWt1OTBkMm41Ymhhc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+- Find out what, when and where things are happening with this [Google Calendar](https://calendar.google.com/calendar/embed?src=pmaaof55arb3aku90d2n5bhasg%40group.calendar.google.com).
+- **If you have a Google account**, you can follow [this link](https://calendar.google.com/calendar/r?cid=cG1hYW9mNTVhcmIzYWt1OTBkMm41Ymhhc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) instead.
 
 
 ## Documents and resources provided publicly by the University of London
