@@ -3,6 +3,8 @@
 # Websites
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
+
 * [Artificial intelligence](#artificial-intelligence)
     * [Machine learning](#machine-learning)
 * [Career](#career)
@@ -27,6 +29,7 @@
     * [Number bases](#number-bases)
     * [Online tools](#online-tools)
     * [Statistics](#statistics)
+    * [Trigonometry](#trigonometry)
 * [Online services](#online-services)
     * [Disposable/temporary emails](#disposabletemporary-emails)
     * [File sharing & storage](#file-sharing--storage)
@@ -48,6 +51,8 @@
     * [Information on websites](#information-on-websites)
     * [Website annotation](#website-annotation)
     * [Website testing](#website-testing)
+
+<!-- vim-markdown-toc -->
 
 # Artificial intelligence
 ## Machine learning
@@ -136,6 +141,8 @@
 - [Learn How To Put Statistics To Work](http://www.learner.org/courses/againstallodds/) - Annenberg Learner
 - [Statistics 20, 003 - Fall 2010](https://archive.org/details/ucberkeley-webcast-PLFCCED623A3AB020F) - UC Berkeley
 
+## Trigonometry
+- [How To Learn Trigonometry Intuitively](https://betterexplained.com/articles/intuitive-trigonometry/) - Better Explained
 
 # Online services
 ## Disposable/temporary emails
