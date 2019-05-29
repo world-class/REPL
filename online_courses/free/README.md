@@ -34,11 +34,13 @@
         * [Cloud computing](#cloud-computing-1)
         * [Programming](#programming)
         * [Web development](#web-development)
+* [Game development](#game-development)
 * [Git & GitHub](#git--github)
 * [Internet of Things](#internet-of-things)
 * [Learning strategies](#learning-strategies)
 * [Linux](#linux)
 * [Mathematics](#mathematics)
+* [Mobile development](#mobile-development)
 
 <!-- vim-markdown-toc -->
 
@@ -222,6 +224,10 @@
     - [Desarrollo del lado servidor: NodeJS, Express y MongoDB](https://www.coursera.org/learn/desarrollo-lado-servidor-nodejs-express-mongodb)
 
 
+## Game development
+- [CS50's Introduction to Game Development](https://www.edx.org/professional-certificate/harvardx-computer-science-for-game-development) - HarvardX - *"Learn about the development of 2D and 3D interactive games in this hands-on course, as you explore the design of games such as Super Mario Bros., Pokémon, Angry Birds, and more. The course explores principles of 2D and 3D graphics, animation, sound, and collision detection using frameworks like Unity and LÖVE 2D, as well as languages like Lua and C#."*
+
+
 ## Git & GitHub
 - [Git Essential Training](https://www.linkedin.com/learning/git-essential-training) (_free with free trial_) - LinkedIn Learning. *"Using a step-by-step approach, author Kevin Skoglund presents the commands that enable efficient code management and reveals the fundamental concepts behind version control systems and the Git architecture. Discover how to track changes to files in a repository, review previous edits, and compare versions of a file; create branches to test new ideas without altering the main project; and merge those changes into the project if they work out.*"
 - [Git Started with GitHub](https://www.udemy.com/git-started-with-github/) - Udacity. *"This course is designed to jump right into showing how Git and GitHub work together, focusing on the Git basic workflow. Students can expect to learn the minimum needed to start using Git in about 30 minutes."*
@@ -252,3 +258,7 @@
     - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
     - [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)
 - [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) - Coursera. *"By the end, you will be able to apply the basics of the number theory to encrypt and decrypt messages, and to break the code if one applies RSA carelessly. You will even pass a cryptographic quest!"*
+
+
+## Mobile development
+- [CS50's Mobile App Development with React Native](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps) - HarvardX - *"Learn about mobile app development with React Native, a popular framework maintained by Facebook that enables cross-platform native apps using JavaScript without Java or Swift."*
