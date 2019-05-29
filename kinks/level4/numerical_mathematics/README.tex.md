@@ -42,6 +42,9 @@
         * [Lesson 3.4](#lesson-34)
             * [Video 3.401 Kinematic equations](#video-3401-kinematic-equations)
         * [Summative quiz](#summative-quiz-1)
+    * [Week 7](#week-7)
+        * [Lesson 4.1](#lesson-41)
+            * [Video 4.101 Introduction to angles and triangles](#video-4101-introduction-to-angles-and-triangles)
     * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz-2)
 
@@ -168,6 +171,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 ### Summative quiz
 - No formatting seems appropriate to answer question 2. None of the following is accepted: `inf`, `infinity`, `infty`.
+
+## Week 7
+### Lesson 4.1
+#### Video 4.101 Introduction to angles and triangles
+- At 17:09, $\frac{37 \times 2\pi}{360} \approx 0.646 rad$, **not** $0.323 rad$.
 
 ## Week 8
 ### Summative quiz
