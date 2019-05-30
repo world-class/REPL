@@ -45,6 +45,7 @@
     * [Week 7](#week-7)
         * [Lesson 4.1](#lesson-41)
             * [Video 4.101 Introduction to angles and triangles](#video-4101-introduction-to-angles-and-triangles)
+            * [Practice quiz 4.204 Trigonometric ratios in the right-angled triangle](#practice-quiz-4204-trigonometric-ratios-in-the-right-angled-triangle)
     * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz-2)
 
@@ -176,6 +177,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 4.1
 #### Video 4.101 Introduction to angles and triangles
 - At 17:09, $\frac{37 \times 2\pi}{360} \approx 0.646 rad$, **not** $0.323 rad$.
+
+#### Practice quiz 4.204 Trigonometric ratios in the right-angled triangle
+- Questions 6 and 7 present different errors:
+  - The information in the question doesn't necessarily match the data in the picture.
+  - The grader expects impossible answers for the missing side and/or angle. Verify your answer with Pythagoras's theorem and the sine rule instead of relying on the grader.
 
 ## Week 8
 ### Summative quiz
