@@ -45,6 +45,7 @@
     * [Week 7](#week-7)
         * [Lesson 4.1](#lesson-41)
             * [Video 4.101 Introduction to angles and triangles](#video-4101-introduction-to-angles-and-triangles)
+            * [Practice quiz 4.204 Trigonometric ratios in the right-angled triangle](#practice-quiz-4204-trigonometric-ratios-in-the-right-angled-triangle)
     * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz-2)
 
@@ -176,6 +177,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 4.1
 #### Video 4.101 Introduction to angles and triangles
 - At 17:09, <img src="/kinks/level4/numerical_mathematics/tex/52982b9d59fbf24062aacb3ad6df18fa.svg?invert_in_darkmode&sanitize=true" align=middle width=124.48294485pt height=27.77565449999998pt/>, **not** <img src="/kinks/level4/numerical_mathematics/tex/74dc7db89af3240719413fc86e845eae.svg?invert_in_darkmode&sanitize=true" align=middle width=62.56113434999998pt height=22.831056599999986pt/>.
+
+#### Practice quiz 4.204 Trigonometric ratios in the right-angled triangle
+- Questions 6 and 7 present different errors:
+  - The information in the question doesn't necessarily match the data in the picture.
+  - The grader expects impossible answers for the missing side and/or angle. Verify your answer with Pythagoras's theorem and the sine rule instead of relying on the grader.
 
 ## Week 8
 ### Summative quiz
