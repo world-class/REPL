@@ -17,7 +17,9 @@
     * [Blockchain technology](#blockchain-technology)
     * [Cloud computing](#cloud-computing)
     * [Computer vision](#computer-vision)
+    * [Cryptography](#cryptography)
     * [Design and product](#design-and-product)
+    * [Programming](#programming)
     * [Security](#security)
     * [Software development](#software-development)
 * [Cybersecurity](#cybersecurity)
@@ -32,7 +34,7 @@
         * [Artificial intelligence](#artificial-intelligence)
             * [Machine learning](#machine-learning-2)
         * [Cloud computing](#cloud-computing-1)
-        * [Programming](#programming)
+        * [Programming](#programming-1)
         * [Web development](#web-development)
 * [Game development](#game-development)
 * [Git & GitHub](#git--github)
@@ -40,7 +42,9 @@
 * [Learning strategies](#learning-strategies)
 * [Linux](#linux)
 * [Mathematics](#mathematics)
+    * [Calculus](#calculus)
 * [Mobile development](#mobile-development)
+* [Psychology & Health](#psychology--health)
 
 <!-- vim-markdown-toc -->
 
@@ -131,10 +135,22 @@
 ### Computer vision
 - [University at Buffalo: Computer Vision Specialization](https://www.coursera.org/specializations/computervision) - Coursera Specialization
 
+### Cryptography
+- [Cryptography I](https://www.coursera.org/learn/crypto) - Coursera. Offered by Stanford.
+- [Cryptography II](https://www.coursera.org/learn/crypto2) - Coursera. Offered by Stanford.
+- [Cryptography](https://www.coursera.org/learn/cryptography) - Coursera. Offered by University of Maryland.
+
 ### Design and product
 - [Agile Development Specialization](https://www.coursera.org/specializations/agile-development) - Coursera. Offered by University of Virginia.
 - [Building AI Powered Chatbots Without Programming](https://www.coursera.org/learn/building-ai-powered-chatbots) - Coursera. Offered by IBM.
+- [Gamification](https://www.coursera.org/learn/gamification) - Coursera. Offered by Penn, University of Pennsylvania. - *"Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course will teach you the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively."*
 - [Software Product Management Specialization](https://www.coursera.org/specializations/product-management) - Coursera. Offered by University of Alberta.
+
+### Programming
+- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2) - edX. Offered by MIT.
+- [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) - Coursera. Offered by University of Toronto. - *"This course introduces the fundamental building blocks of programming and teaches you how to write fun and useful programs using the Python language."*
+- [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) - Coursera. Offered by RICE.
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) - Coursera. Offered by University of Michigan.
 
 ### Security
 - [Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design) - Coursera. Offered by University of Colorado. Includes:
@@ -158,6 +174,8 @@
 
 ## Data science
 - [Arizona State University: Data Systems](https://www.coursera.org/specializations/data-systems) - Coursera Specialization
+- [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) - DataCamp.
+- [Python for Data Science](https://www.edx.org/course/python-for-data-science-2) - edX. Offered by UCSanDiego.
 - [University of California, San Diego: Data Science](https://www.edx.org/micromasters/data-science) - edX MicroMaster
 
 ### Data analytics
@@ -259,6 +277,19 @@
     - [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)
 - [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) - Coursera. *"By the end, you will be able to apply the basics of the number theory to encrypt and decrypt messages, and to break the code if one applies RSA carelessly. You will even pass a cryptographic quest!"*
 
+### Calculus
+- [Calculus: Single Variable Part 1 - Functions](https://www.coursera.org/learn/single-variable-calculus) - Coursera. Offered by Penn, University of Pennsylvania.
+- [Calculus: Single Variable Part 2 - Differentiation](https://www.coursera.org/learn/differentiation-calculus) - Coursera. Offered by Penn, University of Pennsylvania.
+- [Calculus: Single Variable Part 3 - Integration](https://www.coursera.org/learn/integration-calculus) - Coursera. Offered by Penn, University of Pennsylvania.
+- [Calculus: Single Variable Part 4 - Applications](https://www.coursera.org/learn/applications-calculus) - Coursera. Offered by Penn, University of Pennsylvania.
+- [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) - Coursera. Offered by University of Sydney.
+- [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) - Coursera. Offered by Imperial College London.
+
 
 ## Mobile development
 - [CS50's Mobile App Development with React Native](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps) - HarvardX - *"Learn about mobile app development with React Native, a popular framework maintained by Facebook that enables cross-platform native apps using JavaScript without Java or Swift."*
+
+## Psychology & Health
+- [A Life of Happiness and Fulfillment](https://www.coursera.org/learn/happiness) - Coursera - *"[...] draws content from a variety of fields, including psychology, neuroscience, and behavioral decision theory to offer a tested and practical recipe for leading a life of happiness and fulfillment."*
+- [Maintaining a Mindful Life](https://www.futurelearn.com/courses/mindfulness-life) - FutureLearn. - *"Learn how to apply mindfulness techniques, so you can improve your communication, relationships and emotional health."*
+- [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance) - FutureLearn - *"Learn mindfulness techniques to reduce stress and improve your wellbeing and work/study performance."*
