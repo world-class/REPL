@@ -44,6 +44,7 @@
     * [Julia](#julia)
     * [Python](#python)
     * [Questions and answers](#questions-and-answers)
+    * [Regular expressions (regex)](#regular-expressions-regex)
 * [Startups](#startups)
 * [Web](#web)
     * [Buying a domain name](#buying-a-domain-name)
@@ -212,6 +213,10 @@
 
 ## Questions and answers
 - [Stack Overflow](https://stackoverflow.com/) - *"Stack Overflow is a question and answer site for professional and enthusiast programmers."* ([from Wikipedia](https://en.wikipedia.org/wiki/Stack_Overflow)
+
+## Regular expressions (regex)
+- [RegexOne](https://regexone.com/) - *"Learn Regular Expressions with simple, interactive exercises."*
+- [regex101](https://regex101.com/) - *"Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript."*
 
 # Startups
 - [Notes Essays-Peter Thiel's CS183: Startup-Stanford, Spring 2012](http://blakemasters.com/peter-thiels-cs183-startup) - There is a book available from those notes: [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2I6AlDJ).
