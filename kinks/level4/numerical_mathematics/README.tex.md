@@ -19,7 +19,8 @@
         * [Lesson 1.10](#lesson-110)
             * [Video: 1.1004 Multiplicative identity, inverse mod k, exponentiation mod k](#video-11004-multiplicative-identity-inverse-mod-k-exponentiation-mod-k)
             * [Video 1.1006 Mod, rem and division](#video-11006-mod-rem-and-division)
-        * [Lesson 1.11: Video 1.1101 Encryption using modular arithmetic](#lesson-111-video-11101-encryption-using-modular-arithmetic)
+        * [Lesson 1.11](#lesson-111)
+            * [Video 1.1101 Encryption using modular arithmetic](#video-11101-encryption-using-modular-arithmetic)
     * [Week 4](#week-4)
         * [Lesson 2.1: Video 2.103 Defining sequences](#lesson-21-video-2103-defining-sequences)
         * [Lesson 2.2: Video 2.201 Arithmetic progressions](#lesson-22-video-2201-arithmetic-progressions)
@@ -45,9 +46,16 @@
     * [Week 7](#week-7)
         * [Lesson 4.1](#lesson-41)
             * [Video 4.101 Introduction to angles and triangles](#video-4101-introduction-to-angles-and-triangles)
+        * [Lesson 4.2](#lesson-42)
             * [Practice quiz 4.204 Trigonometric ratios in the right-angled triangle](#practice-quiz-4204-trigonometric-ratios-in-the-right-angled-triangle)
+            * [Video 4.206 Trigonometric ratios in the right-angled triangle: Part 2](#video-4206-trigonometric-ratios-in-the-right-angled-triangle-part-2)
     * [Week 8](#week-8)
         * [Summative quiz](#summative-quiz-2)
+    * [Week 10](#week-10)
+        * [Lesson 5.3](#lesson-53)
+            * [Practice quiz 5.307 Solving trigonometric equations](#practice-quiz-5307-solving-trigonometric-equations)
+        * [Lesson 5.4](#lesson-54)
+            * [Summative quiz 5.402 Trigonometric functions](#summative-quiz-5402-trigonometric-functions)
 
 <!-- vim-markdown-toc -->
 
@@ -109,7 +117,8 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 #### Video 1.1006 Mod, rem and division
 - At 1:49, the expression isn't rendered properly (the congruence symbol doesn't appear). Subsequent expressions also present this issue.
 
-### Lesson 1.11: Video 1.1101 Encryption using modular arithmetic
+### Lesson 1.11
+#### Video 1.1101 Encryption using modular arithmetic
 - The video contains many display errors that are fixed in a previously uploaded version. While not being flawless, it's much better. For now, the video can be downloaded [from this link](https://www.dropbox.com/s/w52vpsau7ly6tc6/1_1101_Encryption_using_modular_arithmetic.mp4?dl=1). If you want to add subtitles, you can [download them here](https://www.dropbox.com/s/5hso65rut3u337q/1_1101_subtitles-en.vtt?dl=1).
   - If you don't know how to add the subtitles to the video, try with [VLC media player](https://www.videolan.org/vlc/) (free): open the video (`1_1101_Encryption_using_modular_arithmetic.mp4`) and from VLC, click at the top on `Subtitle`, then on `Add Subtitle File...` and open the subtitles file (`1_1101_subtitles-en.vtt`). They will automatically be added and synced to the video.
 - At 3:43, a banner appears in the background and has nothing to do with was it being taught.
@@ -178,13 +187,26 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 #### Video 4.101 Introduction to angles and triangles
 - At 17:09, $\frac{37 \times 2\pi}{360} \approx 0.646 rad$, **not** $0.323 rad$.
 
+### Lesson 4.2
 #### Practice quiz 4.204 Trigonometric ratios in the right-angled triangle
 - Questions 6 and 7 present different errors:
   - The information in the question doesn't necessarily match the data in the picture.
   - The grader expects impossible answers for the missing side and/or angle. Verify your answer with Pythagoras's theorem and the sine rule instead of relying on the grader.
+
+#### Video 4.206 Trigonometric ratios in the right-angled triangle: Part 2
+- At 14:03, $tan(B) = \frac{b}{c}$, **not** $tan(B) = \frac{b}{a}$.
 
 ## Week 8
 ### Summative quiz
 - Question 1: The given angles in the selection are computed correctly, but they do not correspond to the correct letter: the value of angle **C** should be the value of angle **A** and vice versa.
 - Question 4: The grader appears to consistently invert the solution when converting from radians to degrees. For example, **40 radians** is **~131.83°** but the expected answer is **0.698°**, which is the result **in radians** of **40°**.
 - [**fixed**] The quiz doesn't let the student see what the mistakes are once the quiz has been submitted.
+
+## Week 10
+### Lesson 5.3
+#### Practice quiz 5.307 Solving trigonometric equations
+- Question 3: The answer should be _None of the other options is correct_ when asked for a value of $x$ where $tan(180^\text{o} - x) = tan(45^\text{o})$.
+
+### Lesson 5.4
+#### Summative quiz 5.402 Trigonometric functions
+- Question 2: The option $cos(355^\text{o}) = cos(360^\text{o} - 355^\text{o}) = 0.996$ is valid and should be selected, but is currently marked as wrong.
