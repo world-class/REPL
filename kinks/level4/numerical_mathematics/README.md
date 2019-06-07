@@ -31,7 +31,7 @@
         * [Lesson 2.6](#lesson-26)
             * [Practice quiz: 2.602 Limits of sequences](#practice-quiz-2602-limits-of-sequences)
             * [Video 2.604 Patterns in series; limit; convergent and divergent series](#video-2604-patterns-in-series-limit-convergent-and-divergent-series)
-            * [Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series](#practice-quiz-2608-criteria-for-identifying-convergentdivergent-sequences-and-series)
+            * [FIXED - Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series](#fixed---practice-quiz-2608-criteria-for-identifying-convergentdivergent-sequences-and-series)
         * [Summative quiz](#summative-quiz)
     * [Week 6](#week-6)
         * [Lesson 3.1](#lesson-31)
@@ -152,9 +152,9 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 #### Video 2.604 Patterns in series; limit; convergent and divergent series
 - The result for the last example is <img src="/kinks/level4/numerical_mathematics/tex/4866e384d04d2b473e19a2850b073f50.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/>, not <img src="/kinks/level4/numerical_mathematics/tex/2bdaae729e504043557b55b0bc346f8f.svg?invert_in_darkmode&sanitize=true" align=middle width=24.657628049999992pt height=21.18721440000001pt/>.
 
-#### Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series
-- Question 1: The answer is `divergent`. There is no clear way to input it.
-- Question 2: The answer is <img src="/kinks/level4/numerical_mathematics/tex/17702db6bda8a40c70c5e90b82b411b6.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/>.
+#### FIXED - Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series
+- Question 1: The answer is `divergent`.
+- Question 2: The answer is `convergent,3/4`.
 
 ### Summative quiz
 - Question 2: The quiz does not accept the valid answer and tells the user that the wrong answer is correct instead.
