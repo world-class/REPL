@@ -125,6 +125,7 @@
 ### Cloud computing
 - [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) - Coursera. Offered by Google Cloud.
 - [Building Scalable Java Microservices with Spring Boot and Spring Cloud](https://www.coursera.org/learn/google-cloud-java-spring) - Coursera. Offered by Google Cloud.
+- [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) - Coursera. Offered by Google Cloud.
 - [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) - Coursera. Offered by Google Cloud.
 - [Security in Google Cloud Platform Specialization](https://www.coursera.org/specializations/security-google-cloud-platform) - Coursera. Offered by Google Cloud. Includes:
     - Google Cloud Platform Fundamentals: Core Infrastructure
