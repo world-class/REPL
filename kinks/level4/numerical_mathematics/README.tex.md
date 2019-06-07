@@ -31,7 +31,7 @@
         * [Lesson 2.6](#lesson-26)
             * [Practice quiz: 2.602 Limits of sequences](#practice-quiz-2602-limits-of-sequences)
             * [Video 2.604 Patterns in series; limit; convergent and divergent series](#video-2604-patterns-in-series-limit-convergent-and-divergent-series)
-            * [Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series](#practice-quiz-2608-criteria-for-identifying-convergentdivergent-sequences-and-series)
+            * [FIXED - Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series](#fixed---practice-quiz-2608-criteria-for-identifying-convergentdivergent-sequences-and-series)
         * [Summative quiz](#summative-quiz)
     * [Week 6](#week-6)
         * [Lesson 3.1](#lesson-31)
@@ -152,9 +152,9 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 #### Video 2.604 Patterns in series; limit; convergent and divergent series
 - The result for the last example is $\frac{1}{3}$, not $270$.
 
-#### Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series
-- Question 1: The answer is `divergent`. There is no clear way to input it.
-- Question 2: The answer is $\frac{3}{4}$.
+#### FIXED - Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series
+- Question 1: The answer is `divergent`.
+- Question 2: The answer is `convergent,3/4`.
 
 ### Summative quiz
 - Question 2: The quiz does not accept the valid answer and tells the user that the wrong answer is correct instead.
