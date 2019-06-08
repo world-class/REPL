@@ -38,11 +38,16 @@
 * [Programming](#programming)
     * [Basics](#basics)
     * [Coding challenges](#coding-challenges)
+    * [Games](#games)
+        * [CSS](#css)
+        * [JavaScript](#javascript)
+        * [Python](#python)
+        * [Service workers](#service-workers)
     * [iOS](#ios)
         * [Swift](#swift)
-    * [JavaScript](#javascript)
+    * [JavaScript](#javascript-1)
     * [Julia](#julia)
-    * [Python](#python)
+    * [Python](#python-1)
     * [Questions and answers](#questions-and-answers)
     * [Regular expressions (regex)](#regular-expressions-regex)
 * [Startups](#startups)
@@ -196,6 +201,23 @@
 - [LeetCode](https://leetcode.com/) - *"LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews."*
 - [Project Euler](https://projecteuler.net/) - *"Project Euler (named after Leonhard Euler) is a website dedicated to a series of computational problems intended to be solved with computer programs."* ([from Wikipedia](https://en.wikipedia.org/wiki/Project_Euler))
 - [Topcoder](https://www.topcoder.com/) - *"Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients."* ([from Wikipedia](https://en.wikipedia.org/wiki/Topcoder))
+
+
+## Games
+### CSS
+- [CSS Diner](https://flukeout.github.io/) - *"It's a fun game to learn and practice CSS selectors."*
+- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) *"This is a Mastery Game. Each section unravels part of the plot, gives you mastery over a new flexbox concept, and presents zombie survival challenges that force you to solidify your new skills like your life depends on it."*
+- [Grid Garden](https://codepip.com/games/grid-garden/) - *"How well can you tend to your carrot garden using CSS grid? In this game, you must water your carrot crops and poison the weeds by mastering CSS grid, a powerful new module that makes 2-dimensional grid layouts a piece of cake. With it you can define columns, rows, and grid template areas."*
+
+### JavaScript
+- [CheckiO](https://checkio.org/) - *"Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using JavaScript."*
+- [Screeps](https://screeps.com/) - *"It’s an open-source sandbox MMO RTS game for programmers, wherein the core mechanic is programming your units’ AI. You control your colony by writing JavaScript which operate 24/7 in the single persistent real-time world filled by other players on par with you."*
+
+### Python
+- [CheckiO](https://checkio.org/) - *"Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python."*
+
+### Service workers
+- [Service Workies](https://serviceworkies.com/) - *"Learn Service Workers inside and out with the new PWA Mastery Game."*
 
 
 ## iOS
