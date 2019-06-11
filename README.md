@@ -42,7 +42,7 @@ it. :+1:**
 - Other resources
     - [Free software](software/README.md)
     - [Kinks to be aware of in the different modules](kinks/README.md)
-    - [Online courses (free)](online_courses/free/README.md)
+    - Online courses: [free resources](online_courses/free/README.md), [paid resources](online_courses/paid/README.md)
     - [Podcasts](podcasts/README.md)
     - [Websites to visit](websites/README.md)
     - [YouTube videos](youtube/README.md)
