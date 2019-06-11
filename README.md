@@ -31,11 +31,12 @@ it. :+1:**
 # Table of Resources :blue_book:
 
 - On this page
-    1. [Modules in the curriculum](#modules-in-the-curriculum)
-    2. [Calendar due dates and events](#calendar-due-dates-and-events)
-    3. [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
-    4. [Contacting each other](#contacting-each-other)
-    5. [Contributors](#contributors)
+    1. [How to ask for help?](#how-to-ask-for-help)
+    2. [Modules in the curriculum](#modules-in-the-curriculum)
+    3. [Calendar due dates and events](#calendar-due-dates-and-events)
+    4. [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
+    5. [Contacting each other](#contacting-each-other)
+    6. [Contributors](#contributors)
 
 
 - Other resources
@@ -48,6 +49,29 @@ it. :+1:**
 
 - Resources for later
     - [Study options after the BSc in Computer Science](after_uol/README.md)
+
+
+## How to ask for help?
+Succeeding in this degree has a lot to do with how resourceful you are. This page is meant to be a helpful guidance along the way, but developing a few key skills on your own will become an increasing necessity, including **being able to research online**, **debugging code effectively** and **knowing how to ask questions**.
+
+To get started on that learning path, please refer to the following web pages:
+- Getting help
+    - [How to ask questions](https://stackoverflow.com/help/how-to-ask) - Stack Overflow
+    - [How to create a minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) - Stack Overflow
+    - [Code philosophy, asking for help](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/uTcr6/code-philosophy-asking-for-help) - From [Introduction to Programming I](modules/level_4/introduction_to_programming_i) module - :lock: _you need to be enrolled in this degree to view this lecture_.
+- Debugging code
+    - [10 Debugging Tips for Beginners: How to Troubleshoot and Fix Your Code Without Pulling Your Hair Out](https://blog.hartleybrody.com/debugging-code-beginner/) - hartleybrody.com
+    - [How to debug code in Atom editor](https://flight-manual.atom.io/hacking-atom/sections/debugging/) - Atom.io
+    - [How to debug for absolute beginners in VS Code editor](https://docs.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019) - Microsoft.com
+    - [How to use Brackets editor](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets) - Adobe, on GitHub
+- Finding answers
+    - [10 Tips to Improve Your Online Research](https://thebestschools.org/magazine/10-tips-to-improve-your-online-research/)
+    - [List of search engines](https://en.wikipedia.org/wiki/List_of_search_engines) - Wikipedia
+    - Google
+        - [15 Ways to Search Google 96% of People Don’t Know About](https://www.youtube.com/watch?v=erZ3IyBCXdY) - YouTube
+        - [20 Google Search Tips to Use Google More Efficiently](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) - Lifehack
+        - [Advanced Power Searching](http://www.powersearchingwithgoogle.com/course/aps) - Google Course
+        - [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course) - Google Course
 
 
 ## Modules in the curriculum
