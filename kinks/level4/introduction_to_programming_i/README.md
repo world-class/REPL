@@ -5,9 +5,13 @@
 
 * [Introduction to programming I - Reported problems](#introduction-to-programming-i---reported-problems)
     * [Sleuth cases](#sleuth-cases)
-        * [101, stage 3](#101-stage-3)
-        * [201, stage 4](#201-stage-4)
-        * [Other glitches](#other-glitches)
+        * [Rookie](#rookie)
+            * [101, stage 3](#101-stage-3)
+            * [201, stage 4](#201-stage-4)
+            * [Other glitches](#other-glitches)
+        * [Pro](#pro)
+            * [702, stage 4](#702-stage-4)
+            * [802, stage 2](#802-stage-2)
     * [Week 1](#week-1)
         * [Lesson 1.1](#lesson-11)
             * [Video: 2D coordinate system](#video-2d-coordinate-system)
@@ -27,19 +31,20 @@
 This page is about the [Introduction to programming I module](../../../modules/level_4/introduction_to_programming_i/).
 
 ## Sleuth cases
-### 101, stage 3
+### Rookie
+#### 101, stage 3
 - Use only `fill()` and `rect()` commands. You can adjust opacity with `fill()` by adding a fourth value like so:
 
     fill(R, G, B, A);
 
   where `R`, `G` and `B` stand for **red**, **green**, **blue** and can have values from 0 to 255 and `A` stands for **alpha** and is optional. In this case, a value of about `100` is fine so you can see through the shape being drawn.
 
-### 201, stage 4
+#### 201, stage 4
 - Some students were given cases where body parts of the judge are missing (i.e., legs appear outside the canvas, for instance). In those cases, you may be better off just failing all your attempts and wait for a new randomized case to be given to you as you probably won't be able to get 100%.
 - If your answer isn't accepted, try increasing the number of times you have `vertex()` in your code. Answers including at least 40 to 50 vertices have been reported to work better.
 - You should only use `beginShape();`, `vertex(x1, y1);` and `endShape(CLOSE);` in your code.
 
-### Other glitches
+#### Other glitches
 - Some cases ask to set the value of a variable to `mouseX` for instance and then make sure it doesn't go above or below a certain value with `min()` and `max()` functions. Answers can wrongly be accepted if you first set
 
       variable = mouseX
@@ -51,6 +56,14 @@ This page is about the [Introduction to programming I module](../../../modules/l
   where `X` is an integer. The variable should be assign in one statement as follow instead:
 
       variable = max(mouseX, X)
+
+
+### Pro
+#### 702, stage 4
+_"My suspect's car didn't have enough space to pull out in front of me before speeding off, so the chase wouldn't work as expected. I deliberately got myself suspended so I could grab another case, and it worked fine."_ (reported by [@dannycallaghan](https://github.com/dannycallaghan))
+
+#### 802, stage 2
+_"It asks you to fill an array with values, but the grader is clearly broken as I’ve used four different ways of adding values to an array (concat, push, by index, etc.) and I get this error every time (which makes no sense in terms of the sketch file, so must be the graded). Secondly, I  can’t get a new case as it won’t recognise that I’ve uploaded this maybe 20 times. It won’t stop me trying again. Thirdly, I’ve grabbed the cases for Parts 3 and 4, and they ask you to reuse the same function, and again it fails when grading that bit, so you can’t finish Case 802."_ (reported by [@dannycallaghan](https://github.com/dannycallaghan))
 
 
 ## Week 1
