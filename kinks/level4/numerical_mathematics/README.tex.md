@@ -210,3 +210,4 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 5.4
 #### Summative quiz 5.402 Trigonometric functions
 - Question 2: The option $cos(355^\text{o}) = cos(360^\text{o} - 355^\text{o}) = 0.996$ is valid and should be selected, but is currently marked as wrong.
+- Question 3: Some translations that should occur in the negative x-direction, such as $sin(3x + 1)$, are mistakenly graded as being in the positive x-direction.
