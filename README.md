@@ -170,6 +170,7 @@ More options for video conferencing on [this page](/software).
 
 - Aleksandar Milosevic ([@amilos](https://github.com/amilos))
 - Ankush Menat ([@amenat](https://github.com/amenat))
+- Blair Currey ([@BlairCurrey](https://github.com/BlairCurrey))
 - Chris Castelo ([@ChrisCastelo](https://github.com/ChrisCastelo))
 - David Moreno ([@damog](https://github.com/damog))
 - Diego Cabrejas ([@dcabrejas](https://github.com/dcabrejas))
