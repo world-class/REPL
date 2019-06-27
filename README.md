@@ -1,6 +1,32 @@
-<img src="https://raw.githubusercontent.com/world-class/REPL/master/_images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
+# Table of Resources :blue_book:
+<!-- vim-markdown-toc GFM -->
+
+* [Introduction](#introduction)
+    * [The Learning Hub for UoL's Online CS Students](#the-learning-hub-for-uols-online-cs-students)
+    * [Important note before we go](#important-note-before-we-go)
+* [How to ask for help?](#how-to-ask-for-help)
+* [Modules in the curriculum](#modules-in-the-curriculum)
+    * [Level 4 (year 1+)](#level-4-year-1)
+    * [Level 5 (year 2+)](#level-5-year-2)
+    * [Level 6 - Specialisms (year 3+)](#level-6---specialisms-year-3)
+    * [Level 6 - Final project](#level-6---final-project)
+* [Calendar due dates and events](#calendar-due-dates-and-events)
+* [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
+    * [Documents](#documents)
+    * [Webpages of interest](#webpages-of-interest)
+* [Contacting each other](#contacting-each-other)
+* [Other resources](#other-resources)
+* [Resources for later](#resources-for-later)
+* [Contributors](#contributors)
+
+<!-- vim-markdown-toc -->
 
 ---
+
+<img src="https://raw.githubusercontent.com/world-class/REPL/master/_images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
+
+
+# Introduction
 
 A twist on the use of **REPL**, which stands for *read–eval–print
 loop* in computer programming. This repository aims to become a central
@@ -9,9 +35,9 @@ especially in the context of studying computer science at the bachelor
 level.
 
 
-## The Learning Hub for UoL's Online CS Students :school:
+## The Learning Hub for UoL's Online CS Students
 
-As the first cohort of students enrolling in the 100% online
+:school: As the first cohort of students enrolling in the 100% online
 [BSc Computer Science offered by Goldsmiths, University of London](https://london.ac.uk/courses/computer-science),
 it is in our interest to cooperate in order to maximize our chances of
 celebrating all together when we graduate.
@@ -19,39 +45,17 @@ celebrating all together when we graduate.
 Good luck to all and may this path fulfill you, knowing that you will
 find support along the way!
 
-### Important note before we go :exclamation:
+## Important note before we go
 
-**This is not a place where you'll find prohibited content, such as
+:exclamation: **This is not a place where you'll find prohibited content, such as
 leaked confidential information and copyrighted material. Anything that
 could potentially fall under the
 [regulations of the University of London](https://london.ac.uk/current-students/programme-documents/regulations)
 will be removed if it appears by accident and you are welcome to report
 it. :+1:**
 
-# Table of Resources :blue_book:
 
-- On this page
-    1. [How to ask for help?](#how-to-ask-for-help)
-    2. [Modules in the curriculum](#modules-in-the-curriculum)
-    3. [Calendar due dates and events](#calendar-due-dates-and-events)
-    4. [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
-    5. [Contacting each other](#contacting-each-other)
-    6. [Contributors](#contributors)
-
-
-- Other resources
-    - [Free software](software/README.md)
-    - [Kinks to be aware of in the different modules](kinks/README.md)
-    - Online courses: [free resources](online_courses/free/README.md), [paid resources](online_courses/paid/README.md)
-    - [Podcasts](podcasts/README.md)
-    - [Websites to visit](websites/README.md)
-    - [YouTube videos](youtube/README.md)
-
-- Resources for later
-    - [Study options after the BSc in Computer Science](after_uol/README.md)
-
-
-## How to ask for help?
+# How to ask for help?
 Succeeding in this degree has a lot to do with how resourceful you are. This page is meant to be a helpful guidance along the way, but developing a few key skills on your own will become an increasing necessity, including **being able to research online**, **debugging code effectively** and **knowing how to ask questions**.
 
 To get started on that learning path, please refer to the following web pages:
@@ -74,9 +78,9 @@ To get started on that learning path, please refer to the following web pages:
         - [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course) - Google Course
 
 
-## Modules in the curriculum
+# Modules in the curriculum
 
-### Level 4 (year 1+)
+## Level 4 (year 1+)
 - [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) (CM1035-01) **(Not currently available)**
 - [Discrete Mathematics](modules/level_4/discrete_mathematics) (CM1020-01) **(Not currently available)**
 - [Fundamentals of Computer Science](modules/level_4/fundamentals_of_computer_science) (CM1025-01) **(Not currently available)**
@@ -87,7 +91,7 @@ To get started on that learning path, please refer to the following web pages:
 - [Web Development](modules/level_4/web_development) (CM1040-01)
 
 
-### Level 5 (year 2+)
+## Level 5 (year 2+)
 - [Object Oriented Programming](modules/level_5/object_oriented_programming) (CM2005-01)
 - [Software Design and Development](modules/level_5/software_design_and_development) (CM2010-01)
 - [Programming with Data](modules/level_5/programming_with_data) (CM2015-01)
@@ -98,7 +102,7 @@ To get started on that learning path, please refer to the following web pages:
 - [Databases, Networks and the Web](modules/level_5/databases_networks_and_the_web) (CM2040-01)
 
 
-### Level 6 - Specialisms (year 3+)
+## Level 6 - Specialisms (year 3+)
 Each specialism contains five modules. All five must be completed along
 with one elective module from any other specialism. In the case of no
 specialism, six electives from any of the specialisms are chosen. A
@@ -111,18 +115,18 @@ final project must also be completed to graduate.
 - [Games Development](modules/level_6/games_dev) (CM3030-01)
 - [Virtual Reality](modules/level_6/virtual_reality) (CM3025-01)
 
-### Level 6 - Final project
+## Level 6 - Final project
 - [Final Project](modules/level_6/final_project) (CM3070-01)
 
 
-## Calendar due dates and events
+# Calendar due dates and events
 - Find out what, when and where things are happening with this [Google Calendar](https://calendar.google.com/calendar/embed?src=pmaaof55arb3aku90d2n5bhasg%40group.calendar.google.com).
 - **If you have a Google account**, you can follow [this link](https://calendar.google.com/calendar/r?cid=cG1hYW9mNTVhcmIzYWt1OTBkMm41Ymhhc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) instead.
 
 
-## Documents and resources provided publicly by the University of London
+# Documents and resources provided publicly by the University of London
 
-### Documents
+## Documents
 - [Code of conduct](https://london.ac.uk/about-us/how-university-run/policies/vle-code-conduct)
 - [Data protection policy](https://london.ac.uk/sites/default/files/governance/data-protection-policy.pdf)
 - [Events Due Diligence Privacy Notice](https://london.ac.uk/sites/default/files/governance/Events-Due-Diligence-Privacy-Notice.pdf)
@@ -134,8 +138,7 @@ final project must also be completed to graduate.
 - [Quick Start Guide - The Online Library](https://onlinelibrary.london.ac.uk/sites/default/files/files/quick-start-guide/academic-search-quick-start.pdf)
 - [Student privacy notice](https://london.ac.uk/sites/default/files/governance/Student-Privacy-Notice-UoL-April-2018-Final.pdf)
 
-### Webpages of interest
-
+## Webpages of interest
 - Exams
     - [Examinations](https://london.ac.uk/current-students/examinations)
     - [How assessment works](https://london.ac.uk/applications/how-it-works/how-assessment-works)
@@ -154,8 +157,7 @@ final project must also be completed to graduate.
     - [Web and Mobile Development](https://london.ac.uk/courses/computer-science-web-and-mobile-development)
 
 
-## Contacting each other
-
+# Contacting each other
 - [Contact page of UoL](https://london.ac.uk/contact-us)
     - [General enquiries](https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&category=UOL) (non-student → students should ask in [the portal](https://my.london.ac.uk/))
     - [Student Advice Center](https://london.kb.help/)
@@ -166,8 +168,20 @@ final project must also be completed to graduate.
 More options for video conferencing on [this page](/software).
 
 
-## Contributors
+# Other resources
+- [Free software](software/README.md)
+- [Kinks to be aware of in the different modules](kinks/README.md)
+- Online courses: [free resources](online_courses/free/README.md), [paid resources](online_courses/paid/README.md)
+- [Podcasts](podcasts/README.md)
+- [Websites to visit](websites/README.md)
+- [YouTube videos](youtube/README.md)
 
+
+# Resources for later
+- [Study options after the BSc in Computer Science](after_uol/README.md)
+
+
+# Contributors
 - Aleksandar Milosevic ([@amilos](https://github.com/amilos))
 - Ankush Menat ([@amenat](https://github.com/amenat))
 - Blair Currey ([@BlairCurrey](https://github.com/BlairCurrey))
