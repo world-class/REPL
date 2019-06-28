@@ -281,6 +281,7 @@
 - [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) - Coursera. *"By the end, you will be able to apply the basics of the number theory to encrypt and decrypt messages, and to break the code if one applies RSA carelessly. You will even pass a cryptographic quest!"*
 
 ### Calculus
+- [Calculus Applied](https://online-learning.harvard.edu/course/calculus-applied) - edX. Offered by Harvard University.
 - [Calculus: Single Variable Part 1 - Functions](https://www.coursera.org/learn/single-variable-calculus) - Coursera. Offered by Penn, University of Pennsylvania.
 - [Calculus: Single Variable Part 2 - Differentiation](https://www.coursera.org/learn/differentiation-calculus) - Coursera. Offered by Penn, University of Pennsylvania.
 - [Calculus: Single Variable Part 3 - Integration](https://www.coursera.org/learn/integration-calculus) - Coursera. Offered by Penn, University of Pennsylvania.
