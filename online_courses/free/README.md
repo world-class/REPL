@@ -57,6 +57,7 @@
 
 ### First steps
 - [AI for everyone](https://www.coursera.org/learn/ai-for-everyone) - Coursera. Lecturer: Andrew Ng.
+- [Applied AI: Artificial Intelligence with IBM Watson Specialization](https://www.coursera.org/specializations/applied-artifical-intelligence-ibm-watson-ai) - Coursera. Offered by IBM.
 
 ### Deep learning
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - Coursera. Offered by [deeplearning.ai](https://www.deeplearning.ai/). Includes:
