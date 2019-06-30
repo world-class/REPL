@@ -2,18 +2,21 @@
 
 # Podcasts
 # Table of contents
-- [Podcasts](#podcasts)
-- [Table of contents](#table-of-contents)
-  - [Education](#education)
-  - [Programming](#programming)
-    - [Beginner-friendly](#beginner-friendly)
-    - [Cybersecurity](#cybersecurity)
-    - [Interviews](#interviews)
-    - [Music](#music)
-    - [Python](#python)
-    - [Software development](#software-development)
-    - [Testing](#testing)
-    - [Web development](#web-development)
+<!-- vim-markdown-toc GFM -->
+
+* [Education](#education)
+* [Programming](#programming)
+    * [Beginner-friendly](#beginner-friendly)
+    * [Cybersecurity](#cybersecurity)
+    * [Interviews](#interviews)
+    * [Music](#music)
+    * [Python](#python)
+    * [Software development](#software-development)
+    * [Testing](#testing)
+    * [Web development](#web-development)
+* [Technology](#technology)
+
+<!-- vim-markdown-toc -->
 
 ---
 
@@ -68,3 +71,6 @@
 - [Front End Happy Hour](https://player.fm/series/front-end-happy-hour-131187) - *"A podcast featuring panelists of engineers from Netflix, Evernote & LinkedIn talking over drinks about all things Front End development."*
 - [Full Stack Radio](https://player.fm/series/series-1401837) - *"A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration."*
 - [The Versioning Show](https://www.sitepoint.com/versioning-show/) - *"The Versioning Show discusses the industry of the web from development to design, with some of the people making it happen today, and planning where it's headed in the next version."*
+
+## Technology
+- [Command_Line Heroes](https://www.redhat.com/en/command-line-heroes) - *"An original podcast about the people who transform technology from the command line up. Presented by Red Hat."*
