@@ -149,6 +149,7 @@
 
 ## Trigonometry
 - [How To Learn Trigonometry Intuitively](https://betterexplained.com/articles/intuitive-trigonometry/) - Better Explained
+- [The trigonometry of non-right triangles](http://xaktly.com/MathNonRightTrig.html) - Law of sine with ambiguous cases, law of cosine.
 
 # Online services
 ## Disposable/temporary emails
