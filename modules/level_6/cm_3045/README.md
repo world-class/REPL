@@ -22,3 +22,5 @@ Topics covered:
 - Shader Programming
 - Vertex Shaders
 - Fragment Shaders
+
+**Assessment:** One two hour unseen written examination and coursework (Type I)
