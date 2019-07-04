@@ -102,11 +102,24 @@ To get started on that learning path, please refer to the following web pages:
 - [Databases, Networks and the Web](modules/level_5/databases_networks_and_the_web) (CM2040-01)
 
 
-## Level 6 - Specialisms (year 3+)
-Each specialism contains five modules. All five must be completed along
-with one elective module from any other specialism. In the case of no
-specialism, six electives from any of the specialisms are chosen. A
-final project must also be completed to graduate.
+## Level 6 (year 3+)
+There is a total of 13 possible modules in Level 6. Out of these, 6 need to be taken along with a final project in order to graduate. A student may either chose a specialism (see below) but may also opt against a specialism to be able to study any 6 of the following modules.
+- Data Science (CM3005)
+- Databases and Advanced Data Techniques (CM3010)
+- Machine Learning and Neural Networks (CM3015)
+- Artificial Intelligence (CM3020)
+- Virtual Reality (CM3025)
+- Games Development (CM3030)
+- Advanced Web Development (CM3035)
+- Physical Computing and Internet of Things (CM3040)
+- 3D Graphics and Animation (CM3045)
+- Mobile Development (CM3050)
+- Interaction Design (CM3055)
+- Natural Language Processing (CM3060)
+- Intelligent Signal Processing (CM3065)
+### Specialisms
+Each specialism contains five prescribed modules from the above 13. All five must be completed along
+with one elective module from any other specialism. The specialisms are:
 - [Data Science](modules/level_6/data_science) (CM3005-01)
 - [Machine Learning & Artificial Intelligence](modules/level_6/ml_ai) (CM3020-01)
 - [User Experience](modules/level_6/user_experience) (CM3055-01)
@@ -115,7 +128,8 @@ final project must also be completed to graduate.
 - [Games Development](modules/level_6/games_dev) (CM3030-01)
 - [Virtual Reality](modules/level_6/virtual_reality) (CM3025-01)
 
-## Level 6 - Final project
+### Final project
+A final project must also be completed to graduate. If a student is opting for a specialism, they are encouraged to select a relevant topic for the final project.
 - [Final Project](modules/level_6/final_project) (CM3070-01)
 
 
