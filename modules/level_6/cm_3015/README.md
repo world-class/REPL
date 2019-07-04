@@ -21,3 +21,5 @@ Topics covered:
 - Multi-Layer Perceptrons and back progagation
 - Network optimisers
 - Deep and recurrent networks
+
+**Assessment:** One two hour unseen written examination and coursework (Type I)
