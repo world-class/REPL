@@ -21,4 +21,4 @@ Topics covered:
 - Scientific data visualisation
 - Case studies: different contexts for data analysis
 
-**Assessment:** Coursework only (Type II)
+**Assessment:** One two hour unseen written examination and coursework (Type I)
