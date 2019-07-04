@@ -21,3 +21,5 @@ Topics covered:
 - Speeding up queries with indexes
 - Audio and video data
 - Data security
+
+**Assessment:** One two hour unseen written examination and coursework (Type I)
