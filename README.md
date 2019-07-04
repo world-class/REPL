@@ -8,8 +8,7 @@
 * [Modules in the curriculum](#modules-in-the-curriculum)
     * [Level 4 (year 1+)](#level-4-year-1)
     * [Level 5 (year 2+)](#level-5-year-2)
-    * [Level 6 - Specialisms (year 3+)](#level-6---specialisms-year-3)
-    * [Level 6 - Final project](#level-6---final-project)
+    * [Level 6 (year 3+)](#level-6-year-3)
 * [Calendar due dates and events](#calendar-due-dates-and-events)
 * [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
     * [Documents](#documents)
@@ -102,11 +101,24 @@ To get started on that learning path, please refer to the following web pages:
 - [Databases, Networks and the Web](modules/level_5/databases_networks_and_the_web) (CM2040-01)
 
 
-## Level 6 - Specialisms (year 3+)
-Each specialism contains five modules. All five must be completed along
-with one elective module from any other specialism. In the case of no
-specialism, six electives from any of the specialisms are chosen. A
-final project must also be completed to graduate.
+## Level 6 (year 3+)
+There is a total of 13 possible modules in Level 6. Out of these, 6 need to be taken along with a final project in order to graduate. A student may either chose a specialism (see below) but may also opt against a specialism to be able to study any 6 of the following modules.
+- [Data Science](modules/level_6/cm_3005) (CM3005)
+- [Databases and Advanced Data Techniques](modules/level_6/cm_3010) (CM3010)
+- [Machine Learning and Neural Networks](modules/level_6/cm_3015) (CM3015)
+- [Artificial Intelligence](modules/level_6/cm_3020) (CM3020)
+- [Virtual Reality](modules/level_6/cm_3025) (CM3025)
+- [Games Development](modules/level_6/cm_3030) (CM3030)
+- [Advanced Web Development](modules/level_6/cm_3035) (CM3035)
+- [Physical Computing and Internet of Things](modules/level_6/cm_3040) (CM3040)
+- [3D Graphics and Animation](modules/level_6/cm_3045) (CM3045)
+- [Mobile Development](modules/level_6/cm_3050) (CM3050)
+- [Interaction Design](modules/level_6/cm_3055) (CM3055)
+- [Natural Language Processing](modules/level_6/cm_3060) (CM3060)
+- [Intelligent Signal Processing](modules/level_6/cm_3065) (CM3065)
+### Specialisms
+Each specialism contains five prescribed modules from the above 13. All five must be completed along
+with one elective module from any other specialism. The specialisms are:
 - [Data Science](modules/level_6/data_science) (CM3005-01)
 - [Machine Learning & Artificial Intelligence](modules/level_6/ml_ai) (CM3020-01)
 - [User Experience](modules/level_6/user_experience) (CM3055-01)
@@ -115,7 +127,8 @@ final project must also be completed to graduate.
 - [Games Development](modules/level_6/games_dev) (CM3030-01)
 - [Virtual Reality](modules/level_6/virtual_reality) (CM3025-01)
 
-## Level 6 - Final project
+### Final project
+A final project must also be completed to graduate. If a student is opting for a specialism, they are encouraged to select a relevant topic for the final project.
 - [Final Project](modules/level_6/final_project) (CM3070-01)
 
 
