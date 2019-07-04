@@ -103,19 +103,19 @@ To get started on that learning path, please refer to the following web pages:
 
 ## Level 6 (year 3+)
 There is a total of 13 possible modules in Level 6. Out of these, 6 need to be taken along with a final project in order to graduate. A student may either chose a specialism (see below) but may also opt against a specialism to be able to study any 6 of the following modules.
-- Data Science (CM3005)
-- Databases and Advanced Data Techniques (CM3010)
-- Machine Learning and Neural Networks (CM3015)
-- Artificial Intelligence (CM3020)
-- Virtual Reality (CM3025)
-- Games Development (CM3030)
-- Advanced Web Development (CM3035)
-- Physical Computing and Internet of Things (CM3040)
+- [Data Science](modules/level_6/cm3005) (CM3005)
+- [Databases and Advanced Data Techniques](modules/level_6/cm3010) (CM3010)
+- [Machine Learning and Neural Networks](modules/level_6/cm3015) (CM3015)
+- [Artificial Intelligence](modules/level_6/cm3020) (CM3020)
+- [Virtual Reality](modules/level_6/cm3025) (CM3025)
+- [Games Development](modules/level_6/cm3030) (CM3030)
+- [Advanced Web Development](modules/level_6/cm3035) (CM3035)
+- [Physical Computing and Internet of Things](modules/level_6/cm3040) (CM3040)
 - [3D Graphics and Animation](modules/level_6/cm_3045) (CM3045)
-- Mobile Development (CM3050)
-- Interaction Design (CM3055)
-- Natural Language Processing (CM3060)
-- Intelligent Signal Processing (CM3065)
+- [Mobile Development](modules/level_6/cm3050) (CM3050)
+- [Interaction Design](modules/level_6/cm3055) (CM3055)
+- [Natural Language Processing](modules/level_6/cm3060) (CM3060)
+- [Intelligent Signal Processing](modules/level_6/cm3065) (CM3065)
 ### Specialisms
 Each specialism contains five prescribed modules from the above 13. All five must be completed along
 with one elective module from any other specialism. The specialisms are:
