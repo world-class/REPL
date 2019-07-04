@@ -20,3 +20,5 @@ Topics covered:
 - Time-series data visualisation
 - Scientific data visualisation
 - Case studies: different contexts for data analysis
+
+**Assessment:** Coursework only (Type II)
