@@ -20,3 +20,5 @@ Topics covered:
 - Games and optimal decisions in games (Part 2)
 - Robotics
 - Advanced Topics in AI
+
+**Assessment:** Coursework only (Type III)
