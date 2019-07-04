@@ -43,6 +43,7 @@
 * [Linux](#linux)
 * [Mathematics](#mathematics)
     * [Calculus](#calculus)
+    * [Probability and statistics](#probability-and-statistics)
 * [Mobile development](#mobile-development)
 * [Psychology & Health](#psychology--health)
 
@@ -273,7 +274,6 @@
 
 
 ## Mathematics
-- [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics) - Coursera. *"This course introduces the Bayesian approach to statistics, starting with the concept of probability and moving to the analysis of data. We will learn about the philosophy of the Bayesian approach as well as how to implement it for common types of data. We will compare the Bayesian approach to the more commonly-taught Frequentist approach, and see some of the benefits of the Bayesian approach."*
 - [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - Coursera. *"Learn how to think the way mathematicians do – a powerful cognitive process developed over thousands of years."*
 - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) - Coursera. Includes:
     - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
@@ -289,6 +289,10 @@
 - [Calculus: Single Variable Part 4 - Applications](https://www.coursera.org/learn/applications-calculus) - Coursera. Offered by Penn, University of Pennsylvania.
 - [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) - Coursera. Offered by University of Sydney.
 - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) - Coursera. Offered by Imperial College London.
+
+### Probability and statistics
+- [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics) - Coursera. *"This course introduces the Bayesian approach to statistics, starting with the concept of probability and moving to the analysis of data. We will learn about the philosophy of the Bayesian approach as well as how to implement it for common types of data. We will compare the Bayesian approach to the more commonly-taught Frequentist approach, and see some of the benefits of the Bayesian approach."*
+- [Fat Chance: Probability from the Ground Up](https://online-learning.harvard.edu/course/fat-chance-probability-ground) - edX. Offered by Harvard University. *"Increase your quantitative reasoning skills through a deeper understanding of probability and statistics."*
 
 
 ## Mobile development
