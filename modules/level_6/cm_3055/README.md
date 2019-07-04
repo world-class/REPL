@@ -2,13 +2,16 @@
 
 ## Interaction Design [CM3055]
 
-When taking this module, you will examine the notion of 'interaction with technology'. You will focus
-on the concepts behind modern user experience design and production. You will gain a solid grasp
-and practical experience of the process which allows the creation of interactive systems. This
-process involves specification, design, prototyping and evaluation. You will examine several design
-approaches and techniques, and consider how they enable usability engineering. You will learn how
-to evaluate interactive systems against criteria such as efficiency and usability. You will examine
-issues of accessibility from the perspective of different populations.
+When taking this module, you will examine the notion of 'interaction
+with technology'. You will focus on the concepts behind modern user
+experience design and production. You will gain a solid grasp and
+practical experience of the process which allows the creation of
+interactive systems. This process involves specification, design,
+prototyping and evaluation. You will examine several design approaches
+and techniques, and consider how they enable usability engineering. You
+will learn how to evaluate interactive systems against criteria such as
+efficiency and usability. You will examine issues of accessibility from
+the perspective of different populations.
 
 Topics covered:
 
@@ -23,4 +26,4 @@ Topics covered:
 - Tools and techniques that support interaction development.
 - Current trends in interaction design and HCI.
 
-**Assessment:** One two hour unseen written examination and coursework (Type I)
+**Assessment:** One two-hour unseen written examination and coursework (Type I)

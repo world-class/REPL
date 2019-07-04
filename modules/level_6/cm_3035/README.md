@@ -2,14 +2,17 @@
 
 ## Advanced Web Development (CM3035)
 
-Through this module, you will learn how to build dynamic, data-driven websites using databases,
-front-end frameworks and server-side programming. This module provides the skill set required to
-do full stack web development work. By studying this module, you will develop a web developer skill
-set that enables you to understand how to build and deploy complete, data-driven websites. You will
-consider several different technologies for client side-web development such as HTML, CSS,
-Javascript and templates. You will explore methods for developing server-side web applications, by
-building web-accessible wrappers around databases. You will consider issues of scalability, and
-learn about web application configuration and deployment.
+Through this module, you will learn how to build dynamic, data-driven
+websites using databases, front-end frameworks and server-side
+programming. This module provides the skill set required to do full
+stack web development work. By studying this module, you will develop
+a web developer skill set that enables you to understand how to build
+and deploy complete, data-driven websites. You will consider several
+different technologies for client side-web development such as HTML,
+CSS, JavaScript and templates. You will explore methods for developing
+server-side web applications, by building web-accessible wrappers around
+databases. You will consider issues of scalability, and learn about web
+application configuration and deployment.
 
 Topics covered:
 
