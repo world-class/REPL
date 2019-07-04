@@ -23,3 +23,5 @@ Topics covered:
 - Virtual Characters
 - Social VR
 - Developing a VR project
+
+**Assessment:** One two hour unseen written examination and coursework (Type I)
