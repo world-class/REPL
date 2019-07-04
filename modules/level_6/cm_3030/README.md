@@ -29,3 +29,5 @@ Topics covered:
 - Pathfinding
 - Behaviour Trees
 - Recap and review
+
+**Assessment:** One two hour unseen written examination and coursework (Type I)
