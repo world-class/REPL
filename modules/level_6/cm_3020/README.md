@@ -21,4 +21,4 @@ Topics covered:
 - Robotics
 - Advanced Topics in AI
 
-**Assessment:** Coursework only (Type III)
+**Assessment:** One two hour unseen written examination and coursework (Type I)
