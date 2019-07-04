@@ -111,7 +111,7 @@ There is a total of 13 possible modules in Level 6. Out of these, 6 need to be t
 - Games Development (CM3030)
 - Advanced Web Development (CM3035)
 - Physical Computing and Internet of Things (CM3040)
-- 3D Graphics and Animation (CM3045)
+- [3D Graphics and Animation](modules/level_6/cm_3045) (CM3045)
 - Mobile Development (CM3050)
 - Interaction Design (CM3055)
 - Natural Language Processing (CM3060)
