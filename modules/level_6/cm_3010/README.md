@@ -1,5 +1,7 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
+## Databases and Advanced Data Techniques (CM3010)
+
 This module aims to show you how to work with data in your computer programs. You will learn how
 to use SQL and NoSQL databases to store tabular data and documents. You will learn about the
 ethics of gathering and processing data and why it is important to consider issues around data
