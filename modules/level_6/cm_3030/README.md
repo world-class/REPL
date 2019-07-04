@@ -1,6 +1,6 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
-Games Development (CM3030)
+## Games Development (CM3030)
 
 This module will introduce you to i) industry standard tools for game development, such as game
 engines, and ii) the process of game development, including prototyping and playtesting. You will
