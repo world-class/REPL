@@ -23,3 +23,5 @@ Topics covered:
 - User authentication and security
 - Working with external APIs
 - Scalability
+
+**Assessment:** Coursework only (Type II)
