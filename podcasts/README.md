@@ -4,22 +4,28 @@
 # Table of contents
 <!-- vim-markdown-toc GFM -->
 
+* [Cybersecurity](#cybersecurity)
 * [Data science](#data-science)
 * [Education](#education)
 * [Programming](#programming)
     * [Beginner-friendly](#beginner-friendly)
-    * [Cybersecurity](#cybersecurity)
     * [Interviews](#interviews)
     * [Music](#music)
     * [Python](#python)
     * [Software development](#software-development)
     * [Testing](#testing)
     * [Web development](#web-development)
+* [Science](#science)
 * [Technology](#technology)
 
 <!-- vim-markdown-toc -->
 
 ---
+
+## Cybersecurity
+- [Darknet Diaries](https://darknetdiaries.com/) - *"Darknet Diaries delves into the cybercrimes that are happening right under your nose. Cover your laptop camera, throw that iPhone in the river, and hang out in that weird no-reception corner or your home."*
+- [Hackable?](https://hackablepodcast.com/) - *"Curious about how cybercriminals get all of your information? "Hackable?" gets into the mind of a hacker to see how easy it is to crack into Wi-Fi, cars, webcams, and more."*
+- [Malicious Life](https://malicious.life/) - *"Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians."*
 
 ## Data science
 - [Data Skeptic](https://dataskeptic.com/) - *"Data science, statistics, machine learning, artificial intelligence, and scientific skepticism."*
@@ -45,10 +51,6 @@
 - [Soft Skills Engineering](https://player.fm/series/soft-skills-engineering-133571) - *"It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer."*
 - [This Developer's Life](http://thisdeveloperslife.com/) - *"A podcast about developers and their lives."*
 - [Weekly Dev Tips](https://player.fm/series/weekly-dev-tips) - *"Weekly Dev Tips offers a variety of technical and career tips for software developers. Each tip is quick and to the point, describing a problem and one or more ways to solve that problem."*
-
-### Cybersecurity
-- [Darknet Diaries](https://darknetdiaries.com/) - *"Darknet Diaries delves into the cybercrimes that are happening right under your nose. Cover your laptop camera, throw that iPhone in the river, and hang out in that weird no-reception corner or your home."*
-- [Hackable?](https://hackablepodcast.com/) - *"Curious about how cybercriminals get all of your information? "Hackable?" gets into the mind of a hacker to see how easy it is to crack into Wi-Fi, cars, webcams, and more."*
 
 ### Interviews
 - [CoRecursive - Software Engineering Interviews](https://player.fm/series/corecursive-software-engineering-interviews) - *"CoRecursive features In-Depth technical interviews with software developers. Learn about programming languages such as Scala, Haskell, Idris, Kotlin, Erlang and Functional Programming and Type Theory from experts in one on one interviews."*
@@ -77,5 +79,9 @@
 - [Full Stack Radio](https://player.fm/series/series-1401837) - *"A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration."*
 - [The Versioning Show](https://www.sitepoint.com/versioning-show/) - *"The Versioning Show discusses the industry of the web from development to design, with some of the people making it happen today, and planning where it's headed in the next version."*
 
+## Science
+- [The Naked Scientists](https://www.thenakedscientists.com/) - *"The Naked Scientists is a one-hour audience-interactive science radio talk show broadcast live by the BBC in the East of England, nationally by BBC Radio 5 Live and internationally on ABC Radio National, Australia; it is also distributed globally as a podcast."* ([from Wikipedia](https://en.wikipedia.org/wiki/The_Naked_Scientists))
+
 ## Technology
 - [Command_Line Heroes](https://www.redhat.com/en/command-line-heroes) - *"An original podcast about the people who transform technology from the command line up. Presented by Red Hat."*
+- [Recode Decode](https://www.vox.com/recode-podcasts) - *"Recode’s Kara Swisher, Silicon Valley’s most revered journalist, hosts candid interviews with tech execs, politicians, celebrities and more about their big ideas and how they’re changing our world. Tune in every week for enlightening conversations with people like Tesla CEO Elon Musk, former Secretary of State Hillary Clinton, Facebook CEO Mark Zuckerberg, and many more."*
