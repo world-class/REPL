@@ -4,6 +4,7 @@
 # Table of contents
 <!-- vim-markdown-toc GFM -->
 
+* [Data science](#data-science)
 * [Education](#education)
 * [Programming](#programming)
     * [Beginner-friendly](#beginner-friendly)
@@ -19,6 +20,10 @@
 <!-- vim-markdown-toc -->
 
 ---
+
+## Data science
+- [Data Skeptic](https://dataskeptic.com/) - *"Data science, statistics, machine learning, artificial intelligence, and scientific skepticism."*
+- [Linear Digressions](http://lineardigressions.com/) - *"Linear Digressions is a podcast about machine learning and data science. Machine learning is being used to solve a ton of interesting problems, and to accomplish goals that were out of reach even a few short years ago."*
 
 ## Education
 - [TED Podcasts](https://www.ted.com/podcasts) - *"Learn more about TED's original podcast initiatives. Subscribe to listen on Apple Podcasts, the TED Android app, or wherever you get your podcasts."*
