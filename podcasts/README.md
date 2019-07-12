@@ -33,6 +33,7 @@
 
 ## Education
 - [TED Podcasts](https://www.ted.com/podcasts) - *"Learn more about TED's original podcast initiatives. Subscribe to listen on Apple Podcasts, the TED Android app, or wherever you get your podcasts."*
+- [TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/) - *"A journey through fascinating ideas, astonishing inventions, and new ways to think and create. Based on riveting TEDTalks from the world's most remarkable minds."*
 
 ## Programming
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) - *"A podcast for developers designed to fit inside your tea break."*
