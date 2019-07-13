@@ -26,6 +26,7 @@
 - [Darknet Diaries](https://darknetdiaries.com/) - *"Darknet Diaries delves into the cybercrimes that are happening right under your nose. Cover your laptop camera, throw that iPhone in the river, and hang out in that weird no-reception corner or your home."*
 - [Hackable?](https://hackablepodcast.com/) - *"Curious about how cybercriminals get all of your information? "Hackable?" gets into the mind of a hacker to see how easy it is to crack into Wi-Fi, cars, webcams, and more."*
 - [Malicious Life](https://malicious.life/) - *"Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians."*
+- [Security Now](https://twit.tv/shows/security-now) - *"Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte."*
 
 ## Data science
 - [Data Skeptic](https://dataskeptic.com/) - *"Data science, statistics, machine learning, artificial intelligence, and scientific skepticism."*
