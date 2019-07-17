@@ -43,6 +43,7 @@
         * [JavaScript](#javascript)
         * [Python](#python)
         * [Service workers](#service-workers)
+    * [Git / GitHub](#git--github)
     * [iOS](#ios)
         * [Swift](#swift)
     * [JavaScript](#javascript-1)
@@ -50,6 +51,7 @@
     * [Python](#python-1)
     * [Questions and answers](#questions-and-answers)
     * [Regular expressions (regex)](#regular-expressions-regex)
+    * [SQL](#sql)
 * [Startups](#startups)
 * [Web](#web)
     * [Buying a domain name](#buying-a-domain-name)
@@ -221,6 +223,12 @@
 - [Service Workies](https://serviceworkies.com/) - *"Learn Service Workers inside and out with the new PWA Mastery Game."*
 
 
+## Git / GitHub
+- [Git Immersion](http://gitimmersion.com/) - *"A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."*
+- [Learn Git Branching](https://learngitbranching.js.org/) - *"An interactive Git visualization tool to educate and challenge!"*
+- [Try GitHub](http://try.github.io/) - *Resources to learn Git: Handbook, cheat sheets, git commands in the browser, etc.*
+
+
 ## iOS
 ### Swift
 - [Developing iOS 10 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120?ign-mpt=uo%3D8) - Stanford
@@ -240,6 +248,10 @@
 ## Regular expressions (regex)
 - [RegexOne](https://regexone.com/) - *"Learn Regular Expressions with simple, interactive exercises."*
 - [regex101](https://regex101.com/) - *"Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript."*
+
+## SQL
+- [SQL Zoo](https://sqlzoo.net/) - *"Learn SQL using: SQL Server, Oracle, MySQL, DB2, and PostgreSQL."*
+
 
 # Startups
 - [Notes Essays-Peter Thiel's CS183: Startup-Stanford, Spring 2012](http://blakemasters.com/peter-thiels-cs183-startup) - There is a book available from those notes: [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2I6AlDJ).
