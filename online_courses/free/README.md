@@ -24,7 +24,7 @@
     * [Software development](#software-development)
 * [Cybersecurity](#cybersecurity)
 * [Data science](#data-science)
-    * [Data analytics](#data-analytics)
+    * [Data analysis](#data-analysis)
     * [Data collection](#data-collection)
     * [Data mining](#data-mining)
     * [Machine learning](#machine-learning-1)
@@ -183,7 +183,8 @@
 - [Python for Data Science](https://www.edx.org/course/python-for-data-science-2) - edX. Offered by UCSanDiego.
 - [University of California, San Diego: Data Science](https://www.edx.org/micromasters/data-science) - edX MicroMaster
 
-### Data analytics
+### Data analysis
+- [Modern Big Data Analysis with SQL Specialization](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) - Coursera. Offered by Cloudera.
 - [University of California, San Diego: Python Data Products for Predictive Analytics Specialization](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics) - Coursera Specialization
 
 ### Data collection
