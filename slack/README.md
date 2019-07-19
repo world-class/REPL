@@ -19,6 +19,7 @@ Hey {{username}}, here's a UoL calendar for you :simple_smile:.
 • Not logged in with a Google account? → <https://calendar.google.com/calendar/embed?src=pmaaof55arb3aku90d2n5bhasg%40group.calendar.google.com|View calendar here>
 
 • Logged in with a Google account? → <https://calendar.google.com/calendar/r?cid=cG1hYW9mNTVhcmIzYWt1OTBkMm41Ymhhc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ|View calendar here>
+[_Sent by_ {{user_id}}]
 ```
 
 ### Resource Locator Bot
@@ -40,4 +41,5 @@ Dear {{username}}, someone told me you might be interested in checking out the f
 
 • *Want to make this message better and know (or want to know) something about GitHub*? You can <https://github.com/world-class/REPL/blob/master/slack/README.md|update this message here> by sending a _pull request_ and even <https://github.com/world-class/REPL|contribute to the main project here>!
 • :robot: Thank you, good luck and may this degree be as easy as Pi. :wink:
+[_Sent by_ {{user_id}}]
 ```
