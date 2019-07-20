@@ -31,6 +31,9 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
     - [Examples](https://p5js.org/examples/) are also available to get started.
 - [The Coding Train](https://www.youtube.com/user/shiffman/playlists) (playlists) - Channel from Daniel Shiffman, a board member of `p5.js`.
 
+### W3 Schools
+- [JavaScript Array Iteration Methods](https://www.w3schools.com/js/js_array_iteration.asp) - Will help in making your code more concise and readable.
+
 ## Kinks to be aware of
 - [List of reported errors and bugs with the module](../../../kinks/level4/introduction_to_programming_i/).
 
