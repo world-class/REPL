@@ -27,6 +27,7 @@
 * [Mathematics](#mathematics)
     * [Beginner-oriented](#beginner-oriented)
     * [Calculus](#calculus)
+        * [Derivatives](#derivatives)
     * [Complex analysis](#complex-analysis)
     * [Differential equations](#differential-equations)
     * [Discrete mathematics](#discrete-mathematics)
@@ -164,6 +165,9 @@ Dan Colman
     - [MIT Calculus Revisited: Single Variable Calculus](https://www.youtube.com/watch?v=MFRWDuduuSw&list=PL3B08AE665AB9002A) (playlist) - MIT OpenCourseWare
     - [Open Ed: Leingang, Calculus I](https://www.youtube.com/watch?v=PBUtJM-zAls&list=PL2D50EE0B1DC5453E) (playlist) - New York University
     - [Vector Calculus @ UNSW Sydney. Dr Chris Tisdell](https://www.youtube.com/watch?v=22oMQY_zQ34&list=PL283CA2107AD503A3) (playlist) - UNSWelearning
+
+### Derivatives
+- [The Chain Rule for differentiation of composite functions](https://www.youtube.com/watch?v=KKaRHdZ-Qus) - ExamSolutions
 
 ## Complex analysis
 - [Complex Analysis - Part 1](https://www.youtube.com/playlist?list=PLbMVogVj5nJTLfYTwvct_SlLaxv1b50Vk) (playlist) - NPTEL
