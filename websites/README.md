@@ -22,6 +22,7 @@
 * [Mathematics](#mathematics)
     * [Beginner topics](#beginner-topics)
     * [Calculus](#calculus)
+        * [Derivatives](#derivatives)
     * [Encryption](#encryption)
     * [Limits](#limits)
     * [Linear Algebra](#linear-algebra)
@@ -117,10 +118,13 @@
 - [Mathematics 16A, 002 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk) - UC Berkeley
 
 ## Beginner topics
-- [Khan Academy](https://www.khanacademy.org/) - Brush up on arithmetic, algebra, geometry, trigonometry, statistics & probability, calculus, differential equations, linear algebra.
+- [Khan Academy](https://www.khanacademy.org/) - Brush up on arithmetic, algebra, geometry, trigonometry, statistics & probability, calculus, differential equations, linear algebra, functions.
 
 ## Calculus
 - [Calculus III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) - *Here are my online notes for my Calculus III course that I teach here at Lamar University. Despite the fact that these are my “class notes”, they should be accessible to anyone wanting to learn Calculus III or needing a refresher in some of the topics from the class.*
+
+### Derivatives
+- [Derivative Calculator](https://www.derivative-calculator.net/) - *"Calculate derivatives online — with steps and graphing!"*
 
 ## Encryption
 - [Part 1: How RSA Works With Examples](http://doctrina.org/How-RSA-Works-With-Examples.html) - Barry Steyn
