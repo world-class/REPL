@@ -6,6 +6,7 @@
 
 * [Slack app integrations](#slack-app-integrations)
     * [Calendar Linker Bot](#calendar-linker-bot)
+    * [Deadline Manager Bot](#deadline-manager-bot)
     * [Resource Locator Bot](#resource-locator-bot)
 
 <!-- vim-markdown-toc -->
@@ -20,6 +21,14 @@ Hey {{username}}, here's a UoL calendar for you :simple_smile:.
 
 • Logged in with a Google account? → <https://calendar.google.com/calendar/r?cid=cG1hYW9mNTVhcmIzYWt1OTBkMm41Ymhhc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ|View calendar here>
 [_Sent by_ {{user_id}}]
+```
+
+### Deadline Manager Bot
+This bot will automatically post events from the same calendar used by **Calendar Linker Bot** 24 hours before they occur to the `#general` channel. The current formatting is as follow:
+```
+:exclamation: *24 hours notice* — _{{summary}}_ — :timer_clock: `{{start_dateTime_pretty}}`
+:speech_balloon: *Additional details*
+>>> {{description}}
 ```
 
 ### Resource Locator Bot
