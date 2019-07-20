@@ -12,6 +12,8 @@
         * [Pro](#pro)
             * [702, stage 4](#702-stage-4)
             * [802, stage 2](#802-stage-2)
+                * [Random function](#random-function)
+                * [Apparently fixed](#apparently-fixed)
     * [Week 1](#week-1)
         * [Lesson 1.1](#lesson-11)
             * [Video: 2D coordinate system](#video-2d-coordinate-system)
@@ -63,6 +65,12 @@ This page is about the [Introduction to programming I module](../../../modules/l
 _"My suspect's car didn't have enough space to pull out in front of me before speeding off, so the chase wouldn't work as expected. I deliberately got myself suspended so I could grab another case, and it worked fine."_ (reported by [@dannycallaghan](https://github.com/dannycallaghan))
 
 #### 802, stage 2
+##### Random function
+_"They ask you to create an array of random integers between two values. The `random()` function in `p5.js` includes the lower number, but excludes the upper number. So if you do `random(5,9)`, it might well generate a **5**, but never a **9**._
+
+_Naturally I incremented the upper value by one so it'd actually generate values between the two numbers requested, but the puzzle actually expects you to just naively slot the two values into random and not fix the bug."_ (reported by *Pehoulihan*)
+
+##### Apparently fixed
 _"It asks you to fill an array with values, but the grader is clearly broken as I’ve used four different ways of adding values to an array (concat, push, by index, etc.) and I get this error every time (which makes no sense in terms of the sketch file, so must be the graded). Secondly, I  can’t get a new case as it won’t recognise that I’ve uploaded this maybe 20 times. It won’t stop me trying again. Thirdly, I’ve grabbed the cases for Parts 3 and 4, and they ask you to reuse the same function, and again it fails when grading that bit, so you can’t finish Case 802."_ (reported by [@dannycallaghan](https://github.com/dannycallaghan))
 
 
