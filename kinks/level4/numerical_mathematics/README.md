@@ -56,6 +56,9 @@
             * [Practice quiz 5.307 Solving trigonometric equations](#practice-quiz-5307-solving-trigonometric-equations)
         * [Lesson 5.4](#lesson-54)
             * [Summative quiz 5.402 Trigonometric functions](#summative-quiz-5402-trigonometric-functions)
+    * [Week 17](#week-17)
+        * [Lesson 9.1](#lesson-91)
+            * [Video 9.109 Designing regular shapes: polygons and stars](#video-9109-designing-regular-shapes-polygons-and-stars)
 
 <!-- vim-markdown-toc -->
 
@@ -211,3 +214,8 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 #### Summative quiz 5.402 Trigonometric functions
 - Question 2: The option <img src="/kinks/level4/numerical_mathematics/tex/930132b197dd4618ebdca6abe63cd414.svg?invert_in_darkmode&sanitize=true" align=middle width=268.61131439999997pt height=24.65753399999998pt/> is valid and should be selected, but is currently marked as wrong.
 - Question 3: Some translations that should occur in the negative x-direction, such as <img src="/kinks/level4/numerical_mathematics/tex/d0497fbc0445c3cfa4e7d8ae0fc6a309.svg?invert_in_darkmode&sanitize=true" align=middle width=81.94561319999998pt height=24.65753399999998pt/>, are mistakenly graded as being in the positive x-direction.
+
+## Week 17
+### Lesson 9.1
+#### Video 9.109 Designing regular shapes: polygons and stars
+- The video blacks out from 2:53 onward.
