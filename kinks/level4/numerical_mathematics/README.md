@@ -56,6 +56,9 @@
             * [Practice quiz 5.307 Solving trigonometric equations](#practice-quiz-5307-solving-trigonometric-equations)
         * [Lesson 5.4](#lesson-54)
             * [Summative quiz 5.402 Trigonometric functions](#summative-quiz-5402-trigonometric-functions)
+    * [Week 12](#week-12)
+        * [Lesson 6.2](#lesson-62)
+            * [Video 6.207 Logarithmic equations](#video-6207-logarithmic-equations)
     * [Week 14](#week-14)
         * [Lesson 7.6](#lesson-76)
             * [Practice quiz 7.602 Calculus topic](#practice-quiz-7602-calculus-topic)
@@ -217,6 +220,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 #### Summative quiz 5.402 Trigonometric functions
 - Question 2: The option <img src="/kinks/level4/numerical_mathematics/tex/930132b197dd4618ebdca6abe63cd414.svg?invert_in_darkmode&sanitize=true" align=middle width=268.61131439999997pt height=24.65753399999998pt/> is valid and should be selected, but is currently marked as wrong.
 - Question 3: Some translations that should occur in the negative x-direction, such as <img src="/kinks/level4/numerical_mathematics/tex/d0497fbc0445c3cfa4e7d8ae0fc6a309.svg?invert_in_darkmode&sanitize=true" align=middle width=81.94561319999998pt height=24.65753399999998pt/>, are mistakenly graded as being in the positive x-direction.
+
+## Week 12
+### Lesson 6.2
+#### Video 6.207 Logarithmic equations
+- At 14:40, a negative sign is added to <img src="/kinks/level4/numerical_mathematics/tex/4f17ad1174598d9d10ed2141a8f3267b.svg?invert_in_darkmode&sanitize=true" align=middle width=14.206684799999989pt height=26.76175259999998pt/>. The equation should instead be: <p align="center"><img src="/kinks/level4/numerical_mathematics/tex/344dcc28fccdfba68f32ef014a7ca6f4.svg?invert_in_darkmode&sanitize=true" align=middle width=258.4239273pt height=15.572667pt/></p>
 
 ## Week 14
 ### Lesson 7.6
