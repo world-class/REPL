@@ -56,6 +56,9 @@
             * [Practice quiz 5.307 Solving trigonometric equations](#practice-quiz-5307-solving-trigonometric-equations)
         * [Lesson 5.4](#lesson-54)
             * [Summative quiz 5.402 Trigonometric functions](#summative-quiz-5402-trigonometric-functions)
+    * [Week 14](#week-14)
+        * [Lesson 7.6](#lesson-76)
+            * [Practice quiz 7.602 Calculus topic](#practice-quiz-7602-calculus-topic)
     * [Week 17](#week-17)
         * [Lesson 9.1](#lesson-91)
             * [Video 9.109 Designing regular shapes: polygons and stars](#video-9109-designing-regular-shapes-polygons-and-stars)
@@ -214,6 +217,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 #### Summative quiz 5.402 Trigonometric functions
 - Question 2: The option $cos(355^\text{o}) = cos(360^\text{o} - 355^\text{o}) = 0.996$ is valid and should be selected, but is currently marked as wrong.
 - Question 3: Some translations that should occur in the negative x-direction, such as $sin(3x + 1)$, are mistakenly graded as being in the positive x-direction.
+
+## Week 14
+### Lesson 7.6
+#### Practice quiz 7.602 Calculus topic
+- Questions 5 and 6 assume $n\to \infty$, which is indispensable to know to calculate the limit.
 
 ## Week 17
 ### Lesson 9.1
