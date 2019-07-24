@@ -56,6 +56,9 @@
             * [Practice quiz 5.307 Solving trigonometric equations](#practice-quiz-5307-solving-trigonometric-equations)
         * [Lesson 5.4](#lesson-54)
             * [Summative quiz 5.402 Trigonometric functions](#summative-quiz-5402-trigonometric-functions)
+    * [Week 12](#week-12)
+        * [Lesson 6.2](#lesson-62)
+            * [Video 6.207 Logarithmic equations](#video-6207-logarithmic-equations)
     * [Week 14](#week-14)
         * [Lesson 7.6](#lesson-76)
             * [Practice quiz 7.602 Calculus topic](#practice-quiz-7602-calculus-topic)
@@ -217,6 +220,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 #### Summative quiz 5.402 Trigonometric functions
 - Question 2: The option $cos(355^\text{o}) = cos(360^\text{o} - 355^\text{o}) = 0.996$ is valid and should be selected, but is currently marked as wrong.
 - Question 3: Some translations that should occur in the negative x-direction, such as $sin(3x + 1)$, are mistakenly graded as being in the positive x-direction.
+
+## Week 12
+### Lesson 6.2
+#### Video 6.207 Logarithmic equations
+- At 14:40, a negative sign is added to $e^2$. The equation should instead be: $$e^2 x + e^2 = x \iff e^2 x - x + e^2 = 0$$
 
 ## Week 14
 ### Lesson 7.6
