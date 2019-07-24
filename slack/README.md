@@ -26,7 +26,8 @@ Hey {{username}}, here's a UoL calendar for you :simple_smile:.
 ### Deadline Manager Bot
 This bot will automatically post events from the same calendar used by **Calendar Linker Bot** 24 hours before they occur to the `#general` channel. The current formatting is as follow:
 ```
-:exclamation: *24 hours notice* — _{{summary}}_ — :timer_clock: `{{start_dateTime_pretty}}`
+:newspaper: *{{summary}}*
+:timer_clock: `{{start_dateTime_pretty}}`
 :speech_balloon: *Additional details*
 >>> {{description}}
 ```
