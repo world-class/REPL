@@ -59,6 +59,9 @@
     * [Week 12](#week-12)
         * [Lesson 6.2](#lesson-62)
             * [Video 6.207 Logarithmic equations](#video-6207-logarithmic-equations)
+    * [Week 13](#week-13)
+        * [Lesson 7.2](#lesson-72)
+            * [Practice quiz 7.202 Differentiation from first principles](#practice-quiz-7202-differentiation-from-first-principles)
     * [Week 14](#week-14)
         * [Lesson 7.6](#lesson-76)
             * [Practice quiz 7.602 Calculus topic](#practice-quiz-7602-calculus-topic)
@@ -225,6 +228,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 6.2
 #### Video 6.207 Logarithmic equations
 - At 14:40, a negative sign is added to <img src="/kinks/level4/numerical_mathematics/tex/4f17ad1174598d9d10ed2141a8f3267b.svg?invert_in_darkmode&sanitize=true" align=middle width=14.206684799999989pt height=26.76175259999998pt/>. The equation should instead be: <p align="center"><img src="/kinks/level4/numerical_mathematics/tex/344dcc28fccdfba68f32ef014a7ca6f4.svg?invert_in_darkmode&sanitize=true" align=middle width=258.4239273pt height=15.572667pt/></p>
+
+## Week 13
+### Lesson 7.2
+#### Practice quiz 7.202 Differentiation from first principles
+- Question 1: The selection is invalid. <img src="/kinks/level4/numerical_mathematics/tex/43d8e87bde6d5cbf9135745194585022.svg?invert_in_darkmode&sanitize=true" align=middle width=152.12317725pt height=26.76175259999998pt/> should not be selected as it is not equivalent to the right answer, which is also another available option to select: <p align="center"><img src="/kinks/level4/numerical_mathematics/tex/fd0064ca4074a84f67e7d200360e727c.svg?invert_in_darkmode&sanitize=true" align=middle width=478.91822879999995pt height=33.81208709999999pt/></p>
 
 ## Week 14
 ### Lesson 7.6
