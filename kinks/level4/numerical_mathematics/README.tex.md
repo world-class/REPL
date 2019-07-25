@@ -59,6 +59,9 @@
     * [Week 12](#week-12)
         * [Lesson 6.2](#lesson-62)
             * [Video 6.207 Logarithmic equations](#video-6207-logarithmic-equations)
+    * [Week 13](#week-13)
+        * [Lesson 7.2](#lesson-72)
+            * [Practice quiz 7.202 Differentiation from first principles](#practice-quiz-7202-differentiation-from-first-principles)
     * [Week 14](#week-14)
         * [Lesson 7.6](#lesson-76)
             * [Practice quiz 7.602 Calculus topic](#practice-quiz-7602-calculus-topic)
@@ -225,6 +228,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 6.2
 #### Video 6.207 Logarithmic equations
 - At 14:40, a negative sign is added to $e^2$. The equation should instead be: $$e^2 x + e^2 = x \iff e^2 x - x + e^2 = 0$$
+
+## Week 13
+### Lesson 7.2
+#### Practice quiz 7.202 Differentiation from first principles
+- Question 1: The selection is invalid. $5x^{5-4}-3 \cdot2x^{2-1}+0$ should not be selected as it is not equivalent to the right answer, which is also another available option to select: $$\frac{d}{dx}(x^5-3x^2-1) = 5x^4-6x = x(5x^3-6) \neq 5x^{5-4}-3 \cdot2x^{2-1}+0$$
 
 ## Week 14
 ### Lesson 7.6
