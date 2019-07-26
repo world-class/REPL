@@ -62,6 +62,8 @@
     * [Week 13](#week-13)
         * [Lesson 7.2](#lesson-72)
             * [Practice quiz 7.202 Differentiation from first principles](#practice-quiz-7202-differentiation-from-first-principles)
+        * [Lesson 7.3](#lesson-73)
+            * [Video 7.303 Chain rule](#video-7303-chain-rule)
     * [Week 14](#week-14)
         * [Lesson 7.6](#lesson-76)
             * [Practice quiz 7.602 Calculus topic](#practice-quiz-7602-calculus-topic)
@@ -233,6 +235,10 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 7.2
 #### Practice quiz 7.202 Differentiation from first principles
 - Question 1: The selection is invalid. $5x^{5-4}-3 \cdot2x^{2-1}+0$ should not be selected as it is not equivalent to the right answer, which is also another available option to select: $$\frac{d}{dx}(x^5-3x^2-1) = 5x^4-6x = x(5x^3-6) \neq 5x^{5-4}-3 \cdot2x^{2-1}+0$$
+
+### Lesson 7.3
+#### Video 7.303 Chain rule
+- At around 3:45, the final expression for the derivative of $$y=\frac{1}{3x^2-5x+2}$$ is missing a negative sign in front of it. The correct expression should be as follow: $$y'=-\frac{6x-5}{(3x^2-5x+2)^2}$$
 
 ## Week 14
 ### Lesson 7.6
