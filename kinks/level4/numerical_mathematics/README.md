@@ -62,6 +62,8 @@
     * [Week 13](#week-13)
         * [Lesson 7.2](#lesson-72)
             * [Practice quiz 7.202 Differentiation from first principles](#practice-quiz-7202-differentiation-from-first-principles)
+        * [Lesson 7.3](#lesson-73)
+            * [Video 7.303 Chain rule](#video-7303-chain-rule)
     * [Week 14](#week-14)
         * [Lesson 7.6](#lesson-76)
             * [Practice quiz 7.602 Calculus topic](#practice-quiz-7602-calculus-topic)
@@ -233,6 +235,10 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 7.2
 #### Practice quiz 7.202 Differentiation from first principles
 - Question 1: The selection is invalid. <img src="/kinks/level4/numerical_mathematics/tex/43d8e87bde6d5cbf9135745194585022.svg?invert_in_darkmode&sanitize=true" align=middle width=152.12317725pt height=26.76175259999998pt/> should not be selected as it is not equivalent to the right answer, which is also another available option to select: <p align="center"><img src="/kinks/level4/numerical_mathematics/tex/fd0064ca4074a84f67e7d200360e727c.svg?invert_in_darkmode&sanitize=true" align=middle width=478.91822879999995pt height=33.81208709999999pt/></p>
+
+### Lesson 7.3
+#### Video 7.303 Chain rule
+- At around 3:45, the final expression for the derivative of <p align="center"><img src="/kinks/level4/numerical_mathematics/tex/8a67f228e23781c00e2420e9007067b8.svg?invert_in_darkmode&sanitize=true" align=middle width=123.54388035pt height=34.3600389pt/></p> is missing a negative sign in front of it. The correct expression should be as follow: <p align="center"><img src="/kinks/level4/numerical_mathematics/tex/25479a3aab6919d4b01975e693f86d3d.svg?invert_in_darkmode&sanitize=true" align=middle width=161.1010005pt height=37.099754999999995pt/></p>
 
 ## Week 14
 ### Lesson 7.6
