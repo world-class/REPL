@@ -167,6 +167,8 @@ Dan Colman
     - [Vector Calculus @ UNSW Sydney. Dr Chris Tisdell](https://www.youtube.com/watch?v=22oMQY_zQ34&list=PL283CA2107AD503A3) (playlist) - UNSWelearning
 
 ### Derivatives
+- [Chain rule: example with trigonometric function](https://www.youtube.com/watch?v=aeQA5d3gZTI) - MIT OpenCourseWare
+- [Chains f(g(x)) and the Chain Rule | MIT Highlights of Calculus](https://www.youtube.com/watch?v=yQrKXo89nHA) - MIT OpenCourseWare
 - [The Chain Rule for differentiation of composite functions](https://www.youtube.com/watch?v=KKaRHdZ-Qus) - ExamSolutions
 
 ## Complex analysis
