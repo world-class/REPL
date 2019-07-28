@@ -173,8 +173,9 @@
 - [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) - Coursera. Offered by EPFL.
 
 ## Cybersecurity
-- [University System of Georgia: Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain)
-- [University of Colorado: Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design)
+- [IT Fundamentals for Cybersecurity Specialization](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) - Coursera. Offered by IBM.
+- [Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain) - Coursera. Offered by University System of Georgia.
+- [Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design) - Coursera. Offered by University of Colorado.
 
 
 ## Data science
@@ -195,6 +196,7 @@
 
 ### Machine learning
 - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning) - edX. Offered by Harvard University. Includes: R basics, visualization, probability, inference and modeling, productivity tools, wrangling, linear regression, machine learning, capstone.
+- [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) - Coursera. Offered by University of Alberta. Includes: fundamentals of reinforcement learning, sample-based learning methods, prediction and control with function approximation, a complete reinforcement learning system (capstone).
 
 
 ## Databases
