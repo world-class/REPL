@@ -74,6 +74,17 @@ _Naturally I incremented the upper value by one so it'd actually generate values
 ##### Apparently fixed
 _"It asks you to fill an array with values, but the grader is clearly broken as I’ve used four different ways of adding values to an array (concat, push, by index, etc.) and I get this error every time (which makes no sense in terms of the sketch file, so must be the graded). Secondly, I  can’t get a new case as it won’t recognise that I’ve uploaded this maybe 20 times. It won’t stop me trying again. Thirdly, I’ve grabbed the cases for Parts 3 and 4, and they ask you to reuse the same function, and again it fails when grading that bit, so you can’t finish Case 802."_ (reported by [@dannycallaghan](https://github.com/dannycallaghan))
 
+#### 802, stage 2
+##### Function Parentheses
+If you get this message when submitting a case:
+
+	TypeError: studentFunctionCodeString.search is not a function
+
+You need to ensure that any functions being declared do not have a space between the function name and the argument. So for example:
+
+	function myFunc() // Grader should accept this
+	function myFunc () // Grader might not accept this
+
 ### Global Sleuth glitches
 If you get this message when submitting a case:
 
