@@ -207,6 +207,7 @@ More options for video conferencing on [this page](/software).
 # Contributors
 - Aleksandar Milosevic ([@amilos](https://github.com/amilos))
 - Ankush Menat ([@amenat](https://github.com/amenat))
+- Arjun Muralidharan ([@arjunwritescode](https://github.com/arjunwritescode))
 - Blair Currey ([@BlairCurrey](https://github.com/BlairCurrey))
 - Chris Castelo ([@ChrisCastelo](https://github.com/ChrisCastelo))
 - David Moreno ([@damog](https://github.com/damog))
