@@ -135,6 +135,7 @@
 
 ## Linear Algebra
 - [Applied Linear Algebra 1](https://open.math.uwaterloo.ca/4?gid=314) - University of Waterloo (Canada)
+- [Matrix multiplication](http://matrixmultiplication.xyz/) - Online tool to perform matrix calculations.
 - Problem sets
     - [PDF] [Exercises and Problems in Linear Algebra, Portland State University](https://web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf), Version July 13, 2014
 
