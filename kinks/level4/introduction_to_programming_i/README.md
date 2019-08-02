@@ -14,6 +14,7 @@
             * [802, stage 2](#802-stage-2)
                 * [Random function](#random-function)
                 * [Apparently fixed](#apparently-fixed)
+        * [Global Sleuth glitches](#global-sleuth-glitches)
     * [Week 1](#week-1)
         * [Lesson 1.1](#lesson-11)
             * [Video: 2D coordinate system](#video-2d-coordinate-system)
@@ -72,6 +73,13 @@ _Naturally I incremented the upper value by one so it'd actually generate values
 
 ##### Apparently fixed
 _"It asks you to fill an array with values, but the grader is clearly broken as I’ve used four different ways of adding values to an array (concat, push, by index, etc.) and I get this error every time (which makes no sense in terms of the sketch file, so must be the graded). Secondly, I  can’t get a new case as it won’t recognise that I’ve uploaded this maybe 20 times. It won’t stop me trying again. Thirdly, I’ve grabbed the cases for Parts 3 and 4, and they ask you to reuse the same function, and again it fails when grading that bit, so you can’t finish Case 802."_ (reported by [@dannycallaghan](https://github.com/dannycallaghan))
+
+### Global Sleuth glitches
+If you get this message when submitting a case:
+
+    There is an error in your code ... Error in compile SyntaxError: Unexpected token )
+
+Be sure that you have removed all of your debugging statements that are using `console.log();`. This is one of those unexpected situations where your statements should have no effect, but they do somehow.
 
 
 ## Week 1
