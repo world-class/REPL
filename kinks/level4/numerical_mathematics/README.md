@@ -70,6 +70,8 @@
     * [Week 17](#week-17)
         * [Lesson 9.1](#lesson-91)
             * [Video 9.109 Designing regular shapes: polygons and stars](#video-9109-designing-regular-shapes-polygons-and-stars)
+    * [Additional resources](#additional-resources)
+        * [Larson, R. Precalculus with limits. (Boston, MA: Cengage, 2017) 4th edition [ISBN 9781337516853]](#larson-r-precalculus-with-limits-boston-ma-cengage-2017-4th-edition-isbn-9781337516853)
 
 <!-- vim-markdown-toc -->
 
@@ -249,3 +251,10 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 9.1
 #### Video 9.109 Designing regular shapes: polygons and stars
 - The video blacks out from 2:53 onward.
+
+----
+
+## Additional resources
+### Larson, R. Precalculus with limits. (Boston, MA: Cengage, 2017) 4th edition [ISBN 9781337516853]
+- Page **423**: Minor mistake in carrying calculations:
+  ![Larson p423](images/larson_p423.png)
