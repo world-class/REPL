@@ -125,6 +125,8 @@
 
 ### Derivatives
 - [Derivative Calculator](https://www.derivative-calculator.net/) - *"Calculate derivatives online — with steps and graphing!"*
+- [Introduction to differentiation on ExamSolutions](https://www.examsolutions.net/a-level-maths/ocr/c1-tutorials/#Different) - Gradient, second derivative, tangents, normals, stationary points, increasing and decreasing functions.
+- [Introduction to differentiation II on ExamSolutions](https://www.examsolutions.net/a-level-maths/ocr/c3-tutorials/#diff) - Exponential functions, chain rule, product rule, quotient rule, reciprocal function, exam questions, connected rates of change.
 
 ## Encryption
 - [Part 1: How RSA Works With Examples](http://doctrina.org/How-RSA-Works-With-Examples.html) - Barry Steyn

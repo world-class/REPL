@@ -43,6 +43,7 @@
 * [Linux](#linux)
 * [Mathematics](#mathematics)
     * [Calculus](#calculus)
+    * [Linear algebra](#linear-algebra)
     * [Probability and statistics](#probability-and-statistics)
 * [Mobile development](#mobile-development)
 * [Psychology & Health](#psychology--health)
@@ -285,6 +286,7 @@
 - [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) - Coursera. *"By the end, you will be able to apply the basics of the number theory to encrypt and decrypt messages, and to break the code if one applies RSA carelessly. You will even pass a cryptographic quest!"*
 
 ### Calculus
+- [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-2) - edX. Offered by MIT.
 - [Calculus Applied](https://online-learning.harvard.edu/course/calculus-applied) - edX. Offered by Harvard University.
 - [Calculus: Single Variable Part 1 - Functions](https://www.coursera.org/learn/single-variable-calculus) - Coursera. Offered by Penn, University of Pennsylvania.
 - [Calculus: Single Variable Part 2 - Differentiation](https://www.coursera.org/learn/differentiation-calculus) - Coursera. Offered by Penn, University of Pennsylvania.
@@ -293,9 +295,13 @@
 - [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) - Coursera. Offered by University of Sydney.
 - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) - Coursera. Offered by Imperial College London.
 
+### Linear algebra
+- [Linear Algebra - Foundations to Frontiers](https://www.edx.org/es/course/linear-algebra-foundations-to-frontiers-2) - edX. Offered by University of Texas.
+
 ### Probability and statistics
 - [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics) - Coursera. *"This course introduces the Bayesian approach to statistics, starting with the concept of probability and moving to the analysis of data. We will learn about the philosophy of the Bayesian approach as well as how to implement it for common types of data. We will compare the Bayesian approach to the more commonly-taught Frequentist approach, and see some of the benefits of the Bayesian approach."*
 - [Fat Chance: Probability from the Ground Up](https://online-learning.harvard.edu/course/fat-chance-probability-ground) - edX. Offered by Harvard University. *"Increase your quantitative reasoning skills through a deeper understanding of probability and statistics."*
+- [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data-0) - edX. Offered by MIT.
 
 
 ## Mobile development
