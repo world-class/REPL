@@ -170,7 +170,6 @@
 
 ## File sharing & storage
 - [Box](https://www.box.com/) - **10GB Free (250MB file size limit)**. *"Box, Inc., based in Redwood City, California, is a cloud content management and file sharing service for businesses. Official clients and apps are available for Windows, macOS, and several mobile platforms."* ([from Wikipedia](https://en.wikipedia.org/wiki/Box_(company)))
-- [DeepTransfer](https://deeptransfer.net/) - Send files up to **3GB** each, **14 days** file expiration, unlimited number of files sent.
 - [Dropbox](https://www.dropbox.com/) - **2GB Free**. *"Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software."* ([from Wikipedia](https://en.wikipedia.org/wiki/Dropbox_%28service%29))
 - [Firefox Send](https://send.firefox.com/) - Send up to **2.5GB** files when signing up or **1GB privately**, without signing in. Decide for how long to store your files online, who can download them and how many times.
 - [Google Drive](https://www.google.com/drive/) - **15GB Free**. *"Google Drive is a file storage and synchronization service developed by Google. [...] Google Drive allows users to store files on their servers, synchronize files across devices, and share files."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Drive))
