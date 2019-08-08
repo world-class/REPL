@@ -67,6 +67,9 @@
     * [Week 14](#week-14)
         * [Lesson 7.6](#lesson-76)
             * [Practice quiz 7.602 Calculus topic](#practice-quiz-7602-calculus-topic)
+    * [Week 15](#week-15)
+        * [Lesson 8.1](#lesson-81)
+            * [Video 8.101 Representations and properties of vectors](#video-8101-representations-and-properties-of-vectors)
     * [Week 17](#week-17)
         * [Lesson 9.1](#lesson-91)
             * [Video 9.109 Designing regular shapes: polygons and stars](#video-9109-designing-regular-shapes-polygons-and-stars)
@@ -246,6 +249,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 7.6
 #### Practice quiz 7.602 Calculus topic
 - Questions 5 and 6 assume <img src="/kinks/level4/numerical_mathematics/tex/ef14b5590a55d11e5c8dd5b37eb6fdf2.svg?invert_in_darkmode&sanitize=true" align=middle width=51.87587954999999pt height=14.15524440000002pt/>, which is indispensable to know to calculate the limit.
+
+## Week 15
+### Lesson 8.1
+#### Video 8.101 Representations and properties of vectors
+- At 4:16, the notation for the vector is wrong. It should instead be: <p align="center"><img src="/kinks/level4/numerical_mathematics/tex/408235500b67e9ab0ca8187e78042f14.svg?invert_in_darkmode&sanitize=true" align=middle width=69.01343625pt height=39.452455349999994pt/></p>
 
 ## Week 17
 ### Lesson 9.1
