@@ -70,6 +70,8 @@
     * [Week 15](#week-15)
         * [Lesson 8.1](#lesson-81)
             * [Video 8.101 Representations and properties of vectors](#video-8101-representations-and-properties-of-vectors)
+        * [Lesson 8.2](#lesson-82)
+            * [Video 8.204 Operations with matrices: linear combination, multiplication](#video-8204-operations-with-matrices-linear-combination-multiplication)
     * [Week 17](#week-17)
         * [Lesson 9.1](#lesson-91)
             * [Video 9.109 Designing regular shapes: polygons and stars](#video-9109-designing-regular-shapes-polygons-and-stars)
@@ -254,6 +256,16 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 8.1
 #### Video 8.101 Representations and properties of vectors
 - At 4:16, the notation for the vector is wrong. It should instead be: $$\vec{v} =\begin{pmatrix} 1 \\\ 2 \end{pmatrix}$$
+
+### Lesson 8.2
+#### Video 8.204 Operations with matrices: linear combination, multiplication
+- At 9:48, the resulting matrix contains an error at row 2, column 4. The correct value is **122** as shown in this matrix:
+$$ A \times C =
+\begin{pmatrix}
+12 & 1 & -6 & 50 & 6 \\
+21 & 4 & \frac{-27}{2} & 122 & 15\\
+\end{pmatrix}
+$$
 
 ## Week 17
 ### Lesson 9.1
