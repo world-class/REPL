@@ -260,12 +260,7 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 ### Lesson 8.2
 #### Video 8.204 Operations with matrices: linear combination, multiplication
 - At 9:48, the resulting matrix contains an error at row 2, column 4. The correct value is **122** as shown in this matrix:
-$$ A \times C =
-\begin{pmatrix}
-12 & 1 & -6 & 50 & 6 \\
-21 & 4 & \frac{-27}{2} & 122 & 15\\
-\end{pmatrix}
-$$
+$$ A \times C = \begin{pmatrix} 12 & 1 & -6 & 50 & 6 \\ 21 & 4 & \frac{-27}{2} & 122 & 15\\ \end{pmatrix}$$
 
 ## Week 17
 ### Lesson 9.1
