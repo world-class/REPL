@@ -159,6 +159,7 @@ relevant topic for the final project.
 - [Programme specification, Computer Science 2018-2019](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2018-19.pdf)
 - [Prospectus, Computer Science 2019-2020](https://london.ac.uk/sites/default/files/prospectuses/computer-science-prospectus-2019-20.pdf)
 - [Quick Start Guide - The Online Library](https://onlinelibrary.london.ac.uk/sites/default/files/files/quick-start-guide/academic-search-quick-start.pdf)
+- [Student Terms and Conditions 2019-2020](https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf)
 - [Student privacy notice](https://london.ac.uk/sites/default/files/governance/Student-Privacy-Notice-UoL-April-2018-Final.pdf)
 
 ## Webpages of interest
