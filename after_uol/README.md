@@ -57,6 +57,7 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 
 ## Work: Remote options
 ### Finding opportunities
+- [Dynamite Jobs](https://dynamitejobs.co/)
 - [Remote only](https://remoteonly.org/)
 - [Remote](https://remote.com/)
 - [We Work Remotely](https://weworkremotely.com/)
