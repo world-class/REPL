@@ -63,6 +63,7 @@ To get started on that learning path, please refer to the following web pages:
 - Getting help
     - [How to ask questions](https://stackoverflow.com/help/how-to-ask) - Stack Overflow
     - [How to create a minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) - Stack Overflow
+    - [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) - Jon Skeet's coding blog
     - [Code philosophy, asking for help](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/uTcr6/code-philosophy-asking-for-help) - From [Introduction to Programming I](modules/level_4/introduction_to_programming_i) module - :lock: _you need to be enrolled in this degree to view this lecture_.
 - Debugging code
     - [10 Debugging Tips for Beginners: How to Troubleshoot and Fix Your Code Without Pulling Your Hair Out](https://blog.hartleybrody.com/debugging-code-beginner/) - hartleybrody.com
