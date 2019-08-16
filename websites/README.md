@@ -53,6 +53,7 @@
     * [Questions and answers](#questions-and-answers)
     * [Regular expressions (regex)](#regular-expressions-regex)
     * [SQL](#sql)
+    * [TypeScript](#typescript)
 * [Startups](#startups)
 * [Web](#web)
     * [Buying a domain name](#buying-a-domain-name)
@@ -241,6 +242,7 @@
 
 ## JavaScript
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - *"This is a series of books diving deep into the core mechanisms of the JavaScript language."*
+- [JavaScript Arrays](https://www.executeprogram.com/) - *"Memorize the JavaScript array methods quickly, including weird corner cases; no more looking them up. Slice, filter, map, reduce, and the rest."*
 
 ## Julia
 - [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/) - Learning Julia, dynamic programming, many mathematical concepts.
@@ -254,9 +256,13 @@
 ## Regular expressions (regex)
 - [RegexOne](https://regexone.com/) - *"Learn Regular Expressions with simple, interactive exercises."*
 - [regex101](https://regex101.com/) - *"Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript."*
+- [Regexes - Execute Program](https://www.executeprogram.com/) - *"Learn the common regex features. Boundaries, repetition, wildcards, character sets, character classes, and others."*
 
 ## SQL
 - [SQL Zoo](https://sqlzoo.net/) - *"Learn SQL using: SQL Server, Oracle, MySQL, DB2, and PostgreSQL."*
+
+## TypeScript
+- [TypeScript - Execute Program](https://www.executeprogram.com/) - *"Static types and the TypeScript language from the ground up, whether you've used static types or not. Basic JavaScript knowledge required."*
 
 
 # Startups
