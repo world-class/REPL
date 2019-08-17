@@ -66,10 +66,11 @@
 
 # Artificial intelligence
 ## Machine learning
+- [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) - _"Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more."_
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) - Google. - *"Google's fast-paced, practical introduction to machine learning."*
 - [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - University of Oxford
 
-# Career 
+# Career
 ## Advice
 - [TopResume](https://www.topresume.com/career-advice). *"Job-search tips and expert advice to help you get ahead in your career."*
 
