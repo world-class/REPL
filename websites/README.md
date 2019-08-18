@@ -55,6 +55,7 @@
     * [SQL](#sql)
     * [TypeScript](#typescript)
 * [Startups](#startups)
+* [Technology](#technology)
 * [Web](#web)
     * [Buying a domain name](#buying-a-domain-name)
     * [Cloud Computing](#cloud-computing)
@@ -268,6 +269,9 @@
 
 # Startups
 - [Notes Essays-Peter Thiel's CS183: Startup-Stanford, Spring 2012](http://blakemasters.com/peter-thiels-cs183-startup) - There is a book available from those notes: [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2I6AlDJ).
+
+# Technology
+- [Version Museum](https://www.versionmuseum.com/) - *"Version Museum showcases the visual history of popular websites, operating systems, applications, and games that have shaped our lives. Much like walking through a real-life museum, this site focuses on the design changes of historic versions of technology, rather than just the written history behind it."*
 
 # Web
 ## Buying a domain name
