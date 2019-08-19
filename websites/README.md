@@ -53,7 +53,9 @@
     * [Questions and answers](#questions-and-answers)
     * [Regular expressions (regex)](#regular-expressions-regex)
     * [SQL](#sql)
+    * [TypeScript](#typescript)
 * [Startups](#startups)
+* [Technology](#technology)
 * [Web](#web)
     * [Buying a domain name](#buying-a-domain-name)
     * [Cloud Computing](#cloud-computing)
@@ -65,10 +67,11 @@
 
 # Artificial intelligence
 ## Machine learning
+- [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) - _"Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more."_
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) - Google. - *"Google's fast-paced, practical introduction to machine learning."*
 - [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - University of Oxford
 
-# Career 
+# Career
 ## Advice
 - [TopResume](https://www.topresume.com/career-advice). *"Job-search tips and expert advice to help you get ahead in your career."*
 
@@ -170,7 +173,6 @@
 
 ## File sharing & storage
 - [Box](https://www.box.com/) - **10GB Free (250MB file size limit)**. *"Box, Inc., based in Redwood City, California, is a cloud content management and file sharing service for businesses. Official clients and apps are available for Windows, macOS, and several mobile platforms."* ([from Wikipedia](https://en.wikipedia.org/wiki/Box_(company)))
-- [DeepTransfer](https://deeptransfer.net/) - Send files up to **3GB** each, **14 days** file expiration, unlimited number of files sent.
 - [Dropbox](https://www.dropbox.com/) - **2GB Free**. *"Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software."* ([from Wikipedia](https://en.wikipedia.org/wiki/Dropbox_%28service%29))
 - [Firefox Send](https://send.firefox.com/) - Send up to **2.5GB** files when signing up or **1GB privately**, without signing in. Decide for how long to store your files online, who can download them and how many times.
 - [Google Drive](https://www.google.com/drive/) - **15GB Free**. *"Google Drive is a file storage and synchronization service developed by Google. [...] Google Drive allows users to store files on their servers, synchronize files across devices, and share files."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Drive))
@@ -242,6 +244,7 @@
 
 ## JavaScript
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - *"This is a series of books diving deep into the core mechanisms of the JavaScript language."*
+- [JavaScript Arrays](https://www.executeprogram.com/) - *"Memorize the JavaScript array methods quickly, including weird corner cases; no more looking them up. Slice, filter, map, reduce, and the rest."*
 
 ## Julia
 - [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/) - Learning Julia, dynamic programming, many mathematical concepts.
@@ -255,13 +258,20 @@
 ## Regular expressions (regex)
 - [RegexOne](https://regexone.com/) - *"Learn Regular Expressions with simple, interactive exercises."*
 - [regex101](https://regex101.com/) - *"Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript."*
+- [Regexes - Execute Program](https://www.executeprogram.com/) - *"Learn the common regex features. Boundaries, repetition, wildcards, character sets, character classes, and others."*
 
 ## SQL
 - [SQL Zoo](https://sqlzoo.net/) - *"Learn SQL using: SQL Server, Oracle, MySQL, DB2, and PostgreSQL."*
 
+## TypeScript
+- [TypeScript - Execute Program](https://www.executeprogram.com/) - *"Static types and the TypeScript language from the ground up, whether you've used static types or not. Basic JavaScript knowledge required."*
+
 
 # Startups
 - [Notes Essays-Peter Thiel's CS183: Startup-Stanford, Spring 2012](http://blakemasters.com/peter-thiels-cs183-startup) - There is a book available from those notes: [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2I6AlDJ).
+
+# Technology
+- [Version Museum](https://www.versionmuseum.com/) - *"Version Museum showcases the visual history of popular websites, operating systems, applications, and games that have shaped our lives. Much like walking through a real-life museum, this site focuses on the design changes of historic versions of technology, rather than just the written history behind it."*
 
 # Web
 ## Buying a domain name

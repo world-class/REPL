@@ -10,6 +10,7 @@
             * [201, stage 4](#201-stage-4)
             * [Other glitches](#other-glitches)
         * [Pro](#pro)
+            * [701, stage 4](#701-stage-4)
             * [702, stage 4](#702-stage-4)
             * [802, stage 2](#802-stage-2)
                 * [Random function](#random-function)
@@ -64,6 +65,9 @@ This page is about the [Introduction to programming I module](../../../modules/l
 
 
 ### Pro
+#### 701, stage 4
+Some versions of this stage have misspelled words which prevent the student from solving the case. If you encounter the words `plasic` or `nerveous`, you need to make sure that your solution searches for `plastic` or `nervous` instead. Some other variations along those lines with other misspelled words may exist but haven't been reported yet.
+
 #### 702, stage 4
 _"My suspect's car didn't have enough space to pull out in front of me before speeding off, so the chase wouldn't work as expected. I deliberately got myself suspended so I could grab another case, and it worked fine."_ (reported by [@dannycallaghan](https://github.com/dannycallaghan))
 

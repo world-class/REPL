@@ -96,7 +96,9 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 - [Websites](../../../websites/)
 
 ## Reference books
-- [Foundation Maths](https://www.dawsonera.com/readonline/9781292095196), Sixth Edition, by Anthony Croft and Robert Davidson.
+- [Foundation Maths](https://www.dawsonera.com/abstract/9781292095196), Sixth Edition, by Anthony Croft and Robert Davidson.
+- [Mathematics for Computer Graphics](https://www.dawsonera.com/abstract/9781846282836), Second Edition, by John Vince.
+- [Precalculus with Limits](https://www.dawsonera.com/abstract/9781337516853), Fourth Edition, by Ron Larson.
 
 ## Useful formulae
 ### On summation

@@ -104,6 +104,7 @@
 ## Computer science
 
 ### Algorithms
+- [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) - Coursera. Offered by Illinois.
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - Coursera. Offered by Princeton University.
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Coursera. Offered by Princeton University.
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) - Coursera. Offered by Stanford. Includes:
@@ -120,6 +121,7 @@
     - Blockchain and Business: Applications and Implications
     - Blockchain Opportunity Analysis
 - [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) - Coursera. Offered by University at Buffalo, The State University of New York.
+- [Introduction to Blockchain Specialization](https://www.coursera.org/specializations/introduction-to-blockchain) - Coursera. Offered by AICPA & CIMA.
 - [Introduction to Blockchain Technologies](https://www.coursera.org/learn/introduction-blockchain-technologies) - Coursera. Offered by The Business School for the World INSEAD.
 - [Supply Chain Finance and Blockchain Technology Specialization](https://www.coursera.org/specializations/supply-chain-finance-and-blockchain-technology) - Coursera. Offered by New York Institute of Finance. Includes:
     - Introduction to Supply Chain Finance & Blockchain Technology
@@ -164,6 +166,8 @@
     - DDoS Attacks and Defenses
     - Security and Privacy in TOR Network
     - Advanced System Security Topics
+- [IT Fundamentals for Cybersecurity Specialization](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) - Coursera. Offered by IBM.
+- [Secure Coding Practices Specialization](https://www.coursera.org/specializations/secure-coding-practices) - Coursera. Offered by UCDavis University of California.
 - [Security and Privacy for Big Data - Part 1](https://www.coursera.org/learn/security-privacy-big-data) - Coursera. Offered by Digital Academy.
 - [Security and Privacy for Big Data - Part 2](https://www.coursera.org/learn/security-privacy-big-data-protection) - Coursera. Offered by Digital Academy.
 
@@ -186,6 +190,7 @@
 - [University of California, San Diego: Data Science](https://www.edx.org/micromasters/data-science) - edX MicroMaster
 
 ### Data analysis
+- [AI Foundations for Everyone Specialization](https://www.coursera.org/specializations/ai-foundations-for-everyone) - Coursera. Offered by IBM.
 - [Modern Big Data Analysis with SQL Specialization](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) - Coursera. Offered by Cloudera.
 - [University of California, San Diego: Python Data Products for Predictive Analytics Specialization](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics) - Coursera Specialization
 
