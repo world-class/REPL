@@ -66,12 +66,12 @@
 - [Talk Python To Me](https://talkpython.fm/) - *"Talk Python To Me is a podcast for developers who are passionate about Python. Learn about the language and related technologies."*
 
 ### Software development
+- [Changelog Masterfeed](https://changelog.com/master) - *Weekly shows about developer culture, software development, open source, building startups, artificial intelligence, and the people involved.*
 - [Coder Radio](https://player.fm/series/coder-radio-2440919) - *"A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies."*
 - [InfoQ](https://www.infoq.com/the-infoq-podcast) - *"Curated and peer-reviewed content covering innovation in professional software development, read by over 1 million developers worldwide."*
 - [Software Engineering Daily](https://softwareengineeringdaily.com) - *"The world through the lens of software."*
 - [Software Engineering Radio](https://www.se-radio.net/) - *"The podcast for professional software developers."*
 - [The Rabbit Hole: An Inside Look into Software Development](https://player.fm/series/the-rabbit-hole-an-inside-look-into-software-development) - *"If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you."*
-- [Changelog Masterfeed](https://changelog.com/master) - *Weekly shows about developer culture, software development, open source, building startups, artificial intelligence, and the people involved.*
 
 ### Testing
 - [Test & Code](https://testandcode.com/) - *"A Podcast about Software Testing, Software Development, and Python."*
