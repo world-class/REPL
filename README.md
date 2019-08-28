@@ -83,13 +83,13 @@ To get started on that learning path, please refer to the following web pages:
 # Modules in the curriculum
 
 ## Level 4 (year 1+)
-- [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) (CM1035-01) **(Not currently available)**
-- [Discrete Mathematics](modules/level_4/discrete_mathematics) (CM1020-01) **(Not currently available)**
-- [Fundamentals of Computer Science](modules/level_4/fundamentals_of_computer_science) (CM1025-01) **(Not currently available)**
+- [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) (CM1035-01)
+- [Discrete Mathematics](modules/level_4/discrete_mathematics) (CM1020-01)
+- [Fundamentals of Computer Science](modules/level_4/fundamentals_of_computer_science) (CM1025-01)
 - [How Computers Work](modules/level_4/how_computers_work) (CM1030-01)
 - [Introduction to Programming I](modules/level_4/introduction_to_programming_i) (CM1005-01)
-- [Introduction to Programming II](modules/level_4/introduction_to_programming_ii) (CM1010-01) **(Not currently available)**
-- [Numerical Mathematics](modules/level_4/numerical_mathematics) (CM1015-01)
+- [Introduction to Programming II](modules/level_4/introduction_to_programming_ii) (CM1010-01)
+- [Numerical Mathematics](modules/level_4/numerical_mathematics) (CM1015-01) **(Not available for October 2019-March 2020)**
 - [Web Development](modules/level_4/web_development) (CM1040-01)
 
 
