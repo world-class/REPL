@@ -9,6 +9,8 @@
             * [101, stage 3](#101-stage-3)
             * [201, stage 4](#201-stage-4)
             * [Other glitches](#other-glitches)
+                * [Sleuth cases with spotlight effect](#sleuth-cases-with-spotlight-effect)
+                * [Variable assignment](#variable-assignment)
         * [Pro](#pro)
             * [701, stage 4](#701-stage-4)
             * [702, stage 4](#702-stage-4)
@@ -51,6 +53,10 @@ This page is about the [Introduction to programming I module](../../../modules/l
 - You should only use `beginShape();`, `vertex(x1, y1);` and `endShape(CLOSE);` in your code.
 
 #### Other glitches
+##### Sleuth cases with spotlight effect
+Be aware that those Sleuth cases involving a spotlight effect will not work on Firefox out of the box (they work in any webkit based browser like Google Chrome and Safari). There are possible workarounds such as commenting out the line at the bottom that says `blendMode(DARKEST);` and uncommenting it again before submitting the case.
+
+##### Variable assignment
 - Some cases ask to set the value of a variable to `mouseX` for instance and then make sure it doesn't go above or below a certain value with `min()` and `max()` functions. Answers can wrongly be accepted if you first set
 
       variable = mouseX
