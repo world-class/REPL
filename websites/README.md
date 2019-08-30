@@ -125,11 +125,13 @@
 
 ## Calculus
 - [Calculus III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) - *Here are my online notes for my Calculus III course that I teach here at Lamar University. Despite the fact that these are my “class notes”, they should be accessible to anyone wanting to learn Calculus III or needing a refresher in some of the topics from the class.*
+- [Calculus Problem Set](https://www.math.ucdavis.edu/~kouba/ProblemsList.html)
 
 ### Derivatives
 - [Derivative Calculator](https://www.derivative-calculator.net/) - *"Calculate derivatives online — with steps and graphing!"*
 - [Introduction to differentiation on ExamSolutions](https://www.examsolutions.net/a-level-maths/ocr/c1-tutorials/#Different) - Gradient, second derivative, tangents, normals, stationary points, increasing and decreasing functions.
 - [Introduction to differentiation II on ExamSolutions](https://www.examsolutions.net/a-level-maths/ocr/c3-tutorials/#diff) - Exponential functions, chain rule, product rule, quotient rule, reciprocal function, exam questions, connected rates of change.
+
 
 ## Encryption
 - [Part 1: How RSA Works With Examples](http://doctrina.org/How-RSA-Works-With-Examples.html) - Barry Steyn
