@@ -4,6 +4,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Numerical Mathematics](#numerical-mathematics)
+* [Overview of the module (mind map)](#overview-of-the-module-mind-map)
 * [Resources](#resources)
     * [All the essential readings](#all-the-essential-readings)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
@@ -29,6 +30,9 @@ computer science. In particular, you'll study number systems, special
 functions, graphing and linear algebra.
 
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/Yk0uo/syllabus-numerical-mathematics-cm1015).
+
+# Overview of the module (mind map)
+![Mind Map of this module](./CM1015_Numerical_Maths_Mind_Map.png)
 
 # Resources
 ## All the essential readings
