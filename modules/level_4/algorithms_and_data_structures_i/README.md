@@ -1,10 +1,15 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-- [Table of contents](#table-of-contents)
-- [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
-- [Resources](#resources)
-  - [On REPL](#on-repl)
+<!-- vim-markdown-toc GFM -->
+
+* [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [On REPL](#on-repl)
+
+<!-- vim-markdown-toc -->
 
 ---
 

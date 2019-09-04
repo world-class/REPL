@@ -4,6 +4,8 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Numerical Mathematics](#numerical-mathematics)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
 * [Overview of the module (mind map)](#overview-of-the-module-mind-map)
 * [Resources](#resources)
     * [All the essential readings](#all-the-essential-readings)
@@ -33,7 +35,7 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 
 # Topics covered
 
-- Number bases and modular arithmetic.
+- Number bases and modular arithmetic
 - Sequences and Series
 - Graph Sketching and Kinematics
 - Angles, Triangles and Trigonometry

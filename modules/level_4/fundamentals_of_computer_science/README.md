@@ -1,5 +1,14 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
+# Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Fundamentals of Computer Science](#fundamentals-of-computer-science)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+
+<!-- vim-markdown-toc -->
+
 # Fundamentals of Computer Science
 
 In this module, you'll gain a broad understanding of key topic areas in

@@ -1,5 +1,16 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
+# Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [How Computers Work](#how-computers-work)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+
+<!-- vim-markdown-toc -->
+
+---
+
 # How Computers Work
 
 How Computers Work helps you understand and interact with computer

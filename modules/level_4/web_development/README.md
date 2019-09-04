@@ -4,6 +4,8 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Web Development](#web-development)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
 * [Resources](#resources)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
@@ -37,7 +39,7 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 - Positioning in Styling & Design
 - Responsive CSS
 - Introduction to JavaScript for the Web
-- Manipulating the DOM using Javascript
+- Manipulating the DOM using JavaScript
 - JavaScript Libraries
 - Web Hosting & Professional Practices
 

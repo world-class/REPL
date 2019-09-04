@@ -1,5 +1,14 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
+# Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Introduction to Programming II](#introduction-to-programming-ii)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+
+<!-- vim-markdown-toc -->
+
 # Introduction to Programming II
 
 By taking this module, you will enhance your programming skills

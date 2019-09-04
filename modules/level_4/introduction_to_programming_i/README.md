@@ -1,10 +1,15 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
+
 * [Introduction to Programming I](#introduction-to-programming-i)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
 * [Resources](#resources)
     * [JavaScript](#javascript)
         * [p5.js - JavaScript library](#p5js---javascript-library)
+        * [W3 Schools](#w3-schools)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
     * [Sleuth assignments](#sleuth-assignments)
@@ -12,7 +17,7 @@
         * [Utils and aids (student created)](#utils-and-aids-student-created)
     * [Text editor](#text-editor)
 
-
+<!-- vim-markdown-toc -->
 ---
 
 # Introduction to Programming I

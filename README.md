@@ -215,6 +215,7 @@ More options for video conferencing on [this page](/software).
 - Chris Castelo ([@ChrisCastelo](https://github.com/ChrisCastelo))
 - David Moreno ([@damog](https://github.com/damog))
 - Diego Cabrejas ([@dcabrejas](https://github.com/dcabrejas))
+- Felipe Balbi ([@felipebalbi](https://github.com/felipebalbi))
 - Gareth Erskine-Jones ([@gsej](https://github.com/gsej))
 - Irfanullah Jan ([@irfanullahjan](https://github.com/irfanullahjan))
 - Kajetan Maurycy Olszewski ([@kaemo](https://github.com/kaemo))

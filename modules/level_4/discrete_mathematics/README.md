@@ -1,5 +1,16 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
+# Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Discrete Mathematics](#discrete-mathematics)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+
+<!-- vim-markdown-toc -->
+
+---
+
 # Discrete Mathematics
 
 This module helps hone your skills in thinking abstractly. It also
