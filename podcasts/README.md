@@ -4,8 +4,10 @@
 # Table of contents
 <!-- vim-markdown-toc GFM -->
 
+* [Computer science](#computer-science)
 * [Cybersecurity](#cybersecurity)
 * [Data science](#data-science)
+* [Economics](#economics)
 * [Education](#education)
 * [Programming](#programming)
     * [Beginner-friendly](#beginner-friendly)
@@ -17,10 +19,15 @@
     * [Web development](#web-development)
 * [Science](#science)
 * [Technology](#technology)
+* [Variety](#variety)
+* [Web development](#web-development-1)
 
 <!-- vim-markdown-toc -->
 
 ---
+
+## Computer science
+- [Base.cs](https://www.codenewbie.org/basecs) - *"Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie."*
 
 ## Cybersecurity
 - [Darknet Diaries](https://darknetdiaries.com/) - *"Darknet Diaries delves into the cybercrimes that are happening right under your nose. Cover your laptop camera, throw that iPhone in the river, and hang out in that weird no-reception corner or your home."*
@@ -31,6 +38,9 @@
 ## Data science
 - [Data Skeptic](https://dataskeptic.com/) - *"Data science, statistics, machine learning, artificial intelligence, and scientific skepticism."*
 - [Linear Digressions](http://lineardigressions.com/) - *"Linear Digressions is a podcast about machine learning and data science. Machine learning is being used to solve a ton of interesting problems, and to accomplish goals that were out of reach even a few short years ago."*
+
+## Economics
+- [EconTalk](http://www.econtalk.org/) - *"EconTalk is a weekly economics podcast hosted by Russ Roberts. Roberts, formerly an economics professor at George Mason University, is a research fellow at Stanford University's Hoover Institution. On the podcast, Roberts typically interviews a single guest—often professional economists—on topics in economics."* ([from Wikipedia](https://en.wikipedia.org/wiki/EconTalk))
 
 ## Education
 - [TED Podcasts](https://www.ted.com/podcasts) - *"Learn more about TED's original podcast initiatives. Subscribe to listen on Apple Podcasts, the TED Android app, or wherever you get your podcasts."*
@@ -86,5 +96,14 @@
 - [The Naked Scientists](https://www.thenakedscientists.com/) - *"The Naked Scientists is a one-hour audience-interactive science radio talk show broadcast live by the BBC in the East of England, nationally by BBC Radio 5 Live and internationally on ABC Radio National, Australia; it is also distributed globally as a podcast."* ([from Wikipedia](https://en.wikipedia.org/wiki/The_Naked_Scientists))
 
 ## Technology
+- [a16z](https://a16z.com/podcasts/) - *"The a16z Podcast discusses tech and culture trends, news, and the future -- especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world. Multiple episodes are released every week."*
+- [Accidental Tech Podcast](https://atp.fm/) - *"A tech podcast we accidentally created while trying to do a car show."*
 - [Command_Line Heroes](https://www.redhat.com/en/command-line-heroes) - *"An original podcast about the people who transform technology from the command line up. Presented by Red Hat."*
 - [Recode Decode](https://www.vox.com/recode-podcasts) - *"Recode’s Kara Swisher, Silicon Valley’s most revered journalist, hosts candid interviews with tech execs, politicians, celebrities and more about their big ideas and how they’re changing our world. Tune in every week for enlightening conversations with people like Tesla CEO Elon Musk, former Secretary of State Hillary Clinton, Facebook CEO Mark Zuckerberg, and many more."*
+- [The Talk Show - John Gruber](https://daringfireball.net/thetalkshow/) - *"The Talk Show is a technology podcast started by Gruber intended as a "director's commentary" to his website, Daring Fireball."* ([from Wikipedia](https://en.wikipedia.org/wiki/John_Gruber#The_Talk_Show))
+
+## Variety
+- [The Joe Rogan Experience](http://podcasts.joerogan.net/) - *"The Joe Rogan Experience is a free audio and video podcast hosted by American comedian, actor, sports commentator, martial artist and television host Joe Rogan."* ([from Wikipedia](https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience))
+
+## Web development
+- [Syntax.fm](https://syntax.fm/) - *"Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences."*
