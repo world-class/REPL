@@ -20,7 +20,6 @@
 * [Science](#science)
 * [Technology](#technology)
 * [Variety](#variety)
-* [Web development](#web-development-1)
 
 <!-- vim-markdown-toc -->
 
@@ -90,6 +89,7 @@
 ### Web development
 - [Front End Happy Hour](https://player.fm/series/front-end-happy-hour-131187) - *"A podcast featuring panelists of engineers from Netflix, Evernote & LinkedIn talking over drinks about all things Front End development."*
 - [Full Stack Radio](https://player.fm/series/series-1401837) - *"A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration."*
+- [Syntax.fm](https://syntax.fm/) - *"Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences."*
 - [The Versioning Show](https://www.sitepoint.com/versioning-show/) - *"The Versioning Show discusses the industry of the web from development to design, with some of the people making it happen today, and planning where it's headed in the next version."*
 
 ## Science
@@ -104,6 +104,3 @@
 
 ## Variety
 - [The Joe Rogan Experience](http://podcasts.joerogan.net/) - *"The Joe Rogan Experience is a free audio and video podcast hosted by American comedian, actor, sports commentator, martial artist and television host Joe Rogan."* ([from Wikipedia](https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience))
-
-## Web development
-- [Syntax.fm](https://syntax.fm/) - *"Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences."*
