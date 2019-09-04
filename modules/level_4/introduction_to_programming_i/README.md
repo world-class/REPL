@@ -24,6 +24,23 @@ introduced to basic object-oriented programming techniques.
 
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1010).
 
+# Topics covered
+
+- Your development environment
+- Drawing in 2D
+- Variables, Objects and Interaction
+- Conditional Statements
+- Basic loops and arrays
+- Traversing with for loops
+- Functions
+- Advanced loops and arrays
+- Extending Objects
+- Constructor functions
+
+# Assessment
+
+Coursework only (Type II)
+
 # Resources
 ## JavaScript
 ### p5.js - JavaScript library

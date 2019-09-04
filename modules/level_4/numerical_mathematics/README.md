@@ -31,6 +31,23 @@ functions, graphing and linear algebra.
 
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/Yk0uo/syllabus-numerical-mathematics-cm1015).
 
+# Topics covered
+
+- Number bases and modular arithmetic.
+- Sequences and Series
+- Graph Sketching and Kinematics
+- Angles, Triangles and Trigonometry
+- Trigonometric functions
+- Exponential and logarithmic functions
+- Calculus: Limits and differentiation
+- Vectors and Matrices
+- Linear Transformations
+- Introduction to Combinatorics and Probability
+
+# Assessment
+
+One two hour unseen written examination and coursework (Type I)
+
 # Overview of the module (mind map)
 ![Mind Map of this module](./CM1015_Numerical_Maths_Mind_Map.png)
 

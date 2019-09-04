@@ -15,6 +15,7 @@
 ---
 
 # Web Development
+
 This module provides you with a foundational web development skillset.
 You will learn the critical languages of the web: HTML, CSS and
 JavaScript. Using HTML and CSS, you'll learn how to markup, layout and
@@ -26,6 +27,23 @@ make your websites accessible to other people. The module also enables
 you to present your work online in the form of a website.
 
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/p88ho/syllabus-web-development-cm1040).
+
+# Topics covered
+
+- Introduction to Web Development
+- Web Site Design
+- Essential HTML
+- Introduction to CSS
+- Positioning in Styling & Design
+- Responsive CSS
+- Introduction to JavaScript for the Web
+- Manipulating the DOM using Javascript
+- JavaScript Libraries
+- Web Hosting & Professional Practices
+
+# Assessment
+
+Coursework only (Type III)
 
 # Resources
 ## Kinks to be aware of
