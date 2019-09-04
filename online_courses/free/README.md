@@ -71,6 +71,7 @@
 - [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - by TensorFlow, on Udacity. *"Learn how to build deep learning applications with TensorFlow."*
 
 ### Machine learning
+- [Machine Learning: Algorithms in the Real World Specialization](https://www.coursera.org/specializations/machine-learning-algorithms-real-world) - Coursera. Offered by amii.
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) - Coursera. Lecturer: Andrew Ng. Offered by Stanford.
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) - Coursera. Offered by University of Washington. Includes:
     - Machine Learning Foundations: A Case Study Approach
@@ -155,10 +156,11 @@
 - [Software Product Management Specialization](https://www.coursera.org/specializations/product-management) - Coursera. Offered by University of Alberta.
 
 ### Programming
+- [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) - Coursera. Offered by RICE.
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2) - edX. Offered by MIT.
 - [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) - Coursera. Offered by University of Toronto. - *"This course introduces the fundamental building blocks of programming and teaches you how to write fun and useful programs using the Python language."*
-- [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) - Coursera. Offered by RICE.
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) - Coursera. Offered by University of Michigan.
+- [Using Python for Research](https://www.edx.org/course/using-python-for-research-2) - *"Take your introductory knowledge of Python programming to the next level and learn how to use Python 3 for your research."* - edX. Offered by Harvard University.
 
 ### Security
 - [Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design) - Coursera. Offered by University of Colorado. Includes:
@@ -172,10 +174,11 @@
 - [Security and Privacy for Big Data - Part 2](https://www.coursera.org/learn/security-privacy-big-data-protection) - Coursera. Offered by Digital Academy.
 
 ### Software development
+- [Computational Thinking with Beginning C Programming Specialization](https://www.coursera.org/specializations/computational-thinking-c-programming) - Coursera. Offered by University of Colorado.
 - [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) - Coursera. Offered by Google Cloud.
+- [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) - Coursera. Offered by EPFL.
 - [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming) - Coursera. Offered by Duke University.
 - [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) - Coursera. University of Michigan.
-- [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) - Coursera. Offered by EPFL.
 
 ## Cybersecurity
 - [IT Fundamentals for Cybersecurity Specialization](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) - Coursera. Offered by IBM.
