@@ -194,6 +194,7 @@ More options for video conferencing on [this page](/software).
 
 
 # Other resources
+- [Books recommended by students in this degree](books/README.md)
 - [Free software](software/README.md)
 - [Kinks to be aware of in the different modules](kinks/README.md)
 - Online courses: [free resources](online_courses/free/README.md), [paid resources](online_courses/paid/README.md)
