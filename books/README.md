@@ -16,7 +16,7 @@
 ---
 
 ## Computer science
-- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html), by Hal Abelson, Jerry Sussman and Julie Sussman - *"An excellent computer science text used in introductory courses at MIT. So called because of the wizard on the jacket. One of the bibles of the LISP/Scheme world. Also, less commonly, known as the Purple Book."*
+- [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml), by Harold Abelson, Gerald Jay Sussman and Julie Sussman (2<sup>nd</sup> edition) - *"An excellent computer science text used in introductory courses at MIT. So called because of the wizard on the jacket. One of the bibles of the LISP/Scheme world. Also, less commonly, known as the Purple Book."*
 
 ## Mathematics
 - [Nix The Tricks](https://nixthetricks.com/index.html), by Tina Cardone and the online math community known as the MTBoS - *"This book is filled with alternatives to the shortcuts so prevalent in mathematics education and explains exactly why the tricks are so bad for understanding math."*
