@@ -1,7 +1,27 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
-# *Machine Learning and Artificial Intelligence* specialism modules
+<!-- vim-markdown-toc GFM -->
 
+* [List of free deep learning ebooks](#list-of-free-deep-learning-ebooks)
+* [List of deep learning courses](#list-of-deep-learning-courses)
+* [Modules in the specialism](#modules-in-the-specialism)
+    * [Databases and Advanced Data Techniques](#databases-and-advanced-data-techniques)
+    * [Machine Learning and Neural Networks](#machine-learning-and-neural-networks)
+    * [Artificial Intelligence](#artificial-intelligence)
+    * [Intelligent Signal Processing](#intelligent-signal-processing)
+    * [Natural Language Processing](#natural-language-processing)
+
+<!-- vim-markdown-toc -->
+
+*Machine Learning and Artificial Intelligence* specialism modules
+
+## List of free deep learning ebooks
+- [Best Deep Learning Books](https://blog.floydhub.com/best-deep-learning-books-updated-for-2019/#deep-learning), by Alessio Gozzoli (updated March 1<sup>st</sup>, 2019)
+
+## List of deep learning courses
+- [Best Deep Learning Courses](https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019/), by Alessio Gozzoli (updated March 8<sup>th</sup>, 2019)
+
+## Modules in the specialism
 ### Databases and Advanced Data Techniques
 This module aims to show you how to work with data in your computer
 programs. You will learn how to use SQL and NoSQL databases to store
