@@ -74,3 +74,4 @@ Coursework only (Type III)
     - [As PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf);
     - [As EPUB](https://eloquentjavascript.net/Eloquent_JavaScript.epub);
     - [As MOBI](https://eloquentjavascript.net/Eloquent_JavaScript.mobi) (for Kindle).
+- [Handlebars Training](https://www.youtube.com/playlist?list=PLtV5RF44Yj8S4RcpQehL-2XMuVsJXwNvK), by Rich Finelli (YouTube playlist)
