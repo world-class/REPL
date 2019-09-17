@@ -9,8 +9,8 @@
 * [Overview of the module (mind map)](#overview-of-the-module-mind-map)
 * [Resources](#resources)
     * [All the essential readings](#all-the-essential-readings)
+    * [Examples of past exams](#examples-of-past-exams)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
-    * [Notes](#notes)
     * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
     * [Reference books](#reference-books)
     * [Useful formulae](#useful-formulae)
@@ -108,11 +108,11 @@ One two hour unseen written examination and coursework (Type I)
 | 19 | Precalculus with limits | Chapter 9 Sequences, series and probability (sections 9.6 and 9.7) |
 | 20 | Foundational Maths | Chapter 30 Statistics |
 
+## Examples of past exams
+- [Past exam papers in Computing](https://www.whatdotheyknow.com/request/past_exam_papers_in_computing_2) - The relevant files for this module are `IS51026A_2015.pdf`, `IS51026A_2016.pdf`, `IS51026A_2017.pdf` and `IS51026B_2018.pdf`.
+
 ## Kinks to be aware of
 - [List of reported errors and bugs with the module](../../../kinks/level4/numerical_mathematics/).
-
-## Notes
-- [Anki deck](https://github.com/kaemo/cm1015-anki-deck)
 
 ## On REPL (see relevant sections)
 - [YouTube](../../../youtube/)
