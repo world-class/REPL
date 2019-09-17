@@ -7,6 +7,7 @@
 * [Computer science](#computer-science)
 * [Mathematics](#mathematics)
     * [Calculus](#calculus)
+    * [Discrete mathematics](#discrete-mathematics)
     * [Linear algebra](#linear-algebra)
     * [Number theory and algebra](#number-theory-and-algebra)
 * [Programming](#programming)
@@ -23,6 +24,9 @@
 
 ### Calculus
 - [Calculus Made Easy](https://www.gutenberg.org/files/33283/33283-pdf.pdf), by Silvanus Thompson - *"Being a very-simplest introduction to those beautiful methods which are generally called by the terrifying names of the Differentia."*
+
+### Discrete mathematics
+- [How to Solve It - A New Aspect of Mathematical Method](https://lms.umb.sk/pluginfile.php/37176/mod_folder/content/0/Polya_How-to-solve-it.pdf), by G. Polya (PDF file)
 
 ### Linear algebra
 - [Linear Algebra Done Right](http://linear.axler.net/LinearAbridged.pdf), by Sheldon Axler - *"The text focuses on the central goal of linear algebra: understanding the structure of linear operators on finite-dimensional vector spaces."*
