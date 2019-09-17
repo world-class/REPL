@@ -220,7 +220,9 @@
 ## Games
 ### CSS
 - [CSS Diner](https://flukeout.github.io/) - *"It's a fun game to learn and practice CSS selectors."*
+- [Flexbox Froggy](http://flexboxfroggy.com/) - *"A game for learning CSS flexbox."*
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) *"This is a Mastery Game. Each section unravels part of the plot, gives you mastery over a new flexbox concept, and presents zombie survival challenges that force you to solidify your new skills like your life depends on it."*
+- [Grid Critters](https://gridcritters.com/) - *"Completely learn CSS Grid once and for all."*
 - [Grid Garden](https://codepip.com/games/grid-garden/) - *"How well can you tend to your carrot garden using CSS grid? In this game, you must water your carrot crops and poison the weeds by mastering CSS grid, a powerful new module that makes 2-dimensional grid layouts a piece of cake. With it you can define columns, rows, and grid template areas."*
 
 ### JavaScript

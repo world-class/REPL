@@ -7,6 +7,7 @@
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
+    * [Games](#games)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
     * [Programming](#programming)
@@ -48,6 +49,14 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 Coursework only (Type III)
 
 # Resources
+## Games
+- [CSS Diner](https://flukeout.github.io/) - *"A fun game to help you learn and practice CSS selectors."*
+- [Flexbox Froggy](http://flexboxfroggy.com/) - *"A game for learning CSS flexbox."*
+- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) - *"Master Flexbox layout: a game by geddski."*
+- [Grid Critters](https://gridcritters.com/) - *"Completely learn CSS Grid once and for all."*
+- [Grid Garden](https://codepip.com/games/grid-garden/) - *"How well can you tend to your carrot garden using CSS grid? In this game, you must water your carrot crops and poison the weeds by mastering CSS grid, a powerful new module that makes 2-dimensional grid layouts a piece of cake. With it you can define columns, rows, and grid template areas."*
+- [Service Workies](https://serviceworkies.com/) - *"Learn Service Workers inside and out with the new game of Service Worker mastery."*
+
 ## Kinks to be aware of
 - [List of reported errors and bugs with the module](../../../kinks/level4/web_development/).
 
