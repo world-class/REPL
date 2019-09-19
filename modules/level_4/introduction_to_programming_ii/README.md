@@ -6,6 +6,8 @@
 * [Introduction to Programming II](#introduction-to-programming-ii)
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
+* [Resources](#resources)
+    * [Essential reading](#essential-reading)
 
 <!-- vim-markdown-toc -->
 
@@ -33,3 +35,11 @@ developing code across multiple files and using third-party libraries.
 # Assessment
 
 Coursework only (Type III)
+
+# Resources
+## Essential reading
+_"There is no required textbook for this course. Listed below are some books to supplement some of the material covered in this course."_
+
+- **Getting Started with p5.js Lauren McCarthy, Casey Reas, and Ben Fry**
+- **The Pragmatic Programmer – Your Journey to Mastery, by David Thomas, Andrew Hunt**
+- **Coders at Work: Reflections on the Craft of Programming, by Peter Seibel**

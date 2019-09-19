@@ -7,6 +7,7 @@
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
+    * [Essential reading](#essential-reading)
     * [JavaScript](#javascript)
         * [p5.js - JavaScript library](#p5js---javascript-library)
         * [W3 Schools](#w3-schools)
@@ -47,6 +48,11 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 Coursework only (Type II)
 
 # Resources
+## Essential reading
+_"There is no required textbook for this module. The module draws on number of different, largely web-based, public resources as well as the resources produced as bespoke material for this module. The programming language is Javascript, with the p5js library used for graphical and interactive programming functionality. The main external resource is the set of online tutorials available from: [https://p5js.org/learn/](https://p5js.org/learn/)."_
+
+_"Specific readings for each topic are listed with direct links to free online resources that provide additional material on the topics of this course."_
+
 ## JavaScript
 ### p5.js - JavaScript library
 - [p5.js](https://p5js.org/) - Official website to find [the reference guide](https://p5js.org/reference) and an [online editor](https://editor.p5js.org/) to practice. Next step: [p5.js libraries](https://p5js.org/libraries/).

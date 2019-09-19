@@ -7,6 +7,7 @@
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
+    * [Essential reading](#essential-reading)
     * [On REPL](#on-repl)
 
 <!-- vim-markdown-toc -->
@@ -48,6 +49,17 @@ and regarding their efficiency.
 One two hour unseen written examination and coursework (Type I)
 
 # Resources
+## Essential reading
+_"Specific essential readings for this course will be taken from the following text book:_
+
+- **Cormen, T.H., C.E. Leierson, R.L. Rivest and C. Stein Introduction to Algorithms. (Cambridge, MA: MIT Press, 2009) 3rd edition.**
+
+_The specific pages for the reading activities will be given in the platform, and there is no need to read beyond to recommended pages._
+
+_In addition to the text book, there are additional reading activities written by the course author, some of which involve coding exercises._
+
+_There will also be discussion prompts asking you to do some independent research using online sources."_
+
 ## On REPL
 - [YouTube](../../../youtube/): See section on algorithms.
 - [Websites](../../../websites/): See section on algorithms.

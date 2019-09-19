@@ -6,6 +6,8 @@
 * [How Computers Work](#how-computers-work)
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
+* [Resources](#resources)
+    * [Essential reading](#essential-reading)
 
 <!-- vim-markdown-toc -->
 
@@ -40,3 +42,13 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Resources
+## Essential reading
+_"The essentials readings for this course will come from the following text book, which you will be able access from within some lessons on Coursera platform:_
+
+_**Brookshear, J.G. and D. Brylow Computer science: an overview. (Harlow: Pearson Education, 2015) 12th edition (Global edition).**_
+
+_This course does not require you to read the whole book; you will be given specific readings for each topic from these texts are listed with direct links on the Readings page for each topic._
+
+_You will also be asked to do some independent research from online sources or using the University of London digital library."_

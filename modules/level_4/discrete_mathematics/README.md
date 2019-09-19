@@ -6,6 +6,8 @@
 * [Discrete Mathematics](#discrete-mathematics)
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
+* [Resources](#resources)
+    * [Essential reading](#essential-reading)
 
 <!-- vim-markdown-toc -->
 
@@ -36,3 +38,12 @@ experimentation, reasoning and generalisation.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Resources
+## Essential reading
+_"The essentials readings for this course will come from the following text book, which is  available in the University of London digital library:_
+
+- **Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Edition**
+- **David Mackinson, Sets, Logic and Maths for Computing, Springer Verlag. 2012**
+
+_This course does not require you to read the whole book, you will be given specific  readings for each topic from these texts are listed with direct links on the Readings page  for each topic. You will also be asked to do some independent research from online sources or using the University of London digital library."_

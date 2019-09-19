@@ -7,6 +7,7 @@
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
+    * [Essential reading](#essential-reading)
     * [Games](#games)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
@@ -49,6 +50,15 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 Coursework only (Type III)
 
 # Resources
+## Essential reading
+_"There is no required textbook for this module. The module will draw on a number of different, largely web-based, public resources as well as the resources produced as bespoke material for this module. Some key online references are:_
+
+- W3 Schools Online Web Tutorials, http://www.w3schools.com
+- Mozilla Developer Network Tutorials, https://developer.mozilla.org/
+- Marijn Haverbeke, 2012 "Eloquent JavaScript: A Modern Introduction to Programming" - free online text http://eloquentjavascript.net
+
+_Specific readings for each topic are listed with direct links to free online resources that provide additional material on the topics of this course."_
+
 ## Games
 - [CSS Diner](https://flukeout.github.io/) - *"A fun game to help you learn and practice CSS selectors."*
 - [Flexbox Froggy](http://flexboxfroggy.com/) - *"A game for learning CSS flexbox."*
