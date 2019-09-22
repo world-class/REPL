@@ -58,12 +58,12 @@ One two hour unseen written examination and coursework (Type I)
 | Week | Book | Topics |
 | ---- | ---- | ------ |
 | 1 | Foundational Maths | Chapter 14 Number bases |
-| 3 | Number theory for computing | Section 1.2 Theory of divisbility (1.2.1) |
-| 3 | Number theory for computing | Theory of congruences (sections 1.6.1, 1.6.2 and 1.6.3) |
+| 3 | Number theory for computing | Chapter 1 Theory of divisbility (Section 1.2.1) |
+| 3 | Number theory for computing | Chapter 1 Theory of congruences (sections 1.6.1, 1.6.2 and 1.6.3) |
 | 4 | Foundational Maths | Chapter 12 Sequences and series |
 | 4 | Precalculus with limits | Chapter 9 Sequences, series and probability (sections 9.1, 9.2 and 9.3) |
-| 6 | Foundational Maths | Chapter 17 Graphs of functions (sections 17.1 and 17.2) |
-| 6 | Foundational Maths | Chapter 16 Functions 6 Foundational Maths Chapter 17 Graphs of functions (section 17.3 onwards) |
+| 6 | Foundational Maths | Chapter 16 Functions |
+| 6 | Foundational Maths | Chapter 17 Graphs of functions |
 | 6 | Foundational Maths | Chapter 18 The straight line |
 | 6 | Mathematics for computer graphics | Chapter 5 Cartesian coordinates |
 | 6 | Precalculus with limits | Chapter 1 Functions and their graphs (sections 1.1–1.8) |
@@ -71,8 +71,7 @@ One two hour unseen written examination and coursework (Type I)
 | 6 | A Level Physics | Chapter 3 Motion (sections 3.1–3.7) |
 | 7 | Foundational Maths | Chapter 21 Measurement (as revision) |
 | 7 | Foundational Maths | Chapter 22 Introduction to trigonometry |
-| 7 | Foundational Maths | Chapter 25 Solution of triangles, sections 25.1 - 25.3 |
-| 8 | Foundational Maths | Chapter 25 Solution of triangles (sections 25.4 and 25.5) |
+| 7 | Foundational Maths | Chapter 25 Solution of triangles, sections 25.1 - 25.5 |
 | 8 | Mathematics for computer graphics | Chapter 4 Trigonometry (sections 4.1–4.6) |
 | 9 | Foundational Maths | Chapter 23 The trigonometrical functions and their graphs |
 | 9 | Foundational Maths | Chapter 24 Trigonometrical identities and equations (except for table 24.1) |
@@ -82,12 +81,10 @@ One two hour unseen written examination and coursework (Type I)
 | 10 | Foundational Maths | Chapter 23 The trigonometrical functions and their graphs, section 23.2 |
 | 10 | Precalculus with limits | Chapter 4 Trigonometry (sections 4.5 and 4.6, relating to transformations of graphs) |
 | 10 | Precalculus with limits | Chapter 10 Topics in analytic geometry (section 10.7, relating to polar coordinates) |
-| 11 | Foundational Maths | Chapter 16 Functions |
 | 11 | Foundational Maths | Chapter 19 The exponential function |
 | 11 | Precalculus with limits | Chapter 1 Functions and their graphs (section 1.9) |
-| 11 | Precalculus with limits | Chapter 3 Exponential and logarithmic graphs (excluding logarithms) |
+| 11 | Precalculus with limits | Chapter 3 Exponential and logarithmic functions |
 | 12 | Foundational Maths | Chapter 20 The logarithm function |
-| 12 | Precalculus with limits | Chapter 3 Exponential and logarithmic functions |
 | 13 | Foundational Maths | Chapter 34 Gradients of curves |
 | 13 | Foundational Maths | Chapter 35 Techniques of differentiation |
 | 13 | Precalculus with limits | Chapter 12 Limits and an introduction to calculus |
@@ -98,12 +95,8 @@ One two hour unseen written examination and coursework (Type I)
 | 15 | Precalculus with limits | Chapter 6 Additional topics in trigonometry (sections 6.3 and 6.4) |
 | 15 | Precalculus with limits | Chapter 8 Matrices and determinants |
 | 15 | Precalculus with limits | Chapter 11 Analytic geometry in three dimensions |
-| 16 | Precalculus with limits | Chapter 8 Matrices and determinants |
-| 16 | Precalculus with limits | Chapter 11 Analytic geometry in three dimensions (section 11.3 The cross product of two vectors) |
 | 16 | Mathematics for computer graphics | Chapter 6 Vectors |
-| 16 | Mathematics for computer graphics | Chapter 7 Transformation (sections 7.1-7.3) |
-| 17 | Mathematics for computer graphics | Chapter 6 Vectors Chapter 7 Transformation (sections 7.1-7.3) |
-| 18 | Mathematics for computer graphics | Chapter 7 Transformation (section 7.3 Homogenous coordinates) |
+| 17 | Mathematics for computer graphics | Chapter 7 Transformation (sections 7.1-7.3) |
 | 19 | Foundational Maths | Chapter 31 Probability |
 | 19 | Precalculus with limits | Chapter 9 Sequences, series and probability (sections 9.6 and 9.7) |
 | 20 | Foundational Maths | Chapter 30 Statistics |
@@ -122,6 +115,8 @@ One two hour unseen written examination and coursework (Type I)
 - [Foundation Maths](https://www.dawsonera.com/abstract/9781292095196), Sixth Edition, by Anthony Croft and Robert Davidson.
 - [Mathematics for Computer Graphics](https://www.dawsonera.com/abstract/9781846282836), Second Edition, by John Vince.
 - [Precalculus with Limits](https://www.dawsonera.com/abstract/9781337516853), Fourth Edition, by Ron Larson.
+- A Level Physics - Required reading provided on Coursera platform
+- Number theory for computing - Required reading provided on Coursera platform.
 
 ## Useful formulae
 ### On summation
