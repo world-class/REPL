@@ -83,6 +83,7 @@
 - [Computer Science 188, 001 - Spring 2015](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u) - UC Berkeley
 - [Computer Science 194, 024 - Spring 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE) - UC Berkeley
 - [Computer Science 61B, 001 - Fall 2014](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDVox3OKFhF4LxMHqpi2GS2) - UC Berkeley
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) - _"Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career."_
 - [Understanding Computers and the Internet](http://computerscience1.tv/2011/spring/) - Harvard Extension School. About hardware, Internet, multimedia, security, website development, programming.
 
 ## Algorithms
