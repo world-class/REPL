@@ -81,7 +81,6 @@ One two hour unseen written examination and coursework (Type I)
 | 10 | Foundational Maths | Chapter 23 The trigonometrical functions and their graphs, section 23.2 |
 | 10 | Precalculus with limits | Chapter 4 Trigonometry (sections 4.5 and 4.6, relating to transformations of graphs) |
 | 10 | Precalculus with limits | Chapter 10 Topics in analytic geometry (section 10.7, relating to polar coordinates) |
-| 11 | Foundational Maths | Chapter 16 Functions |
 | 11 | Foundational Maths | Chapter 19 The exponential function |
 | 11 | Precalculus with limits | Chapter 1 Functions and their graphs (section 1.9) |
 | 11 | Precalculus with limits | Chapter 3 Exponential and logarithmic functions |
