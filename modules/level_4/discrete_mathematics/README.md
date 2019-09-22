@@ -8,6 +8,7 @@
 * [Assessment](#assessment)
 * [Resources](#resources)
     * [Essential reading](#essential-reading)
+    * [Videos](#videos)
 
 <!-- vim-markdown-toc -->
 
@@ -47,3 +48,6 @@ _"The essentials readings for this course will come from the following text book
 - **David Mackinson, Sets, Logic and Maths for Computing, Springer Verlag. 2012**
 
 _This course does not require you to read the whole book, you will be given specific  readings for each topic from these texts are listed with direct links on the Readings page  for each topic. You will also be asked to do some independent research from online sources or using the University of London digital library."_
+
+## Videos
+- [YouTube](https://github.com/world-class/REPL/tree/master/youtube#discrete-mathematics) (on REPL)
