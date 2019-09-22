@@ -62,6 +62,7 @@ One two hour unseen written examination and coursework (Type I)
 | 3 | Number theory for computing | Chapter 1 Theory of congruences (sections 1.6.1, 1.6.2 and 1.6.3) |
 | 4 | Foundational Maths | Chapter 12 Sequences and series |
 | 4 | Precalculus with limits | Chapter 9 Sequences, series and probability (sections 9.1, 9.2 and 9.3) |
+| 6 | Foundational Maths | Chapter 16 Functions |
 | 6 | Foundational Maths | Chapter 17 Graphs of functions |
 | 6 | Foundational Maths | Chapter 18 The straight line |
 | 6 | Mathematics for computer graphics | Chapter 5 Cartesian coordinates |
@@ -83,7 +84,7 @@ One two hour unseen written examination and coursework (Type I)
 | 11 | Foundational Maths | Chapter 16 Functions |
 | 11 | Foundational Maths | Chapter 19 The exponential function |
 | 11 | Precalculus with limits | Chapter 1 Functions and their graphs (section 1.9) |
-| 11 | Precalculus with limits | Chapter 3 Exponential and logarithmic graphs |
+| 11 | Precalculus with limits | Chapter 3 Exponential and logarithmic functions |
 | 12 | Foundational Maths | Chapter 20 The logarithm function |
 | 13 | Foundational Maths | Chapter 34 Gradients of curves |
 | 13 | Foundational Maths | Chapter 35 Techniques of differentiation |
