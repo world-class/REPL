@@ -13,6 +13,7 @@ The following list goes beyond the essential/required reading that is part of th
     * [Linear algebra](#linear-algebra)
     * [Number theory and algebra](#number-theory-and-algebra)
 * [Programming](#programming)
+* [UX/UI design](#uxui-design)
 
 <!-- vim-markdown-toc -->
 
@@ -38,3 +39,6 @@ The following list goes beyond the essential/required reading that is part of th
 
 ## Programming
 - [Awesome Programming Books](https://github.com/majikarp/awesome-programming-books) - *"A curated list of awesome programming books."*
+
+## UX/UI design
+- [Actionable Gamification](https://yukaichou.com/gamification-book/) - *"Gamification Pioneer Yu-kai Chou takes readers on a journey to learn his sixteen years of obsessive research in creating the Octalysis Framework, and how to apply the framework to create engaging and successful experiences in their product, workplace, marketing, and personal lives."* (from [Amazon](https://www.amazon.com/Actionable-Gamification-Beyond-Points-Leaderboards/dp/1511744049/))
