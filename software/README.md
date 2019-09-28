@@ -42,7 +42,7 @@
         * [Operating Systems](#operating-systems)
             * [Linux distributions](#linux-distributions)
                 * [Beginner-friendly](#beginner-friendly)
-        * [Password manager](#password-manager)
+        * [Password managers](#password-managers)
         * [PDF editors](#pdf-editors)
         * [PDF viewers](#pdf-viewers)
         * [Presentation sharing](#presentation-sharing)
@@ -237,11 +237,12 @@
 - :star: [Linux Mint](https://linuxmint.com/) - *"Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.""* ([from Wikipedia](https://en.wikipedia.org/wiki/Linux_Mint)
 - :star: [Ubuntu](https://www.ubuntu.com/download/desktop/) - A beginner-friendly distribution based on Debian.
 
-### Password manager
+### Password managers
 - Beginner friendly
     - [Dashlane](https://www.dashlane.com/) (Windows, macOS, Linux, Chromebook)
     - :star: [KeePass](https://keepass.info/) (Windows, macOS, BSD)
     - :star: [KeePassXC](https://keepassxc.org/) (Windows, macOS, Linux)
+    - :star: [Firefox Lockwise](https://lockwise.firefox.com/) (Browser extension, Android, iOS) - *"Firefox Lockwise is an experimental product from Mozilla, the makers of Firefox. It’s an app for iOS and Android that gives you access to passwords you’ve saved to Firefox."*
     - [LastPass](https://www.lastpass.com/) (Windows, macOS, Linux, Chromebook)
 - More advanced
     - :star: [gopass](https://www.gopass.pw/) (Windows, macOS, Linux)
