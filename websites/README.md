@@ -35,6 +35,7 @@
     * [Disposable/temporary emails](#disposabletemporary-emails)
     * [File sharing & storage](#file-sharing--storage)
     * [Image hosting](#image-hosting)
+    * [Manage your privacy](#manage-your-privacy)
 * [Open source](#open-source)
 * [Programming](#programming)
     * [Basics](#basics)
@@ -195,6 +196,9 @@
 - [Postimage](https://postimages.org/) - *"Provides free image upload and hosting integration for forums. Free picture hosting and photo sharing for websites and blogs."*
 - [TinyPic](http://tinypic.com/) - No sign up required. *"TinyPic is a photo and video sharing service, owned and operated by Photobucket.com, that allows users to upload, link and share, images and videos on the Internet. The idea is similar to URL shortening in which each uploaded image is given a relatively short internet address."* ([from Wikipedia](https://en.wikipedia.org/wiki/TinyPic))
 - [Use](https://www.use.com/) - *"Use.com offers unlimited free image hosting - No sign up required! It's easy to upload, link, and share your photos on eBay®, craigslist®, MySpace®, blogs..."*
+
+## Manage your privacy
+- [Firefox Monitor](https://monitor.firefox.com/) - *"See if you’ve been part of an online data breach. Find out what hackers already know about you. [...] If your information surfaces in a new data breach, we’ll send you an alert. [...] Get ongoing breach monitoring for multiple email addresses."*
 
 
 # Open source
