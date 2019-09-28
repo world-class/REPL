@@ -157,7 +157,7 @@ relevant topic for the final project.
 - [GDPR Rights guide - students](https://london.ac.uk/sites/default/files/governance/gdpr-rights-guide-students.pdf)
 - [Guidelines for Examinations 2018–2019](https://london.ac.uk/sites/default/files/examiners/guidelines-for-examinations-2018-19.pdf)
 - [Programme Regulations 2019–2020](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf)
-- [Programme specification, Computer Science 2018-2019](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2018-19.pdf)
+- [Programme specification, Computer Science 2019-2020](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2019-2020.pdf)
 - [Prospectus, Computer Science 2019-2020](https://london.ac.uk/sites/default/files/prospectuses/computer-science-prospectus-2019-20.pdf)
 - [Quick Start Guide - The Online Library](https://onlinelibrary.london.ac.uk/sites/default/files/files/quick-start-guide/academic-search-quick-start.pdf)
 - [Student Terms and Conditions 2019-2020](https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf)
@@ -188,11 +188,11 @@ relevant topic for the final project.
     - [General enquiries](https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&category=UOL) (← For non-students. Students should ask in **[the portal](https://my.london.ac.uk/)** instead.)
     - Reach out by phone: `+44 (0)20 7862 8000` (general), `+44 (0)20 7862 5766` (specific to this degree)
     - [Student Advice Center](https://london.kb.help/)
-- Discord channel (choose one of the following, it is the same channel): [Invitation link #1](https://discord.gg/Hyxse35), [Invitation link #2](https://discord.gg/YEt2f7E)
-- [Slack channel](https://londoncs.slack.com/)
+- Discord server (choose one of the following, it is the same server): [Invitation link #1](https://discord.gg/Hyxse35), [Invitation link #2](https://discord.gg/YEt2f7E)
+- [Slack workspace](https://londoncs.slack.com/)
 - [Zoom](https://zoom.us/) (video conferencing used on Coursera)
 
-More options for video conferencing on [this page](/software).
+More software options for video conferencing on [this page](/software).
 
 
 # Other resources
