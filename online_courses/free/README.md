@@ -47,6 +47,7 @@
     * [Probability and statistics](#probability-and-statistics)
 * [Mobile development](#mobile-development)
 * [Psychology & Health](#psychology--health)
+* [Web development](#web-development-1)
 
 <!-- vim-markdown-toc -->
 
@@ -319,3 +320,6 @@
 - [A Life of Happiness and Fulfillment](https://www.coursera.org/learn/happiness) - Coursera - *"[...] draws content from a variety of fields, including psychology, neuroscience, and behavioral decision theory to offer a tested and practical recipe for leading a life of happiness and fulfillment."*
 - [Maintaining a Mindful Life](https://www.futurelearn.com/courses/mindfulness-life) - FutureLearn. - *"Learn how to apply mindfulness techniques, so you can improve your communication, relationships and emotional health."*
 - [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance) - FutureLearn - *"Learn mindfulness techniques to reduce stress and improve your wellbeing and work/study performance."*
+
+## Web development
+- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) - edX. - Offered by Harvard University. - *"This course picks up where [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap."*
