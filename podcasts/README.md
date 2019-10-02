@@ -99,9 +99,9 @@
 - [a16z](https://a16z.com/podcasts/) - *"The a16z Podcast discusses tech and culture trends, news, and the future -- especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world. Multiple episodes are released every week."*
 - [Accidental Tech Podcast](https://atp.fm/) - *"A tech podcast we accidentally created while trying to do a car show."*
 - [Command_Line Heroes](https://www.redhat.com/en/command-line-heroes) - *"An original podcast about the people who transform technology from the command line up. Presented by Red Hat."*
+- [IRL: Online Life is Real Life](https://irlpodcast.org/) - *"Host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Firefox."* ([from IRL](https://irlpodcast.org/))
 - [Recode Decode](https://www.vox.com/recode-podcasts) - *"Recode’s Kara Swisher, Silicon Valley’s most revered journalist, hosts candid interviews with tech execs, politicians, celebrities and more about their big ideas and how they’re changing our world. Tune in every week for enlightening conversations with people like Tesla CEO Elon Musk, former Secretary of State Hillary Clinton, Facebook CEO Mark Zuckerberg, and many more."*
 - [The Talk Show - John Gruber](https://daringfireball.net/thetalkshow/) - *"The Talk Show is a technology podcast started by Gruber intended as a "director's commentary" to his website, Daring Fireball."* ([from Wikipedia](https://en.wikipedia.org/wiki/John_Gruber#The_Talk_Show))
-- [IRL: Online Life is Real Life](https://irlpodcast.org/) - *"Host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Firefox."* ([from IRL](https://irlpodcast.org/))
 
 ## Variety
 - [The Joe Rogan Experience](http://podcasts.joerogan.net/) - *"The Joe Rogan Experience is a free audio and video podcast hosted by American comedian, actor, sports commentator, martial artist and television host Joe Rogan."* ([from Wikipedia](https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience))

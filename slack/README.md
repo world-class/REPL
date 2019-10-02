@@ -36,6 +36,15 @@ This bot will automatically post events from the same calendar used by **Calenda
 ### GreetBot
 [GreetBot](https://greet.bot/) welcomes new students joining the workspace to guide them on their journey from the very beginning by pointing them to this repository and other useful resources. Right now, the custom message sent by the bot is as follow:
 ```
+*TL;DR*
+- Whenever appropriate, please use *threads* instead of posting to the channel.
+- Send yourself a direct message by typing `/resources` to display a ton of useful resources.
+- Send yourself a direct message by typing `/cal` to display links to a Google Calendar to see events related to this degree.
+- Please do your own research (Slack, search engine, etc.) before asking a question that has been answered many times. For a start, make sure you have read all the documents you will find on that page: https://github.com/world-class/REPL#documents-and-resources-provided-publicly-by-the-university-of-london
+- Find a list of curated resources for this degree here: https://github.com/world-class/REPL
+
+----------
+
 Hey @new_user_name! Welcome aboard.
 
 To help you get on your way, please be aware there is a GitHub repository where you'll find plenty of curated resources to succeed in this degree. You'll find it here: https://github.com/world-class/REPL
