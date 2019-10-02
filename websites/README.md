@@ -244,6 +244,7 @@
 ## Git / GitHub
 - [Git Immersion](http://gitimmersion.com/) - *"A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."*
 - [Learn Git Branching](https://learngitbranching.js.org/) - *"An interactive Git visualization tool to educate and challenge!"*
+- [Pro Git Book](https://git-scm.com/book/en/v2) - *"The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com."*
 - [Try GitHub](http://try.github.io/) - *Resources to learn Git: Handbook, cheat sheets, git commands in the browser, etc.*
 
 
