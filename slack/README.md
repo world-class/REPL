@@ -7,13 +7,14 @@
 * [Slack app integrations](#slack-app-integrations)
     * [Calendar Linker Bot](#calendar-linker-bot)
     * [Deadline Manager Bot](#deadline-manager-bot)
+    * [GreetBot](#greetbot)
     * [Resource Locator Bot](#resource-locator-bot)
 
 <!-- vim-markdown-toc -->
 
 ## Slack app integrations
 ### Calendar Linker Bot
-Access it on Slack by typing `/calendar @username`. This app currently displays the following information:
+Access it on Slack by typing `/cal @username`. This app currently displays the following information:
 ```
 Hey {{username}}, here's a UoL calendar for you :simple_smile:.
 
@@ -24,12 +25,40 @@ Hey {{username}}, here's a UoL calendar for you :simple_smile:.
 ```
 
 ### Deadline Manager Bot
-This bot will automatically post events from the same calendar used by **Calendar Linker Bot** 24 hours before they occur to the `#general` channel. The current formatting is as follow:
+This bot will automatically post events from the same calendar used by **Calendar Linker Bot** on the day and time they occur to the `#general` channel. The current formatting is as follow:
 ```
 :newspaper: *{{summary}}*
 :timer_clock: `{{start_dateTime_pretty}}`
 :speech_balloon: *Additional details*
 >>> {{description}}
+```
+
+### GreetBot
+[GreetBot](https://greet.bot/) welcomes new students joining the workspace to guide them on their journey from the very beginning by pointing them to this repository and other useful resources. Right now, the custom message sent by the bot is as follow:
+```
+Hey @new_user_name! Welcome aboard.
+
+To help you get on your way, please be aware there is a GitHub repository where you'll find plenty of curated resources to succeed in this degree. You'll find it here: https://github.com/world-class/REPL
+
+:heavy_check_mark: While you're there, don't forget to :star: star the repository if you find it useful, it's always appreciated :wink:.
+
+Also, know that at any point in time, you can type the following Slack command *literally* and it will display a list of resources for your own enjoyment:
+`/resources`
+
+:exclamation: Just remember this is something that will appear publicly and everybody will know who sent it, so if that's only for your own reference, you can send yourself a direct message instead.
+
+You can also point someone else to those resources by mentioning them in a channel like so:
+`/resources @username`
+
+The generated message when typing `/resources` will be updated frequently and should come in handy more than once.
+
+If you only want to see or share a :calendar: Google Calendar to keep up with events related to UoL, you can type the following with or without mentioning a user (as with the `/resources` command, you are identified by your ID so Slack doesn't become a giant spamming machine):
+`/cal`
+`/cal @username`
+
+I hope you'll have a great time here, but please take some time to familiarize yourself with all the basic stuff before asking what has been asked over and over again: you can search on Slack and visit the above resources whenever you want. Succeeding as a CS student has a lot to do with being able to find answers on your own :bulb:.
+
+On that note, be well and again, welcome home :slightly_smiling_face:!
 ```
 
 ### Resource Locator Bot
