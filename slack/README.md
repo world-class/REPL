@@ -37,11 +37,15 @@ This bot will automatically post events from the same calendar used by **Calenda
 [GreetBot](https://greet.bot/) welcomes new students joining the workspace to guide them on their journey from the very beginning by pointing them to this repository and other useful resources. Right now, the custom message sent by the bot is as follow:
 ```
 *TL;DR*
-- Whenever appropriate, please use *threads* instead of posting to the channel.
+- *Reply using threads* to keep things neat instead of posting to the channel.
+- Please do your own research (Slack, search engine, etc.) *before asking a question* that has been answered many times. For a start, make sure you have read all the documents you will find on that page: https://github.com/world-class/REPL#documents-and-resources-provided-publicly-by-the-university-of-london
+- Don't forget the *_Search_ feature* available on Slack: You can search for specific keywords, for messages from a specific user (*from:@username*), in different channels, by files, within certain dates, etc. More details are available here: https://slack.com/help/articles/202528808-search-in-slack
+- *Post in the relevant channels*. For example, discrete maths questions in #cm1020-discrete-math and use #april2019batch or #october2019batch for cohort specific discussion.
+- *Make sure a channel doesn't already exist* before creating another one with the same purpose. If your are going to invite only a limited number of students on a topic that doesn't concern necessarily everyone or if you need to collaborate in a *private group work*, you can do so by creating a *private channel* instead of a public one.
 - Send yourself a direct message by typing `/resources` to display a ton of useful resources.
 - Send yourself a direct message by typing `/cal` to display links to a Google Calendar to see events related to this degree.
-- Please do your own research (Slack, search engine, etc.) before asking a question that has been answered many times. For a start, make sure you have read all the documents you will find on that page: https://github.com/world-class/REPL#documents-and-resources-provided-publicly-by-the-university-of-london
-- Find a list of curated resources for this degree here: https://github.com/world-class/REPL
+- Find a curated list of course related resources here: https://github.com/world-class/REPL
+- Remember to check the *pinned messages* in each channel: you'll find relevant information. More on how "pins" work here: https://slack.com/help/articles/205239997
 
 ----------
 
