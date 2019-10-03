@@ -203,6 +203,7 @@ More software options for video conferencing on [this page](/software).
 - [Podcasts](podcasts/README.md)
 - [Websites to visit](websites/README.md)
 - [YouTube videos](youtube/README.md)
+- On Slack, you can type `/resources` or `/cal` in any channel to send yourself a message with useful information. The former slash command will list many resources you might find indispensable to succeed in this degree while the latter will simply output the links to have access to the Google Calendar set up for this programme.
 
 
 # Resources for later
@@ -216,6 +217,7 @@ More software options for video conferencing on [this page](/software).
 - Arjun Muralidharan ([@arjunwritescode](https://github.com/arjunwritescode))
 - Blair Currey ([@BlairCurrey](https://github.com/BlairCurrey))
 - Chris Castelo ([@ChrisCastelo](https://github.com/ChrisCastelo))
+- Danny Callaghan ([@dannycallaghan](https://github.com/dannycallaghan))
 - David Moreno ([@damog](https://github.com/damog))
 - Diego Cabrejas ([@dcabrejas](https://github.com/dcabrejas))
 - Felipe Balbi ([@felipebalbi](https://github.com/felipebalbi))
