@@ -11,10 +11,7 @@
 
 ---
 
-# General kinks
-## Oversized UoL logo in emails
-Emails are hard to read as the giant UoL logo at the bottom of the emails makes it so that the content is improperly resized on smaller screens. Because the image included has a dimension of `1200x132` pixels, this is a problem that affects potentially all mobile phone devices, tablets and a vast majority of laptops and desktop computers which do not have HD resolution.
-- An easy fix could be to scale down the image to be `256x28` pixels so that it won't distort the content even on the smallest mobile phone screens in portrait orientation. One such resolution has been used before in other emails sent from the Coursera platform and **[can be accessed here](https://coursera-course-photos.s3.amazonaws.com/2c/1a65c0d14b11e8ab7e8df5c296128a/logo_uol_2x.jpg)** for future reference.
+
 
 # Kinks found in Level 4 modules
 - [How Computers Work](../kinks/level4/how_computers_work/README.md)
