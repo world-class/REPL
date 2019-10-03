@@ -38,6 +38,7 @@
     * [Manage your privacy](#manage-your-privacy)
 * [Open source](#open-source)
 * [Programming](#programming)
+    * [App monitoring](#app-monitoring)
     * [Basics](#basics)
     * [Coding challenges](#coding-challenges)
     * [Games](#games)
@@ -206,6 +207,11 @@
 
 
 # Programming
+## App monitoring
+- :heavy_dollar_sign: [Datadog](https://www.datadoghq.com/) - *"Modern monitoring & analytics. See inside any stack, any app, at any scale, anywhere."*
+- :heavy_dollar_sign: [Dynatrace](https://www.dynatrace.com/solutions/application-monitoring/) - *"Dynatrace application monitoring provides all performance metrics in real time and detects and diagnoses problems automatically."*
+- [Uptime Robot](https://uptimerobot.com/) - *"Downtime Happens. Get Notified! 50 Monitors, Checked Every 5 Minutes, Totally Free!"*
+
 ## Basics
 - [SoloLearn](https://www.sololearn.com/) - *"Learn on the web and on the go. Available on all major devices and platforms. Always pick up where you left off. More simple and enjoyable than ever!"*
 
