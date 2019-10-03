@@ -3,8 +3,6 @@
 # Table of contents
 <!-- vim-markdown-toc GFM -->
 
-* [General kinks](#general-kinks)
-    * [Oversized UoL logo in emails](#oversized-uol-logo-in-emails)
 * [Kinks found in Level 4 modules](#kinks-found-in-level-4-modules)
 
 <!-- vim-markdown-toc -->
