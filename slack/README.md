@@ -39,7 +39,7 @@ Hey @new_user_name! Welcome aboard. Here are the key points you will want to kno
 
 - *Reply using threads* to keep things neat instead of posting to the channel. :thumbsup:
 - Make sure to read the *Programme Regulations* and the *Guidelines for Examinations*: https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf and https://london.ac.uk/sites/default/files/examiners/guidelines-for-examinations-2018-19.pdf
-- *Post in the relevant channels*. For example, discrete maths questions should go in #cm1020-discrete-math. Use #april2019batch or #october2019batch for cohort specific discussion instead of #general.
+- *Post in the relevant channels*. For example, discrete maths questions should go in #cm1020-discrete-math. Use #askpreviouscohorts or #october2019batch for cohort specific discussion instead of #general.
 - *Make sure a channel doesn't already exist* before creating another one with the same purpose. If you are going to invite only a limited number of students on a topic that doesn't concern necessarily everyone or if you need to collaborate in a *private group work*, you can do so by creating a *private channel* instead of a public one.
 - Find a curated list of course related resources here: https://github.com/world-class/REPL
 - Remember to check the *pinned messages* in each channel: you'll find relevant information. More on how "pins" work here: https://slack.com/help/articles/205239997
@@ -63,10 +63,13 @@ Dear {{username}}, you might be interested in checking out the following *resour
 • <https://github.com/world-class/REPL/tree/master/modules|Info specific for each module>
 • Don't forget to check out the right *channels on Slack* that will be best suited to help you!
 → *Modules Level 4*: #cm1005-intro-prog-i, #cm1010-intro-prog-ii, #cm1015-numerical-math, #cm1015-sample-paper, #cm1020-discrete-math, #cm1025-fundamental-cs, #cm1030-hcw, #cm1035-algos-data-i, #cm1040-web-dev
-• Other _main_ Slack channels to find *help* and *resources*: #bookworm, #bugs, #channel-discovery, #cs-professionals, #free-stuff, #general, #linux, #live-sessions, #maths, #newbies, #notes, #open_source_collaborations, #random, #resources, #reviewexchange, #studytips_and_tools, #vent
+→ Other _main_ Slack channels to find *help* and *resources*: #askpreviouscohorts, #bookworm, #bugs, #channel-discovery, #cs-professionals, #entrepreneurs, #free-stuff, #functional, #general, #linux, #live-sessions, #maths, #newbies, #notes, #official-communications, #open_source_collaborations, #pair-programming, #podcasts, #resources, #reviewexchange, #studytips_and_tools, #teachyourselfcs, #vent
+→ All channels starting with `#asg` for *Accountable Study Groups*
+→ Specialization channels: #data_science, #gamedev, #iot, #mlai, #ux, #webdev
+→ Fun channels: #introductions, #journal-club, #memes, #music, #photography, #random, #uol_game-jam
 • *UoL calendar* with *week number*, *deadlines*, etc. (*without* <https://calendar.google.com/calendar/embed?src=pmaaof55arb3aku90d2n5bhasg%40group.calendar.google.com|Google account logged in>, *with* <https://calendar.google.com/calendar/r?cid=cG1hYW9mNTVhcmIzYWt1OTBkMm41Ymhhc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ|Google account logged in>)
 • *Online courses* (<https://github.com/world-class/REPL/blob/master/online_courses/free/README.md|free> and <https://github.com/world-class/REPL/blob/master/online_courses/paid/README.md|paid>) to supplement your learning
-• <https://github.com/world-class/REPL/blob/master/books/README.md|Recommended books>, <https://github.com/world-class/REPL/blob/master/podcasts/README.md|podcasts>, <https://github.com/world-class/REPL/blob/master/software/README.md|software>, <https://github.com/world-class/REPL/blob/master/websites/README.md|websites>, <https://github.com/world-class/REPL/blob/master/youtube/README.md|YouTube videos>
+• <https://github.com/world-class/REPL/blob/master/books/README.md|Books>, <https://github.com/world-class/REPL/blob/master/podcasts/README.md|podcasts>, <https://github.com/world-class/REPL/blob/master/software/README.md|software>, <https://github.com/world-class/REPL/blob/master/websites/README.md|websites>, <https://github.com/world-class/REPL/blob/master/youtube/README.md|YouTube videos>
 • <https://github.com/world-class/REPL/blob/master/after_uol/README.md|Next steps after this BSc>
 • *New to Slack*? See <https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts|available shortcuts>, <https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages|how to format your messages>, <https://slack.com/slack-tips/share-code-snippets|how to share snippets of code> (JavaScript, HTML, CSS, Python, C++, etc.) and the <https://get.slack.help/hc/en-us|Slack Help Center> for anything else
 
