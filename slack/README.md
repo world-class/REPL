@@ -24,6 +24,7 @@ Don't forget to check out the right channels on Slack that will be best suited t
 #### Fun channels
 | Name              | Purpose                                               |
 | ----------------- | ----------------------------------------------------- |
+| `#hackathons`     | Organise coding challenges                            |
 | `#introductions`  | Introduce yourself to your new course mates           |
 | `#journal-club`   | Read and discuss research papers                      |
 | `#memes`          | Share all the dank memes                              |
@@ -49,7 +50,7 @@ Don't forget to check out the right channels on Slack that will be best suited t
 | `#maths`                      | To share interesting math problems                                                                    |
 | `#newbies`                    | Discussion about programming fundamentals, for programming newbies                                                                     |
 | `#notes`                      | Sharing different notes not only from uni or links to other uni open lectures                                                               |
-| `#official-communications`    | Please post any helpful conversations with SRMs or communication from UoL here. Use threads and try to keep things searchable. (Add textual descriptions)A fair warning: even though the name says official. Nothing posted here is binding in any way.                                                                 |
+| `#official-communications`    | Please post any helpful conversations with SRMs or communication from UoL here. Use threads and try to keep things searchable. (Add textual descriptions). A fair warning: even though the name says official. Nothing posted here is binding in any way.                                                                 |
 | `#open_source_collaborations` | For UoL students to collaborate together on projects they may want to use for portfolios or building future businesses                                                                  |
 | `#pair-programming`           | Find partners to work with on programming problems                                                                    |
 | `#podcasts`                   | Listen your way to success while being entertained                                                                 |
