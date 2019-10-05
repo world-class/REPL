@@ -201,9 +201,9 @@ More software options for video conferencing on [this page](/software).
 - [Kinks to be aware of in the different modules](kinks/README.md)
 - Online courses: [free resources](online_courses/free/README.md), [paid resources](online_courses/paid/README.md)
 - [Podcasts](podcasts/README.md)
+- [Slack resources](slack/README.md) (channels to join, important information available, help with using Slack, etc.)
 - [Websites to visit](websites/README.md)
 - [YouTube videos](youtube/README.md)
-- On Slack, you can type `/resources` or `/cal` in any channel to send yourself a message with useful information. The former slash command will list many resources you might find indispensable to succeed in this degree while the latter will simply output the links to have access to the Google Calendar set up for this programme.
 
 
 # Resources for later
