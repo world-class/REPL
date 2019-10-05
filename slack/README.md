@@ -22,40 +22,42 @@
 Don't forget to check out the right channels on Slack that will be best suited to help you!
 
 #### Fun channels
-<!-- Add missing descriptions -->
-- `#introductions`
-- `#journal-club`
-- `#memes`
-- `#music`
-- `#photography`
-- `#random`
-- `#uol_game-jam`
+| Name              | Purpose                                               |
+| ----------------- | ----------------------------------------------------- |
+| `#introductions`  | Introduce yourself to your new course mates           |
+| `#journal-club`   | Read and discuss research papers                      |
+| `#memes`          | Share all the dank memes                              |
+| `#music`          | Off topic discussion about music                      |
+| `#photography`    | Share your favorite photos and view those from others |
+| `#random`         | A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels                                                                    |
+| `#uol_game-jam`   | Group for organising game jams                        |
 
 #### Help and resources
-<!-- Add missing descriptions -->
-- `#askpreviouscohorts`
-- `#bookworm`
-- `#bugs`
-- `#channel-discovery`
-- `#cs-professionals`
-- `#entrepreneurs`
-- `#free-stuff`
-- `#functional`
-- `#general`
-- `#linux`
-- `#live-sessions`
-- `#maths`
-- `#newbies`
-- `#notes`
-- `#official-communications`
-- `#open_source_collaborations`
-- `#pair-programming`
-- `#podcasts`
-- `#resources`
-- `#reviewexchange`
-- `#studytips_and_tools`
-- `#teachyourselfcs`
-- `#vent`
+| Name                          | Purpose                                   |
+| ----------------------------- | ----------------------------------------- |
+| `#askpreviouscohorts`         | Asking previous cohorts questions related to the programme                                                                   |
+| `#bookworm`                   | What the great minds of this world are reading                                                                     |
+| `#bugs`                       | When you see a bug, report it here so we can all collectively flag it and speed up the process of cleaning up the course content                                                                     |
+| `#channel-discovery`          | Find great new channels related to our degree                                                                      |
+| `#cs-professionals`           | Gathering for professionals from computer science & engineering industry                                                                    |
+| `#entrepreneurs`              | A channel for entrepreneurs or wannabe entrepreneurs to collaborate and help each other                                             |
+| `#free-stuff`                 | Free stuff to share with others. How have you used your student card etc?                                                                   |
+| `#functional`                 | Since functional programming is becoming kind of a mandatory skill in many companies and since it is not easy to be good at it, maybe we want to share thoughts, links, ideas, know-how, blogs, presentations, designs, patterns etc.                                                                        |
+| `#general`                    | This channel is for workspace-wide communication and announcements. All members are in this channel.                             |
+| `#linux`                      | A channel for Linux related discussions                                                                 |
+| `#live-sessions`              | Study in live sessions with your peers, making the most of our collective intelligence                                                     |
+| `#maths`                      | To share interesting math problems                                                                    |
+| `#newbies`                    | Discussion about programming fundamentals, for programming newbies                                                                     |
+| `#notes`                      | Sharing different notes not only from uni or links to other uni open lectures                                                               |
+| `#official-communications`    | Please post any helpful conversations with SRMs or communication from UoL here. Use threads and try to keep things searchable. (Add textual descriptions)A fair warning: even though the name says official. Nothing posted here is binding in any way.                                                                 |
+| `#open_source_collaborations` | For UoL students to collaborate together on projects they may want to use for portfolios or building future businesses                                                                  |
+| `#pair-programming`           | Find partners to work with on programming problems                                                                    |
+| `#podcasts`                   | Listen your way to success while being entertained                                                                 |
+| `#resources`                  | Post useful learning resources here                                                                        |
+| `#reviewexchange`             | For those that need a peer review to review each other                                                                       |
+| `#studytips_and_tools`        | Share study tips, methods, apps that might help others                                                                      |
+| `#teachyourselfcs`            | Discussions related to the roadmap provided by teachyourselfcs.com, Find Resources on https://teachyourselfcs-uol.btofficiel.now.sh                                                                          |
+| `#vent`                       | We know that sometimes, you need to let off steam.  Instead of cluttering other channels, it makes more sense to have a dedicated channel to just venting                                                                     |
 
 All channels starting with `#asg` for **Accountable Study Groups**.
 
