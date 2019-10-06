@@ -167,7 +167,8 @@
 
 ## Trigonometry
 - [How To Learn Trigonometry Intuitively](https://betterexplained.com/articles/intuitive-trigonometry/) - Better Explained
-- [The trigonometry of non-right triangles](http://xaktly.com/MathNonRightTrig.html) - Law of sine with ambiguous cases, law of cosine.
+- [The trigonometry of non-right triangles](http://www.xaktly.com/XMathMain.html) -
+Angle measurement, trigonometry basics, non-right triangle trig, inverse trig functions, analytic trigonometry, trigonometric equations video, polar coordinates, complex plane, rock climbing, conic sections.
 
 # Online services
 ## Disposable/temporary emails
