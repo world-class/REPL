@@ -91,13 +91,15 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 ## Slack app integrations
 ### Deadline Manager Bot
-This bot will automatically post events from the same calendar used by **Calendar Linker Bot** on the day and time they occur to the `#general` channel. The current formatting is as follow:
+This bot will automatically post events on the day and time they occur to the `#general` channel. The current formatting is as follow:
 ```
 :newspaper: *{{summary}}*
 :timer_clock: `{{start_dateTime_pretty}}`
 :speech_balloon: *Additional details*
 >>> {{description}}
 ```
+
+The exact same formatting is currently being used for module-specific bots too and each of them rely on zapier.com to integrate with Slack, at least for now.
 
 ### GreetBot
 [GreetBot](https://greet.bot/) welcomes new students joining the workspace to guide them on their journey from the very beginning by pointing them to this repository and other useful resources. Right now, the custom message sent by the bot is as follow:
