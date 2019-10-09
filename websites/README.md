@@ -13,6 +13,7 @@
 * [Computer science](#computer-science)
     * [Algorithms](#algorithms)
     * [Articles](#articles)
+    * [Courses and videos](#courses-and-videos)
     * [Free (e)books](#free-ebooks)
 * [Data science](#data-science)
     * [Jupyter](#jupyter)
@@ -45,6 +46,7 @@
     * [Games](#games)
         * [CSS](#css)
         * [JavaScript](#javascript)
+        * [Projects and ideas](#projects-and-ideas)
         * [Python](#python)
         * [Service workers](#service-workers)
     * [Git / GitHub](#git--github)
@@ -97,6 +99,9 @@
 ## Articles
 - [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+
+## Courses and videos
+- [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 
 ## Free (e)books
 - [IT eBooks](http://it-ebooks.info/)
@@ -246,6 +251,9 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 ### JavaScript
 - [CheckiO](https://checkio.org/) - *"Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using JavaScript."*
 - [Screeps](https://screeps.com/) - *"It’s an open-source sandbox MMO RTS game for programmers, wherein the core mechanic is programming your units’ AI. You control your colony by writing JavaScript which operate 24/7 in the single persistent real-time world filled by other players on par with you."*
+
+### Projects and ideas
+- [Build your own X](https://github.com/danistefanovic/build-your-own-x) - *"Build your own (insert technology here)"*
 
 ### Python
 - [CheckiO](https://checkio.org/) - *"Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python."*
