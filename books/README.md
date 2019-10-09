@@ -1,6 +1,8 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Books
+- [Free Programming Books (GitHub awesome list)](https://ebookfoundation.github.io/free-programming-books/) - *"[...] administered by the Free Ebook Foundation, a not-for-profit organization devoted to promoting the creation, distribution, archiving and sustainability of free ebooks."*
+
 The following list goes beyond the essential/required reading that is part of this degree. The essential reading for each module, if available, can be found by visiting the relevant page in this repository from the [list of modules](https://github.com/world-class/REPL/tree/master/modules).
 
 # Table of contents
@@ -38,7 +40,7 @@ The following list goes beyond the essential/required reading that is part of th
 - [Linear Algebra Done Right](http://linear.axler.net/LinearAbridged.pdf), by Sheldon Axler - *"The text focuses on the central goal of linear algebra: understanding the structure of linear operators on finite-dimensional vector spaces."*
 
 ### Number theory and algebra
-- [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/ntb-v2.pdf), by Victor Shoup - *" My goal in writing this bookwas to provide an introduction to number theory and algebra, with an emphasison algorithms and applications, that would be accessible to a broad audience.  Inparticular, I wanted to write a book that would be appropriate for typical students incomputer science or mathematics who have some amount of general mathematicalexperience, but without presuming too much specific mathematicalknowledge."*
+- [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/ntb-v2.pdf), by Victor Shoup - *" My goal in writing this bookwas to provide an introduction to number theory and algebra, with an emphasis on algorithms and applications, that would be accessible to a broad audience. In particular, I wanted to write a book that would be appropriate for typical students in computer science or mathematics who have some amount of general mathematical experience, but without presuming too much specific mathematical knowledge."*
 
 ## Programming
 ### Assembly
