@@ -11,6 +11,7 @@
     * [All the essential readings](#all-the-essential-readings)
     * [Examples of past exams](#examples-of-past-exams)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
+    * [Notes](#notes)
     * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
     * [Reference books](#reference-books)
     * [Syllabus](#syllabus)
@@ -107,6 +108,9 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Kinks to be aware of
 - [List of reported errors and bugs with the module](../../../kinks/level4/numerical_mathematics/).
+
+## Notes
+- See shared notes [in this section](../../../notes/numerical_mathematics).
 
 ## On REPL (see relevant sections)
 - [YouTube](../../../youtube/)

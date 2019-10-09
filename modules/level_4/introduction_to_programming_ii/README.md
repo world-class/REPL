@@ -8,6 +8,7 @@
 * [Assessment](#assessment)
 * [Resources](#resources)
     * [Essential reading](#essential-reading)
+    * [Notes](#notes)
     * [Syllabus](#syllabus)
 
 <!-- vim-markdown-toc -->
@@ -44,6 +45,9 @@ _"There is no required textbook for this course. Listed below are some books to 
 - **Getting Started with p5.js Lauren McCarthy, Casey Reas, and Ben Fry**
 - **The Pragmatic Programmer – Your Journey to Mastery, by David Thomas, Andrew Hunt**
 - **Coders at Work: Reflections on the Craft of Programming, by Peter Seibel**
+
+## Notes
+- See shared notes [in this section](../../../notes/introduction_to_programming_ii).
 
 ## Syllabus
 - [Syllabus PDF](./resources/Syllabus_Introduction_to_Programming_2_CM1010.pdf)

@@ -8,6 +8,7 @@
 * [Assessment](#assessment)
 * [Resources](#resources)
     * [Essential reading](#essential-reading)
+    * [Notes](#notes)
     * [On REPL](#on-repl)
     * [Syllabus](#syllabus)
 
@@ -60,6 +61,9 @@ _The specific pages for the reading activities will be given in the platform, an
 _In addition to the text book, there are additional reading activities written by the course author, some of which involve coding exercises._
 
 _There will also be discussion prompts asking you to do some independent research using online sources."_
+
+## Notes
+- See shared notes [in this section](../../../notes/algorithms_and_data_structures_i).
 
 ## On REPL
 - [YouTube](../../../youtube/): See section on algorithms.

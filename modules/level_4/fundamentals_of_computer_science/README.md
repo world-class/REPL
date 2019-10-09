@@ -8,8 +8,9 @@
 * [Assessment](#assessment)
 * [Resources](#resources)
     * [Essential reading](#essential-reading)
-    * [Weekly reading list](#weekly-reading-list)
+    * [Notes](#notes)
     * [Syllabus](#syllabus)
+    * [Weekly reading list](#weekly-reading-list)
 
 <!-- vim-markdown-toc -->
 
@@ -53,8 +54,11 @@ _"Specific essential readings for each week from the following list are included
 - Merlin Forbes (2012). A Theoretical Introduction to Turing Machine, 1st. Learning Press
 - Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
 
-## Weekly reading list
-- [Weekly reading list PDF](./resources/FCS_reading_list.pdf)
+## Notes
+- See shared notes [in this section](../../../notes/fundamentals_of_computer_science).
 
 ## Syllabus
 - [Syllabus PDF](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)
+
+## Weekly reading list
+- [Weekly reading list PDF](./resources/FCS_reading_list.pdf)

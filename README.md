@@ -11,6 +11,7 @@
     * [Level 6 (year 3+)](#level-6-year-3)
         * [Specialisms](#specialisms)
         * [Final project](#final-project)
+* [Notes (students, professors, academic background)](#notes-students-professors-academic-background)
 * [Calendar due dates and events](#calendar-due-dates-and-events)
 * [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
     * [Documents](#documents)
@@ -141,6 +142,10 @@ A final project must also be completed to graduate. If a student is
 opting for a specialism, they are strongly encouraged to select a
 relevant topic for the final project.
 - [Final Project](modules/level_6/final_project) (CM3070-01)
+
+
+# Notes (students, professors, academic background)
+- Find out more about shared notes in [this location](https://github.com/world-class/REPL/tree/master/notes).
 
 
 # Calendar due dates and events

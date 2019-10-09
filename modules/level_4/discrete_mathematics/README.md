@@ -10,6 +10,7 @@
     * [Additional reading](#additional-reading)
     * [Essential reading](#essential-reading)
     * [Mid-term question sheet](#mid-term-question-sheet)
+    * [Notes](#notes)
     * [Syllabus](#syllabus)
     * [Videos](#videos)
     * [Weekly readings](#weekly-readings)
@@ -58,6 +59,9 @@ _This course does not require you to read the whole book, you will be given spec
 
 ## Mid-term question sheet
 - [Mid-term question sheet PDF](./resources/MidTermQuestionSheet.pdf)
+
+## Notes
+- See shared notes [in this section](../../../notes/discrete_mathematics).
 
 ## Syllabus
 - [Syllabus Discrete Mathematics CM1020 PDF](./resources/Syllabus_Discrete_Mathematics_CM1020.pdf)

@@ -12,6 +12,7 @@
         * [p5.js - JavaScript library](#p5js---javascript-library)
         * [W3 Schools](#w3-schools)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
+    * [Notes](#notes)
     * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
     * [Sleuth assignments](#sleuth-assignments)
         * [Tips & Tricks](#tips--tricks)
@@ -65,6 +66,9 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ## Kinks to be aware of
 - [List of reported errors and bugs with the module](../../../kinks/level4/introduction_to_programming_i/).
+
+## Notes
+- See shared notes [in this section](../../../notes/introduction_to_programming_i).
 
 ## On REPL (see relevant sections)
 - [Podcasts](../../../podcasts/)
