@@ -7,8 +7,12 @@
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
+    * [Additional reading](#additional-reading)
     * [Essential reading](#essential-reading)
+    * [Mid-term question sheet](#mid-term-question-sheet)
+    * [Syllabus](#syllabus)
     * [Videos](#videos)
+    * [Weekly readings](#weekly-readings)
 
 <!-- vim-markdown-toc -->
 
@@ -41,6 +45,9 @@ experimentation, reasoning and generalisation.
 One two hour unseen written examination and coursework (Type I)
 
 # Resources
+## Additional reading
+- [A Guide to Writing Proofs](./resources/A_Guide_to_Writing_Proofs.pdf)
+
 ## Essential reading
 _"The essentials readings for this course will come from the following text book, which is  available in the University of London digital library:_
 
@@ -49,5 +56,14 @@ _"The essentials readings for this course will come from the following text book
 
 _This course does not require you to read the whole book, you will be given specific  readings for each topic from these texts are listed with direct links on the Readings page  for each topic. You will also be asked to do some independent research from online sources or using the University of London digital library."_
 
+## Mid-term question sheet
+- [Mid-term question sheet PDF](./resources/MidTermQuestionSheet.pdf)
+
+## Syllabus
+- [Syllabus Discrete Mathematics CM1020 PDF](./resources/Syllabus_Discrete_Mathematics_CM1020.pdf)
+
 ## Videos
 - [YouTube](https://github.com/world-class/REPL/tree/master/youtube#discrete-mathematics) (on REPL)
+
+## Weekly readings
+- [Reading by weeks and topics PDF](./resources/DM_Reading.pdf)

@@ -8,6 +8,8 @@
 * [Assessment](#assessment)
 * [Resources](#resources)
     * [Essential reading](#essential-reading)
+    * [Weekly reading list](#weekly-reading-list)
+    * [Syllabus](#syllabus)
 
 <!-- vim-markdown-toc -->
 
@@ -50,3 +52,9 @@ _"Specific essential readings for each week from the following list are included
 - Dexter Kozen (2007). Automata and Computability, 1st. Springer
 - Merlin Forbes (2012). A Theoretical Introduction to Turing Machine, 1st. Learning Press
 - Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
+
+## Weekly reading list
+- [Weekly reading list PDF](./resources/FCS_reading_list.pdf)
+
+## Syllabus
+- [Syllabus PDF](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)

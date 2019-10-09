@@ -9,6 +9,7 @@
 * [Resources](#resources)
     * [Essential reading](#essential-reading)
     * [On REPL](#on-repl)
+    * [Syllabus](#syllabus)
 
 <!-- vim-markdown-toc -->
 
@@ -63,3 +64,6 @@ _There will also be discussion prompts asking you to do some independent researc
 ## On REPL
 - [YouTube](../../../youtube/): See section on algorithms.
 - [Websites](../../../websites/): See section on algorithms.
+
+## Syllabus
+- [Syllabus PDF](./resources/Syllabus_Algorithms_and_Data_Structures_1_CM1035.pdf)

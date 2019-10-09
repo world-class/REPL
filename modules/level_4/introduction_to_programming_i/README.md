@@ -16,6 +16,7 @@
     * [Sleuth assignments](#sleuth-assignments)
         * [Tips & Tricks](#tips--tricks)
         * [Utils and aids (student created)](#utils-and-aids-student-created)
+    * [Syllabus](#syllabus)
     * [Text editor](#text-editor)
 
 <!-- vim-markdown-toc -->
@@ -79,6 +80,9 @@ _"Specific readings for each topic are listed with direct links to free online r
 ### Utils and aids (student created)
 - JavaScript library with visual aids for solving case 202 stage 4 [utils4sleuth.js](https://gist.github.com/amilos/beb1eee1cbd334f1e9abca8c9772c725).
 - Python program to create directories for Sleuth cases [Make-Sleuth-Folders.py](https://github.com/BlairCurrey/Make-Sleuth-Folders)
+
+## Syllabus
+- [Syllabus PDF](./resources/ITP1-Syllabus.pdf)
 
 ## Text editor
 The recommended text editor for this module is [Brackets](http://brackets.io/). More options available on the [free software page](../../../software/).

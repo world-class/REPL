@@ -13,6 +13,7 @@
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [On REPL (see relevant sections)](#on-repl-see-relevant-sections)
     * [Reference books](#reference-books)
+    * [Syllabus](#syllabus)
     * [Useful formulae](#useful-formulae)
         * [On summation](#on-summation)
 
@@ -117,6 +118,9 @@ One two hour unseen written examination and coursework (Type I)
 - [Precalculus with Limits](https://www.dawsonera.com/abstract/9781337516853), Fourth Edition, by Ron Larson.
 - A Level Physics - Required reading provided on Coursera platform
 - Number theory for computing - Required reading provided on Coursera platform.
+
+## Syllabus
+- [Syllabus PDF](./resources/NM-Syllabus.pdf)
 
 ## Useful formulae
 ### On summation
