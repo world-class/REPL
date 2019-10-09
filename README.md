@@ -152,16 +152,17 @@ relevant topic for the final project.
 
 ## Documents
 - [Code of conduct](https://london.ac.uk/about-us/how-university-run/policies/vle-code-conduct)
-- [Data protection policy](https://london.ac.uk/sites/default/files/governance/data-protection-policy.pdf)
-- [Events Due Diligence Privacy Notice](https://london.ac.uk/sites/default/files/governance/Events-Due-Diligence-Privacy-Notice.pdf)
-- [GDPR Rights guide - students](https://london.ac.uk/sites/default/files/governance/gdpr-rights-guide-students.pdf)
-- [Guidelines for Examinations 2018–2019](https://london.ac.uk/sites/default/files/examiners/guidelines-for-examinations-2018-19.pdf)
-- [Programme Regulations 2019–2020](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf)
-- [Programme specification, Computer Science 2019-2020](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2019-2020.pdf)
-- [Prospectus, Computer Science 2019-2020](https://london.ac.uk/sites/default/files/prospectuses/computer-science-prospectus-2019-20.pdf)
-- [Quick Start Guide - The Online Library](https://onlinelibrary.london.ac.uk/sites/default/files/files/quick-start-guide/academic-search-quick-start.pdf)
-- [Student Terms and Conditions 2019-2020](https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf)
-- [Student privacy notice](https://london.ac.uk/sites/default/files/governance/Student-Privacy-Notice-UoL-April-2018-Final.pdf)
+- [Data protection policy](./uol_documents/data_protection_policy.pdf)
+- [Events Due Diligence Privacy Notice](./uol_documents/events_due_diligence_privacy_notice.pdf)
+- [GDPR Rights guide - students](./uol_documents/gdpr_rights_guide_students.pdf)
+- [Guidelines for Examinations 2018–2019](./uol_documents/guidelines_for_examinations_2018_19.pdf)
+- [Programme Regulations 2019–2020](./uol_documents/progregs_computer_science_2019_2020.pdf)
+- [Programme specification, Computer Science 2019-2020](./uol_documents/progspec_computer_science_2019_2020.pdf)
+- [Prospectus, Computer Science 2019-2020](./uol_documents/computer_science_prospectus_2019_20.pdf)
+- [Quick Start Guide - The Online Library](./uol_documents/online_library_academic_search_quick_start.pdf)
+- [Student Terms and Conditions 2019-2020](./uol_documents/student_terms_and_conditions.pdf)
+- [Student privacy notice](./uol_documents/student_privacy_notice_uol_april_2018_final.pdf)
+- [Welcome webinar Q&A, September 24, 2019](./uol_documents/welcome_webinar_questions_and_answers_september_24_2019.pdf)
 
 ## Webpages of interest
 - Exams
