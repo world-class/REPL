@@ -13,6 +13,9 @@ The following list goes beyond the essential/required reading that is part of th
     * [Linear algebra](#linear-algebra)
     * [Number theory and algebra](#number-theory-and-algebra)
 * [Programming](#programming)
+    * [Assembly](#assembly)
+    * [Games](#games)
+    * [General](#general)
 * [UX/UI design](#uxui-design)
 
 <!-- vim-markdown-toc -->
@@ -38,7 +41,15 @@ The following list goes beyond the essential/required reading that is part of th
 - [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/ntb-v2.pdf), by Victor Shoup - *" My goal in writing this bookwas to provide an introduction to number theory and algebra, with an emphasison algorithms and applications, that would be accessible to a broad audience.  Inparticular, I wanted to write a book that would be appropriate for typical students incomputer science or mathematics who have some amount of general mathematicalexperience, but without presuming too much specific mathematicalknowledge."*
 
 ## Programming
+### Assembly
+- [Assembly Language for x86 Processors, Global Edition](http://catalogue.pearsoned.co.uk/catalog/academic/product?ISBN=9781292061214) - *"Assembly Language for x86 Processors, 7e is suitable for undergraduate courses in assembly language programming and introductory courses in computer systems and computer architecture. Proficiency in one other programming language, preferably Java, C, or C++, is recommended."*
+
+### Games
+- [Game Engine Black Books](http://fabiensanglard.net/gebb/index.html) - *"It is a very deep insight on how id software developed the game engine that run Wolfenstein 3D and it is complete with code fragments with very detailed descriptions, down to the VGA programming and the assembly code that draws the screen during the game. Mindblowing!"* (from David Della Rossa, student in this degree)
+
+### General
 - [Awesome Programming Books](https://github.com/majikarp/awesome-programming-books) - *"A curated list of awesome programming books."*
+
 
 ## UX/UI design
 - [Actionable Gamification](https://yukaichou.com/gamification-book/) - *"Gamification Pioneer Yu-kai Chou takes readers on a journey to learn his sixteen years of obsessive research in creating the Octalysis Framework, and how to apply the framework to create engaging and successful experiences in their product, workplace, marketing, and personal lives."* (from [Amazon](https://www.amazon.com/Actionable-Gamification-Beyond-Points-Leaderboards/dp/1511744049/))
