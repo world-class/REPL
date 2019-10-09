@@ -3,17 +3,13 @@
 # Table of contents
 <!-- vim-markdown-toc GFM -->
 
-* [Professors' notes](#professors-notes)
-* [Students' notes](#students-notes)
+* [External students' notes](#external-students-notes)
     * [Arjun Muralidharan](#arjun-muralidharan)
 
 <!-- vim-markdown-toc -->
 
 ---
 
-# Professors' notes
-- [Lecture Notes, Yale University, Spring 1999, L. Lovász and K. Vesztergombi](./professors_notes/Lecture_notes_Yale_Lovász_Vesztergombi.pdf)
-
-# Students' notes
+# External students' notes
 ## Arjun Muralidharan
 - [Find PDF and TeX files here](https://github.com/arjunwritescode/CM1020/tree/master/Summary)
