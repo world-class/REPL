@@ -7,6 +7,9 @@
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
+    * [Articles](#articles)
+    * [Case studies](#case-studies)
+        * [Music visualizer](#music-visualizer)
     * [Essential reading](#essential-reading)
     * [Notes](#notes)
     * [Syllabus](#syllabus)
@@ -39,6 +42,14 @@ developing code across multiple files and using third-party libraries.
 Coursework only (Type III)
 
 # Resources
+## Articles
+- [Understanding Automatic Semicolon Insertion in JavaScript](http://www.bradoncode.com/blog/2015/08/26/javascript-semi-colon-insertion/)
+- [Your Guide to Semicolons in JavaScript](https://news.codecademy.com/your-guide-to-semicolons-in-javascript/)
+
+## Case studies
+### Music visualizer
+- [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY) - YouTube video - 3Blue1Brown
+
 ## Essential reading
 _"There is no required textbook for this course. Listed below are some books to supplement some of the material covered in this course."_
 
