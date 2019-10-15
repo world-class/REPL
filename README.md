@@ -5,6 +5,8 @@
     * [The Learning Hub for UoL's Online CS Students](#the-learning-hub-for-uols-online-cs-students)
     * [Important note before we go](#important-note-before-we-go)
 * [How to ask for help?](#how-to-ask-for-help)
+    * [Reaching out to tutors and SRMs](#reaching-out-to-tutors-and-srms)
+    * [General advice on how to ask and find answers](#general-advice-on-how-to-ask-and-find-answers)
 * [Modules in the curriculum](#modules-in-the-curriculum)
     * [Level 4 (year 1+)](#level-4-year-1)
     * [Level 5 (year 2+)](#level-5-year-2)
@@ -58,6 +60,16 @@ it. :+1:**
 
 
 # How to ask for help?
+## Reaching out to tutors and SRMs
+Despite being 100% remote, this degree is equipped with a team of tutors and SRMs (_Student Relationship Managers_) that can help you find what you need.
+
+- For module-specific inquiries, you can reach out to your tutors in the appropriate discussion forums on Coursera. Access any module you are enrolled in from the [home page of this degree](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/) on Coursera.
+- For non-academic questions, you can write [in the **Reach out** forum](https://www.coursera.org/learn/london-cs-orientation/discussions) on Coursera.
+- For private matters and other types of inquiries, you can write an email to <BScCS-Support@london.ac.uk> or find an alternative route [in this section](#contacting-each-other), including phone numbers, Student Advice Center, Slack workspace and Discord server.
+
+
+
+## General advice on how to ask and find answers
 Succeeding in this degree has a lot to do with how resourceful you are. This page is meant to be a helpful guidance along the way, but developing a few key skills on your own will become an increasing necessity, including **being able to research online**, **debugging code effectively** and **knowing how to ask questions**.
 
 To get started on that learning path, please refer to the following web pages:
