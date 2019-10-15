@@ -11,6 +11,7 @@
     * [Case studies](#case-studies)
         * [Music visualizer](#music-visualizer)
     * [Essential reading](#essential-reading)
+    * [Getting started with HTML](#getting-started-with-html)
     * [Notes](#notes)
     * [Syllabus](#syllabus)
 
@@ -56,6 +57,11 @@ _"There is no required textbook for this course. Listed below are some books to 
 - **Getting Started with p5.js Lauren McCarthy, Casey Reas, and Ben Fry**
 - **The Pragmatic Programmer – Your Journey to Mastery, by David Thomas, Andrew Hunt**
 - **Coders at Work: Reflections on the Craft of Programming, by Peter Seibel**
+
+## Getting started with HTML
+- [Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- [HTML5 tutorial](https://www.w3schools.com/html/default.asp)
+- [Responsive website basics: code with HTML, CSS, and JavaScript](https://www.coursera.org/learn/website-coding) (Coursera)
 
 ## Notes
 - See shared notes [in this section](../../../notes/introduction_to_programming_ii).
