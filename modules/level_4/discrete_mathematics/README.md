@@ -49,6 +49,7 @@ One two hour unseen written examination and coursework (Type I)
 # Resources
 ## Additional reading
 - [A Guide to Writing Proofs](./resources/A_Guide_to_Writing_Proofs.pdf)
+- [Set Theory for Computer Science](./resources/set_theory_for_computer_science.pdf)
 
 ## Essential reading
 _"The essentials readings for this course will come from the following text book, which is  available in the University of London digital library:_
