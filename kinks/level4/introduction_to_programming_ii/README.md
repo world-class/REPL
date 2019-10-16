@@ -3,15 +3,15 @@
 # Table of contents
 <!-- vim-markdown-toc GFM -->
 
-* [Introduction to programming I - Reported problems](#introduction-to-programming-i---reported-problems)
+* [Introduction to programming II - Reported problems](#introduction-to-programming-ii---reported-problems)
     * [Case studies](#case-studies)
         * [Data visualizer](#data-visualizer)
             * [4.103](#4103)
 
 <!-- vim-markdown-toc -->
 
-# Introduction to programming I - Reported problems
-This page is about the [Introduction to programming I module](../../../modules/level_4/introduction_to_programming_ii/).
+# Introduction to programming II - Reported problems
+This page is about the [Introduction to programming II module](../../../modules/level_4/introduction_to_programming_ii/).
 
 ## Case studies
 ### Data visualizer
