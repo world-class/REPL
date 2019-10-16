@@ -104,20 +104,27 @@ The exact same formatting is currently being used for module-specific bots too a
 ### GreetBot
 [GreetBot](https://greet.bot/) welcomes new students joining the workspace to guide them on their journey from the very beginning by pointing them to this repository and other useful resources. Right now, the custom message sent by the bot is as follow:
 ```
-Hey @new_user_name! Welcome aboard. Here are the key points you will want to know to get started:
+Hey @new_user_name! Welcome aboard. A few key points you will want to know to get started:
 
 - *Reply using threads* to keep things neat instead of posting to the channel. :thumbsup:
-- Make sure to read the *Programme Regulations* and the *Guidelines for Examinations*: https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf and https://london.ac.uk/sites/default/files/examiners/guidelines-for-examinations-2018-19.pdf
+- Read the *Programme Regulations* and the *Guidelines for Examinations*: london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf and london.ac.uk/sites/default/files/examiners/guidelines-for-examinations-2018-19.pdf
 - *Post in the relevant channels*. For example, discrete maths questions should go in #cm1020-discrete-math. Use #askpreviouscohorts or #october2019batch for cohort specific discussion instead of #general.
-- *Make sure a channel doesn't already exist* before creating another one with the same purpose. If you are going to invite only a limited number of students on a topic that doesn't concern necessarily everyone or if you need to collaborate in a *private group work*, you can do so by creating a *private channel* instead of a public one.
-- Find a curated list of course related resources here: https://github.com/world-class/REPL
-- Remember to check the *pinned messages* in each channel: you'll find relevant information. More on how "pins" work here: https://slack.com/help/articles/205239997
-- Please do your own research (Slack, search engine, etc.) *before asking a question* that has been answered many times. For a start, make sure you have read all the documents you will find on that page: https://github.com/world-class/REPL#documents-and-resources-provided-publicly-by-the-university-of-london
-- Don't forget the *_Search_ feature* available on Slack: You can search for specific keywords, for messages from a specific user (*from:@username*), in different channels, by files, within certain dates, etc. More details are available here: https://slack.com/help/articles/202528808-search-in-slack
+- *Make sure a channel doesn't already exist* before creating another one with the same purpose. You can collaborate in a *private group work* by creating a *private channel* instead of a public one.
+- *Curated list of course related resources* here: github.com/world-class/REPL
+- Remember to check the *pinned messages* in each channel: you'll find useful info.
+- Please do your own research (Slack, search engine, etc.) *before asking a question* that has been answered many times. For a start, make sure you have read all the documents you will find on that page: github.com/world-class/REPL#documents-and-resources-provided-publicly-by-the-university-of-london
+- Don't forget the *_Search_ feature* available on Slack (specific keywords, messages from a specific user with *from:@username*, in different channels, by files, within certain dates, etc.). → slack.com/help/articles/202528808-search-in-slack
+- Get in touch with your tutors and SRMs (Student Relationship Managers)! → github.com/world-class/REPL#reaching-out-to-tutors-and-srms
+- Be *nice*, be *respectful*.
+- *Do not violate UoL guidelines* (don’t post *illegal* materials, solutions to *graded quizzes* or big *chunks of code* related to any assignment).
+- *Refer to specific modules, videos and quizzes by their number* (week and item numbers as shown in Coursera), so that it is easy to find for future users. You'll find a #bugs channel to help you uncover if a bug you have encountered has been documented before: please post to that channel *only once a couple of students* have confirmed that your bug is truly a bug in your targeted module.
+-Don't make jokes or post memes that target a particular gender, religion, nationality or sexuality — we're a global and multicultural community. *Some students may be more sensitive* about certain topics and we certainly *don't want to discriminate* anybody and *don't want to make Slack a hostile environment* in any way.
+- Use your real name — we are at a real university and we are real students. You will get as much privacy as at a real university. If you wish to remain private, expect the community to not interact with you.
+- *Thank people* when they help you! :slightly_smiling_face: Despite the distance, we're still humans (most of us, anyways).
 
-We hope you'll have a great time here, but please take some time to familiarize yourself with all the basic stuff before asking what has been asked over and over again: you can search on Slack and visit the above resources whenever you want. Succeeding as a CS student has a lot to do with being able to find answers on your own :bulb:.
+We hope you'll have a great time here! Please take some time to familiarize yourself with all the basic stuff before asking what has been asked many times: you can search on Slack and visit the above resources whenever you want. *_Succeeding as a CS student has a lot to do with being able to find answers on your own_* :bulb:.
 
-On that note, be well and again, welcome home :slightly_smiling_face:!
+Be well and *welcome home* :slightly_smiling_face:!
 ```
 
 <!-- Add What's Up Bot here once ready -->
