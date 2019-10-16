@@ -9,6 +9,7 @@ The following list goes beyond the essential/required reading that is part of th
 <!-- vim-markdown-toc GFM -->
 
 * [Computer science](#computer-science)
+* [Learning](#learning)
 * [Mathematics](#mathematics)
     * [Calculus](#calculus)
     * [Discrete mathematics](#discrete-mathematics)
@@ -26,6 +27,9 @@ The following list goes beyond the essential/required reading that is part of th
 
 ## Computer science
 - [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml), by Harold Abelson, Gerald Jay Sussman and Julie Sussman (2<sup>nd</sup> edition) - *"An excellent computer science text used in introductory courses at MIT. So called because of the wizard on the jacket. One of the bibles of the LISP/Scheme world. Also, less commonly, known as the Purple Book."*
+
+## Learning
+- [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) - *"To most of us, learning something "the hard way" implies wasted time and effort. Good teaching, we believe, should be creatively tailored to the different learning styles of students and should use strategies that make learning easier. Make It Stick turns fashionable ideas like these on their head. Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners."*
 
 ## Mathematics
 - [Nix The Tricks](https://nixthetricks.com/index.html), by Tina Cardone and the online math community known as the MTBoS - *"This book is filled with alternatives to the shortcuts so prevalent in mathematics education and explains exactly why the tricks are so bad for understanding math."*
