@@ -61,6 +61,7 @@
         * [System utilities](#system-utilities)
         * [Text editors](#text-editors)
             * [Beginner friendly](#beginner-friendly-2)
+        * [Time trackers](#time-trackers)
         * [Touch typing](#touch-typing)
         * [UX/UI design](#uxui-design)
         * [Version control system](#version-control-system)
@@ -338,6 +339,10 @@
 - :star: [Atom](https://atom.io/)
 - :star: [Brackets](http://brackets.io/) - Used in module [Introduction to Programming I](../modules/level_4/introduction_to_programming_i/).
 - :star: [Visual Studio Code](https://code.visualstudio.com/)
+
+### Time trackers
+- [Clockify](https://clockify.me/) - (Web, Chrome, Firefox, Windows, Mac, Linux, iOS, Android, Integrations) - *"Clockify is the only truly free time tracking software. It's a simple time tracker and timesheet app that lets you and your team track work hours across projects. Unlimited users, free forever."*
+- [Toggl](https://toggl.com/) - (Chrome, iOS, Android, Windows, Mac, Linux) - *"Toggl makes time tracking so simple you’ll actually use it. But even if you forget, our tracking reminders and idle detection have your back."*
 
 ### Touch typing
 - [Typing.com](https://www.typing.com/) - Learn to type for free without looking at your keyboard.
