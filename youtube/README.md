@@ -182,7 +182,10 @@ Dan Colman
 
 ## Discrete mathematics
 - [Computer Sc - Discrete Mathematical Structures](https://www.youtube.com/view_play_list?p=0862D1A947252D20) (playlist) - Kamala Krithivasan
-- [Discrete Math I](https://www.youtube.com/watch?v=OApHaIMKMJE&list=PLl-gb0E4MII0L5lz8uQ8j5aSFQQHoAzXx) (YouTube playlist)
+- [Discrete Math I](https://www.youtube.com/watch?v=OApHaIMKMJE&list=PLl-gb0E4MII0L5lz8uQ8j5aSFQQHoAzXx) (playlist) - Kimberly Brehm
+- [Discrete mathematics](https://www.youtube.com/watch?v=2juspgYR7as&list=PLsFENPUZBqioyqffh3YZ2pKUg4uZFQJUY) (playlist) - GATEBOOK Video Lectures
+- [Sets, sequences, functions, summations, matrices, algorithms](https://www.youtube.com/watch?v=ZMhoRLGNR5Y&list=PLl-gb0E4MII0HmmhGXBIFGppSSqqy_mV-) (playlist) - Kimberly Brehm
+
 
 # Encryption
 - [Lecture 12: The RSA Cryptosystem and Efficient Exponentiation](https://www.youtube.com/watch?v=QSlWzKNbKrU) - Christof Paar
