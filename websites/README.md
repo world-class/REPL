@@ -27,6 +27,7 @@
     * [Encryption](#encryption)
     * [Limits](#limits)
     * [Linear Algebra](#linear-algebra)
+    * [Machine learning](#machine-learning-1)
     * [Modular arithmetic](#modular-arithmetic)
     * [Number bases](#number-bases)
     * [Online tools](#online-tools)
@@ -155,6 +156,9 @@
 - [Matrix multiplication](http://matrixmultiplication.xyz/) - Online tool to perform matrix calculations.
 - Problem sets
     - [PDF] [Exercises and Problems in Linear Algebra, Portland State University](https://web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf), Version July 13, 2014
+
+## Machine learning
+- [Mathematics for Machine Learning](https://mml-book.github.io/) - *"We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books."*
 
 ## Modular arithmetic
 - [Modular arithmetic](https://modular-arithmetic.appspot.com/#modularArithmetic) - Clear, simple explanations: _"Numbers in a given modulo "wrap around". They reach a certain value, and then continue from the beginning up to that value. Then, begin again. [...]"_
