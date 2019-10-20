@@ -62,6 +62,7 @@
     * [TypeScript](#typescript)
 * [Startups](#startups)
 * [Technology](#technology)
+* [Tools](#tools)
 * [Variety](#variety)
 * [Web](#web)
     * [Buying a domain name](#buying-a-domain-name)
@@ -308,6 +309,9 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 
 # Technology
 - [Version Museum](https://www.versionmuseum.com/) - *"Version Museum showcases the visual history of popular websites, operating systems, applications, and games that have shaped our lives. Much like walking through a real-life museum, this site focuses on the design changes of historic versions of technology, rather than just the written history behind it."*
+
+# Tools
+- [Hacker Tools](https://hacker-tools.github.io/) - *"Learn to make the most of the tools that hackers have been using for decades."*
 
 # Variety
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme) :sunglasses:
