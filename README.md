@@ -204,7 +204,7 @@ relevant topic for the final project.
 - Reaching out to UoL
     - [Contact page](https://london.ac.uk/contact-us)
     - [General enquiries](https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&category=UOL) (← For non-students. Students should ask in **[the portal](https://my.london.ac.uk/)** instead.)
-    - Reach out by phone: `+44 (0)20 7862 8000` (general), `+44 (0)20 7862 5766` (specific to this degree)
+    - Reach out by phone: `+44 (0)20 7862 8000` (general), `+44 (0)20 7862 5766` (specific to this degree), `+44 (0)20 7862 8368` (fees office).
     - [Student Advice Center](https://london.kb.help/)
 - Discord server (choose one of the following, it is the same server): [Invitation link #1](https://discord.gg/Hyxse35), [Invitation link #2](https://discord.gg/YEt2f7E)
 - [Slack workspace](https://londoncs.slack.com/)
