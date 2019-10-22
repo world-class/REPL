@@ -182,6 +182,8 @@ Dan Colman
 
 ## Discrete mathematics
 - [Computer Sc - Discrete Mathematical Structures](https://www.youtube.com/view_play_list?p=0862D1A947252D20) (playlist) - Kamala Krithivasan
+- [Discrete Math 1: Sets, propositional logic, factorials, permutations, combinations, proofs, mathematical induction, injective/surjective/bijective functions, inverse functions, algorithms](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) (playlist) - TheTrevTutor
+- [Discrete Math 2: Permutations, combinations, probability, graph theory, trees, Dijkstra's Algorithm](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2) (playlist) - TheTrevTutor
 - [Discrete Math I](https://www.youtube.com/watch?v=OApHaIMKMJE&list=PLl-gb0E4MII0L5lz8uQ8j5aSFQQHoAzXx) (playlist) - Kimberly Brehm
 - [Discrete mathematics](https://www.youtube.com/watch?v=2juspgYR7as&list=PLsFENPUZBqioyqffh3YZ2pKUg4uZFQJUY) (playlist) - GATEBOOK Video Lectures
 - [Sets, sequences, functions, summations, matrices, algorithms](https://www.youtube.com/watch?v=ZMhoRLGNR5Y&list=PLl-gb0E4MII0HmmhGXBIFGppSSqqy_mV-) (playlist) - Kimberly Brehm
