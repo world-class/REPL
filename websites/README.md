@@ -315,6 +315,7 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 
 # Variety
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme) :sunglasses:
+- [Free for developers](https://free-for.dev/) - *"This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers."*
 
 # Web
 ## Buying a domain name
