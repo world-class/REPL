@@ -58,6 +58,7 @@
         * [Screen recorders](#screen-recorders)
             * [Beginner friendly](#beginner-friendly-1)
             * [More advanced](#more-advanced)
+        * [Screenshot tools](#screenshot-tools)
         * [System utilities](#system-utilities)
         * [Text editors](#text-editors)
             * [Beginner friendly](#beginner-friendly-2)
@@ -320,6 +321,7 @@
 #### Beginner friendly
 - :cloud: [Apowersoft Free Online Screen Recorder](https://www.apowersoft.com/free-online-screen-recorder) (Windows, Android, iOS)
 - [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=en) (Android)
+- :star: [GNOME Screenshots](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en) (Linux)
 - [Go Record: Screen Recorder](https://itunes.apple.com/us/app/go-record-screen-recorder/id1345200849) (iOS)
 - [Screencast o matic](https://screencast-o-matic.com/screen-recorder) (Windows, macOS, Chromebook)
 - :star: [Simple Screen Recorder](https://www.maartenbaert.be/simplescreenrecorder/) (Linux)
@@ -327,6 +329,14 @@
 #### More advanced
 - :star: [ffmpeg](https://ffmpeg.org/) (Windows, macOS, Linux)
 - :star: [OBS Studio](https://obsproject.com/) (Windows, macOS, Linux)
+
+### Screenshot tools
+- :star: [Flameshot](https://flameshot.js.org/) (Linux)
+- :star: [GNOME Screenshots](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en) (Linux)
+- [Screenshot](https://support.apple.com/en-us/HT201361) (macOS)
+- [Snipping Tool](https://support.microsoft.com/en-us/help/13776/windows-10-use-snipping-tool-to-capture-screenshots) (Windows)
+- :star: [Spectacle (KDE)](https://kde.org/applications/utilities/org.kde.spectacle) (Linux)
+
 
 ### System utilities
 - :star: [Redshift](http://jonls.dk/redshift/) (Linux) - *Adjusts the color temperature of your screen according to your surroundings.*
