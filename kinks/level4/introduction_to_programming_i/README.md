@@ -121,7 +121,7 @@ You need to ensure that any function being declared does not have a space betwee
 ## Week 7
 ### Lesson 4.1
 #### Video: Conditional statements using ==
-- The bomb exercise template is missing. You can [download it here](https://www.dropbox.com/s/wudoo14bsg1l7am/Bomb%20Template.zip?dl=1).
+- The bomb exercise template is missing.
 
 ### Lesson 4.2
 #### Practice quiz: Introducing types: String, Number, Boolean
