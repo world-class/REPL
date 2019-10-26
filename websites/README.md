@@ -19,6 +19,7 @@
     * [Jupyter](#jupyter)
     * [Pandas](#pandas)
     * [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
+* [Free e-books and video courses](#free-e-books-and-video-courses)
 * [LaTeX](#latex)
 * [Mathematics](#mathematics)
     * [Beginner topics](#beginner-topics)
@@ -123,6 +124,9 @@
 ## Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)
 - [Kaggle: Micro-Courses](https://www.kaggle.com/learn/overview) - *"Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."*
 - [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) - *"This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks."*
+
+# Free e-books and video courses
+- [Packt Publishing – free programming ebooks and videos](https://www.packtpub.com/packt/offers/free-learning) - Daily offer of up-to-date, quality material.
 
 # LaTeX
 - [Overleaf](https://www.overleaf.com/) - *"The easy to use, online, collaborative LaTeX editor."*
