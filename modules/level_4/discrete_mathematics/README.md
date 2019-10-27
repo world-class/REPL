@@ -12,6 +12,7 @@
     * [Mathematical symbols](#mathematical-symbols)
     * [Mid-term question sheet](#mid-term-question-sheet)
     * [Notes](#notes)
+    * [Solutions to Discrete Mathematics and its Applications (2012) 7th Edition](#solutions-to-discrete-mathematics-and-its-applications-2012-7th-edition)
     * [Syllabus](#syllabus)
     * [Videos](#videos)
     * [Weekly readings](#weekly-readings)
@@ -61,12 +62,16 @@ _This course does not require you to read the whole book, you will be given spec
 
 ## Mathematical symbols
 - The [list of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols) on Wikipedia is a handy reference. Chapter 1 of _Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Edition_ is outside the scope of the essential readings for this module, but provides a solid foundation to understand the notations and some proof techniques used during the course.
+- [Type mathematical symbols (online keyboard)](https://math.typeit.org) - Online keyboard to help with typing mathematical symbols.
 
 ## Mid-term question sheet
 - [Mid-term question sheet PDF](./resources/MidTermQuestionSheet.pdf)
 
 ## Notes
 - See shared notes [in this section](../../../notes/discrete_mathematics).
+
+## Solutions to Discrete Mathematics and its Applications (2012) 7th Edition
+- [Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
 
 ## Syllabus
 - [Syllabus Discrete Mathematics CM1020 PDF](./resources/Syllabus_Discrete_Mathematics_CM1020.pdf)
