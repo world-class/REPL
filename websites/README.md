@@ -45,6 +45,7 @@
     * [App monitoring](#app-monitoring)
     * [Basics](#basics)
     * [Coding challenges](#coding-challenges)
+    * [Documentation](#documentation)
     * [Games](#games)
         * [CSS](#css)
         * [JavaScript](#javascript)
@@ -249,6 +250,9 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 - [Project Euler](https://projecteuler.net/) - *"Project Euler (named after Leonhard Euler) is a website dedicated to a series of computational problems intended to be solved with computer programs."* ([from Wikipedia](https://en.wikipedia.org/wiki/Project_Euler))
 - [Topcoder](https://www.topcoder.com/) - *"Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients."* ([from Wikipedia](https://en.wikipedia.org/wiki/Topcoder))
 
+## Documentation
+- [GitBook](https://www.gitbook.com) - *"Document Everything! For you, your users and your team. [...] A place to think and track ideas for you & your team. [...] A home for your team, best-practices and thoughts. [...] Beautiful docs for your APIs, Products, FAQs, User Guides, ..."*
+- [Sphinx](http://www.sphinx-doc.org) - *"Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license. It was originally created for the Python documentation, and it has excellent facilities for the documentation of software projects in a range of languages."*
 
 ## Games
 ### CSS

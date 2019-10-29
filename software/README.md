@@ -25,6 +25,7 @@
         * [Data converter](#data-converter)
         * [Data storage & syncronization](#data-storage--syncronization)
         * [Desktop publishing](#desktop-publishing)
+        * [Documentation](#documentation)
         * [Ebook readers](#ebook-readers)
         * [Format checker & validator](#format-checker--validator)
         * [FTP](#ftp)
@@ -162,6 +163,9 @@
 
 ### Desktop publishing
 - :star: [Scribus](https://www.scribus.net/) (Windows, macOS, Linux) - *One of the premier Open Source desktop applications.*
+
+### Documentation
+- :star: [Sphinx](http://www.sphinx-doc.org) (Windows, macOS, Linux) - *"Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license. It was originally created for the Python documentation, and it has excellent facilities for the documentation of software projects in a range of languages."*
 
 ### Ebook readers
 - :star: [Calibre](https://calibre-ebook.com/) (Windows, macOS, Linux)
