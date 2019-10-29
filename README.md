@@ -27,7 +27,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/world-class/REPL/master/_images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
+<img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
 
 
 # Introduction
