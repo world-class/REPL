@@ -17,6 +17,9 @@
             * [Production](#production)
             * [Recording & Editing](#recording--editing)
         * [Automation](#automation)
+            * [File management](#file-management)
+            * [Services](#services)
+            * [Time tracking](#time-tracking)
         * [Burning CDs/DVDs](#burning-cdsdvds)
         * [Clipboard manager](#clipboard-manager)
         * [Code snippets savers](#code-snippets-savers)
@@ -133,7 +136,14 @@
 - :star: [Audacity](https://www.audacityteam.org/) (Windows, macOS, Linux)
 
 ### Automation
+#### File management
+- [Organize](https://github.com/tfeldmann/organize) - *"Your desktop is a mess? You cannot find anything in your downloads and documents? Sorting and renaming all these files by hand is too tedious? Time to automate it once and benefit from it forever. `organize` is a command line, open-source alternative to apps like Hazel (macOS) or File Juggler (Windows)."*
+
+#### Services
 - [IFTTT](https://ifttt.com/) - *"If This Then That, also known as IFTTT is a free web-based service to create chains of simple conditional statements, called applets."* ([from Wikipedia](https://en.wikipedia.org/wiki/IFTTT))
+
+#### Time tracking
+- [ActivityWatch](https://github.com/ActivityWatch/activitywatch) - *"Records what you do so that you can know how you've spent your time. All in a secure way where you control the data."*
 
 ### Burning CDs/DVDs
 - :star: [List of free software](https://en.wikipedia.org/wiki/Category:Free_optical_disc_authoring_software)
