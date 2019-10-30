@@ -11,6 +11,8 @@ import time
 
 # Third-party imports
 import requests
+from pydub import AudioSegment
+from pydub.playback import play
 
 
 FILE_NAME = "dead.txt"  # Will appear if it contains dead links
@@ -32,7 +34,7 @@ def extract_links(excluded_websites: list) -> list:
     """Extract links from all .md files recursively from the current
     repository."""
     cmd = (
-        'cat ../**/*.md | grep -Eo "(http|https)://[a-zA'
+        'cat ../../**/*.md | grep -Eo "(http|https)://[a-zA'
         '-Z0-9./?=_~-]*" | sort | uniq > links.txt'
     )
     subprocess.run(cmd, shell=True)
@@ -145,5 +147,7 @@ if __name__ == "__main__":
     # Scan through the file that contains dead links. If empty, delete it.
     check_all_ok(FILE_NAME)
 
-    # Play a nice little sound when the script is done
-    subprocess.run("aplay /home/sglavoie/Music/.level_up.wav", shell=True)
+    # Play a nice little sound when the script is done and shows ugly output
+    # for the file being played
+    song = AudioSegment.from_wav("./sounds/done.wav")
+    play(song)
