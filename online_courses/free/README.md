@@ -19,6 +19,7 @@
     * [Computer vision](#computer-vision)
     * [Cryptography](#cryptography)
     * [Design and product](#design-and-product)
+    * [Open Source](#open-source)
     * [Programming](#programming)
     * [Security](#security)
     * [Software development](#software-development)
@@ -104,7 +105,6 @@
 
 
 ## Computer science
-
 ### Algorithms
 - [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) - Coursera. Offered by Illinois.
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - Coursera. Offered by Princeton University.
@@ -155,6 +155,9 @@
 - [Building AI Powered Chatbots Without Programming](https://www.coursera.org/learn/building-ai-powered-chatbots) - Coursera. Offered by IBM.
 - [Gamification](https://www.coursera.org/learn/gamification) - Coursera. Offered by Penn, University of Pennsylvania. - *"Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course will teach you the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively."*
 - [Software Product Management Specialization](https://www.coursera.org/specializations/product-management) - Coursera. Offered by University of Alberta.
+
+### Open Source
+- [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) - Coursera. Offered by The Linux Foundation.
 
 ### Programming
 - [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) - Coursera. Offered by RICE.
