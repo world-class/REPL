@@ -35,6 +35,7 @@ Don't forget to check out the right channels on Slack that will be best suited t
 #### Help and resources
 | Name                          | Purpose                                   |
 | ----------------------------- | ----------------------------------------- |
+| `#advanceddegree`             | Everything related to advanced degree(s)  |
 | `#askpreviouscohorts`         | Asking previous cohorts questions related to the programme                                                                   |
 | `#bookworm`                   | What the great minds of this world are reading                                                                     |
 | `#bugs`                       | When you see a bug, report it here so we can all collectively flag it and speed up the process of cleaning up the course content                                                                     |
@@ -44,6 +45,7 @@ Don't forget to check out the right channels on Slack that will be best suited t
 | `#free-stuff`                 | Free stuff to share with others. How have you used your student card etc?                                                                   |
 | `#functional`                 | Since functional programming is becoming kind of a mandatory skill in many companies and since it is not easy to be good at it, maybe we want to share thoughts, links, ideas, know-how, blogs, presentations, designs, patterns etc.                                                                        |
 | `#general`                    | This channel is for workspace-wide communication and announcements. All members are in this channel.                             |
+| `#job_opportunities`          | To share IT job opportunities             |
 | `#linux`                      | A channel for Linux related discussions                                                                 |
 | `#live-sessions`              | Study in live sessions with your peers, making the most of our collective intelligence                                                     |
 | `#maths`                      | To share interesting math problems                                                                    |
