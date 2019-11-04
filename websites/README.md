@@ -34,6 +34,7 @@
     * [Online tools](#online-tools)
     * [Statistics](#statistics)
     * [Trigonometry](#trigonometry)
+* [Music (ideal for programming)](#music-ideal-for-programming)
 * [Online services](#online-services)
     * [Clean your inbox](#clean-your-inbox)
     * [Disposable/temporary emails](#disposabletemporary-emails)
@@ -188,6 +189,10 @@
 - [The trigonometry of non-right triangles](http://www.xaktly.com/XMathMain.html) -
 Angle measurement, trigonometry basics, non-right triangle trig, inverse trig functions, analytic trigonometry, trigonometric equations video, polar coordinates, complex plane, rock climbing, conic sections.
 
+# Music (ideal for programming)
+- [Music For Programming](http://musicforprogramming.net) - Play programming music right from your web browser in an IDE-like interface.
+- [Rainy Mood](https://rainymood.com) (noise generator) - *"Helps you to focus, relax, and sleep. [...] The internet's most popular rain experience."*
+
 # Online services
 ## Clean your inbox
 - [Unroll.me](https://unroll.me) - *"Instantly see a list of all your subscription emails. Unsubscribe easily from whatever you don't want."*
@@ -213,7 +218,7 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 - [500px](https://web.500px.com) - Primarily used to showcase photography.
 - [Flickr](https://www.flickr.com) - *"Flickr is an image hosting service and video hosting service. It was created by Ludicorp in 2004."* ([from Wikipedia](https://en.wikipedia.org/wiki/Flickr))
 - [Free Image Hosting.net](http://www.freeimagehosting.net) - No sign up required.
-- [Google Photos](https://photos.google.com/) (storage included with Google Drive, **15GB for free**) - *"Google Photos is a photo sharing and storage service developed by Google."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Photos))
+- [Google Photos](https://photos.google.com) (storage included with Google Drive, **15GB for free**) - *"Google Photos is a photo sharing and storage service developed by Google."* ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Photos))
 - [ImageShack](https://imageshack.us/)- *"Unlimited space to host images, easy to use image uploader, albums, photo hosting, sharing, dynamic image resizing on web and mobile."*
 - [Imgbox](https://imgbox.com) - *"Hotlinking, super blazing fast, 10MB maximum file size, simple interface, unlimited storage space, unlimited storage time."*
 - [Imgur](https://imgur.com) - *"Imgur is an online image sharing community and image host founded by Alan Schaaf in 2009."* ([from Wikipedia](https://en.wikipedia.org/wiki/Imgur))
