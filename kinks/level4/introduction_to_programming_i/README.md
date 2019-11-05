@@ -54,7 +54,7 @@ This page is about the [Introduction to programming I module](../../../modules/l
 
 #### Other glitches
 ##### Sleuth cases with spotlight effect
-Be aware that those Sleuth cases involving a spotlight effect will not work on Firefox out of the box (they work in any webkit based browser like Google Chrome and Safari). There are possible workarounds such as commenting out the line at the bottom that says `blendMode(DARKEST);` and uncommenting it again before submitting the case.
+Be aware that those Sleuth cases involving a spotlight effect will not work on Firefox out of the box (they work in any webkit based browser like Google Chrome and Safari). There are possible workarounds such as commenting out the line at the bottom that says `blendMode(DARKEST);` and uncommenting it again before submitting the case. Changing it to `blendMode(LIGHTEST);` should work at least to be able to see where the spotlight is.
 
 ##### Variable assignment
 - Some cases ask to set the value of a variable to `mouseX` for instance and then make sure it doesn't go above or below a certain value with `min()` and `max()` functions. Answers can wrongly be accepted if you first set
