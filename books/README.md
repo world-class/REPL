@@ -30,6 +30,7 @@ The following list goes beyond the essential/required reading that is part of th
 
 ## Learning
 - [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) - *"To most of us, learning something "the hard way" implies wasted time and effort. Good teaching, we believe, should be creatively tailored to the different learning styles of students and should use strategies that make learning easier. Make It Stick turns fashionable ideas like these on their head. Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners."*
+- [Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career](https://www.goodreads.com/book/show/44770129-ultralearning) - *"Learn a new talent, stay relevant, reinvent yourself, and adapt to whatever the workplace throws your way. Ultralearning offers nine principles to master hard skills quickly. This is the essential guide to future-proof your career and maximize your competitive advantage through self-education."*
 
 ## Mathematics
 - [Mathematics for Machine Learning](https://mml-book.github.io/) - *"We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books."*
