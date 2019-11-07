@@ -11,16 +11,17 @@
 ---
 
 # Kinks found in Level 4 modules
+- [Algorithms and Data Structures I](../kinks/level4/algorithms_and_data_structures_i/README.md)
 - [How Computers Work](../kinks/level4/how_computers_work/README.md)
-- [Introduction to programming I](../kinks/level4/introduction_to_programming_i/README.md)
-- [Introduction to programming II](../kinks/level4/introduction_to_programming_ii/README.md)
-- [Numerical mathematics](../kinks/level4/numerical_mathematics/README.md)
+- [Introduction to Programming II](../kinks/level4/introduction_to_programming_ii/README.md)
+- [Introduction to Programming I](../kinks/level4/introduction_to_programming_i/README.md)
+- [Numerical Mathematics](../kinks/level4/numerical_mathematics/README.md)
 - [Web Development](../kinks/level4/web_development/README.md)
 
 
 # Note to future students
 
-The information contained in this "kinks" section may not reflect the current state of the modules. Problems are being reported mainly by students from the first cohort to enroll in each of those modules and those problems may be fixed later down the road once the first batch of students is no longer enrolled in those modules.
+The information contained in this "kinks" section may not reflect the current state of the modules. Problems are being reported mainly by students from the first cohort to enroll in each of those modules and those problems may be fixed later down the road once the first batch of students is no longer part of those modules.
 
 Bugs that come up at the beginning of the modules will probably not be listed here as they often disappear after a short while. Above all, this section will strive to document errors in videos or other resources that may require more time to find a fix on their own.
 

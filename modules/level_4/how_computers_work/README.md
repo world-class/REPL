@@ -8,6 +8,7 @@
 * [Assessment](#assessment)
 * [Resources](#resources)
     * [Essential reading](#essential-reading)
+    * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [Notes](#notes)
 
 <!-- vim-markdown-toc -->
@@ -53,6 +54,9 @@ _**Brookshear, J.G. and D. Brylow Computer science: an overview. (Harlow: Pearso
 _This course does not require you to read the whole book; you will be given specific readings for each topic from these texts are listed with direct links on the Readings page for each topic._
 
 _You will also be asked to do some independent research from online sources or using the University of London digital library."_
+
+## Kinks to be aware of
+- [List of reported errors and bugs with the module](../../../kinks/level4/how_computers_work/).
 
 ## Notes
 - See shared notes [in this section](../../../notes/how_computers_work).
