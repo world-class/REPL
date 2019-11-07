@@ -26,7 +26,7 @@
         * [Cloud IDE](#cloud-ide)
         * [Code snippets savers](#code-snippets-savers)
         * [Cross-platform compatibility](#cross-platform-compatibility)
-        * [Data compression - sending bunch of files and reducing their size](#data-compression---sending-bunch-of-files-and-reducing-their-size)
+        * [Data compression](#data-compression)
         * [Data converter](#data-converter)
         * [Data storage & syncronization](#data-storage--syncronization)
         * [Desktop publishing](#desktop-publishing)
@@ -81,6 +81,7 @@
         * [Video edition](#video-edition)
         * [Video player](#video-player)
         * [Virtualization (running other operating system without installation)](#virtualization-running-other-operating-system-without-installation)
+        * [VPN (unblock Coursera and other restricted content)](#vpn-unblock-coursera-and-other-restricted-content)
         * [Web browsers](#web-browsers)
             * [Especially useful for web development](#especially-useful-for-web-development)
             * [Extensions - Plugins](#extensions---plugins)
@@ -177,7 +178,7 @@
 ### Cross-platform compatibility
 - :star: [Wine](https://www.winehq.org) - *"Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD."* (Android, Linux, macOS)
 
-### Data compression - sending bunch of files and reducing their size
+### Data compression
 - :star: [Free data compression software](https://en.wikipedia.org/wiki/Category:Free_data_compression_software)
 
 ### Data converter
@@ -444,6 +445,11 @@ See also [Graphics software](#graphics-software).
 ### Virtualization (running other operating system without installation)
 - [Free virtualization software](https://en.wikipedia.org/wiki/Category:Free_virtualization_software)
 - :star: [VirtualBox](https://www.virtualbox.org)
+
+### VPN (unblock Coursera and other restricted content)
+- [NordVPN](https://nordvpn.com) (Windows, macOS, Linux, Android, iOS, Chrome, Firefox, Android TV) - *"NordVPN is a personal virtual private network (VPN) service provider. It has desktop applications for Windows, macOS, and Linux, mobile apps for Android and iOS, as well as an application for Android TV. Manual setup is available for wireless routers, NAS devices and other platforms. NordVPN is based in Panama, as the country has no mandatory data retention laws."* ([from Wikipedia](https://en.wikipedia.org/wiki/NordVPN))
+- [ProtonVPN](https://protonvpn.com) - (Windows, macOS, Linux, Android, iOS) *"ProtonVPN is a virtual private network (VPN) service provider operated by the Swiss company ProtonVPN AG, the company behind the email service ProtonMail."* ([from Wikipedia](https://en.wikipedia.org/wiki/ProtonVPN))
+- [Surfshark](https://surfshark.com) (Windows, macOS, Linux, Android, iOS, Chrome, Firefox, etc.) - *"Surfshark is an award-winning, secure VPN that encrypts your online data to help you stay private & protected every day, hassle-free."*
 
 ### Web browsers
 - :star: [List of free web browsers](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages#Web_browsers)
