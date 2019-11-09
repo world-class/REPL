@@ -9,6 +9,7 @@
 * [Resources](#resources)
     * [Additional reading](#additional-reading)
     * [Essential reading](#essential-reading)
+    * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [Mathematical symbols](#mathematical-symbols)
     * [Mid-term question sheet](#mid-term-question-sheet)
     * [Notes](#notes)
@@ -59,6 +60,9 @@ _"The essentials readings for this course will come from the following text book
 - **David Mackinson, Sets, Logic and Maths for Computing, Springer Verlag. 2012**
 
 _This course does not require you to read the whole book, you will be given specific  readings for each topic from these texts are listed with direct links on the Readings page  for each topic. You will also be asked to do some independent research from online sources or using the University of London digital library."_
+
+## Kinks to be aware of
+- [List of reported errors and bugs with the module](../../../kinks/level4/discrete_mathematics/).
 
 ## Mathematical symbols
 - The [list of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols) on Wikipedia is a handy reference. Chapter 1 of _Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Edition_ is outside the scope of the essential readings for this module, but provides a solid foundation to understand the notations and some proof techniques used during the course.
