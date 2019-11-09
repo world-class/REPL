@@ -12,6 +12,7 @@
 
 # Kinks found in Level 4 modules
 - [Algorithms and Data Structures I](../kinks/level4/algorithms_and_data_structures_i/README.md)
+- [Discrete Mathematics](../kinks/level4/discrete_mathematics/README.md)
 - [How Computers Work](../kinks/level4/how_computers_work/README.md)
 - [Introduction to Programming II](../kinks/level4/introduction_to_programming_ii/README.md)
 - [Introduction to Programming I](../kinks/level4/introduction_to_programming_i/README.md)
