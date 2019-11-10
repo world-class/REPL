@@ -187,6 +187,7 @@ Dan Colman
 - [Discrete Math I](https://www.youtube.com/watch?v=OApHaIMKMJE&list=PLl-gb0E4MII0L5lz8uQ8j5aSFQQHoAzXx) (playlist) - Kimberly Brehm
 - [Discrete mathematics](https://www.youtube.com/watch?v=2juspgYR7as&list=PLsFENPUZBqioyqffh3YZ2pKUg4uZFQJUY) (playlist) - GATEBOOK Video Lectures
 - [Sets, sequences, functions, summations, matrices, algorithms](https://www.youtube.com/watch?v=ZMhoRLGNR5Y&list=PLl-gb0E4MII0HmmhGXBIFGppSSqqy_mV-) (playlist) - Kimberly Brehm
+- [The Karnaugh Map - Rules of Simplification](https://www.youtube.com/watch?v=PA0kBrpHLM4) - Jonnie Palmer
 
 
 # Encryption
