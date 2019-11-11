@@ -51,6 +51,7 @@ One two hour unseen written examination and coursework (Type I)
 # Resources
 ## Additional reading
 - [A Guide to Writing Proofs](./resources/A_Guide_to_Writing_Proofs.pdf)
+- [Discrete Mathematics Questions and Answers](https://www.sanfoundry.com/1000-discrete-mathematics-questions-answers) - *"Our 1000+ Discrete Mathematics questions and answers focuses on all areas of Discrete Mathematics subject covering 100+ topics in Discrete Mathematics."*
 - [Set Theory for Computer Science](./resources/set_theory_for_computer_science.pdf)
 
 ## Essential reading
