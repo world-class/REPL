@@ -53,6 +53,7 @@
         * [JavaScript](#javascript)
         * [Projects and ideas](#projects-and-ideas)
         * [Python](#python)
+        * [Security](#security)
         * [Service workers](#service-workers)
     * [Git / GitHub](#git--github)
     * [iOS](#ios)
@@ -281,6 +282,9 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 
 ### Python
 - [CheckiO](https://checkio.org) - *"Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python."*
+
+### Security
+- [Wargames](https://overthewire.org/wargames) - *"The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games."*
 
 ### Service workers
 - [Service Workies](https://serviceworkies.com) - *"Learn Service Workers inside and out with the new PWA Mastery Game."*
