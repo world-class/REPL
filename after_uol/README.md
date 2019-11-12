@@ -63,6 +63,5 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 - [We Work Remotely](https://weworkremotely.com/)
 
 ### Freelancing
-- [Fiverr](https://www.fiverr.com/)
 - [Guru](https://www.guru.com/)
 - [Toptal](https://www.toptal.com/)
