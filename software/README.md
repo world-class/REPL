@@ -340,6 +340,7 @@
 
 #### Tasks and project management
 - :cloud: [Asana](https://asana.com) - *Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business.*
+- :cloud: [Basecamp](https://basecamp.com) - Currently [free when applying as a student](https://basecamp.com/discounts) - *"Before Basecamp: Projects feel scattered, things slip, it’s tough to see where things stand, and people are stressed. After Basecamp: Everything’s organized in one place, you’re on top of things, progress is clear, and a sense of calm sets in."*
 - :cloud: [ClickUp](https://clickup.com) - *The productivity platform. Create. Plan. Organize. Everything.*
 - :cloud: [Google Keep](https://keep.google.com) - *Keep offers a variety of tools for taking notes, including text, lists, images, and audio.*
 - :cloud: [meistertask](https://www.meistertask.com) - *The most intuitive project and task management tool on the web.*
