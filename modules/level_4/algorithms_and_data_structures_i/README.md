@@ -7,6 +7,7 @@
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
+    * [Complementary learning](#complementary-learning)
     * [Essential reading](#essential-reading)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [Notes](#notes)
@@ -52,6 +53,9 @@ and regarding their efficiency.
 One two hour unseen written examination and coursework (Type I)
 
 # Resources
+## Complementary learning
+- [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - *"On edX platform, by UCSanDiegoX."*
+
 ## Essential reading
 _"Specific essential readings for this course will be taken from the following text book:_
 

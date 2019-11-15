@@ -107,6 +107,7 @@
 ## Computer science
 ### Algorithms
 - [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) - Coursera. Offered by Illinois.
+- [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - edX. Offered by UCSanDiegoX.
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) - Coursera. Offered by Princeton University.
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Coursera. Offered by Princeton University.
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) - Coursera. Offered by Stanford. Includes:
