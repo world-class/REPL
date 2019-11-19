@@ -24,10 +24,12 @@ Don't forget to check out the right channels on Slack that will be best suited t
 | Name              | Purpose                                               |
 | ----------------- | ----------------------------------------------------- |
 | `#hackathons`     | Organise coding challenges                            |
+| `#hacking`        | Ethical hacking / general InfoSec stuff               |
 | `#introductions`  | Introduce yourself to your new course mates           |
 | `#journal-club`   | Read and discuss research papers                      |
 | `#memes`          | Share all the dank memes                              |
 | `#music`          | Off topic discussion about music                      |
+| `#pets`           | For a bit of furry, feathery or scaly relief          |
 | `#photography`    | Share your favorite photos and view those from others |
 | `#random`         | A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels                                                                    |
 | `#uol_game-jam`   | Group for organising game jams                        |
