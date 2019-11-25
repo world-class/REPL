@@ -164,6 +164,7 @@
 
 ## Linear Algebra
 - [Applied Linear Algebra 1](https://open.math.uwaterloo.ca/4?gid=314) - University of Waterloo (Canada)
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila) - _"This is an introductory textbook on linear algebra, written by Joe Rabinoff and Dan Margalit for Math 1553 at Georgia Tech."_
 - [Matrix multiplication](http://matrixmultiplication.xyz) - Online tool to perform matrix calculations.
 - Problem sets
     - [PDF] [Exercises and Problems in Linear Algebra, Portland State University](https://web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf), Version July 13, 2014
