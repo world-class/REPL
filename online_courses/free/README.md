@@ -23,6 +23,7 @@
     * [Programming](#programming)
     * [Security](#security)
     * [Software development](#software-development)
+    * [Various Topics](#various-topics)
 * [Cybersecurity](#cybersecurity)
 * [Data science](#data-science)
     * [Data analysis](#data-analysis)
@@ -185,6 +186,9 @@
 - [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming) - Coursera. Offered by Duke University.
 - [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) - Coursera. University of Michigan.
 
+### Various Topics
+- [MIT OpenCourseWare](https://ocw.mit.edu) - *"MIT OpenCourseWare makes the materials used in the teaching of almost all of MIT's subjects available on the Web, free of charge. With more than 2,400 courses available, OCW is delivering on the promise of open sharing of knowledge."*
+
 ## Cybersecurity
 - [IT Fundamentals for Cybersecurity Specialization](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) - Coursera. Offered by IBM.
 - [Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain) - Coursera. Offered by University System of Georgia.
@@ -326,5 +330,7 @@
 - [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance) - FutureLearn - *"Learn mindfulness techniques to reduce stress and improve your wellbeing and work/study performance."*
 
 ## Web development
- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) - edX. - Offered by Harvard University. - *"This course picks up where [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap."*
+- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) - edX. - Offered by Harvard University. - *"This course picks up where [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap."*
+- [FreeCodeCamp](https://www.freecodecamp.org) - *"freeCodeCamp.org is a friendly community where you can learn to code for free. [...] Our full-stack web development curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills."*
 - [Responsive Website Basics: Code with HTML, CSS, and JavaScript](https://www.coursera.org/learn/website-coding) - Offered by University of London. *"In this course you will learn three key website programming and design languages: HTML, CSS and JavaScript. You will create a web page using basic elements to control layout and style.  Additionally, your web page will support interactivity."*
+- [Web Fundamentals](https://developers.google.com/web/fundamentals) - *"Google's opinionated reference for building amazing web experiences."*
