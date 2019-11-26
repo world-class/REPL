@@ -14,6 +14,7 @@
 - [O'Reilly Safari Books Online](https://learning.oreilly.com) - *"Gain technology and business knowledge and hone your skills with learning resources created and curated by O'Reilly's experts: live online training, video, books, conferences, our platform has content from 200+ of the world’s best publishers."*
 - [PluralSight](https://www.pluralsight.com) - *"The technology learning platform that provides web development, IT certification and ondemand training that helps your career and your business move forward with the right technology and the right skills."*
 - [The Great Courses Plus](https://www.thegreatcoursesplus.com) - *"Access a world of knowledge. Unlimited video learning with the world's greatest professors at The Great Courses Plus."*
+- [Treehouse](https://teamtreehouse.com) - *"Treehouse [...] is an online technology school that offers beginner to advanced courses in web design, web development, mobile development and game development taught by team of expert teachers. Its courses are aimed at beginners looking to learn coding skills for a career in the tech industry."* ([from Wikipedia](https://en.wikipedia.org/wiki/Treehouse_(company)))
 
 # Pay per course
 - [Udacity](https://www.udacity.com) - *"Advance your career with online courses in programming, data science, artificial intelligence, digital marketing, and more. Built with industry leaders."*
