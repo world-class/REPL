@@ -20,6 +20,7 @@
     * [Pandas](#pandas)
     * [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
 * [Free e-books and video courses](#free-e-books-and-video-courses)
+* [Hacking](#hacking)
 * [LaTeX](#latex)
 * [Mathematics](#mathematics)
     * [Beginner topics](#beginner-topics)
@@ -67,7 +68,7 @@
     * [TypeScript](#typescript)
 * [Startups](#startups)
 * [Technology](#technology)
-* [Tools](#tools)
+* [Typing faster](#typing-faster)
 * [Variety](#variety)
 * [Web](#web)
     * [Buying a domain name](#buying-a-domain-name)
@@ -131,6 +132,9 @@
 
 # Free e-books and video courses
 - [Packt Publishing – free programming ebooks and videos](https://www.packtpub.com/packt/offers/free-learning) - Daily offer of up-to-date, quality material.
+
+# Hacking
+- [Hacker Tools](https://hacker-tools.github.io) - *"Learn to make the most of the tools that hackers have been using for decades."*
 
 # LaTeX
 - [Overleaf](https://www.overleaf.com) - *"The easy to use, online, collaborative LaTeX editor."*
@@ -333,9 +337,9 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 # Technology
 - [Version Museum](https://www.versionmuseum.com) - *"Version Museum showcases the visual history of popular websites, operating systems, applications, and games that have shaped our lives. Much like walking through a real-life museum, this site focuses on the design changes of historic versions of technology, rather than just the written history behind it."*
 
-# Tools
+# Typing faster
 - [10FastFingers](https://10fastfingers.com) - *"Test & Improve your Typing Speed with our free Typing Games."*
-- [Hacker Tools](https://hacker-tools.github.io) - *"Learn to make the most of the tools that hackers have been using for decades."*
+- [Typing.io](https://typing.io) - *"Typing.io is a typing tutor/trainer for programmers. Typing.io's lessons are based on open source code, allow you to practice typing the key sequences that appear in real code."*
 
 # Variety
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme) :sunglasses:
