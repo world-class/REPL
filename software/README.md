@@ -314,7 +314,7 @@
 
 ### Productivity
 #### All-in-one organization
-- :heavy_dollar_sign: [Notion](https://www.notion.so) (Windows, macOS, Android, iOS, web) - **Free version currently limited to 1000 block storage and 5MB upload limit.** - *"Write, plan, collaborate, and get organized. Notion is all you need — in one tool."*
+- :heavy_dollar_sign: [Notion](https://www.notion.so) ([Personal plan free for students](https://www.notion.so/students)) (Windows, macOS, Android, iOS, web) - **Free version currently limited to 1000 block storage and 5MB upload limit.** - *"Write, plan, collaborate, and get organized. Notion is all you need — in one tool."*
 
 #### Conversations with teams
 - [Microsoft Teams](https://teams.microsoft.com) - *"Microsoft Teams is a unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage, and application integration."* ([from Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Teams))
