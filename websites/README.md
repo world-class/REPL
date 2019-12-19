@@ -38,6 +38,7 @@
 * [Music (ideal for programming)](#music-ideal-for-programming)
 * [Online services](#online-services)
     * [Clean your inbox](#clean-your-inbox)
+    * [Diff checker (compare different files)](#diff-checker-compare-different-files)
     * [Disposable/temporary emails](#disposabletemporary-emails)
     * [File sharing & storage](#file-sharing--storage)
     * [Image hosting](#image-hosting)
@@ -203,6 +204,9 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 # Online services
 ## Clean your inbox
 - [Unroll.me](https://unroll.me) - *"Instantly see a list of all your subscription emails. Unsubscribe easily from whatever you don't want."*
+
+## Diff checker (compare different files)
+- [Diffchecker](https://www.diffchecker.com) - *"Diffchecker is a diff tool to compare text differences between two text files."* Works with images/PDF too and even through the terminal with Node.js.
 
 ## Disposable/temporary emails
 *"Disposable email addressing, also known as DEA or dark mail, refers to an approach where a unique email address is used for every contact or entity. The benefit is that if anyone compromises the address or utilises it in connection with email abuse, the address owner can easily cancel (or "dispose" of) it without affecting any of their other contacts."* ([from Wikipedia](https://en.wikipedia.org/wiki/Disposable_email_address))
