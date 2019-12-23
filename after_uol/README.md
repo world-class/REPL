@@ -23,7 +23,7 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 
 ### Doctor of Computer Science
 - [Colorado Technical University](https://www.coloradotech.edu/degrees/doctorates/computer-science)
-- [Columbia University](https://cvn.columbia.edu/program/columbia-university-computer-science-doctorate-degree-doctor-engineering)
+- [Columbia University](https://cvn.columbia.edu/program/columbia-university-computer-science-doctorate-degree-des-doctor-engineering)
 - [Northcentral University](https://www.ncu.edu/programs-degrees/doctoral/doctor-philosophy-computer-science)
 
 ### Master's Degree

@@ -189,7 +189,6 @@
 - [Wolfram Alpha](https://www.wolframalpha.com) - *"Wolfram Alpha is a computational knowledge engine or answer engine."* **(:heavy_dollar_sign: requires subscription for all features)**
 
 ## Statistics
-- [Learn How To Put Statistics To Work](http://www.learner.org/courses/againstallodds) - Annenberg Learner
 - [Statistics 20, 003 - Fall 2010](https://archive.org/details/ucberkeley-webcast-PLFCCED623A3AB020F) - UC Berkeley
 
 ## Trigonometry
