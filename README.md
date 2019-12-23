@@ -15,6 +15,8 @@
         * [Final project](#final-project)
 * [Notes (students, professors, academic background)](#notes-students-professors-academic-background)
 * [Calendar due dates and events](#calendar-due-dates-and-events)
+    * [Google Calendar](#google-calendar)
+    * [See what's the current week](#see-whats-the-current-week)
 * [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
     * [Documents](#documents)
     * [Webpages of interest](#webpages-of-interest)
@@ -161,8 +163,11 @@ relevant topic for the final project.
 
 
 # Calendar due dates and events
+## Google Calendar
 - Find out what, when and where things are happening with this [Google Calendar](https://calendar.google.com/calendar/embed?src=i8bo48kc5tnudmnn669v4m1vhs%40group.calendar.google.com).
 - **If you have a Google account**, you can follow [this link](https://calendar.google.com/calendar/r?cid=aThibzQ4a2M1dG51ZG1ubjY2OXY0bTF2aHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) instead.
+## See what's the current week
+- Find out what week we are on right now in this very semester by [following this link](https://week.atz.now.sh) (probably one of the simplest yet useful user interface you will ever see).
 
 
 # Documents and resources provided publicly by the University of London
