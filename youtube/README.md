@@ -92,9 +92,10 @@ Dan Colman
 - [UC Berkeley CS10 Beauty and Joy of Computing Fa10 (1080p HD)](https://www.youtube.com/playlist?list=PLECBD29A17AAF6EF9) (playlist) - Dan Garcia
 
 ## Algorithms
-- [Algorithms for Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) (playlist) - Harvard University
 - [Algorithm Design and Analysis](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5) (playlist) - UC Davis
 - [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://www.youtube.com/playlist?list=PLUl4u3cNGP63d33STUUBfZUpzFCVR5-PV) (playlist) - MIT OpenCourseWare - *"[...] summarizing the prerequisite complexity theory and featuring two examples of hardness proofs in games."*
+- [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY) - freeCodeCamp.org
+- [Algorithms for Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) (playlist) - Harvard University
 - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
 
 ## Compilers
