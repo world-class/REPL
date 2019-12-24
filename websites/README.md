@@ -26,6 +26,7 @@
     * [Beginner topics](#beginner-topics)
     * [Calculus](#calculus)
         * [Derivatives](#derivatives)
+    * [Discrete mathematics](#discrete-mathematics)
     * [Encryption](#encryption)
     * [Limits](#limits)
     * [Linear Algebra](#linear-algebra)
@@ -159,6 +160,8 @@
 - [Introduction to differentiation on ExamSolutions](https://www.examsolutions.net/a-level-maths/ocr/c1-tutorials/#Different) - Gradient, second derivative, tangents, normals, stationary points, increasing and decreasing functions.
 - [Introduction to differentiation II on ExamSolutions](https://www.examsolutions.net/a-level-maths/ocr/c3-tutorials/#diff) - Exponential functions, chain rule, product rule, quotient rule, reciprocal function, exam questions, connected rates of change.
 
+## Discrete mathematics
+- [Rules of Inference and Logic Proofs](http://sites.millersville.edu/bikenaga/math-proof/rules-of-inference/rules-of-inference.html) - Covers modus ponens, modus tollens, disjunctive syllogism, De Morgan's law, biconditional, conjunctions, disjunctions, equivalences, double negation.
 
 ## Encryption
 - [Part 1: How RSA Works With Examples](http://doctrina.org/How-RSA-Works-With-Examples.html) - Barry Steyn
