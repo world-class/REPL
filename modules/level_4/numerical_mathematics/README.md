@@ -33,7 +33,7 @@ of the numerical mathematical concepts and techniques that underpin
 computer science. In particular, you'll study number systems, special
 functions, graphing and linear algebra.
 
-Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/Yk0uo/syllabus-numerical-mathematics-cm1015).
+[Previous course syllabus](./resources/NM-Syllabus.pdf).
 
 # Topics covered
 
