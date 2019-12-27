@@ -13,6 +13,7 @@
     * [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
     * [Programming](#programming)
         * [JavaScript](#javascript)
+    * [Syllabus](#syllabus)
 
 <!-- vim-markdown-toc -->
 
@@ -85,3 +86,7 @@ _Specific readings for each topic are listed with direct links to free online re
     - [As EPUB](https://eloquentjavascript.net/Eloquent_JavaScript.epub);
     - [As MOBI](https://eloquentjavascript.net/Eloquent_JavaScript.mobi) (for Kindle).
 - [Handlebars Training](https://www.youtube.com/playlist?list=PLtV5RF44Yj8S4RcpQehL-2XMuVsJXwNvK), by Rich Finelli (YouTube playlist)
+
+## Syllabus
+- [Syllabus PDF (April 2019)](./resources/syllabus_WD_CM1040.pdf)
+

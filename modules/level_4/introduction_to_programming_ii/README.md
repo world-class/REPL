@@ -71,4 +71,4 @@ _"There is no required textbook for this course. Listed below are some books to 
 - See shared notes [in this section](../../../notes/introduction_to_programming_ii).
 
 ## Syllabus
-- [Syllabus PDF](./resources/Syllabus_Introduction_to_Programming_2_CM1010.pdf)
+- [Syllabus PDF (October 2019)](./resources/Syllabus_Introduction_to_Programming_2_CM1010.pdf)

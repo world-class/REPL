@@ -10,6 +10,7 @@
     * [Essential reading](#essential-reading)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [Notes](#notes)
+    * [Syllabus](#syllabus)
 
 <!-- vim-markdown-toc -->
 
@@ -25,8 +26,6 @@ representation of the functioning of a computer system, to help you to
 reason about computer systems and predict their behaviour. You'll also
 learn about typical computer system architectures, basic networking and
 network services such as databases.
-
-Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/lkOu5/syllabus-how-computers-work-syllabus-cm1030).
 
 # Topics covered
 
@@ -60,3 +59,6 @@ _You will also be asked to do some independent research from online sources or u
 
 ## Notes
 - See shared notes [in this section](../../../notes/how_computers_work).
+
+## Syllabus
+- [Syllabus PDF (April 2019)](./resources/syllabus_HCW_CM1030.pdf)

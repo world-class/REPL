@@ -30,8 +30,6 @@ variables, conditionals, functions and loops. You'll learn how to
 create interactive, graphical computer programs. You will also be
 introduced to basic object-oriented programming techniques.
 
-Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1010).
-
 # Topics covered
 
 - Your development environment
@@ -86,7 +84,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 - Python program to create directories for Sleuth cases [Make-Sleuth-Folders.py](https://github.com/BlairCurrey/Make-Sleuth-Folders)
 
 ## Syllabus
-- [Syllabus PDF](./resources/ITP1-Syllabus.pdf)
+- [Syllabus PDF (April 2019)](./resources/ITP1-Syllabus.pdf)
 
 ## Text editor
 The recommended text editor for this module is [Brackets](http://brackets.io/). More options available on the [free software page](../../../software/).

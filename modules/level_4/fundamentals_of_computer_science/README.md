@@ -58,7 +58,7 @@ _"Specific essential readings for each week from the following list are included
 - See shared notes [in this section](../../../notes/fundamentals_of_computer_science).
 
 ## Syllabus
-- [Syllabus PDF](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)
+- [Syllabus PDF (October 2019)](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)
 
 ## Weekly reading list
 - [Weekly reading list PDF](./resources/FCS_reading_list.pdf)

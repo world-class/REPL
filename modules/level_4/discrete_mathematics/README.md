@@ -80,7 +80,7 @@ _This course does not require you to read the whole book, you will be given spec
 - [Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
 
 ## Syllabus
-- [Syllabus Discrete Mathematics CM1020 PDF](./resources/Syllabus_Discrete_Mathematics_CM1020.pdf)
+- [Syllabus PDF (October 2019)](./resources/Syllabus_Discrete_Mathematics_CM1020.pdf)
 
 ## Videos
 - [YouTube](https://github.com/world-class/REPL/tree/master/youtube#discrete-mathematics) (on REPL)
