@@ -44,6 +44,7 @@
     * [File sharing & storage](#file-sharing--storage)
     * [Image hosting](#image-hosting)
     * [Manage your privacy](#manage-your-privacy)
+    * [Receive SMS](#receive-sms)
 * [Open source](#open-source)
 * [Programming](#programming)
     * [App monitoring](#app-monitoring)
@@ -244,6 +245,8 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 ## Manage your privacy
 - [Firefox Monitor](https://monitor.firefox.com) - *"See if you’ve been part of an online data breach. Find out what hackers already know about you. [...] If your information surfaces in a new data breach, we’ll send you an alert. [...] Get ongoing breach monitoring for multiple email addresses."*
 
+## Receive SMS
+- [Receive SMS](https://receive-smss.com) - *"receive-smss.com is a free service for receiving SMS messages and voice mails online. There is no need to register. Just select your phone number from the list below. You can use it to receive messages from Facebook, Telegram, WeChat, VK, PayPal, AliPay and more."*
 
 # Open source
 - [Open Source Guides](https://opensource.guide) - *"Open source software is made by people just like you. Learn how to launch and grow your project."*
