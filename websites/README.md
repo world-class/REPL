@@ -213,6 +213,7 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 
 ## Disposable/temporary emails
 *"Disposable email addressing, also known as DEA or dark mail, refers to an approach where a unique email address is used for every contact or entity. The benefit is that if anyone compromises the address or utilises it in connection with email abuse, the address owner can easily cancel (or "dispose" of) it without affecting any of their other contacts."* ([from Wikipedia](https://en.wikipedia.org/wiki/Disposable_email_address))
+- [10 Minute Mail](https://10minutemail.net) - *"10minutemail.net is a free, disposable e-mail service. Your temporary e-mail address will expire after 10 minutes, after which you cannot access it. You can extend the time by 10 minutes."*
 - [Spamgourmet](https://www.spamgourmet.com) - Customize disposable emails on the fly.
 - [Temp Mail Address](https://www.tempmailaddress.com) - Get an email assigned live that will expire according to your needs.
 - [Temp Mail](https://temp-mail.org) - Automatically get assigned a temporary account where you can see in real time your emails coming in.
