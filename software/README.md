@@ -337,6 +337,7 @@
 - [OneNote](https://www.onenote.com) (Windows, macOS, Android, iOS, web) - *"Microsoft OneNote is a program for free-form information gathering and multi-user collaboration. It gathers users' notes, drawings, screen clippings and audio commentaries. Notes can be shared with other OneNote users over the Internet or a network."* ([from Wikipedia](https://en.wikipedia.org/wiki/Microsoft_OneNote)
 - :star: :cloud: [Simplenote](https://simplenote.com) (Windows, macOS, Linux, Android, iOS, web) - *The simplest way to keep notes. Light, clean, and free.*
 - [Typora](https://www.typora.io) (Windows, macOS, Linux) - *"Typora is a minimal markdown editor, providing new ways for reading and writing markdown. It is currently in beta. Typora is commercial software (not open source), but is free during beta."*
+- [Vimwiki](https://github.com/vimwiki/vimwiki) (Windows, macOS, Linux) - *"VimWiki is a personal wiki for Vim -- a number of linked text files that have their own syntax highlighting. With VimWiki you can: organize notes and ideas; manage to-do lists; write documentation; maintain a diary; export everything to HTML."*
 
 #### Tasks and project management
 - :cloud: [Asana](https://asana.com) - *Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business.*
