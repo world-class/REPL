@@ -42,6 +42,7 @@
     * [Diff checker (compare different files)](#diff-checker-compare-different-files)
     * [Disposable/temporary emails](#disposabletemporary-emails)
     * [File sharing & storage](#file-sharing--storage)
+    * [Gantt charts](#gantt-charts)
     * [Image hosting](#image-hosting)
     * [Manage your privacy](#manage-your-privacy)
     * [Receive SMS](#receive-sms)
@@ -79,6 +80,8 @@
     * [Information on websites](#information-on-websites)
     * [Website annotation](#website-annotation)
     * [Website testing](#website-testing)
+* [Web development](#web-development)
+    * [Tools](#tools)
 
 <!-- vim-markdown-toc -->
 
@@ -229,6 +232,9 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 - [pCloud](https://www.pcloud.com) - **10GB Free**. *"pCloud is the secure cloud storage, where you can store, share and work on all your files. You can access them on any device, anywhere you go!"*
 - [Sync](https://www.sync.com) - **5 GB of secure file storage with basic sharing features**. 2048-bit RSA, SSL/TLS encryption, end-to-end encryption, 30 days version history, restore & rewind, password protected sharing, remote device lockout.
 - [WeTransfer](https://wetransfer.com) - Free: Send up to **2GB** with **7 days** file expiration.
+
+## Gantt charts
+- [Teamgantt](https://teamgantt.com) - *"TeamGantt is the refreshing solution that brings project scheduling software online. You can now plan and manage your projects with this super-easy-to-use gantt software. Inviting your co-workers, teammates, and friends to view and edit your gantt chart is simple and fun."*
 
 ## Image hosting
 - [500px](https://web.500px.com) - Primarily used to showcase photography.
@@ -383,3 +389,10 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 ## Website testing
 - [CodePen](https://codepen.io) - *"CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them.*" ([from Wikipedia](https://en.wikipedia.org/wiki/CodePen))
 - [JSFiddle](https://jsfiddle.net) - *"JSFiddle is an online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets, known as 'fiddles'. It allows for simulated AJAX calls."* ([from Wikipedia](https://en.wikipedia.org/wiki/JSFiddle))
+
+# Web development
+## Tools
+- [Color Hunt](https://colorhunt.co) - *"Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes."*
+- [Coolors](https://coolors.co) - *"The super fast color schemes generator! Create, save and share perfect palettes in seconds!"*
+- [HTML Color Codes](https://htmlcolorcodes.com) - *"Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names."*
+- [Real Favicon Generator](https://realfavicongenerator.net) - *"Favicon Generator. For real."*
