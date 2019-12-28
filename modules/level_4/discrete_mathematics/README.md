@@ -54,6 +54,7 @@ One two hour unseen written examination and coursework (Type I)
 - [Discrete Mathematics Questions and Answers](https://www.sanfoundry.com/1000-discrete-mathematics-questions-answers) - *"Our 1000+ Discrete Mathematics questions and answers focuses on all areas of Discrete Mathematics subject covering 100+ topics in Discrete Mathematics."*
 - [Matching (Graph Theory)](https://brilliant.org/wiki/matching) - *"Definition, terminology, bipartite matching, examples."*
 - [Set Theory for Computer Science](./resources/set_theory_for_computer_science.pdf)
+- [Solving Linear Recurrence Relations](./resources/solving_linear_recurrence_relations.pdf) - From University of California, Berkeley, [from this page](https://math.berkeley.edu/~arash/55/8_2.pdf).
 
 ## Essential reading
 _"The essentials readings for this course will come from the following text book, which is  available in the University of London digital library:_
