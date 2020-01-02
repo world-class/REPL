@@ -27,6 +27,8 @@
     * [Calculus](#calculus)
         * [Derivatives](#derivatives)
     * [Discrete mathematics](#discrete-mathematics)
+        * [Graph theory](#graph-theory)
+        * [Rules of inference - logic proofs](#rules-of-inference---logic-proofs)
     * [Encryption](#encryption)
     * [Limits](#limits)
     * [Linear Algebra](#linear-algebra)
@@ -165,7 +167,10 @@
 - [Introduction to differentiation II on ExamSolutions](https://www.examsolutions.net/a-level-maths/ocr/c3-tutorials/#diff) - Exponential functions, chain rule, product rule, quotient rule, reciprocal function, exam questions, connected rates of change.
 
 ## Discrete mathematics
+### Graph theory
+- [D3 Graph Theory](https://d3gt.com) - *"Learn graph theory interactively."*
 - [Matching (Graph Theory)](https://brilliant.org/wiki/matching) - *"Definition, terminology, bipartite matching, examples."*
+### Rules of inference - logic proofs
 - [Rules of Inference and Logic Proofs](http://sites.millersville.edu/bikenaga/math-proof/rules-of-inference/rules-of-inference.html) - Covers modus ponens, modus tollens, disjunctive syllogism, De Morgan's law, biconditional, conjunctions, disjunctions, equivalences, double negation.
 
 ## Encryption
