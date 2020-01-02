@@ -13,9 +13,9 @@
     * [Mathematical symbols](#mathematical-symbols)
     * [Mid-term question sheet](#mid-term-question-sheet)
     * [Notes](#notes)
+    * [On REPL](#on-repl)
     * [Solutions to Discrete Mathematics and its Applications (2012) 7th Edition](#solutions-to-discrete-mathematics-and-its-applications-2012-7th-edition)
     * [Syllabus](#syllabus)
-    * [Videos](#videos)
     * [Weekly readings](#weekly-readings)
 
 <!-- vim-markdown-toc -->
@@ -77,14 +77,15 @@ _This course does not require you to read the whole book, you will be given spec
 ## Notes
 - See shared notes [in this section](../../../notes/discrete_mathematics).
 
+## On REPL
+- [Websites](https://github.com/world-class/REPL/tree/master/websites#discrete-mathematics)
+- [YouTube](https://github.com/world-class/REPL/tree/master/youtube#discrete-mathematics)
+
 ## Solutions to Discrete Mathematics and its Applications (2012) 7th Edition
 - [Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
 
 ## Syllabus
 - [Syllabus PDF (October 2019)](./resources/Syllabus_Discrete_Mathematics_CM1020.pdf)
-
-## Videos
-- [YouTube](https://github.com/world-class/REPL/tree/master/youtube#discrete-mathematics) (on REPL)
 
 ## Weekly readings
 - [Reading by weeks and topics PDF](./resources/DM_Reading.pdf)
