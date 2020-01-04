@@ -98,25 +98,25 @@ To get started on that learning path, please refer to the following web pages:
 # Modules in the curriculum
 
 ## Level 4 (year 1+)
-- [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) (CM1035-01)
-- [Discrete Mathematics](modules/level_4/discrete_mathematics) (CM1020-01)
-- [Fundamentals of Computer Science](modules/level_4/fundamentals_of_computer_science) (CM1025-01)
-- [How Computers Work](modules/level_4/how_computers_work) (CM1030-01)
-- [Introduction to Programming I](modules/level_4/introduction_to_programming_i) (CM1005-01)
-- [Introduction to Programming II](modules/level_4/introduction_to_programming_ii) (CM1010-01)
-- [Numerical Mathematics](modules/level_4/numerical_mathematics) (CM1015-01) **(Not available for October 2019-March 2020)**
-- [Web Development](modules/level_4/web_development) (CM1040-01)
+- [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) (**CM1035**, _written exam_)
+- [Discrete Mathematics](modules/level_4/discrete_mathematics) (**CM1020**, _written exam_)
+- [Fundamentals of Computer Science](modules/level_4/fundamentals_of_computer_science) (**CM1025**, _written exam_)
+- [How Computers Work](modules/level_4/how_computers_work) (**CM1030**, _written exam_)
+- [Introduction to Programming I](modules/level_4/introduction_to_programming_i) (**CM1005**)
+- [Introduction to Programming II](modules/level_4/introduction_to_programming_ii) (**CM1010**)
+- [Numerical Mathematics](modules/level_4/numerical_mathematics) (**CM1015**, _written exam_) **(Not available for October 2019-March 2020)**
+- [Web Development](modules/level_4/web_development) (**CM1040**)
 
 
 ## Level 5 (year 2+)
-- [Object Oriented Programming](modules/level_5/object_oriented_programming) (CM2005-01)
-- [Software Design and Development](modules/level_5/software_design_and_development) (CM2010-01)
-- [Programming with Data](modules/level_5/programming_with_data) (CM2015-01)
-- [Agile Software Projects](modules/level_5/agile_software_projects) (CM2020-01)
-- [Computer Security](modules/level_5/computer_security) (CM2025-01)
-- [Graphics Programming](modules/level_5/graphics_programming) (CM2030-01)
-- [Algorithms and Data Structures II](modules/level_5/algorithms_and_data_structures_ii) (CM2035-01)
-- [Databases, Networks and the Web](modules/level_5/databases_networks_and_the_web) (CM2040-01)
+- [Agile Software Projects](modules/level_5/agile_software_projects) (**CM2020**)
+- [Algorithms and Data Structures II](modules/level_5/algorithms_and_data_structures_ii) (**CM2035**, _written exam_)
+- [Computer Security](modules/level_5/computer_security) (**CM2025**, _written exam_)
+- [Databases, Networks and the Web](modules/level_5/databases_networks_and_the_web) (**CM2040**, _written exam_)
+- [Graphics Programming](modules/level_5/graphics_programming) (**CM2030**)
+- [Object Oriented Programming](modules/level_5/object_oriented_programming) (**CM2005**)
+- [Programming with Data](modules/level_5/programming_with_data) (**CM2015**, _written exam_)
+- [Software Design and Development](modules/level_5/software_design_and_development) (**CM2010**, _written exam_)
 
 
 ## Level 6 (year 3+)
@@ -125,37 +125,37 @@ need to be taken along with a final project in order to graduate. A
 student may either choose a specialism (see below) but may also opt
 against a specialism to be able to study any **6** of the following
 modules.
-- [3D Graphics and Animation](modules/level_6/cm_3045) (CM3045)
-- [Advanced Web Development](modules/level_6/cm_3035) (CM3035)
-- [Artificial Intelligence](modules/level_6/cm_3020) (CM3020)
-- [Data Science](modules/level_6/cm_3005) (CM3005)
-- [Databases and Advanced Data Techniques](modules/level_6/cm_3010) (CM3010)
-- [Games Development](modules/level_6/cm_3030) (CM3030)
-- [Intelligent Signal Processing](modules/level_6/cm_3065) (CM3065)
-- [Interaction Design](modules/level_6/cm_3055) (CM3055)
-- [Machine Learning and Neural Networks](modules/level_6/cm_3015) (CM3015)
-- [Mobile Development](modules/level_6/cm_3050) (CM3050)
-- [Natural Language Processing](modules/level_6/cm_3060) (CM3060)
-- [Physical Computing and Internet of Things](modules/level_6/cm_3040) (CM3040)
-- [Virtual Reality](modules/level_6/cm_3025) (CM3025)
+- [3D Graphics and Animation](modules/level_6/cm_3045) (**CM3045**, _written exam_)
+- [Advanced Web Development](modules/level_6/cm_3035) (**CM3035**)
+- [Artificial Intelligence](modules/level_6/cm_3020) (**CM3020**, _written exam_)
+- [Data Science](modules/level_6/cm_3005) (**CM3005**)
+- [Databases and Advanced Data Techniques](modules/level_6/cm_3010) (**CM3010**, _written exam_)
+- [Games Development](modules/level_6/cm_3030) (**CM3030**, _written exam_)
+- [Intelligent Signal Processing](modules/level_6/cm_3065) (**CM3065**)
+- [Interaction Design](modules/level_6/cm_3055) (**CM3055**, _written exam_)
+- [Machine Learning and Neural Networks](modules/level_6/cm_3015) (**CM3015**, _written exam_)
+- [Mobile Development](modules/level_6/cm_3050) (**CM3050**)
+- [Natural Language Processing](modules/level_6/cm_3060) (**CM3060**, _written exam_)
+- [Physical Computing and Internet of Things](modules/level_6/cm_3040) (**CM3040**)
+- [Virtual Reality](modules/level_6/cm_3025) (**CM3025**, _written exam_)
 
 ### Specialisms
 Each specialism contains five prescribed modules from the above 13. All
 five must be completed along with one elective module from any other
 specialism. The specialisms are:
-- [Data Science](modules/level_6/data_science) (CM3005-01)
-- [Games Development](modules/level_6/games_dev) (CM3030-01)
-- [Machine Learning & Artificial Intelligence](modules/level_6/ml_ai) (CM3020-01)
-- [Physical Computing & the Internet of Things](modules/level_6/phys_computing_iot) (CM3040-01)
-- [User Experience](modules/level_6/user_experience) (CM3055-01)
-- [Virtual Reality](modules/level_6/virtual_reality) (CM3025-01)
-- [Web & Mobile Development](modules/level_6/web_mobile_dev) (CM3035-01)
+- [Data Science](modules/level_6/data_science) (**CM3005**)
+- [Games Development](modules/level_6/games_dev) (**CM3030**)
+- [Machine Learning & Artificial Intelligence](modules/level_6/ml_ai) (**CM3020**)
+- [Physical Computing & the Internet of Things](modules/level_6/phys_computing_iot) (**CM3040**)
+- [User Experience](modules/level_6/user_experience) (**CM3055**)
+- [Virtual Reality](modules/level_6/virtual_reality) (**CM3025**)
+- [Web & Mobile Development](modules/level_6/web_mobile_dev) (**CM3035**)
 
 ### Final project
 A final project must also be completed to graduate. If a student is
 opting for a specialism, they are strongly encouraged to select a
 relevant topic for the final project.
-- [Final Project](modules/level_6/final_project) (CM3070-01)
+- [Final Project](modules/level_6/final_project) (**CM3070**, _written exam_)
 
 
 # Notes (students, professors, academic background)
@@ -234,20 +234,20 @@ More software options for video conferencing on [this page](/software).
 
 
 # Contributors
-- Aleksandar Milosevic ([@amilos](https://github.com/amilos))
-- Ankush Menat ([@amenat](https://github.com/amenat))
-- Anthony Morris ([@amorriscode](https://github.com/amorriscode))
-- Arjun Muralidharan ([@arjunwritescode](https://github.com/arjunwritescode))
-- Blair Currey ([@BlairCurrey](https://github.com/BlairCurrey))
-- Chris Castelo ([@ChrisCastelo](https://github.com/ChrisCastelo))
-- Danny Callaghan ([@dannycallaghan](https://github.com/dannycallaghan))
-- David Moreno ([@damog](https://github.com/damog))
-- Diego Cabrejas ([@dcabrejas](https://github.com/dcabrejas))
-- Felipe Balbi ([@felipebalbi](https://github.com/felipebalbi))
-- Gareth Erskine-Jones ([@gsej](https://github.com/gsej))
-- Irfanullah Jan ([@irfanullahjan](https://github.com/irfanullahjan))
-- Kajetan Maurycy Olszewski ([@kaemo](https://github.com/kaemo))
-- Michał Żuber ([@zubmic](https://github.com/zubmic))
-- Ryan Slevin ([@ryanslevin](https://github.com/ryanslevin))
-- Spencer Eick ([@eicksl](https://github.com/eicksl))
-- Sébastien Lavoie ([@sglavoie](https://github.com/sglavoie))
+- Aleksandar Milosevic [[@amilos](https://github.com/amilos)]
+- Ankush Menat [[@amenat](https://github.com/amenat)]
+- Anthony Morris [[@amorriscode](https://github.com/amorriscode)]
+- Arjun Muralidharan [[@arjunwritescode](https://github.com/arjunwritescode)]
+- Blair Currey [[@BlairCurrey](https://github.com/BlairCurrey)]
+- Chris Castelo [[@ChrisCastelo](https://github.com/ChrisCastelo)]
+- Danny Callaghan [[@dannycallaghan](https://github.com/dannycallaghan)]
+- David Moreno [[@damog](https://github.com/damog)]
+- Diego Cabrejas [[@dcabrejas](https://github.com/dcabrejas)]
+- Felipe Balbi [[@felipebalbi](https://github.com/felipebalbi)]
+- Gareth Erskine-Jones [[@gsej](https://github.com/gsej)]
+- Irfanullah Jan [[@irfanullahjan](https://github.com/irfanullahjan)]
+- Kajetan Maurycy Olszewski [[@kaemo](https://github.com/kaemo)]
+- Michał Żuber [[@zubmic](https://github.com/zubmic)]
+- Ryan Slevin [[@ryanslevin](https://github.com/ryanslevin)]
+- Spencer Eick [[@eicksl](https://github.com/eicksl)]
+- Sébastien Lavoie [[@sglavoie](https://github.com/sglavoie)]
