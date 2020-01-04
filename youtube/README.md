@@ -66,6 +66,7 @@
 
 # Artificial intelligence
 - [IIT Madras - Artificial Intelligence](https://www.youtube.com/playlist?list=PLbMVogVj5nJQu5qwm-HmJgjmeGhsErvXD) (playlist) - NPTEL
+- [Lex Fridman](https://www.youtube.com/lexfridman) - Podcast, deep learning, self-driving cars, research.
 - [MIT 6.034 Artificial intelligence](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) (playlist) - MIT OpenCourseWare
 
 ## Deep learning
