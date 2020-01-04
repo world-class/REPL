@@ -1,9 +1,39 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
+# Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Computer Security](#computer-security)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+
+<!-- vim-markdown-toc -->
+
+---
+
 # Computer Security
-The Computer Security module gives you an understanding of the need
-for computer security and the technologies supporting it. It has both
-a theoretical component that will teach you mathematical underpinnings
-of security systems and a practical element to help you discover the
-pitfalls of security design and comprehend the mathematics underlying
-the protocols by small programming examples.
+
+This module aims to provide you with an understanding of the need for
+computer security and the technologies that support it. It has both a
+theoretical component that will teach you mathematical underpinnings
+of security systems and a practical element that will help you
+discover the pitfalls of security design and to comprehend the
+mathematics underlying the protocols by programming small examples.
+
+# Topics covered
+
+- Security threats
+- Social Issues in Computer Security
+- Access Control and Authentication
+- Security Models
+- Operating System Security
+- Network security
+- Cryptography
+- Cryptographic protocols and key management
+- Public Key Cryptography
+- Blockchain protocols
+
+
+# Assessment
+
+One two hour unseen written examination and coursework (Type I)
