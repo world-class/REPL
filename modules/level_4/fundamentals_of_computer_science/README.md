@@ -9,6 +9,7 @@
 * [Resources](#resources)
     * [Essential reading](#essential-reading)
     * [Notes](#notes)
+    * [Study guide](#study-guide)
     * [Syllabus](#syllabus)
     * [Weekly reading list](#weekly-reading-list)
 
@@ -56,6 +57,9 @@ _"Specific essential readings for each week from the following list are included
 
 ## Notes
 - See shared notes [in this section](../../../notes/fundamentals_of_computer_science).
+
+## Study guide
+- [Resources compiled by Hassan Sarhan](https://github.com/h-sarhan/FCS-study-guide).
 
 ## Syllabus
 - [Syllabus PDF (October 2019)](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)
