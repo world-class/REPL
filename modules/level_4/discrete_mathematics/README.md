@@ -80,6 +80,16 @@ _This course does not require you to read the whole book, you will be given spec
 ## On REPL
 - [Websites](https://github.com/world-class/REPL/tree/master/websites#discrete-mathematics)
 - [YouTube](https://github.com/world-class/REPL/tree/master/youtube#discrete-mathematics)
+    - [Computer Sc - Discrete Mathematical Structures](https://www.youtube.com/view_play_list?p=0862D1A947252D20) (playlist) - Kamala Krithivasan
+    - [Dijkstra's Shortest Path Algorithm | Graph Theory](https://www.youtube.com/watch?v=pSqmAO-m7Lk)
+    - [Discrete Math 1: Sets, propositional logic, factorials, permutations, combinations, proofs, mathematical induction, injective/surjective/bijective functions, inverse functions, algorithms](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) (playlist) - TheTrevTutor
+    - [Discrete Math 2: Permutations, combinations, probability, graph theory, trees, Dijkstra's Algorithm](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2) (playlist) - TheTrevTutor
+    - [Discrete Math I](https://www.youtube.com/watch?v=OApHaIMKMJE&list=PLl-gb0E4MII0L5lz8uQ8j5aSFQQHoAzXx) (playlist) - Kimberly Brehm
+    - [Discrete mathematics](https://www.youtube.com/watch?v=2juspgYR7as&list=PLsFENPUZBqioyqffh3YZ2pKUg4uZFQJUY) (playlist) - GATEBOOK Video Lectures
+    - [Hopcroft–Karp algorithm](https://www.youtube.com/watch?v=lM5eIpF0xjA) -  Joromy Bou Khalil
+    - Recurrence relations: see lectures 14-15 of [Mathematics for Computer Science (2010)](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B) (playlist) - MIT OpenCourseWare
+    - [Sets, sequences, functions, summations, matrices, algorithms](https://www.youtube.com/watch?v=ZMhoRLGNR5Y&list=PLl-gb0E4MII0HmmhGXBIFGppSSqqy_mV-) (playlist) - Kimberly Brehm
+    - [The Karnaugh Map - Rules of Simplification](https://www.youtube.com/watch?v=PA0kBrpHLM4) - Jonnie Palmer
 
 ## Solutions to Discrete Mathematics and its Applications (2012) 7th Edition
 - [Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
