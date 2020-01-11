@@ -63,7 +63,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 - [JavaScript Array Iteration Methods](https://www.w3schools.com/js/js_array_iteration.asp) - Will help in making your code more concise and readable.
 
 ## Kinks to be aware of
-- [List of reported errors and bugs with the module](../../../kinks/level4/introduction_to_programming_i/).
+- [List of reported errors and bugs with the module](../../../kinks/level_4/introduction_to_programming_i/).
 
 ## Notes
 - See shared notes [in this section](../../../notes/introduction_to_programming_i).

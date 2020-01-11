@@ -68,7 +68,7 @@ _In addition to the text book, there are additional reading activities written b
 _There will also be discussion prompts asking you to do some independent research using online sources."_
 
 ## Kinks to be aware of
-- [List of reported errors and bugs with the module](../../../kinks/level4/algorithms_and_data_structures_i/).
+- [List of reported errors and bugs with the module](../../../kinks/level_4/algorithms_and_data_structures_i/).
 
 ## Notes
 - See shared notes [in this section](../../../notes/algorithms_and_data_structures_i).

@@ -11,13 +11,13 @@
 ---
 
 # Kinks found in Level 4 modules
-- [Algorithms and Data Structures I](../kinks/level4/algorithms_and_data_structures_i/README.md)
-- [Discrete Mathematics](../kinks/level4/discrete_mathematics/README.md)
-- [How Computers Work](../kinks/level4/how_computers_work/README.md)
-- [Introduction to Programming II](../kinks/level4/introduction_to_programming_ii/README.md)
-- [Introduction to Programming I](../kinks/level4/introduction_to_programming_i/README.md)
-- [Numerical Mathematics](../kinks/level4/numerical_mathematics/README.md)
-- [Web Development](../kinks/level4/web_development/README.md)
+- [Algorithms and Data Structures I](../kinks/level_4/algorithms_and_data_structures_i/README.md)
+- [Discrete Mathematics](../kinks/level_4/discrete_mathematics/README.md)
+- [How Computers Work](../kinks/level_4/how_computers_work/README.md)
+- [Introduction to Programming II](../kinks/level_4/introduction_to_programming_ii/README.md)
+- [Introduction to Programming I](../kinks/level_4/introduction_to_programming_i/README.md)
+- [Numerical Mathematics](../kinks/level_4/numerical_mathematics/README.md)
+- [Web Development](../kinks/level_4/web_development/README.md)
 
 
 # Note to future students

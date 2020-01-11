@@ -69,7 +69,7 @@ _Specific readings for each topic are listed with direct links to free online re
 - [Service Workies](https://serviceworkies.com/) - *"Learn Service Workers inside and out with the new game of Service Worker mastery."*
 
 ## Kinks to be aware of
-- [List of reported errors and bugs with the module](../../../kinks/level4/web_development/).
+- [List of reported errors and bugs with the module](../../../kinks/level_4/web_development/).
 
 ## On REPL (See sections on Web development)
 - [Podcasts](../../../podcasts/)

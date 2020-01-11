@@ -65,7 +65,7 @@ _"There is no required textbook for this course. Listed below are some books to 
 - [Responsive website basics: code with HTML, CSS, and JavaScript](https://www.coursera.org/learn/website-coding) (Coursera)
 
 ## Kinks to be aware of
-- [List of reported errors and bugs with the module](../../../kinks/level4/introduction_to_programming_ii/).
+- [List of reported errors and bugs with the module](../../../kinks/level_4/introduction_to_programming_ii/).
 
 ## Notes
 - See shared notes [in this section](../../../notes/introduction_to_programming_ii).

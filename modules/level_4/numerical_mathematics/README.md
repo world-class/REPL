@@ -107,7 +107,7 @@ One two hour unseen written examination and coursework (Type I)
 - [Past exam papers in Computing](https://www.whatdotheyknow.com/request/past_exam_papers_in_computing_2) - The relevant files for this module are `IS51026A_2015.pdf`, `IS51026A_2016.pdf`, `IS51026A_2017.pdf` and `IS51026B_2018.pdf`.
 
 ## Kinks to be aware of
-- [List of reported errors and bugs with the module](../../../kinks/level4/numerical_mathematics/).
+- [List of reported errors and bugs with the module](../../../kinks/level_4/numerical_mathematics/).
 
 ## Notes
 - See shared notes [in this section](../../../notes/numerical_mathematics).

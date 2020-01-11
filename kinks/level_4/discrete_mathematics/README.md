@@ -10,6 +10,7 @@
     * [Additional resources](#additional-resources)
         * [Rosen, K.H. Discrete mathematics and its applications. (New York: McGraw-Hill, 2012) 7th edition [ISBN 978-0073383095]](#rosen-kh-discrete-mathematics-and-its-applications-new-york-mcgraw-hill-2012-7th-edition-isbn-978-0073383095)
             * [Page 46](#page-46)
+            * [Page 656](#page-656)
 
 <!-- vim-markdown-toc -->
 
@@ -28,4 +29,9 @@ If the simulation fails to load, it can occur due to the hardware acceleration o
 #### Page 46
 The negation symbol (**¬**) is missing where the red arrow is pointing.
 
-![Rosen p46](images/rosen_p46.png)
+![Rosen p46](./images/rosen_p46.png)
+
+#### Page 656
+The definition being referred to should be _Definition 6_, **not** _Definition 5_.
+
+![Rosen p656](./images/rosen_p656.png)
