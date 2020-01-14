@@ -14,6 +14,7 @@
     * [Notes](#notes)
     * [On REPL](#on-repl)
     * [Solutions to Discrete Mathematics and its Applications (2012) 7th Edition](#solutions-to-discrete-mathematics-and-its-applications-2012-7th-edition)
+    * [Supplementary videos](#supplementary-videos)
     * [Syllabus](#syllabus)
     * [Weekly readings](#weekly-readings)
 
@@ -89,6 +90,20 @@ _This course does not require you to read the whole book, you will be given spec
 
 ## Solutions to Discrete Mathematics and its Applications (2012) 7th Edition
 - [Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
+
+## Supplementary videos
+| Weeks in the module | Resource |
+| ------------------- | --- |
+| 1 & 2 Sets | [TheTrevTutor DM Video 1-9](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) |
+| 3 & 4 Functions | [TheTrevTutor DM Video 51-56](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) |
+| 5 & 6 Propositional logic | [Introduction to mathematical thinking (0.0 - 4.3)](https://www.youtube.com/playlist?list=PL_onPhFCkVQiZgE9U539_QmKLJV_0YvlQ) |
+| 7 & 8 Predicate logic | [Introduction to mathematical thinking (5.1 - 6.4)](https://www.youtube.com/playlist?list=PL_onPhFCkVQiZgE9U539_QmKLJV_0YvlQ) |
+| 9 & 10 Boolean Algebra | [Karnaugh maps - (watch 4.2.1 - 4.2.5)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/c4/c4s2/) |
+| 11 & 12 Induction and recursion | - [Introduction to mathematical thinking (7.1 - 8.4)](https://www.youtube.com/playlist?list=PL_onPhFCkVQiZgE9U539_QmKLJV_0YvlQ) <br> - [Math for CS - MIT (Lecture 1, 2, 3, 14 and 15 and reading from MCS notes)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) |
+| 13 & 14 Graphs | - [Math for CS - MIT (Lecture 6 to 10 and reading from MCS notes)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) <br> - [FreeCodeCamp - Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY) (focuses more on implementation than theory) |
+| 15 & 16 Trees | Partly covered in Math for CS - MIT videos for 13/14. |
+| 17 & 18 Relations | [Math for CS - MIT (Lecture 11 and reading from MCS notes)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) |
+| 19 & 20 Combinatorics | [Math for CS - MIT (Lecture 16 and 17 and reading from MCS notes)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) |
 
 ## Syllabus
 - [Syllabus PDF (October 2019)](./resources/Syllabus_Discrete_Mathematics_CM1020.pdf)
