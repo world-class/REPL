@@ -11,8 +11,9 @@
         * [Modules level 4](#modules-level-4)
         * [Specialisms](#specialisms)
     * [How to use Slack](#how-to-use-slack)
-* [Slack app integrations](#slack-app-integrations)
-    * [GreetBot](#greetbot)
+* [For developers & Contributors](#for-developers--contributors)
+    * [Slack app integrations](#slack-app-integrations)
+        * [GreetBot](#greetbot)
 
 <!-- vim-markdown-toc -->
 
@@ -21,7 +22,7 @@
 Don't forget to check out the right channels on Slack that will be best suited to help you!
 
 #### Fun channels
-| Name              | Purpose                                               |
+| Channel           | Purpose                                               |
 | ----------------- | ----------------------------------------------------- |
 | `#hackathons`     | Organise coding challenges                            |
 | `#hacking`        | Ethical hacking / general InfoSec stuff               |
@@ -35,7 +36,7 @@ Don't forget to check out the right channels on Slack that will be best suited t
 | `#uol_game-jam`   | Group for organising game jams                        |
 
 #### Help and resources
-| Name                          | Purpose                                   |
+| Channel                       | Purpose                                   |
 | ----------------------------- | ----------------------------------------- |
 | `#advanceddegree`             | Everything related to advanced degree(s)  |
 | `#askpreviouscohorts`         | Asking previous cohorts questions related to the programme                                                                   |
@@ -66,24 +67,27 @@ Don't forget to check out the right channels on Slack that will be best suited t
 All channels starting with `#asg` for **Accountable Study Groups**.
 
 #### Modules level 4
-- `#cm1005-intro-prog-i` - [Introduction to programming I](../modules/level_4/introduction_to_programming_i/README.md)
-- `#cm1010-intro-prog-ii` - [Introduction to programming II](../modules/level_4/introduction_to_programming_ii/README.md)
-- `#cm1015-numerical-math` - [Numerical mathematics](../modules/level_4/numerical_mathematics/README.md)
-  - `#cm1015-sample-paper` - Sample paper for numerical mathematics
-- `#cm1020-discrete-math` - [Discrete mathematics](../modules/level_4/discrete_mathematics/README.md)
-- `#cm1025-fundamental-cs` - [Fundamentals of computer science](../modules/level_4/fundamentals_of_computer_science/README.md)
-- `#cm1030-hcw` - [How computers work](../modules/level_4/how_computers_work/README.md)
-- `#cm1035-algos-data-i` - [Algorithms and data structures I](../modules/level_4/algorithms_and_data_structures_i/README.md)
-- `#cm1040-web-dev` - [Web development](../modules/level_4/web_development/README.md)
+| Channel                                               | Module name                                                                                                               |
+| ---------------------------------------------------   | ----------------------------------------------------------------------------------------------------------------------    |
+| `#cm1005-intro-prog-i`                                | [Introduction to programming I](../modules/level_4/introduction_to_programming_i/README.md)                               |
+| `#cm1010-intro-prog-ii`                               | [Introduction to programming II](../modules/level_4/introduction_to_programming_ii/README.md)                             |
+| `#cm1015-numerical-math` <br>- `#cm1015-sample-paper` | [Numerical mathematics](../modules/level_4/numerical_mathematics/README.md) <br> - Sample paper for numerical mathematics |
+| `#cm1020-discrete-math`                               | [Discrete mathematics](../modules/level_4/discrete_mathematics/README.md)                                                 |
+| `#cm1025-fundamental-cs`                              | [Fundamentals of computer science](../modules/level_4/fundamentals_of_computer_science/README.md)                         |
+| `#cm1030-hcw`                                         | [How computers work](../modules/level_4/how_computers_work/README.md)                                                     |
+| `#cm1035-algos-data-i`                                | [Algorithms and data structures I](../modules/level_4/algorithms_and_data_structures_i/README.md)                         |
+| `#cm1040-web-dev`                                     | [Web development](../modules/level_4/web_development/README.md)                                                           |
 
 #### Specialisms
-- `#data_science` - [Data Science](../modules/level_6/data_science/README.md)
-- `#gamedev` - [Game Development](../modules/level_6/games_dev/README.md)
-- `#iot` - [Internet of Things](../modules/level_6/phys_computing_iot/README.md)
-- `#mlai` - [Machine Learning & Artificial Intelligence](../modules/level_6/ml_ai/README.md)
-- `#ux` - [User Experience](../modules/level_6/user_experience/README.md)
-- `#vr` - [Virtual Reality](../modules/level_6/virtual_reality/README.md)
-- `#webdev` - [Web and Mobile Development](../modules/level_6/web_mobile_dev/README.md)
+| Channel          | Specialism                                                                       |
+| ---------------- | -------------------------------------------------------------------------------- |
+| `#data_science`  | [Data Science](../modules/level_6/data_science/README.md)                        |
+| `#gamedev`       | [Game Development](../modules/level_6/games_dev/README.md)                       |
+| `#iot`           | [Internet of Things](../modules/level_6/phys_computing_iot/README.md)            |
+| `#mlai`          | [Machine Learning & Artificial Intelligence](../modules/level_6/ml_ai/README.md) |
+| `#ux`            | [User Experience](../modules/level_6/user_experience/README.md)                  |
+| `#vr`            | [Virtual Reality](../modules/level_6/virtual_reality/README.md)                  |
+| `#webdev`        | [Web and Mobile Development](../modules/level_6/web_mobile_dev/README.md)        |
 
 ### How to use Slack
 - [Available shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)
@@ -92,8 +96,9 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 - [Slack help center](https://get.slack.help/hc/en-us) for anything else
 
 
-## Slack app integrations
-### GreetBot
+## For developers & Contributors
+### Slack app integrations
+#### GreetBot
 [GreetBot](https://greet.bot/) welcomes new students joining the workspace to guide them on their journey from the very beginning by pointing them to this repository and other useful resources. Right now, the custom message sent by the bot is as follow:
 ```
 Hey @new_user_name! Welcome aboard. A few key points you will want to know to get started:
