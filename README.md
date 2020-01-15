@@ -20,6 +20,7 @@
 * [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
     * [Documents](#documents)
     * [Webpages of interest](#webpages-of-interest)
+* [Stay in touch with what's happening at Goldsmiths](#stay-in-touch-with-whats-happening-at-goldsmiths)
 * [Contacting each other](#contacting-each-other)
 * [Other resources](#other-resources)
 * [Resources for later](#resources-for-later)
@@ -211,6 +212,14 @@ relevant topic for the final project.
     - [User Experience](https://london.ac.uk/courses/computer-science-user-experience)
     - [Virtual Reality](https://london.ac.uk/courses/computer-science-virtual-reality)
     - [Web and Mobile Development](https://london.ac.uk/courses/computer-science-web-and-mobile-development)
+
+
+# Stay in touch with what's happening at Goldsmiths
+- [Blog.DoC](http://www.doc.gold.ac.uk/blog/) - *"This is the blog for Goldsmiths' Department of Computing. If you are a student, graduate or staff member of Goldsmiths Computing and you want to share news, photos or stories about your work, email our blog editor at: computing@gold.ac.uk"*
+- [Computing events, seminars & conferences](https://www.gold.ac.uk/computing/events/) - *"The Computing and Psychology departments' regular seminars encompassing various aspects of cognition, computation and culture. All are welcome to attend."*
+- [Goldsmiths Computing (Twitter)](https://twitter.com/goldcomputing) - *"Creativity, independence and learning by doing. Computing at Goldsmiths, University of London."*
+- [Goldsmiths, UoL students (Twitter)](https://twitter.com/StudentsAtGold) - *"The official account for students at Goldsmiths, University of London. Online Mon-Fri 9-5pm."*
+- [Hacksmiths](https://2020.goldsmiths.tech/) - *"Hacksmiths is the student-run tech society at Goldsmiths. Our mission is to provide an opportunity for people in all departments and from all backgrounds the chance to learn about, and play with, technology."*
 
 
 # Contacting each other
