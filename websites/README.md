@@ -167,6 +167,8 @@
 - [Introduction to differentiation II on ExamSolutions](https://www.examsolutions.net/a-level-maths/ocr/c3-tutorials/#diff) - Exponential functions, chain rule, product rule, quotient rule, reciprocal function, exam questions, connected rates of change.
 
 ## Discrete mathematics
+- [Readings from MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
+
 ### Graph theory
 - [D3 Graph Theory](https://d3gt.com) - *"Learn graph theory interactively."*
 - [Matching (Graph Theory)](https://brilliant.org/wiki/matching) - *"Definition, terminology, bipartite matching, examples."*
