@@ -12,6 +12,8 @@
     * [Robotics](#robotics)
 * [Computer science](#computer-science)
     * [Algorithms](#algorithms)
+        * [`mergeSort` algorithm](#mergesort-algorithm)
+        * [`quickSort` algorithm](#quicksort-algorithm)
     * [Compilers](#compilers)
     * [Data structures](#data-structures)
     * [Introduction](#introduction)
@@ -98,6 +100,13 @@ Dan Colman
 - [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY) - freeCodeCamp.org
 - [Algorithms for Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) (playlist) - Harvard University
 - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
+### `mergeSort` algorithm
+- [2.7.2. Merge Sort Algorithm](https://www.youtube.com/watch?v=mB5HXBb_HY8) - Abdul Bari
+
+### `quickSort` algorithm
+- [Algorithms lecture 9 -- Quick sort algorithm](https://www.youtube.com/watch?v=3DV8GO9g7B4) - Gate Lectures by Ravindrababu Ravula
+- [2.8.1 QuickSort Algorithm](https://www.youtube.com/watch?v=7h1s2SojIRw) - Abdul Bari
+
 
 ## Compilers
 - [IIT Kanpur – Compiler Design](https://www.youtube.com/playlist?list=PLbMVogVj5nJTmKzaSlCpGgi7qxgcRRs8h) (playlist) - NPTEL

@@ -8,6 +8,8 @@
 * [Assessment](#assessment)
 * [Resources](#resources)
     * [Complementary learning](#complementary-learning)
+        * [`mergeSort` algorithm](#mergesort-algorithm)
+        * [`quickSort` algorithm](#quicksort-algorithm)
     * [Essential reading](#essential-reading)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [Notes](#notes)
@@ -55,6 +57,13 @@ One two hour unseen written examination and coursework (Type I)
 # Resources
 ## Complementary learning
 - [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - *"On edX platform, by UCSanDiegoX."*
+### `mergeSort` algorithm
+- [2.7.2. Merge Sort Algorithm](https://www.youtube.com/watch?v=mB5HXBb_HY8) - Abdul Bari
+
+### `quickSort` algorithm
+- [Algorithms lecture 9 -- Quick sort algorithm](https://www.youtube.com/watch?v=3DV8GO9g7B4) - Gate Lectures by Ravindrababu Ravula
+- [2.8.1 QuickSort Algorithm](https://www.youtube.com/watch?v=7h1s2SojIRw) - Abdul Bari
+
 
 ## Essential reading
 _"Specific essential readings for this course will be taken from the following text book:_
