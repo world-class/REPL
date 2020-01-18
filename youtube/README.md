@@ -102,6 +102,8 @@ Dan Colman
 - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
 ### `mergeSort` algorithm
 - [2.7.2. Merge Sort Algorithm](https://www.youtube.com/watch?v=mB5HXBb_HY8) - Abdul Bari
+- [Algorithm lecture 8 -- Merge sort algorithm, analysis and problems](https://www.youtube.com/watch?v=sfmaf4QpVTw) - Gate Lectures by Ravindrababu Ravula
+
 
 ### `quickSort` algorithm
 - [Algorithms lecture 9 -- Quick sort algorithm](https://www.youtube.com/watch?v=3DV8GO9g7B4) - Gate Lectures by Ravindrababu Ravula
