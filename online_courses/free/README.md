@@ -16,6 +16,7 @@
     * [Algorithms](#algorithms)
     * [Blockchain technology](#blockchain-technology)
     * [Cloud computing](#cloud-computing)
+    * [Complete curriculum](#complete-curriculum)
     * [Computer vision](#computer-vision)
     * [Cryptography](#cryptography)
     * [Design and product](#design-and-product)
@@ -143,6 +144,10 @@
     - Managing Security in Google Cloud Platform
     - Mitigating Security Vulnerabilities on Google Cloud Platform
 - [University of Illinois: Cloud Computing](https://www.coursera.org/specializations/cloud-computing) - Coursera Specialization
+
+### Complete curriculum
+- [Open Source Society University](https://github.com/ossu/computer-science) - *"The OSSU curriculum is a complete education in computer science using online materials."*
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) - *"Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career."*
 
 ### Computer vision
 - [University at Buffalo: Computer Vision Specialization](https://www.coursera.org/specializations/computervision) - Coursera Specialization
