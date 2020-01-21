@@ -92,8 +92,8 @@ _There will also be discussion prompts asking you to do some independent researc
 - See shared notes [in this section](../../../notes/algorithms_and_data_structures_i).
 
 ## On REPL
-- [YouTube](../../../youtube/): See section on algorithms.
-- [Websites](../../../websites/): See section on algorithms.
+- [YouTube](https://github.com/world-class/REPL/tree/master/youtube#algorithms).
+- [Websites](https://github.com/world-class/REPL/tree/master/websites#algorithms).
 
 ## Syllabus
 - [Syllabus PDF (October 2019)](./resources/Syllabus_Algorithms_and_Data_Structures_1_CM1035.pdf)

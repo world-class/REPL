@@ -111,6 +111,7 @@
 ## Algorithms
 - [Algorithms in the "Real World" (2018)](http://www.cs.cmu.edu/~guyb/realworld.html) - Compression, error correcting codes, cryptography, parallel algorithms, locality and I/O efficient algorithms, indexing and searching, nearest neighbors, dimensionality reduction.
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) - *"This is a dictionary of algorithms, algorithmic techniques, data structures, archetypal problems, and related definitions."*
+- [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms/) - *"We've partnered with Dartmouth college professors Tom Cormen and Devin Balkcom to teach introductory computer science algorithms, including searching, sorting, recursion, and graph theory. Learn with a combination of articles, visualizations, quizzes, and coding challenges."*
 - [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/)
 
 ## Articles
