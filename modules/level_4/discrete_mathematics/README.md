@@ -51,13 +51,17 @@ One two hour unseen written examination and coursework (Type I)
 
 # Resources
 ## Additional reading
-- [A Guide to Writing Proofs](./resources/A_Guide_to_Writing_Proofs.pdf)
+- [A Guide to Writing Proofs](./resources/A_Guide_to_Writing_Proofs.pdf).
+- [Common Mistakes in Discrete Math](https://highered.mheducation.com/sites/0073383090/student_view0/common_mistakes_in_discrete_math.html) (from the companion website to the essential reading for the book _Discrete Mathematics and its Applications_).
 - [Discrete Mathematics Questions and Answers](https://www.sanfoundry.com/1000-discrete-mathematics-questions-answers) - *"Our 1000+ Discrete Mathematics questions and answers focuses on all areas of Discrete Mathematics subject covering 100+ topics in Discrete Mathematics."*
 - [Induction: going through examples (UoL students)](./resources/induction_example.pdf).
 - [Matching (Graph Theory)](https://brilliant.org/wiki/matching) - *"Definition, terminology, bipartite matching, examples."*
 - [Readings from MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
-- [Set Theory for Computer Science](./resources/set_theory_for_computer_science.pdf)
+- [Set Theory for Computer Science](./resources/set_theory_for_computer_science.pdf).
 - [Solving Linear Recurrence Relations](./resources/solving_linear_recurrence_relations.pdf) - From University of California, Berkeley, [from this page](https://math.berkeley.edu/~arash/55/8_2.pdf).
+- TrevTutor.com:
+    - [Set theory, Logic, Counting, Proof techniques, relations and functions, number theory & formal language, with exams & solutions](https://trevtutor.com/discretemath/discretemath1/).
+    - [Counting & probability, generating functions & recurrence relations, graph theory, with exams & solutions](https://trevtutor.com/discretemath/discrete-math-2/).
 
 ## Essential reading
 _"The essentials readings for this course will come from the following text book, which is  available in the University of London digital library:_
