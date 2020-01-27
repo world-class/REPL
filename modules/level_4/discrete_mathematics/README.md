@@ -112,6 +112,7 @@ _This course does not require you to read the whole book, you will be given spec
     - Recurrence relations: see lectures 14-15 of [Mathematics for Computer Science (2010)](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B) (playlist) - MIT OpenCourseWare
     - [Sets, sequences, functions, summations, matrices, algorithms](https://www.youtube.com/watch?v=ZMhoRLGNR5Y&list=PLl-gb0E4MII0HmmhGXBIFGppSSqqy_mV-) (playlist) - Kimberly Brehm
     - [The Karnaugh Map - Rules of Simplification](https://www.youtube.com/watch?v=PA0kBrpHLM4) - Jonnie Palmer
+    - [Transitive closure](https://www.youtube.com/watch?v=OO8Jfs9uZnc) - GVSUmath
 
 ## Solutions to Discrete Mathematics and its Applications (2012) 7th Edition
 - [Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
