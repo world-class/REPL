@@ -14,15 +14,17 @@ UoL has a [long, esteemed history of administering reputable distance learning d
 
 ## Administrative Information: Admissions Process and Requirements
 
-Direct Admissions and Performance-based Admissions, information for your region here. Regardless of both, you must meet an equivalent of three requirements for your track:
+Students may apply to the programme in two of the following ways: Direct Admissions (where you are admitted to study as conventionally expecte) and Performance-based Admissions (often used as an alternative route to getting admitted if you did not meet the academic requirements). Regardless of which route you would be falling under, you must meet an equivalent of three requirements for your track:
 
 1. The entry requirements for your track of admissions
 2. BSc Comp Sci's specific requirements of Maths at the appropreate level
 3. [English Requirements](#english-requirements-for-non-english-speaking-countries)
 
-General Requirements must be met for direct admissions - your country's equivalent can be found here: https://london.ac.uk/entrance-qualifications
+For Direct Admissions: General Requirements must be met - your country's equivalent can be found here: https://london.ac.uk/entrance-qualifications
 
-If you're not sure, apply early, apply anyway (see [Application Process](#application-process))
+For Performance-Based Admissions: your requirements can be found here: https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/admissions
+
+If you're not sure which track you'll fall under - or whether or not you will be able to obtain admissions, UOL's general advice is to apply early and to apply anyway (see [Application Process](#application-process))
 
 ### English Requirements for Non-English Speaking Countries
 
