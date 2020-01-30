@@ -17,6 +17,7 @@
 * [Calendar due dates and events](#calendar-due-dates-and-events)
     * [Google Calendar](#google-calendar)
     * [See what's the current week](#see-whats-the-current-week)
+    * [Sync deadlines and events from Coursera](#sync-deadlines-and-events-from-coursera)
 * [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
     * [Documents](#documents)
     * [Webpages of interest](#webpages-of-interest)
@@ -177,6 +178,9 @@ relevant topic for the final project.
 - **If you have a Google account**, you can follow [this link](https://calendar.google.com/calendar/r?cid=aThibzQ4a2M1dG51ZG1ubjY2OXY0bTF2aHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) instead.
 ## See what's the current week
 - Find out what week we are on right now in this very semester by [following this link](https://week.atz.now.sh) (probably one of the simplest yet useful user interface you will ever see).
+
+## Sync deadlines and events from Coursera
+- *"Automatically sync all the deadlines and other related items from all active courses to your calendar."* Simply visit the [account settings](https://www.coursera.org/account-settings) page on Coursera and click on the **Calendar Sync** tab to see options to sync with Google Calendar, Apple Calendar and others.
 
 
 # Documents and resources provided publicly by the University of London
