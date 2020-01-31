@@ -1,4 +1,4 @@
-# Applying to the University of London Bachelors of Computer Science degree (UoL)  
+# Applying to the University of London Bachelors of Computer Science degree (UoL)
 
 UoL has a [long, esteemed history of administering reputable distance learning degrees](https://en.wikipedia.org/wiki/University_of_London_Worldwide), though information about their new BSc Computer Science is spare due to its being new. This documentation seeks to explain the process behind applying in a concise and clear way so you know exactly what to expect when you do it yourself.
 
@@ -14,17 +14,17 @@ UoL has a [long, esteemed history of administering reputable distance learning d
 
 ## Administrative Information: Admissions Process and Requirements
 
-Students may apply to the programme in two of the following ways: Direct Admissions (where you are admitted to study as conventionally expecte) and Performance-based Admissions (often used as an alternative route to getting admitted if you did not meet the academic requirements). Regardless of which route you would be falling under, you must meet an equivalent of three requirements for your track:
+Students may apply to the programme in two of the following ways: Direct Admissions (where you are admitted to study as conventionally expected) and Performance-based Admissions (often used as an alternative route to getting admitted if you did not meet the academic requirements). Regardless of which route you would be falling under, you must meet an equivalent of three requirements for your track:
 
 1. The entry requirements for your track of admissions
-2. BSc Comp Sci's specific requirements of Maths at the appropreate level
+2. BSc Comp Sci's specific requirements of Maths at the appropriate level
 3. [English Requirements](#english-requirements-for-non-english-speaking-countries)
 
 For Direct Admissions: General Requirements must be met - your country's equivalent can be found here: https://london.ac.uk/entrance-qualifications
 
 For Performance-Based Admissions: your requirements can be found here: https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/admissions
 
-If you're not sure which track you'll fall under - or whether or not you will be able to obtain admissions, UOL's general advice is to apply early and to apply anyway (see [Application Process](#application-process))
+If you're not sure which track you'll fall under - or whether or not you will be able to obtain admissions, UoL's general advice is to apply early and to apply anyway (see [Application Process](#application-process))
 
 ### English Requirements for Non-English Speaking Countries
 
@@ -38,7 +38,7 @@ after sixth form (12/13th Grade) apply to university, the application is fairly 
 In the application you will be asked to supply them with the following things. I would suggest having these prepared beforehand (especially academic documents) to ensure that your application decisions come in as smoothly as possible:
 
 1. A scanned copy of your ID
-2. A verfied copy of the Academic Documents that back your meeting the requirements for the programme
+2. A verified copy of the Academic Documents that back your meeting the requirements for the programme
 3. A 100-250 word Personal Statement (of prompt: "Why do you wish to study for this programme?
 Please give your reasons, you should include details about your education, work experience and current responsibilities, which are relevant to this application.")
 
@@ -74,7 +74,7 @@ RPL from a discretionary route will take awhile, students have reported the proc
 
 **Q:** My application to UoL/for RPL/some other administrative process is taking so long, have they received it/why's it taking so long?
 
-**A:** It takes forever. Sorry mate. That's why it's important to apply early for peace of mind. It means that your application isn't clogged up and done when professors aren't stressed out when they read your application.  
+**A:** It takes forever. Sorry mate. That's why it's important to apply early for peace of mind. It means that your application isn't clogged up and done when professors aren't stressed out when they read your application.
 
 RPL has taken a month, UoL admissions has taken longer. Write a nice email to nudge them whenever it's taken too long - ensuring that they have all you need done when they get around to your application.
 
@@ -88,8 +88,6 @@ RPL has taken a month, UoL admissions has taken longer. Write a nice email to nu
 
 ## Additional Resources
 
-[UoL Unofficial Students' Discord](https://discord.gg/fugMPVR)
-
-[UoL Facebook](https://www.facebook.com/LondonU/?ref=br_rs)
-
-Do keep a look out for UoL's virtual open day if you're curious to learn more and speak to representatives for more information.
+* [UoL Unofficial Students' Discord](https://discord.gg/fugMPVR)
+* [UoL Facebook](https://www.facebook.com/LondonU/?ref=br_rs)
+* Do keep a look out for UoL's virtual open day if you're curious to learn more and speak to representatives for more information.
