@@ -25,7 +25,7 @@
 * [Contacting each other](#contacting-each-other)
 * [Other resources](#other-resources)
 * [Resources for later](#resources-for-later)
-* [Contributors](#contributors)
+* [GitHub contributors](#github-contributors)
 
 <!-- vim-markdown-toc -->
 
@@ -254,7 +254,7 @@ More software options for video conferencing on [this page](/software).
 - [Study options after the BSc in Computer Science](after_uol/README.md)
 
 
-# Contributors
+# GitHub contributors
 
 | Name                      | Handle                                                 |
 | ------------------------- | ------------------------------------------------------ |
@@ -275,3 +275,4 @@ More software options for video conferencing on [this page](/software).
 | Ryan Slevin               | [@ryanslevin](https://github.com/ryanslevin)           |
 | Spencer Eick              | [@eicksl](https://github.com/eicksl)                   |
 | Sébastien Lavoie          | [@sglavoie](https://github.com/sglavoie)               |
+| Xuan Lim                  | [@Xuan-Lim](https://github.com/Xuan-Lim)               |

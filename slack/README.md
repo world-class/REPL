@@ -11,7 +11,7 @@
         * [Modules level 4](#modules-level-4)
         * [Specialisms](#specialisms)
     * [How to use Slack](#how-to-use-slack)
-* [For developers & Contributors](#for-developers--contributors)
+* [For developers & contributors](#for-developers--contributors)
     * [Slack app integrations](#slack-app-integrations)
         * [GreetBot](#greetbot)
 
@@ -96,7 +96,7 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 - [Slack help center](https://get.slack.help/hc/en-us) for anything else
 
 
-## For developers & Contributors
+## For developers & contributors
 ### Slack app integrations
 #### GreetBot
 [GreetBot](https://greet.bot/) welcomes new students joining the workspace to guide them on their journey from the very beginning by pointing them to this repository and other useful resources. Right now, the custom message sent by the bot is as follow:
