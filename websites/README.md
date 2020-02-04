@@ -22,6 +22,7 @@
 * [Free e-books and video courses](#free-e-books-and-video-courses)
 * [Hacking](#hacking)
 * [LaTeX](#latex)
+* [Linux & Unix](#linux--unix)
 * [Mathematics](#mathematics)
     * [Beginner topics](#beginner-topics)
     * [Calculus](#calculus)
@@ -153,6 +154,9 @@
 - [Templates](http://www.latextemplates.com) - *"The best source of free quality LaTeX templates."*
 - [Wikibook](https://en.wikibooks.org/wiki/LaTeX) - *"This is a guide to the LaTeX typesetting system. It is intended as a useful resource for everybody, from new users who wish to learn, to old hands who need a quick reference."*
 - [Mathpix Snip](https://mathpix.com) - *"Do you spend a lot of time typing equations in LaTeX? Try Mathpix Snip for iOS, Android, macOS, Windows or Linux and start converting images to LaTeX instantly!"*
+
+# Linux & Unix
+- [CIS 191: Linux and Unix - University of Pennsylvania](https://www.cis.upenn.edu/~cis191/index.html) - *"This half-credit course provides a thorough introduction to Unix and Linux. Topics will range from critical basic skills such as examining and editing files, compiling programs and writing shell scripts, to higher level topics such as the architecture of Unix and its programming model."*
 
 # Mathematics
 - [Mathematics 16A, 002 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk) - UC Berkeley
