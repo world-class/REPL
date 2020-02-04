@@ -157,6 +157,8 @@
 
 # Linux & Unix
 - [CIS 191: Linux and Unix - University of Pennsylvania](https://www.cis.upenn.edu/~cis191/index.html) - *"This half-credit course provides a thorough introduction to Unix and Linux. Topics will range from critical basic skills such as examining and editing files, compiling programs and writing shell scripts, to higher level topics such as the architecture of Unix and its programming model."*
+- [Distrowatch](https://distrowatch.com) - *"DistroWatch is a website which provides news, distribution pages hit rankings, and other general information about various Linux distributions as well as other free software/open source Unix-like operating systems."* ([from Wikipedia](https://en.wikipedia.org/wiki/DistroWatch))
+- [Linux.com - What is Linux?](https://www.linux.com/what-is-linux/) - *"Here is all the information you need to get up to speed on the Linux platform."*
 
 # Mathematics
 - [Mathematics 16A, 002 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk) - UC Berkeley
