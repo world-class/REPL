@@ -292,9 +292,10 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 - [Coderbyte](https://coderbyte.com) - *"Get access to the best collection of coding challenges that you can solve directly online in 10 programming languages. The challenges come with official solutions and tens of thousands of user solutions. You can also brush up on your skills by reading our tutorials in topics like advanced JavaScript features, data structures, and algorithm interview questions asked at companies like Google and Microsoft."*
 - [CodinGame](https://www.codingame.com) - *"The new way to improve your programming skills while having fun and getting noticed."*
 - [Exercism](https://exercism.io) - *"Level up your programming skills with 3,066 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever."*
-- [HackerRank](https://www.hackerrank.com) - *"Join over 5 million developers. Practice coding, prepare for interviews, and get hired."*
+- [HackerRank](https://www.hackerrank.com) - *"Join over 7 million developers. Practice coding, prepare for interviews, and get hired."*
 - [LeetCode](https://leetcode.com) - *"LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews."*
 - [Project Euler](https://projecteuler.net) - *"Project Euler (named after Leonhard Euler) is a website dedicated to a series of computational problems intended to be solved with computer programs."* ([from Wikipedia](https://en.wikipedia.org/wiki/Project_Euler))
+- [Sphere Online Judge](https://www.spoj.com) - *"Become a true programming master. Learn how to code and build efficient algorithms."*
 - [Topcoder](https://www.topcoder.com) - *"Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients."* ([from Wikipedia](https://en.wikipedia.org/wiki/Topcoder))
 
 ## Documentation
