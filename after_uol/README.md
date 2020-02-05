@@ -6,6 +6,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Job readiness: Interview preparation](#job-readiness-interview-preparation)
+    * [Coding challenges](#coding-challenges)
     * [Facebook](#facebook)
     * [Google](#google)
     * [Microsoft](#microsoft)
@@ -23,6 +24,9 @@
 <!-- vim-markdown-toc -->
 
 ## Job readiness: Interview preparation
+### Coding challenges
+- See the section [Websites > Coding challenges](https://github.com/world-class/REPL/tree/master/websites#coding-challenges) for direct opportunities to practice solving real-world interview questions and relevant CS problems.
+
 ### Facebook
 - [Interviewing at Facebook — On-Site JavaScript Technical Interview Questions](https://medium.com/javascript-in-plain-english/facebook-on-site-technical-interview-1264cacad263) - Medium, Adi S.
 ### Google
