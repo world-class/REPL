@@ -5,11 +5,7 @@
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
 
-* [Job readiness: Interview preparation](#job-readiness-interview-preparation)
-    * [Coding challenges](#coding-challenges)
-    * [Facebook](#facebook)
-    * [Google](#google)
-    * [Microsoft](#microsoft)
+* [Job readiness](#job-readiness)
 * [Study: Online options](#study-online-options)
     * [Doctor of Computer Science](#doctor-of-computer-science)
     * [Master's Degree](#masters-degree)
@@ -23,17 +19,9 @@
 
 <!-- vim-markdown-toc -->
 
-## Job readiness: Interview preparation
-### Coding challenges
-- See the section [Websites > Coding challenges](https://github.com/world-class/REPL/tree/master/websites#coding-challenges) for direct opportunities to practice solving real-world interview questions and relevant CS problems.
-
-### Facebook
-- [Interviewing at Facebook — On-Site JavaScript Technical Interview Questions](https://medium.com/javascript-in-plain-english/facebook-on-site-technical-interview-1264cacad263) - Medium, Adi S.
-### Google
-- [Interviewing at Google — JavaScript Assessment Questions](https://medium.com/javascript-in-plain-english/interviewing-at-google-javascript-assessment-questions-f9bf0c0df157) - Medium, Adi S.
-
-### Microsoft
-- [Interviewing at Microsoft— JavaScript Assessment Questions](https://medium.com/javascript-in-plain-english/microsoft-online-assessment-questions-js-f68ecdb6e927) - Medium, Adi S.
+## Job readiness
+- See [Websites > Programming > Coding challenges](https://github.com/world-class/REPL/tree/master/websites#coding-challenges) for direct opportunities to practice solving real-world interview questions and relevant CS problems.
+- See [Websites > Programming > Interview preparation](https://github.com/world-class/REPL/tree/master/websites#interview-preparation) for examples of interview questions from big tech companies such as Facebook, Google and Microsoft.
 
 ---
 
