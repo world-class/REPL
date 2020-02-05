@@ -5,6 +5,10 @@
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
 
+* [Job readiness: Interview preparation](#job-readiness-interview-preparation)
+    * [Facebook](#facebook)
+    * [Google](#google)
+    * [Microsoft](#microsoft)
 * [Study: Online options](#study-online-options)
     * [Doctor of Computer Science](#doctor-of-computer-science)
     * [Master's Degree](#masters-degree)
@@ -17,6 +21,17 @@
     * [Freelancing](#freelancing)
 
 <!-- vim-markdown-toc -->
+
+## Job readiness: Interview preparation
+### Facebook
+- [Interviewing at Facebook — On-Site JavaScript Technical Interview Questions](https://medium.com/javascript-in-plain-english/facebook-on-site-technical-interview-1264cacad263) - Medium, Adi S.
+### Google
+- [Interviewing at Google — JavaScript Assessment Questions](https://medium.com/javascript-in-plain-english/interviewing-at-google-javascript-assessment-questions-f9bf0c0df157) - Medium, Adi S.
+
+### Microsoft
+- [Interviewing at Microsoft— JavaScript Assessment Questions](https://medium.com/javascript-in-plain-english/microsoft-online-assessment-questions-js-f68ecdb6e927) - Medium, Adi S.
+
+---
 
 ## Study: Online options
 _Note: All degrees are in Computer Science, unless specified otherwise._
@@ -54,6 +69,8 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 
 #### Machine learning
 - [Imperial College London](https://www.coursera.org/degrees/msc-machine-learning-imperial) (Machine learning) - Coursera
+
+---
 
 ## Work: Remote options
 ### Finding opportunities
