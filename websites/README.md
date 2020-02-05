@@ -56,6 +56,7 @@
     * [Coding challenges](#coding-challenges)
     * [Documentation](#documentation)
     * [Interview preparation](#interview-preparation)
+        * [Books](#books)
         * [Facebook](#facebook)
         * [Google](#google)
         * [Microsoft](#microsoft)
@@ -307,6 +308,9 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 
 ## Interview preparation
 - [Interview Cake](https://www.interviewcake.com) - Check out their paid course/coaching too! - *"Free practice programming interview questions. Interview Cake helps you prep for interviews to land offers at companies like Google and Facebook."*
+
+### Books
+- [Cracking the Coding Interview](http://www.crackingthecodinginterview.com), by Gayle Laakmann McDowell.
 
 ### Facebook
 - [Interviewing at Facebook — On-Site JavaScript Technical Interview Questions](https://medium.com/javascript-in-plain-english/facebook-on-site-technical-interview-1264cacad263) - Medium, Adi S.
