@@ -88,6 +88,7 @@
     * [Website annotation](#website-annotation)
     * [Website testing](#website-testing)
 * [Web development](#web-development)
+    * [Learning](#learning)
     * [Tools](#tools)
 
 <!-- vim-markdown-toc -->
@@ -110,6 +111,8 @@
 - [Computer Science 188, 001 - Spring 2015](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u) - UC Berkeley
 - [Computer Science 194, 024 - Spring 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iB_5Q8G8kW5idSwNmXypmQE) - UC Berkeley
 - [Computer Science 61B, 001 - Fall 2014](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDVox3OKFhF4LxMHqpi2GS2) - UC Berkeley
+- [Four Semesters of Computer Science in Six Hours (part 2)](https://btholt.github.io/four-semesters-of-cs-part-two/) - Brian Holt.
+- [Four Semesters of Computer Science in Six Hours](https://btholt.github.io/four-semesters-of-cs/) - Brian Holt.
 - [Open Source Society University](https://github.com/ossu/computer-science) - *"The OSSU curriculum is a complete education in computer science using online materials."*
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) - _"Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career."_
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - *"Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools."*
@@ -426,6 +429,9 @@ Angle measurement, trigonometry basics, non-right triangle trig, inverse trig fu
 - [JSFiddle](https://jsfiddle.net) - *"JSFiddle is an online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets, known as 'fiddles'. It allows for simulated AJAX calls."* ([from Wikipedia](https://en.wikipedia.org/wiki/JSFiddle))
 
 # Web development
+## Learning
+- [Intro to Web Dev v2](https://btholt.github.io/intro-to-web-dev-v2/).
+
 ## Tools
 - [Color Hunt](https://colorhunt.co) - *"Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes."*
 - [Coolors](https://coolors.co) - *"The super fast color schemes generator! Create, save and share perfect palettes in seconds!"*
