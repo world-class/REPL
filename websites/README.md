@@ -154,6 +154,7 @@
 - [Packt Publishing – free programming ebooks and videos](https://www.packtpub.com/packt/offers/free-learning) - Daily offer of up-to-date, quality material.
 
 # Hacking
+- :star: [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - *"A collection of awesome lists for hackers, pentesters & security researchers."*
 - [Hacker Tools](https://hacker-tools.github.io) - *"Learn to make the most of the tools that hackers have been using for decades."*
 
 # LaTeX
