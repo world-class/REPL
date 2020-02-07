@@ -66,6 +66,7 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 
 ## Work: Remote options
 ### Finding opportunities
+- :star: [A curated list of awesome remote jobs and resources](https://github.com/lukasz-madon/awesome-remote-job) - Articles, videos, books, job boards, interviewing, companies with "remote DNA" and much more.
 - [Dynamite Jobs](https://dynamitejobs.co/)
 - [Remote only](https://remoteonly.org/)
 - [Remote](https://remote.com/)
