@@ -1,79 +1,59 @@
-# Table of Resources :blue_book:
-<!-- vim-markdown-toc GFM -->
-
-* [Introduction](#introduction)
-    * [The Learning Hub for UoL's Online CS Students](#the-learning-hub-for-uols-online-cs-students)
-    * [Important note before we go](#important-note-before-we-go)
-* [How to ask for help?](#how-to-ask-for-help)
-    * [Reaching out to tutors and SRMs](#reaching-out-to-tutors-and-srms)
-    * [General advice on how to ask and find answers](#general-advice-on-how-to-ask-and-find-answers)
-* [Modules in the curriculum](#modules-in-the-curriculum)
-    * [Level 4 (year 1+)](#level-4-year-1)
-    * [Level 5 (year 2+)](#level-5-year-2)
-    * [Level 6 (year 3+)](#level-6-year-3)
-        * [Specialisms](#specialisms)
-        * [Final project](#final-project)
-* [Notes (students, professors, academic background)](#notes-students-professors-academic-background)
-* [Calendar due dates and events](#calendar-due-dates-and-events)
-    * [Google Calendar](#google-calendar)
-    * [See what's the current week](#see-whats-the-current-week)
-    * [Sync deadlines and events from Coursera](#sync-deadlines-and-events-from-coursera)
-* [Documents and resources provided publicly by the University of London](#documents-and-resources-provided-publicly-by-the-university-of-london)
-    * [Documents](#documents)
-    * [Webpages of interest](#webpages-of-interest)
-* [Stay in touch with what's happening at Goldsmiths](#stay-in-touch-with-whats-happening-at-goldsmiths)
-* [Contacting each other](#contacting-each-other)
-* [Other resources](#other-resources)
-* [Resources for later](#resources-for-later)
-* [GitHub contributors](#github-contributors)
-
-<!-- vim-markdown-toc -->
-
----
-
 <img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
-
-
-# Introduction
 
 A twist on the use of **REPL**, which stands for *read–eval–print
 loop* in computer programming. This repository aims to become a central
 place to share resources that other learners have found useful,
-especially in the context of studying computer science at the bachelor
-level.
+especially in the context of studying a [BSc Computer Science offered by Goldsmiths, University of London](https://london.ac.uk/courses/computer-science) :school:.
 
+<details>
+<summary>Good luck in your journey!</summary>
 
-## The Learning Hub for UoL's Online CS Students
-
-:school: As the first cohort of students enrolling in the 100% online
-[BSc Computer Science offered by Goldsmiths, University of London](https://london.ac.uk/courses/computer-science),
-it is in our interest to cooperate in order to maximize our chances of
-celebrating all together when we graduate.
+As the first cohort of students enrolling in this ~100% online
+programme, it is in our interest to cooperate in order to maximize our
+chances of celebrating all together when we graduate.
 
 Good luck to all and may this path fulfill you, knowing that you will
 find support along the way!
+</details>
 
-## Important note before we go
+<details>
+<summary>Note on copyrighted material</summary>
 
-:exclamation: **This is not a place where you'll find prohibited content, such as
-leaked confidential information and copyrighted material. Anything that
-could potentially fall under the
+:exclamation: **This is not a place where you'll find prohibited
+content, such as leaked confidential information and copyrighted
+material. Anything that could potentially fall under the
 [regulations of the University of London](https://london.ac.uk/current-students/programme-documents/regulations)
-will be removed if it appears by accident and you are welcome to report
-it. :+1:**
+will be removed if it appears by accident and you are welcome to
+report it. :+1:**
+</details>
 
+---
 
-# How to ask for help?
-## Reaching out to tutors and SRMs
-Despite being 100% remote, this degree is equipped with a team of tutors and SRMs (_Student Relationship Managers_) that can help you find what you need.
+## Useful resources
+- [Applying to UoL: Guide and FAQs about the process](applying_to_uol/README.md)
+- [Books recommended by students in this degree](books/README.md)
+- [Free software](software/README.md)
+- [Kinks to be aware of in the different modules](kinks/README.md)
+- Online courses: [free resources](online_courses/free/README.md), [paid resources](online_courses/paid/README.md)
+- [Podcasts](podcasts/README.md)
+- [Slack resources](slack/README.md) (channels to join, important information available, help with using Slack, etc.)
+- [Websites to visit](websites/README.md)
+- [YouTube videos](youtube/README.md)
+
+## How to ask for help?
+<details>
+<summary><strong>Reaching out to tutors and SRMs</strong></summary>
+
+Despite being ~100% remote, this degree is equipped with a team of tutors and SRMs (_Student Relationship Managers_) that can help you find what you need.
 
 - For module-specific inquiries, you can reach out to your tutors in the appropriate discussion forums on Coursera. Access any module you are enrolled in from the [home page of this degree](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/) on Coursera.
 - For non-academic questions, you can write [in the **Reach out** forum](https://www.coursera.org/learn/london-cs-orientation/discussions) on Coursera.
 - For private matters and other types of inquiries, you can write an email to <BScCS-Support@london.ac.uk> or find an alternative route [in this section](#contacting-each-other), including phone numbers, Student Advice Center, Slack workspace and Discord server.
+</details>
 
+<details>
+<summary><strong>General advice on how to ask and find answers</strong></summary>
 
-
-## General advice on how to ask and find answers
 Succeeding in this degree has a lot to do with how resourceful you are. This page is meant to be a helpful guidance along the way, but developing a few key skills on your own will become an increasing necessity, including **being able to research online**, **debugging code effectively** and **knowing how to ask questions**.
 
 To get started on that learning path, please refer to the following web pages:
@@ -95,11 +75,13 @@ To get started on that learning path, please refer to the following web pages:
         - [20 Google Search Tips to Use Google More Efficiently](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) - Lifehack
         - [Advanced Power Searching](http://www.powersearchingwithgoogle.com/course/aps) - Google Course
         - [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course) - Google Course
+</details>
 
+## Modules in the curriculum
 
-# Modules in the curriculum
+<details>
+<summary><strong>Level 4 (year 1+)</strong></summary>
 
-## Level 4 (year 1+)
 | Module name                                                                          | Module code | Written exam? | Slack channel            |
 | ------------------------------------------------------------------------------------ | ----------- | ------------- | -------------            |
 | [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) | **CM1035**  | **Yes**       | `#cm1035-algos-data-i`   |
@@ -113,7 +95,11 @@ To get started on that learning path, please refer to the following web pages:
 
 \* **Not available for October 2019-March 2020**
 
-## Level 5 (year 2+)
+</details>
+
+<details>
+<summary><strong>Level 5 (year 2+)</strong></summary>
+
 | Module name                                                                            | Module code | Written exam? |
 | -------------------------------------------------------------------------------------- | ----------- | ------------- |
 | [Agile Software Projects](modules/level_5/agile_software_projects)                     | **CM2020**  | No            |
@@ -125,13 +111,16 @@ To get started on that learning path, please refer to the following web pages:
 | [Programming with Data](modules/level_5/programming_with_data)                         | **CM2015**  | **Yes**       |
 | [Software Design and Development](modules/level_5/software_design_and_development)     | **CM2010**  | **Yes**       |
 
+</details>
 
-## Level 6 (year 3+)
-There is a total of 13 possible modules in Level 6. Out of these, **6**
-need to be taken along with a final project in order to graduate. A
-student may either choose a specialism (see below) but may also opt
-against a specialism to be able to study any **6** of the following
-modules.
+<details>
+<summary><strong>Level 6 (year 3+)</strong></summary>
+
+There is a total of 13 possible modules in Level 6. Out of these,
+**6** need to be taken along with a final project in order to
+graduate. A student may either choose a specialism (see below) but may
+also opt against a specialism to be able to study any **6** of the
+following modules.
 
 | Module name                                                          | Module code | Written exam? |
 | -------------------------------------------------------------------- | ----------- | ------------- |
@@ -149,7 +138,11 @@ modules.
 | [Physical Computing and Internet of Things](modules/level_6/cm_3040) | **CM3040**  | No            |
 | [Virtual Reality](modules/level_6/cm_3025)                           | **CM3025**  | **Yes**       |
 
-### Specialisms
+</details>
+
+<details>
+<summary><strong>Specialisms</strong></summary>
+
 Each specialism contains five prescribed modules from the above 13. All
 five must be completed along with one elective module from any other
 specialism. The specialisms are:
@@ -161,31 +154,49 @@ specialism. The specialisms are:
 - [Virtual Reality](modules/level_6/virtual_reality) (**CM3025**)
 - [Web & Mobile Development](modules/level_6/web_mobile_dev) (**CM3035**)
 
-### Final project
+</details>
+
+<details>
+<summary><strong>Final project</strong></summary>
+
 A final project must also be completed to graduate. If a student is
 opting for a specialism, they are strongly encouraged to select a
 relevant topic for the final project.
 - [Final Project](modules/level_6/final_project) (**CM3070**, _written exam_)
 
+</details>
 
-# Notes (students, professors, academic background)
+## Notes (students, professors, academic background)
 - Find out more about shared notes in [this location](https://github.com/world-class/REPL/tree/master/notes).
 
 
-# Calendar due dates and events
-## Google Calendar
+## Calendar due dates and events
+
+<details>
+<summary><strong>Google Calendar</strong></summary>
+
 - Find out what, when and where things are happening with this [Google Calendar](https://calendar.google.com/calendar/embed?src=i8bo48kc5tnudmnn669v4m1vhs%40group.calendar.google.com).
 - **If you have a Google account**, you can follow [this link](https://calendar.google.com/calendar/r?cid=aThibzQ4a2M1dG51ZG1ubjY2OXY0bTF2aHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) instead.
-## See what's the current week
+</details>
+
+<details>
+<summary><strong>See what's the current week</strong></summary>
+
 - Find out what week we are on right now in this very semester by [following this link](https://week.atz.now.sh) (probably one of the simplest yet useful user interface you will ever see).
+</details>
 
-## Sync deadlines and events from Coursera
+<details>
+<summary><strong>Sync deadlines and events from Coursera</strong></summary>
+
 - *"Automatically sync all the deadlines and other related items from all active courses to your calendar."* Simply visit the [account settings](https://www.coursera.org/account-settings) page on Coursera and click on the **Calendar Sync** tab to see options to sync with Google Calendar, Apple Calendar and others.
+</details>
 
 
-# Documents and resources provided publicly by the University of London
+## Documents and resources provided publicly by the University of London
 
-## Documents
+<details>
+<summary><strong>Documents</strong></summary>
+
 - [Code of conduct](https://london.ac.uk/about-us/how-university-run/policies/vle-code-conduct)
 - [Data protection policy](./uol_documents/data_protection_policy.pdf)
 - [Events Due Diligence Privacy Notice](./uol_documents/events_due_diligence_privacy_notice.pdf)
@@ -198,8 +209,11 @@ relevant topic for the final project.
 - [Student Terms and Conditions 2019-2020](./uol_documents/student_terms_and_conditions.pdf)
 - [Student privacy notice](./uol_documents/student_privacy_notice_uol_april_2018_final.pdf)
 - [Welcome webinar Q&A, September 24, 2019](./uol_documents/welcome_webinar_questions_and_answers_september_24_2019.pdf)
+</details>
 
-## Webpages of interest
+<details>
+<summary><strong>Webpages of interest</strong></summary>
+
 - Exams
     - [Examinations](https://london.ac.uk/current-students/examinations)
     - [How assessment works](https://london.ac.uk/applications/how-it-works/how-assessment-works)
@@ -216,46 +230,47 @@ relevant topic for the final project.
     - [User Experience](https://london.ac.uk/courses/computer-science-user-experience)
     - [Virtual Reality](https://london.ac.uk/courses/computer-science-virtual-reality)
     - [Web and Mobile Development](https://london.ac.uk/courses/computer-science-web-and-mobile-development)
+</details>
 
+---
 
-# Stay in touch with what's happening at Goldsmiths
+## Stay in touch
+<details>
+<summary><strong>What's happening at Goldsmiths</strong></summary>
+
 - [Blog.DoC](http://www.doc.gold.ac.uk/blog/) - *"This is the blog for Goldsmiths' Department of Computing. If you are a student, graduate or staff member of Goldsmiths Computing and you want to share news, photos or stories about your work, email our blog editor at: computing@gold.ac.uk"*
 - [Computing events, seminars & conferences](https://www.gold.ac.uk/computing/events/) - *"The Computing and Psychology departments' regular seminars encompassing various aspects of cognition, computation and culture. All are welcome to attend."*
 - [Goldsmiths Computing (Twitter)](https://twitter.com/goldcomputing) - *"Creativity, independence and learning by doing. Computing at Goldsmiths, University of London."*
 - [Goldsmiths, UoL students (Twitter)](https://twitter.com/StudentsAtGold) - *"The official account for students at Goldsmiths, University of London. Online Mon-Fri 9-5pm."*
 - [Hacksmiths](https://2020.goldsmiths.tech/) - *"Hacksmiths is the student-run tech society at Goldsmiths. Our mission is to provide an opportunity for people in all departments and from all backgrounds the chance to learn about, and play with, technology."*
+</details>
 
 
-# Contacting each other
-- Reaching out to UoL
-    - [Contact page](https://london.ac.uk/contact-us)
-    - [General enquiries](https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&category=UOL) (← For non-students. Students should ask in **[the portal](https://my.london.ac.uk/)** instead.)
-    - Reach out by phone: `+44 (0)20 7862 8000` (general), `+44 (0)20 7862 5766` (specific to this degree), `+44 (0)20 7862 8368` (fees office).
-    - [Student Advice Center](https://london.kb.help/)
+<details>
+<summary><strong>Contacting UoL</strong></summary>
+
+- [Contact page](https://london.ac.uk/contact-us)
+- [General enquiries](https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&category=UOL) (← For non-students. Students should ask in **[the portal](https://my.london.ac.uk/)** instead.)
+- Reach out by phone: `+44 (0)20 7862 8000` (general), `+44 (0)20 7862 5766` (specific to this degree), `+44 (0)20 7862 8368` (fees office).
+- [Student Advice Center](https://london.kb.help/)
+</details>
+
+<details>
+<summary><strong>Contacting other students in this programme</strong></summary>
+
 - Discord server (choose one of the following, it is the same server): [Invitation link #1](https://discord.gg/Hyxse35), [Invitation link #2](https://discord.gg/YEt2f7E)
 - [Slack workspace](https://londoncs.slack.com/)
 - [Zoom](https://zoom.us/) (video conferencing used on Coursera)
 
 More software options for video conferencing on [this page](/software).
+</details>
 
+## Getting ready: Study and work options
+- [Job readiness, other online study options and work opportunities](after_uol/README.md).
 
-# Other resources
-- [Applying to UoL: Guide and FAQs about the process](applying_to_uol/README.md)
-- [Books recommended by students in this degree](books/README.md)
-- [Free software](software/README.md)
-- [Kinks to be aware of in the different modules](kinks/README.md)
-- Online courses: [free resources](online_courses/free/README.md), [paid resources](online_courses/paid/README.md)
-- [Podcasts](podcasts/README.md)
-- [Slack resources](slack/README.md) (channels to join, important information available, help with using Slack, etc.)
-- [Websites to visit](websites/README.md)
-- [YouTube videos](youtube/README.md)
+---
 
-
-# Resources for later
-- [Study options after the BSc in Computer Science](after_uol/README.md)
-
-
-# GitHub contributors
+## GitHub contributors
 
 | Name                      | Handle                                                 |
 | ------------------------- | ------------------------------------------------------ |
