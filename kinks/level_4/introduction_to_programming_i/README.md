@@ -70,6 +70,9 @@ Be aware that those Sleuth cases involving a spotlight effect will not work on F
 
 
 ### Pro
+#### 601, stages 1-4
+Where the stroke(r, g, b) command is used, it seems to be a requirement to use noFill() as well in order to get the grader to accept the submission. Similarly, it may be required to use noStoke() in conjunction with fill(r,g,b). In the instructions it is not stated to use noStroke() and noFill(). (reported by Gerry [@gstarch]) 
+
 #### 701, stage 4
 Some versions of this stage have misspelled words which prevent the student from solving the case. If you encounter the words `plasic` or `nerveous`, you need to make sure that your solution searches for `plastic` or `nervous` instead. Some other variations along those lines with other misspelled words may exist but haven't been reported yet.
 
