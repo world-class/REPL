@@ -14,6 +14,15 @@
         "code",
         "test"
       ]
+    },
+    {
+      "login": "irfanullahjan",
+      "name": "Irfanullah Jan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7108679?v=4",
+      "profile": "https://xplaind.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
