@@ -285,6 +285,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.sglavoie.com/"><img src="https://avatars0.githubusercontent.com/u/32682903?v=4" width="100px;" alt=""/><br /><sub><b>Sébastien Lavoie</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=sglavoie" title="Code">💻</a> <a href="https://github.com/world-class/REPL/commits?author=sglavoie" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://github.com/amilos"><img src="https://avatars3.githubusercontent.com/u/4828656?v=4" width="100px;" alt=""/><br /><sub><b>Aleksandar Milosevic</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=amilos" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/eicksl"><img src="https://avatars2.githubusercontent.com/u/29685894?v=4" width="100px;" alt=""/><br /><sub><b>Spencer Eick</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=eicksl" title="Documentation">📖</a></td>
+        <td align="center"><a href="https://github.com/ChrisCastelo"><img src="https://avatars0.githubusercontent.com/u/49125861?v=4" width="100px;" alt=""/><br /><sub><b>Chris Castelo</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=ChrisCastelo" title="Documentation">📖</a></td>
   </tr>
 </table>
 
