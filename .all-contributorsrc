@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sglavoie",
+      "name": "Sébastien Lavoie",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/32682903?v=4",
+      "profile": "https://www.sglavoie.com/",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "REPL",
+  "projectOwner": "world-class",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
