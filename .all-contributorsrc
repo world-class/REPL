@@ -14,6 +14,15 @@
         "code",
         "test"
       ]
+    },
+    {
+      "login": "amilos",
+      "name": "Aleksandar Milosevic",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4828656?v=4",
+      "profile": "https://github.com/amilos",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
