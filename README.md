@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A twist on the use of **REPL**, which stands for *read–eval–print
@@ -308,6 +308,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/amilos"><img src="https://avatars3.githubusercontent.com/u/4828656?v=4" width="100px;" alt=""/><br /><sub><b>Aleksandar Milosevic</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=amilos" title="Code">💻</a> <a href="https://github.com/world-class/REPL/commits?author=amilos" title="Documentation">📖</a></td>
     <td align="center"><a href="https://ankush.dev"><img src="https://avatars2.githubusercontent.com/u/9079960?v=4" width="100px;" alt=""/><br /><sub><b>Ankush Menat</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=amenat" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://writewithwrabit.com"><img src="https://avatars2.githubusercontent.com/u/16005567?v=4" width="100px;" alt=""/><br /><sub><b>Anthony Morris</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=amorriscode" title="Documentation">📖</a></td>
   </tr>
 </table>
 
