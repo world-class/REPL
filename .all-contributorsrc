@@ -51,6 +51,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "ChrisCastelo",
+      "name": "Chris Castelo",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/49125861?v=4",
+      "profile": "https://github.com/ChrisCastelo",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
