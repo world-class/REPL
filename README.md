@@ -272,23 +272,23 @@ More software options for video conferencing on [this page](/software).
 
 ## GitHub contributors
 
-| Name                      | Handle                                                 |
-| ------------------------- | ------------------------------------------------------ |
-| Aleksandar Milosevic      | [@amilos](https://github.com/amilos)                   |
-| Ankush Menat              | [@amenat](https://github.com/amenat)                   |
-| Anthony Morris            | [@amorriscode](https://github.com/amorriscode)         |
-| Arjun Muralidharan        | [@arjunwritescode](https://github.com/arjunwritescode) |
-| Blair Currey              | [@BlairCurrey](https://github.com/BlairCurrey)         |
-| Chris Castelo             | [@ChrisCastelo](https://github.com/ChrisCastelo)       |
-| Danny Callaghan           | [@dannycallaghan](https://github.com/dannycallaghan)   |
-| David Moreno              | [@damog](https://github.com/damog)                     |
-| Diego Cabrejas            | [@dcabrejas](https://github.com/dcabrejas)             |
-| Felipe Balbi              | [@felipebalbi](https://github.com/felipebalbi)         |
-| Gareth Erskine-Jones      | [@gsej](https://github.com/gsej)                       |
-| Irfanullah Jan            | [@irfanullahjan](https://github.com/irfanullahjan)     |
-| Kajetan Maurycy Olszewski | [@kaemo](https://github.com/kaemo)                     |
-| Michał Żuber              | [@zubmic](https://github.com/zubmic)                   |
-| Ryan Slevin               | [@ryanslevin](https://github.com/ryanslevin)           |
-| Spencer Eick              | [@eicksl](https://github.com/eicksl)                   |
-| Sébastien Lavoie          | [@sglavoie](https://github.com/sglavoie)               |
-| Xuan Lim                  | [@Xuan-Lim](https://github.com/Xuan-Lim)               |
+| Name                      | Handle                                                      |
+| ------------------------- | ------------------------------------------------------      |
+| Aleksandar Milosevic      | [@amilos](https://github.com/amilos)                        |
+| Ankush Menat              | [@amenat](https://github.com/amenat)                        |
+| Anthony Morris            | [@amorriscode](https://github.com/amorriscode)              |
+| Arjun Muralidharan        | [@arjunmuralidharan](https://github.com/arjunmuralidharan/) |
+| Blair Currey              | [@BlairCurrey](https://github.com/BlairCurrey)              |
+| Chris Castelo             | [@ChrisCastelo](https://github.com/ChrisCastelo)            |
+| Danny Callaghan           | [@dannycallaghan](https://github.com/dannycallaghan)        |
+| David Moreno              | [@damog](https://github.com/damog)                          |
+| Diego Cabrejas            | [@dcabrejas](https://github.com/dcabrejas)                  |
+| Felipe Balbi              | [@felipebalbi](https://github.com/felipebalbi)              |
+| Gareth Erskine-Jones      | [@gsej](https://github.com/gsej)                            |
+| Irfanullah Jan            | [@irfanullahjan](https://github.com/irfanullahjan)          |
+| Kajetan Maurycy Olszewski | [@kaemo](https://github.com/kaemo)                          |
+| Michał Żuber              | [@zubmic](https://github.com/zubmic)                        |
+| Ryan Slevin               | [@ryanslevin](https://github.com/ryanslevin)                |
+| Spencer Eick              | [@eicksl](https://github.com/eicksl)                        |
+| Sébastien Lavoie          | [@sglavoie](https://github.com/sglavoie)                    |
+| Xuan Lim                  | [@Xuan-Lim](https://github.com/Xuan-Lim)                    |
