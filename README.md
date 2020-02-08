@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -272,30 +273,6 @@ More software options for video conferencing on [this page](/software).
 - [Job readiness, other online study options and work opportunities](after_uol/README.md).
 
 ---
-
-## GitHub contributors
-
-| Name                      | Handle                                                      |
-| ------------------------- | ------------------------------------------------------      |
-| Aleksandar Milosevic      | [@amilos](https://github.com/amilos)                        |
-| Ankush Menat              | [@amenat](https://github.com/amenat)                        |
-| Anthony Morris            | [@amorriscode](https://github.com/amorriscode)              |
-| Arjun Muralidharan        | [@arjunmuralidharan](https://github.com/arjunmuralidharan/) |
-| Blair Currey              | [@BlairCurrey](https://github.com/BlairCurrey)              |
-| Chris Castelo             | [@ChrisCastelo](https://github.com/ChrisCastelo)            |
-| Danny Callaghan           | [@dannycallaghan](https://github.com/dannycallaghan)        |
-| David Moreno              | [@damog](https://github.com/damog)                          |
-| Diego Cabrejas            | [@dcabrejas](https://github.com/dcabrejas)                  |
-| Felipe Balbi              | [@felipebalbi](https://github.com/felipebalbi)              |
-| Gareth Erskine-Jones      | [@gsej](https://github.com/gsej)                            |
-| Gerhard Lourens           | [@gstarch](https://github.com/gstarch)                      |
-| Irfanullah Jan            | [@irfanullahjan](https://github.com/irfanullahjan)          |
-| Kajetan Maurycy Olszewski | [@kaemo](https://github.com/kaemo)                          |
-| Michał Żuber              | [@zubmic](https://github.com/zubmic)                        |
-| Ryan Slevin               | [@ryanslevin](https://github.com/ryanslevin)                |
-| Spencer Eick              | [@eicksl](https://github.com/eicksl)                        |
-| Sébastien Lavoie          | [@sglavoie](https://github.com/sglavoie)                    |
-| Xuan Lim                  | [@Xuan-Lim](https://github.com/Xuan-Lim)                    |
 
 ## Contributors ✨
 
