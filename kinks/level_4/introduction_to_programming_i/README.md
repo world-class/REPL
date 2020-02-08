@@ -12,6 +12,7 @@
                 * [Sleuth cases with spotlight effect](#sleuth-cases-with-spotlight-effect)
                 * [Variable assignment](#variable-assignment)
         * [Pro](#pro)
+            * [601, stages 1-4](#601-stages-1-4)
             * [701, stage 4](#701-stage-4)
             * [702, stage 4](#702-stage-4)
             * [802, stage 2](#802-stage-2)
@@ -71,7 +72,7 @@ Be aware that those Sleuth cases involving a spotlight effect will not work on F
 
 ### Pro
 #### 601, stages 1-4
-Where the stroke(r, g, b) command is used, it seems to be a requirement to use noFill() as well in order to get the grader to accept the submission. Similarly, it may be required to use noStoke() in conjunction with fill(r,g,b). In the instructions it is not stated to use noStroke() and noFill(). (reported by Gerry [@gstarch]) 
+Where the `stroke(r, g, b)` command is used, it seems to be a requirement to use `noFill()` as well in order to get the grader to accept the submission. Similarly, it may be required to use `noStoke()` in conjunction with `fill(r,g,b)`. In the instructions it is not stated to use `noStroke()` and `noFill()`. (reported by Gerry [@gstarch](https://github.com/gstarch))
 
 #### 701, stage 4
 Some versions of this stage have misspelled words which prevent the student from solving the case. If you encounter the words `plasic` or `nerveous`, you need to make sure that your solution searches for `plastic` or `nervous` instead. Some other variations along those lines with other misspelled words may exist but haven't been reported yet.
@@ -128,4 +129,4 @@ You need to ensure that any function being declared does not have a space betwee
 
 #### Practice quiz: Conditionals with types
 - Question 3: The question says the answer _"No, because  answer is neither a number, nor is it equal to the number 42"_ is correct. However the correct answer is _"Yes, because answer is equal to 42"_.
-- Question 5: The question says the answer `parseInt(a+b)*c` is correct and the others are all wrong: however `(a+b)*c` is also correct. They both produce the same result. 
+- Question 5: The question says the answer `parseInt(a+b)*c` is correct and the others are all wrong: however `(a+b)*c` is also correct. They both produce the same result.
