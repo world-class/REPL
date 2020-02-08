@@ -14,6 +14,15 @@
         "code",
         "test"
       ]
+    },
+    {
+      "login": "felipebalbi",
+      "name": "Felipe Balbi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45936891?v=4",
+      "profile": "https://github.com/felipebalbi",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
