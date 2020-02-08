@@ -123,6 +123,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "zubmic",
+      "name": "Michał Żuber",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/49207678?v=4",
+      "profile": "https://github.com/zubmic",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
