@@ -1,4 +1,7 @@
 <img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A twist on the use of **REPL**, which stands for *read–eval–print
 loop* in computer programming. This repository aims to become a central
@@ -293,3 +296,22 @@ More software options for video conferencing on [this page](/software).
 | Spencer Eick              | [@eicksl](https://github.com/eicksl)                        |
 | Sébastien Lavoie          | [@sglavoie](https://github.com/sglavoie)                    |
 | Xuan Lim                  | [@Xuan-Lim](https://github.com/Xuan-Lim)                    |
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/amilos"><img src="https://avatars3.githubusercontent.com/u/4828656?v=4" width="100px;" alt=""/><br /><sub><b>Aleksandar Milosevic</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=amilos" title="Code">💻</a> <a href="https://github.com/world-class/REPL/commits?author=amilos" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

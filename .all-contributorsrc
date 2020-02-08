@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "amilos",
+      "name": "Aleksandar Milosevic",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4828656?v=4",
+      "profile": "https://github.com/amilos",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "REPL",
+  "projectOwner": "world-class",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
