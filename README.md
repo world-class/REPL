@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A twist on the use of **REPL**, which stands for *read–eval–print
@@ -283,6 +283,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.sglavoie.com/"><img src="https://avatars0.githubusercontent.com/u/32682903?v=4" width="100px;" alt=""/><br /><sub><b>Sébastien Lavoie</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=sglavoie" title="Code">💻</a> <a href="https://github.com/world-class/REPL/commits?author=sglavoie" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/stillsw"><img src="https://avatars0.githubusercontent.com/u/6453464?v=4" width="100px;" alt=""/><br /><sub><b>stillsw</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=stillsw" title="Documentation">📖</a></td>
   </tr>
 </table>
 
