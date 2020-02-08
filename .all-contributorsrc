@@ -141,6 +141,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "eicksl",
+      "name": "Spencer Eick",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29685894?v=4",
+      "profile": "https://github.com/eicksl",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
