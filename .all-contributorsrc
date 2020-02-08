@@ -14,6 +14,15 @@
         "code",
         "test"
       ]
+    },
+    {
+      "login": "damog",
+      "name": "David Moreno",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1260?v=4",
+      "profile": "https://damog.net",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
