@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A twist on the use of **REPL**, which stands for *read–eval–print
@@ -320,6 +320,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/felipebalbi"><img src="https://avatars2.githubusercontent.com/u/45936891?v=4" width="100px;" alt=""/><br /><sub><b>Felipe Balbi</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=felipebalbi" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/gsej"><img src="https://avatars1.githubusercontent.com/u/7272850?v=4" width="100px;" alt=""/><br /><sub><b>gsej</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=gsej" title="Documentation">📖</a></td>
     <td align="center"><a href="https://xplaind.com"><img src="https://avatars0.githubusercontent.com/u/7108679?v=4" width="100px;" alt=""/><br /><sub><b>Irfanullah Jan</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=irfanullahjan" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/kaemo"><img src="https://avatars2.githubusercontent.com/u/1733602?v=4" width="100px;" alt=""/><br /><sub><b>Kajetan Maurycy Olszewski</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=kaemo" title="Documentation">📖</a></td>
   </tr>
 </table>
 
