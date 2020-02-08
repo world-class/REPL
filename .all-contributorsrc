@@ -60,6 +60,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dannycallaghan",
+      "name": "Danny Callaghan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/724781?v=4",
+      "profile": "https://github.com/dannycallaghan",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
