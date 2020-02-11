@@ -14,8 +14,8 @@
 - [Algorithms and Data Structures I](../kinks/level_4/algorithms_and_data_structures_i/README.md)
 - [Discrete Mathematics](../kinks/level_4/discrete_mathematics/README.md)
 - [How Computers Work](../kinks/level_4/how_computers_work/README.md)
-- [Introduction to Programming II](../kinks/level_4/introduction_to_programming_ii/README.md)
 - [Introduction to Programming I](../kinks/level_4/introduction_to_programming_i/README.md)
+- [Introduction to Programming II](../kinks/level_4/introduction_to_programming_ii/README.md)
 - [Numerical Mathematics](../kinks/level_4/numerical_mathematics/README.md)
 - [Web Development](../kinks/level_4/web_development/README.md)
 
