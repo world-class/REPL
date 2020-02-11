@@ -12,13 +12,18 @@
                 * [Sleuth cases with spotlight effect](#sleuth-cases-with-spotlight-effect)
                 * [Variable assignment](#variable-assignment)
         * [Pro](#pro)
-            * [601, stages 1-4](#601-stages-1-4)
+            * [601, All stages](#601-all-stages)
+            * [601, stage 4](#601-stage-4)
+            * [701, All stages](#701-all-stages)
             * [701, stage 4](#701-stage-4)
+            * [702, All stages](#702-all-stages)
+            * [702, stage 1](#702-stage-1)
+            * [702, stage 2](#702-stage-2)
             * [702, stage 4](#702-stage-4)
             * [802, stage 2](#802-stage-2)
                 * [Random function](#random-function)
         * [Global Sleuth glitches](#global-sleuth-glitches)
-            * [`console.log();` statements](#consolelog-statements)
+            * [`console.log()` statements](#consolelog-statements)
             * [Function parentheses](#function-parentheses)
     * [Week 1](#week-1)
         * [Lesson 1.1](#lesson-11)
@@ -50,11 +55,11 @@ This page is about the [Introduction to programming I module](../../../modules/l
 #### 201, stage 4
 - Some students were given cases where body parts of the judge are missing (i.e., legs appear outside the canvas, for instance). In those cases, you may be better off just failing all your attempts and wait for a new randomized case to be given to you as you probably won't be able to get 100%.
 - If your answer isn't accepted, try increasing the number of times you have `vertex()` in your code. Answers including at least 40 to 50 vertices have been reported to work better.
-- You should only use `beginShape();`, `vertex(x1, y1);` and `endShape(CLOSE);` in your code.
+- You should only use `beginShape()`, `vertex(x1, y1)` and `endShape(CLOSE)` in your code.
 
 #### Other glitches
 ##### Sleuth cases with spotlight effect
-Be aware that those Sleuth cases involving a spotlight effect will not work on Firefox out of the box (they work in any webkit based browser like Google Chrome and Safari). There are possible workarounds such as commenting out the line at the bottom that says `blendMode(DARKEST);` and uncommenting it again before submitting the case. Changing it to `blendMode(LIGHTEST);` should work at least to be able to see where the spotlight is.
+Be aware that those Sleuth cases involving a spotlight effect will not work on Firefox out of the box (they work in any webkit based browser like Google Chrome and Safari). There are possible workarounds such as commenting out the line at the bottom that says `blendMode(DARKEST)` and uncommenting it again before submitting the case. Changing it to `blendMode(LIGHTEST)` should work at least to be able to see where the spotlight is.
 
 ##### Variable assignment
 - Some cases ask to set the value of a variable to `mouseX` for instance and then make sure it doesn't go above or below a certain value with `min()` and `max()` functions. Answers can wrongly be accepted if you first set
@@ -71,11 +76,49 @@ Be aware that those Sleuth cases involving a spotlight effect will not work on F
 
 
 ### Pro
-#### 601, stages 1-4
-Where the `stroke(r, g, b)` command is used, it seems to be a requirement to use `noFill()` as well in order to get the grader to accept the submission. Similarly, it may be required to use `noStoke()` in conjunction with `fill(r,g,b)`. In the instructions it is not stated to use `noStroke()` and `noFill()`. (reported by Gerry [@gstarch](https://github.com/gstarch))
+#### 601, All stages
+When required to draw at the various locations of crimes and sightings, take note of the following:
+	
+- When asked to draw vertices, at least one vertex must be drawn on the exact co-ordinate. Any number of vertices > 1 can be drawn to get the grader to accept the submission.
+	
+- Other shapes like rectangles and triangles can be drawn around the exact co-ordinate (i.e. no edges passing through it or ending on it) provided that they are smaller than approx 10-15 px in diameter.
+
+- The names of array that need plotting may not always match up with the type of crime that is specified, for example, the instructions may refer to thefts, but the array might be called MurderSceneRecord. 
+
+- When asked to use `stroke(r,g,b)`, also use `noFill()` and when asked to use `fill(r,g,b)` also use `noStroke()`. Even though these functions are not allowed according to the instructions, the grader appears to need them to correctly assess the stroke and fill properties.  
+
+- When asked to draw rects around a point, do not use `rectMode(CENTER)` as it may confuse the grader. Simply use `rect(x-5, y-5, 10, 10)` or similar. 
+
+#### 601, stage 4
+Where possible matches need to be pushed into a separate array after comparing dates and distances, take note that some conditions could be too strict resulting in zero matches, which could at first seem like an error in your code. In such cases, if you submit, the grader will accept the empty array as long as the logic was implemented correctly. 
+
+#### 701, All stages
+Witnesses sometimes give details relating to features or characteristics for which no properties are defined in the object arrays. It is usually not required to check for these. If problematic, get suspended to get a new case.
 
 #### 701, stage 4
 Some versions of this stage have misspelled words which prevent the student from solving the case. If you encounter the words `plasic` or `nerveous`, you need to make sure that your solution searches for `plastic` or `nervous` instead. Some other variations along those lines with other misspelled words may exist but haven't been reported yet.
+
+#### 702, All stages
+Probably the trickiest of all the Sleuth cases. Instructions are not always explicitly clear and require insight into objects and functions.
+
+#### 702, stage 1
+There is a bug in the instructions, stating that you need to: 
+`Get your car on the road by completing the </DRIVE_NAME/> function below.`
+
+The function that requires editing is called `Move_Car()` (or similar)
+
+#### 702, stage 2
+Hardest part is to implement the function to check/search a vehicle ahead by comparing the passed variable's (detective car object) distance/km/miles property against the ones in the array. There are several ways to do this, but the grader may not always like what you're doing. Some guidance here:
+
+You need to check each object in the array to confirm using if-statement(s) that: 
+- They are in the same lane (easy, as per the instructions)
+- That the difference between the distance/km/miles-properties of the car ahead and the detective vehicle less than 200
+- That the car in the array is in front of (and not behind) the detective car
+
+Note that the distance/km/miles_travelled property is increasing towards the top of the screen, opposite to the regular y-coordinate. Since debugging the array might be tricky, consider adding a text readout to each car using a variation of: 
+`text(Vehicles[i].Distance, Vehicles[i].X, Vehicles[i].Y); //debug` 
+
+Once implemented correctly, remember the logic, as you will likely need to create similar functions things in the stages ahead.
 
 #### 702, stage 4
 _"My suspect's car didn't have enough space to pull out in front of me before speeding off, so the chase wouldn't work as expected. I deliberately got myself suspended so I could grab another case, and it worked fine."_ (reported by [@dannycallaghan](https://github.com/dannycallaghan))
@@ -88,12 +131,12 @@ _Naturally I incremented the upper value by one so it'd actually generate values
 
 
 ### Global Sleuth glitches
-#### `console.log();` statements
+#### `console.log()` statements
 If you get this message when submitting a case:
 
     There is an error in your code ... Error in compile SyntaxError: Unexpected token )
 
-Be sure that you have removed all of your debugging statements that are using `console.log();`. This is one of those unexpected situations where your statements should have no effect, but they do somehow.
+Be sure that you have removed all of your debugging statements that are using `console.log()`. This is one of those unexpected situations where your statements should have no effect, but they do somehow.
 
 #### Function parentheses
 If you get this message when submitting a case:
