@@ -8,13 +8,17 @@ behind applying in a concise and clear way so you know exactly what to
 expect when you do it yourself.
 
 ## Table of Contents
+<!-- vim-markdown-toc GFM -->
+
 * [Administrative Information: Admissions Process and Requirements](#administrative-information-admissions-process-and-requirements)
-  * [English Requirements (for Non-English Speaking Countries)](#english-requirements-for-non-english-speaking-countries)
-  * [Documents to Prepare for Application](#documents-and-statement-to-prepare-for-application)
+    * [English Requirements for Non-English Speaking Countries](#english-requirements-for-non-english-speaking-countries)
+    * [Documents and Statement to Prepare for Application](#documents-and-statement-to-prepare-for-application)
 * [Application Process](#application-process)
 * [Recognition of Prior Learning (RPL) Application](#recognition-of-prior-learning-rpl-application)
-* [Frequently Asked Questions (FAQs)](#faqs)
+* [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
 * [Additional Resources](#additional-resources)
+
+<!-- vim-markdown-toc -->
 
 ## Administrative Information: Admissions Process and Requirements
 Students may apply to the programme in two of the following ways:
