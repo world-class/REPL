@@ -79,15 +79,15 @@ Be aware that those Sleuth cases involving a spotlight effect will not work on F
 #### 601, All stages
 When required to draw at the various locations of crimes and sightings, take note of the following:
 	
-*When asked to draw vertices, at least one vertex must be drawn on the exact co-ordinate. Any number of vertices > 1 can be drawn to get the grader to accept the submission.
+- When asked to draw vertices, at least one vertex must be drawn on the exact co-ordinate. Any number of vertices > 1 can be drawn to get the grader to accept the submission.
 	
-*Other shapes like rectangles and triangles can be drawn around the exact co-ordinate (i.e. no edges passing through it or ending on it) provided that they are smaller than approx 10-15 px in diameter.
+- Other shapes like rectangles and triangles can be drawn around the exact co-ordinate (i.e. no edges passing through it or ending on it) provided that they are smaller than approx 10-15 px in diameter.
 
-*The names of array that need plotting may not always match up with the type of crime that is specified, for example, the instructions may refer to thefts, but the array might be called MurderSceneRecord. 
+- The names of array that need plotting may not always match up with the type of crime that is specified, for example, the instructions may refer to thefts, but the array might be called MurderSceneRecord. 
 
-*When asked to use `stroke(r,g,b)`, also use `noFill()` and when asked to use `fill(r,g,b)` also use `noStroke()`. Even though these functions are not allowed according to the instructions, the grader appears to need them to correctly assess the stroke and fill properties.  
+- When asked to use `stroke(r,g,b)`, also use `noFill()` and when asked to use `fill(r,g,b)` also use `noStroke()`. Even though these functions are not allowed according to the instructions, the grader appears to need them to correctly assess the stroke and fill properties.  
 
-*When asked to draw rects around a point, do not use `rectMode(CENTER)` as it may confuse the grader. Simply use `rect(x-5, y-5, 10, 10)` or similar. 
+- When asked to draw rects around a point, do not use `rectMode(CENTER)` as it may confuse the grader. Simply use `rect(x-5, y-5, 10, 10)` or similar. 
 
 #### 601, stage 4
 Where possible matches need to be pushed into a separate array after comparing dates and distances, take note that some conditions could be too strict resulting in zero matches, which could at first seem like an error in your code. In such cases, if you submit, the grader will accept the empty array as long as the logic was implemented correctly. 
@@ -111,9 +111,9 @@ The function that requires editing is called `Move_Car()` (or similar)
 Hardest part is to implement the function to check/search a vehicle ahead by comparing the passed variable's (detective car object) distance/km/miles property against the ones in the array. There are several ways to do this, but the grader may not always like what you're doing. Some guidance here:
 
 You need to check each object in the array to confirm using if-statement(s) that: 
-*They are in the same lane (easy, as per the instructions)
-*That the difference between the distance/km/miles-properties of the car ahead and the detective vehicle less than 200
-*That the car in the array is in front of (and not behind) the detective car
+- They are in the same lane (easy, as per the instructions)
+- That the difference between the distance/km/miles-properties of the car ahead and the detective vehicle less than 200
+- That the car in the array is in front of (and not behind) the detective car
 
 Note that the distance/km/miles_travelled property is increasing towards the top of the screen, opposite to the regular y-coordinate. Since debugging the array might be tricky, consider adding a text readout to each car using a variation of: 
 `text(Vehicles[i].Distance, Vehicles[i].X, Vehicles[i].Y); //debug` 
