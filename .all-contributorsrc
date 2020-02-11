@@ -169,6 +169,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "gstarch",
+      "name": "Gerhard Lourens",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18475611?v=4",
+      "profile": "https://github.com/gstarch",
+      "contributions": [
+        "doc",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
