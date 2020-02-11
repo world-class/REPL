@@ -2,10 +2,12 @@
 
 # Paid online courses
 # Table of contents
-- [Paid online courses](#paid-online-courses)
-- [Table of contents](#table-of-contents)
-- [Subscription-based](#subscription-based)
-- [Pay per course](#pay-per-course)
+<!-- vim-markdown-toc GFM -->
+
+* [Subscription-based](#subscription-based)
+* [Pay per course](#pay-per-course)
+
+<!-- vim-markdown-toc -->
 
 ---
 
