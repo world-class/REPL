@@ -40,6 +40,8 @@
 
 <!-- vim-markdown-toc -->
 
+---
+
 # Introduction to programming I - Reported problems
 This page is about the [Introduction to programming I module](../../../modules/level_4/introduction_to_programming_i/).
 
@@ -74,23 +76,24 @@ Be aware that those Sleuth cases involving a spotlight effect will not work on F
 
       variable = max(mouseX, X)
 
+---
 
 ### Pro
 #### 601, All stages
 When required to draw at the various locations of crimes and sightings, take note of the following:
-	
+
 - When asked to draw vertices, at least one vertex must be drawn on the exact co-ordinate. Any number of vertices > 1 can be drawn to get the grader to accept the submission.
-	
+
 - Other shapes like rectangles and triangles can be drawn around the exact co-ordinate (i.e. no edges passing through it or ending on it) provided that they are smaller than approx 10-15 px in diameter.
 
-- The names of array that need plotting may not always match up with the type of crime that is specified, for example, the instructions may refer to thefts, but the array might be called MurderSceneRecord. 
+- The names of array that need plotting may not always match up with the type of crime that is specified, for example, the instructions may refer to thefts, but the array might be called MurderSceneRecord.
 
-- When asked to use `stroke(r,g,b)`, also use `noFill()` and when asked to use `fill(r,g,b)` also use `noStroke()`. Even though these functions are not allowed according to the instructions, the grader appears to need them to correctly assess the stroke and fill properties.  
+- When asked to use `stroke(r,g,b)`, also use `noFill()` and when asked to use `fill(r,g,b)` also use `noStroke()`. Even though these functions are not allowed according to the instructions, the grader appears to need them to correctly assess the stroke and fill properties.
 
-- When asked to draw rects around a point, do not use `rectMode(CENTER)` as it may confuse the grader. Simply use `rect(x-5, y-5, 10, 10)` or similar. 
+- When asked to draw rects around a point, do not use `rectMode(CENTER)` as it may confuse the grader. Simply use `rect(x-5, y-5, 10, 10)` or similar.
 
 #### 601, stage 4
-Where possible matches need to be pushed into a separate array after comparing dates and distances, take note that some conditions could be too strict resulting in zero matches, which could at first seem like an error in your code. In such cases, if you submit, the grader will accept the empty array as long as the logic was implemented correctly. 
+Where possible matches need to be pushed into a separate array after comparing dates and distances, take note that some conditions could be too strict resulting in zero matches, which could at first seem like an error in your code. In such cases, if you submit, the grader will accept the empty array as long as the logic was implemented correctly.
 
 #### 701, All stages
 Witnesses sometimes give details relating to features or characteristics for which no properties are defined in the object arrays. It is usually not required to check for these. If problematic, get suspended to get a new case.
@@ -102,21 +105,21 @@ Some versions of this stage have misspelled words which prevent the student from
 Probably the trickiest of all the Sleuth cases. Instructions are not always explicitly clear and require insight into objects and functions.
 
 #### 702, stage 1
-There is a bug in the instructions, stating that you need to: 
+There is a bug in the instructions, stating that you need to:
 `Get your car on the road by completing the </DRIVE_NAME/> function below.`
 
-The function that requires editing is called `Move_Car()` (or similar)
+The function that requires editing is called `Move_Car()` (or similar).
 
 #### 702, stage 2
 Hardest part is to implement the function to check/search a vehicle ahead by comparing the passed variable's (detective car object) distance/km/miles property against the ones in the array. There are several ways to do this, but the grader may not always like what you're doing. Some guidance here:
 
-You need to check each object in the array to confirm using if-statement(s) that: 
+You need to check each object in the array to confirm using if-statement(s) that:
 - They are in the same lane (easy, as per the instructions)
 - That the difference between the distance/km/miles-properties of the car ahead and the detective vehicle less than 200
 - That the car in the array is in front of (and not behind) the detective car
 
-Note that the distance/km/miles_travelled property is increasing towards the top of the screen, opposite to the regular y-coordinate. Since debugging the array might be tricky, consider adding a text readout to each car using a variation of: 
-`text(Vehicles[i].Distance, Vehicles[i].X, Vehicles[i].Y); //debug` 
+Note that the `distance`/`km`/`miles_travelled` property is increasing towards the top of the screen, opposite to the regular y-coordinate. Since debugging the array might be tricky, consider adding a text readout to each car using a variation of:
+`text(Vehicles[i].Distance, Vehicles[i].X, Vehicles[i].Y); //debug`
 
 Once implemented correctly, remember the logic, as you will likely need to create similar functions things in the stages ahead.
 
@@ -129,6 +132,7 @@ _"They ask you to create an array of random integers between two values. The `ra
 
 _Naturally I incremented the upper value by one so it'd actually generate values between the two numbers requested, but the puzzle actually expects you to just naively slot the two values into random and not fix the bug."_ (reported by *Pehoulihan*)
 
+---
 
 ### Global Sleuth glitches
 #### `console.log()` statements
@@ -154,7 +158,6 @@ You need to ensure that any function being declared does not have a space betwee
 #### Video: 2D coordinate system
 - At 3:56, the top left corner should have coordinates `(4, 3)` instead of `(5, 3)`.
 - At 3:56, the width of the rectangle is `12`, not `11`.
-
 
 ## Week 3
 ### Lesson 2.2
