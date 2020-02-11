@@ -62,6 +62,7 @@
 ## Artificial intelligence & machine learning
 
 ### First steps
+- [AI Demystified: 5-Day Mini-Course](https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course) - Infinite Red Academy. Lecturer: Gant Laborde. *"By the end of the mini-course, you’ll be able to speak intelligently about AI buzzwords, common types of AI and Machine Learning and their practical business applications."*
 - [AI for everyone](https://www.coursera.org/learn/ai-for-everyone) - Coursera. Lecturer: Andrew Ng.
 - [Applied AI: Artificial Intelligence with IBM Watson Specialization](https://www.coursera.org/specializations/applied-artifical-intelligence-ibm-watson-ai) - Coursera. Offered by IBM.
 
