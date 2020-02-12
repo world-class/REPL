@@ -6,21 +6,27 @@
 * [Introduction to programming I - Reported problems](#introduction-to-programming-i---reported-problems)
     * [Sleuth cases](#sleuth-cases)
         * [Rookie](#rookie)
-            * [101, stage 3](#101-stage-3)
-            * [201, stage 4](#201-stage-4)
+            * [101, Stage 3](#101-stage-3)
+            * [201, Stage 4](#201-stage-4)
             * [Other glitches](#other-glitches)
                 * [Sleuth cases with spotlight effect](#sleuth-cases-with-spotlight-effect)
                 * [Variable assignment](#variable-assignment)
         * [Pro](#pro)
             * [601, All stages](#601-all-stages)
-            * [601, stage 4](#601-stage-4)
+            * [601, Stage 4](#601-stage-4)
             * [701, All stages](#701-all-stages)
-            * [701, stage 4](#701-stage-4)
+            * [701, Stage 4](#701-stage-4)
             * [702, All stages](#702-all-stages)
-            * [702, stage 1](#702-stage-1)
-            * [702, stage 2](#702-stage-2)
-            * [702, stage 4](#702-stage-4)
-            * [802, stage 2](#802-stage-2)
+            * [702, Stage 1](#702-stage-1)
+            * [702, Stage 2](#702-stage-2)
+            * [702, Stage 4](#702-stage-4)
+            * [801, All stages](#801-all-stages)
+            * [801, Stage 3-4](#801-stage-3-4)
+            * [801, Stage 4](#801-stage-4)
+            * [802, Stage 1](#802-stage-1)
+            * [802, Stage 2](#802-stage-2)
+            * [802, Stage 3](#802-stage-3)
+            * [802, Stage 4](#802-stage-4)
                 * [Random function](#random-function)
         * [Global Sleuth glitches](#global-sleuth-glitches)
             * [`console.log()` statements](#consolelog-statements)
@@ -47,14 +53,14 @@ This page is about the [Introduction to programming I module](../../../modules/l
 
 ## Sleuth cases
 ### Rookie
-#### 101, stage 3
-- Use only `fill()` and `rect()` commands. You can adjust opacity with `fill()` by adding a fourth value like so:
-
-    fill(R, G, B, A);
+#### 101, Stage 3
+- Use only `fill()` and `rect()` commands. You can adjust opacity with `fill()` by adding a fourth value as follows:
+    
+    `fill(R, G, B, A);`
 
   where `R`, `G` and `B` stand for **red**, **green**, **blue** and can have values from 0 to 255 and `A` stands for **alpha** and is optional. In this case, a value of about `100` is fine so you can see through the shape being drawn.
 
-#### 201, stage 4
+#### 201, Stage 4
 - Some students were given cases where body parts of the judge are missing (i.e., legs appear outside the canvas, for instance). In those cases, you may be better off just failing all your attempts and wait for a new randomized case to be given to you as you probably won't be able to get 100%.
 - If your answer isn't accepted, try increasing the number of times you have `vertex()` in your code. Answers including at least 40 to 50 vertices have been reported to work better.
 - You should only use `beginShape()`, `vertex(x1, y1)` and `endShape(CLOSE)` in your code.
@@ -92,25 +98,25 @@ When required to draw at the various locations of crimes and sightings, take not
 
 - When asked to draw rects around a point, do not use `rectMode(CENTER)` as it may confuse the grader. Simply use `rect(x-5, y-5, 10, 10)` or similar.
 
-#### 601, stage 4
+#### 601, Stage 4
 Where possible matches need to be pushed into a separate array after comparing dates and distances, take note that some conditions could be too strict resulting in zero matches, which could at first seem like an error in your code. In such cases, if you submit, the grader will accept the empty array as long as the logic was implemented correctly.
 
 #### 701, All stages
 Witnesses sometimes give details relating to features or characteristics for which no properties are defined in the object arrays. It is usually not required to check for these. If problematic, get suspended to get a new case.
 
-#### 701, stage 4
+#### 701, Stage 4
 Some versions of this stage have misspelled words which prevent the student from solving the case. If you encounter the words `plasic` or `nerveous`, you need to make sure that your solution searches for `plastic` or `nervous` instead. Some other variations along those lines with other misspelled words may exist but haven't been reported yet.
 
 #### 702, All stages
 Probably the trickiest of all the Sleuth cases. Instructions are not always explicitly clear and require insight into objects and functions.
 
-#### 702, stage 1
+#### 702, Stage 1
 There is a bug in the instructions, stating that you need to:
 `Get your car on the road by completing the </DRIVE_NAME/> function below.`
 
 The function that requires editing is called `Move_Car()` (or similar).
 
-#### 702, stage 2
+#### 702, Stage 2
 Hardest part is to implement the function to check/search a vehicle ahead by comparing the passed variable's (detective car object) distance/km/miles property against the ones in the array. There are several ways to do this, but the grader may not always like what you're doing. Some guidance here:
 
 You need to check each object in the array to confirm using if-statement(s) that:
@@ -123,14 +129,49 @@ Note that the `distance`/`km`/`miles_travelled` property is increasing towards t
 
 Once implemented correctly, remember the logic, as you will likely need to create similar functions things in the stages ahead.
 
-#### 702, stage 4
+#### 702, Stage 4
 _"My suspect's car didn't have enough space to pull out in front of me before speeding off, so the chase wouldn't work as expected. I deliberately got myself suspended so I could grab another case, and it worked fine."_ (reported by [@dannycallaghan](https://github.com/dannycallaghan))
 
-#### 802, stage 2
+#### 801, All stages
+More spotlight stages, which may cause Firefox users to not see the spotlights. 
+To get it to work, comment out `blendMode(DARKEST)` during your work and to uncomment again before submission. Or don't.
+
+Tips:
+- The 1st seat in the 1st row will be `seats[0][0]` 
+- Rows and seats relate to `seats[row][seat]` and not vice versa
+- You don't need to factor in reverse counting of rows such that front to back make row numbers increase like in a real theatre. For this case the first row is at the back of the theatre (i.e. the top of the screen)  
+
+#### 801, Stage 3-4
+- Many students waste time here trying to spot patterns in the audience members based on their appearance. The information about the seat numbers of gang/perpetrators is already defined in an array. It appears that any information given about appearance (hats, retro glasses, etc.) is merely to confirm that you have used the array to traverse the seats in the correct manner and not to actually identify gang members.
+
+#### 801, Stage 4
+Here the challenge is to traverse a two-dimensional array using a normal (one-dimensional) array. There are different ways to approach this, but these work:
+
+- create additional variables and use a nested-for with conditionals, or
+- convert the 1D array to a 2D array and compare against the 2D array
+
+It appears that the grader is looking for two simple nested for-loops in the solution, so more elegant ways involving math to convert your 1D iterator into two 2D co-ordinates does not work, even when all gang members are correctly identified. This, for example, was not accepted by the grader: 
+`for (var i = 0; i < suspect.length; i++)
+operaFolks[floor(i/10)][i%10].recognised = (suspect[i]);`
+
+#### 802, Stage 1
+Tip: You can comment out the line `if (frameCount % 7 == 0)` in order to speed up the deck spread sequence. It might save some time during testing. 
+
+#### 802, Stage 2
 ##### Random function
 _"They ask you to create an array of random integers between two values. The `random()` function in `p5.js` includes the lower number, but excludes the upper number. So if you do `random(5,9)`, it might well generate a **5**, but never a **9**._
 
 _Naturally I incremented the upper value by one so it'd actually generate values between the two numbers requested, but the puzzle actually expects you to just naively slot the two values into random and not fix the bug."_ (reported by *Pehoulihan*)
+
+#### 802, Stage 3
+Tip: When comparing cards, you can't simply compare objects against each other as the objects may be structured differently. Rather consider the properties of the different objects in the arrays and compare similar properties against one another.
+
+#### 802, Stage 4
+Take a good look at some form of documentation to understand how the JavaScript `splice()` function works. [MDN `Array.splice` documentation] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+
+From the instructions and the variable names it is not always clear which part of the deck the grader wants in the spliced array. Other versions may exist, but it appears that the objective is to splice the part of the deck that would remain on the table (after it was cut) into a new array. In some cases that new array is called `topOfDeck` which is incredibly confusing because it is actually the bottom part of the deck we are looking for. The top card lying on the remaining part of the deck must be the target card.
+
+When testing the reverse operation, take note that the console in Firefox (Developer Edition) and some other browsers may display object data live at the time of viewing it and not at the time of logging. This could create the impression that your array operations are not working. To see the array values at the time of logging them, do not use `console.log(obj)`, but use `console.log(JSON.parse(JSON.stringify(obj)))` instead.
 
 ---
 
