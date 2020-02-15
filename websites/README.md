@@ -12,6 +12,7 @@
     * [Resume building](#resume-building)
 * [Computer science](#computer-science)
     * [Algorithms](#algorithms)
+        * [Visualizations](#visualizations)
     * [Articles](#articles)
     * [Courses and videos](#courses-and-videos)
     * [Free (e)books](#free-ebooks)
@@ -28,6 +29,8 @@
     * [Calculus](#calculus)
         * [Derivatives](#derivatives)
     * [Discrete mathematics](#discrete-mathematics)
+        * [Algorithms](#algorithms-1)
+            * [Hopcroft-Karp](#hopcroft-karp)
         * [Graph theory](#graph-theory)
         * [Rules of inference - logic proofs](#rules-of-inference---logic-proofs)
     * [Encryption](#encryption)
@@ -124,6 +127,9 @@
 - [Introduction to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) ([problem sets](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/)) - MIT OpenCourseWare.
 - [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms/) - *"We've partnered with Dartmouth college professors Tom Cormen and Devin Balkcom to teach introductory computer science algorithms, including searching, sorting, recursion, and graph theory. Learn with a combination of articles, visualizations, quizzes, and coding challenges."*
 - [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/)
+### Visualizations
+- [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
+
 
 ## Articles
 - [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
@@ -186,6 +192,10 @@
 
 ## Discrete mathematics
 - [Readings from MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
+
+### Algorithms
+#### Hopcroft-Karp
+- [Bipartite Matching](https://www-m9.ma.tum.de/graph-algorithms/matchings-hopcroft-karp/index_en.html) - Interactive: *"Here we demonstrate the Hopcroft-Karp algorithm that solves the problem of finding maximal matchings on bipartite graphs."*
 
 ### Graph theory
 - [D3 Graph Theory](https://d3gt.com) - *"Learn graph theory interactively."*
