@@ -33,6 +33,7 @@
     * [Complex analysis](#complex-analysis)
     * [Differential equations](#differential-equations)
     * [Discrete mathematics](#discrete-mathematics)
+    * [P vs NP](#p-vs-np)
 * [Encryption](#encryption)
 * [General topics](#general-topics)
     * [Linear algebra](#linear-algebra)
@@ -224,6 +225,8 @@ Dan Colman
 - [The Karnaugh Map - Rules of Simplification](https://www.youtube.com/watch?v=PA0kBrpHLM4) - Jonnie Palmer
 - [Transitive closure](https://www.youtube.com/watch?v=OO8Jfs9uZnc) - GVSUmath
 
+## P vs NP
+- [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s) - hackerdashery
 
 # Encryption
 - [Lecture 12: The RSA Cryptosystem and Efficient Exponentiation](https://www.youtube.com/watch?v=QSlWzKNbKrU) - Christof Paar
