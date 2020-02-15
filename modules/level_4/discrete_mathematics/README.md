@@ -90,6 +90,15 @@ _This course does not require you to read the whole book, you will be given spec
 
 ## On REPL
 - [Websites](https://github.com/world-class/REPL/tree/master/websites#discrete-mathematics)
+    - **Algorithms**
+        - [Hopcroft-Karp algorithm - Bipartite Matching](https://www-m9.ma.tum.de/graph-algorithms/matchings-hopcroft-karp/index_en.html) - Interactive: *"Here we demonstrate the Hopcroft-Karp algorithm that solves the problem of finding maximal matchings on bipartite graphs."*
+        - [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
+    - **Graph theory**
+        - [D3 Graph Theory](https://d3gt.com) - *"Learn graph theory interactively."*
+        - [Matching (Graph Theory)](https://brilliant.org/wiki/matching) - *"Definition, terminology, bipartite matching, examples."*
+    - **Rules of inference - logic proofs**
+        - [Rules of Inference and Logic Proofs](http://sites.millersville.edu/bikenaga/math-proof/rules-of-inference/rules-of-inference.html) - Covers modus ponens, modus tollens, disjunctive syllogism, De Morgan's law, biconditional, conjunctions, disjunctions, equivalences, double negation.
+
 - [YouTube](https://github.com/world-class/REPL/tree/master/youtube#discrete-mathematics)
     - **Algorithms**
         - [Algorithms: Graph Search, DFS and BFS](https://www.youtube.com/watch?v=zaBhtODEL0w) - HackerRank
