@@ -35,6 +35,7 @@ The following list goes beyond the essential/required reading that is part of th
 ## Mathematics
 - [Mathematics for Machine Learning](https://mml-book.github.io/) - *"We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books."*
 - [Nix The Tricks](https://nixthetricks.com/index.html), by Tina Cardone and the online math community known as the MTBoS - *"This book is filled with alternatives to the shortcuts so prevalent in mathematics education and explains exactly why the tricks are so bad for understanding math."*
+- [The Beauty of Mathematics in Computer Science](https://www.goodreads.com/book/show/40590852-the-beauty-of-mathematics-in-computer-science) - *"[...] explains the mathematical fundamentals of information technology products and services we use every day, from Google Web Search to GPS Navigation, and from speech recognition to CDMA mobile services."*
 
 ### Calculus
 - [Calculus Made Easy](https://www.gutenberg.org/files/33283/33283-pdf.pdf), by Silvanus Thompson - *"Being a very-simplest introduction to those beautiful methods which are generally called by the terrifying names of the Differentia."*
