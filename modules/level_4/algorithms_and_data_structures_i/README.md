@@ -12,7 +12,7 @@
         * [`mergeSort` algorithm](#mergesort-algorithm)
         * [`quickSort` algorithm](#quicksort-algorithm)
     * [Essential reading](#essential-reading)
-    * [Examples of past written exams](#examples-of-past-written-exams)
+    * [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [Notes](#notes)
     * [On REPL](#on-repl)
@@ -84,12 +84,13 @@ _In addition to the text book, there are additional reading activities written b
 
 _There will also be discussion prompts asking you to do some independent research using online sources."_
 
-## Examples of past written exams
+## Examples of past and current written exams
 - [2014 - 1](./past_exams/ADS14.pdf)
 - [2014 - 2](./past_exams/ADS14-2.pdf)
 - [2015](./past_exams/ADS15.pdf)
 - [2016](./past_exams/ADS16.pdf)
 - [2018](./past_exams/ADS18.pdf)
+- [2020](./past_exams/ADS20.pdf)
 
 ## Kinks to be aware of
 - [List of reported errors and bugs with the module](../../../kinks/level_4/algorithms_and_data_structures_i/).
