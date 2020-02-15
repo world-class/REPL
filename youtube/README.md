@@ -15,6 +15,7 @@
         * [`mergeSort` algorithm](#mergesort-algorithm)
         * [`quickSort` algorithm](#quicksort-algorithm)
     * [Compilers](#compilers)
+    * [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
     * [Data structures](#data-structures)
     * [Introduction](#introduction)
     * [Mixed topics](#mixed-topics)
@@ -33,7 +34,6 @@
     * [Complex analysis](#complex-analysis)
     * [Differential equations](#differential-equations)
     * [Discrete mathematics](#discrete-mathematics)
-    * [P vs NP](#p-vs-np)
 * [Encryption](#encryption)
 * [General topics](#general-topics)
     * [Linear algebra](#linear-algebra)
@@ -113,6 +113,10 @@ Dan Colman
 
 ## Compilers
 - [IIT Kanpur – Compiler Design](https://www.youtube.com/playlist?list=PLbMVogVj5nJTmKzaSlCpGgi7qxgcRRs8h) (playlist) - NPTEL
+
+## Computational complexity & P vs NP
+- [Computational Complexity](https://www.youtube.com/watch?v=moPtwq_cVH8) - MIT OpenCourseWare
+- [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s) - hackerdashery
 
 ## Data structures
 - [Advanced data structures](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) (playlist) - MIT OpenCourseWare
@@ -224,9 +228,6 @@ Dan Colman
 - [Strong Induction Examples](https://www.youtube.com/watch?v=6O1s3_GsSHo) - Michael Barrus
 - [The Karnaugh Map - Rules of Simplification](https://www.youtube.com/watch?v=PA0kBrpHLM4) - Jonnie Palmer
 - [Transitive closure](https://www.youtube.com/watch?v=OO8Jfs9uZnc) - GVSUmath
-
-## P vs NP
-- [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s) - hackerdashery
 
 # Encryption
 - [Lecture 12: The RSA Cryptosystem and Efficient Exponentiation](https://www.youtube.com/watch?v=QSlWzKNbKrU) - Christof Paar
