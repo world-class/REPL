@@ -93,6 +93,8 @@ _This course does not require you to read the whole book, you will be given spec
     - **Algorithms**
         - [Hopcroft-Karp algorithm - Bipartite Matching](https://www-m9.ma.tum.de/graph-algorithms/matchings-hopcroft-karp/index_en.html) - Interactive: *"Here we demonstrate the Hopcroft-Karp algorithm that solves the problem of finding maximal matchings on bipartite graphs."*
         - [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
+    - **Binomial theorem**
+        - [Intro to the Binomial Theorem](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:polynomials/x9e81a4f98389efdf:binomial/v/binomial-theorem) - Khan Academy
     - **Graph theory**
         - [D3 Graph Theory](https://d3gt.com) - *"Learn graph theory interactively."*
         - [Matching (Graph Theory)](https://brilliant.org/wiki/matching) - *"Definition, terminology, bipartite matching, examples."*

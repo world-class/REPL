@@ -31,6 +31,7 @@
     * [Discrete mathematics](#discrete-mathematics)
         * [Algorithms](#algorithms-1)
             * [Hopcroft-Karp](#hopcroft-karp)
+        * [Binomial theorem](#binomial-theorem)
         * [Graph theory](#graph-theory)
         * [Rules of inference - logic proofs](#rules-of-inference---logic-proofs)
     * [Encryption](#encryption)
@@ -196,6 +197,9 @@
 ### Algorithms
 #### Hopcroft-Karp
 - [Bipartite Matching](https://www-m9.ma.tum.de/graph-algorithms/matchings-hopcroft-karp/index_en.html) - Interactive: *"Here we demonstrate the Hopcroft-Karp algorithm that solves the problem of finding maximal matchings on bipartite graphs."*
+
+### Binomial theorem
+- [Intro to the Binomial Theorem](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:polynomials/x9e81a4f98389efdf:binomial/v/binomial-theorem) - Khan Academy
 
 ### Graph theory
 - [D3 Graph Theory](https://d3gt.com) - *"Learn graph theory interactively."*
