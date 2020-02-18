@@ -3,7 +3,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/world-class/REPL/compare) ![GitHub repo size](https://img.shields.io/github/repo-size/world-class/REPL?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/world-class/REPL?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/world-class/REPL?style=flat-square) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/world-class/REPL?style=flat-square) ![GitHub](https://img.shields.io/github/license/world-class/REPL?style=flat-square)
 
 A twist on the use of **REPL**, which stands for *read–eval–print
 loop* in computer programming. This repository aims to become a central
@@ -315,3 +315,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+---
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/world-class/REPL/)
