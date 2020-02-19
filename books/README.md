@@ -9,6 +9,7 @@ The following list goes beyond the essential/required reading that is part of th
 <!-- vim-markdown-toc GFM -->
 
 * [Computer science](#computer-science)
+    * [Algorithms](#algorithms)
 * [Learning](#learning)
 * [Mathematics](#mathematics)
     * [Calculus](#calculus)
@@ -27,6 +28,11 @@ The following list goes beyond the essential/required reading that is part of th
 
 ## Computer science
 - [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml), by Harold Abelson, Gerald Jay Sussman and Julie Sussman (2<sup>nd</sup> edition) - *"An excellent computer science text used in introductory courses at MIT. So called because of the wizard on the jacket. One of the bibles of the LISP/Scheme world. Also, less commonly, known as the Purple Book."*
+
+### Algorithms
+- [Algorithms to Live by: The Computer Science of Human Decisions](https://algorithmstoliveby.com/) - *"[...] show how algorithms developed for computers also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one’s inbox to peering into the future, Algorithms to Live By transforms the wisdom of computer science into strategies for human living."*
+- [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world) - *"Hello World is indispensable preparation for the moral quandaries of a world run by code, and with the unfailingly entertaining Hannah Fry as our guide, we’ll be discussing these issues long after the last page is turned."* (from Goodreads)
+- [Problem Solving 101: A Simple Book for Smart People](https://www.goodreads.com/en/book/show/6271219-problem-solving-101) - *"Watanabe uses sample scenarios to illustrate his techniques, which include logic trees and matrixes. A rock band figures out how to drive up concert attendance. An aspiring animator budgets for a new computer purchase. Students decide which high school they will attend. Illustrated with diagrams and quirky drawings, the book is simple enough for a middleschooler to understand but sophisticated enough for business leaders to apply to their most challenging problems."* (from Goodreads)
 
 ## Learning
 - [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) - *"To most of us, learning something "the hard way" implies wasted time and effort. Good teaching, we believe, should be creatively tailored to the different learning styles of students and should use strategies that make learning easier. Make It Stick turns fashionable ideas like these on their head. Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners."*
