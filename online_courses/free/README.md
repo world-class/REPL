@@ -50,6 +50,7 @@
     * [Probability and statistics](#probability-and-statistics)
 * [Mobile development](#mobile-development)
 * [Psychology & Health](#psychology--health)
+* [Support & Operations](#support--operations)
 * [Web development](#web-development-1)
 
 <!-- vim-markdown-toc -->
@@ -57,7 +58,8 @@
 ---
 
 - [Top 50 Free Online Courses of All Time](https://www.classcentral.com/collection/top-free-online-courses) on Class Central.
-
+- Courses with the :black_square_button: emoji mean they can be used for RPL (Recognition of Prior Learning) for the BSc Computer Science at University of London, because they serve as a proof. :black_square_button:
+    - Currently, only the :black_square_button: [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) is eligible.
 
 ## Artificial intelligence & machine learning
 
@@ -328,12 +330,16 @@
 
 
 ## Mobile development
-- [CS50's Mobile App Development with React Native](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps) - HarvardX - *"Learn about mobile app development with React Native, a popular framework maintained by Facebook that enables cross-platform native apps using JavaScript without Java or Swift."*
+- [CS50's Mobile App Development with React Native](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps) - HarvardX. *"Learn about mobile app development with React Native, a popular framework maintained by Facebook that enables cross-platform native apps using JavaScript without Java or Swift."*
 
 ## Psychology & Health
-- [A Life of Happiness and Fulfillment](https://www.coursera.org/learn/happiness) - Coursera - *"[...] draws content from a variety of fields, including psychology, neuroscience, and behavioral decision theory to offer a tested and practical recipe for leading a life of happiness and fulfillment."*
+- [A Life of Happiness and Fulfillment](https://www.coursera.org/learn/happiness) - Coursera. - *"[...] draws content from a variety of fields, including psychology, neuroscience, and behavioral decision theory to offer a tested and practical recipe for leading a life of happiness and fulfillment."*
 - [Maintaining a Mindful Life](https://www.futurelearn.com/courses/mindfulness-life) - FutureLearn. - *"Learn how to apply mindfulness techniques, so you can improve your communication, relationships and emotional health."*
 - [Mindfulness for Wellbeing and Peak Performance](https://www.futurelearn.com/courses/mindfulness-wellbeing-performance) - FutureLearn - *"Learn mindfulness techniques to reduce stress and improve your wellbeing and work/study performance."*
+
+## Support & Operations
+- :black_square_button: [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) *"The program will introduce you to troubleshooting, customer service, networking, operating systems, system administration and security."*
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) *"Automate tasks by writing Python scripts. Use Git and GitHub for version control. Manage IT resources at scale, both for physical machines and virtual machines in the cloud. Analyze real-world IT problems and implement the appropriate strategies to solve those problems."*
 
 ## Web development
 - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) - edX. - Offered by Harvard University. - *"This course picks up where [CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap."*
