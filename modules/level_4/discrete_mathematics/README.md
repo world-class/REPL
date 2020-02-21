@@ -14,7 +14,7 @@
     * [Mathematical symbols](#mathematical-symbols)
     * [Notes](#notes)
     * [On REPL](#on-repl)
-    * [Solutions to Discrete Mathematics and its Applications (2012) 7th Edition](#solutions-to-discrete-mathematics-and-its-applications-2012-7th-edition)
+    * [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
     * [Supplementary videos](#supplementary-videos)
     * [Syllabus](#syllabus)
     * [Weekly readings](#weekly-readings)
@@ -132,8 +132,9 @@ _This course does not require you to read the whole book, you will be given spec
     - [The Karnaugh Map - Rules of Simplification](https://www.youtube.com/watch?v=PA0kBrpHLM4) - Jonnie Palmer
     - [Transitive closure](https://www.youtube.com/watch?v=OO8Jfs9uZnc) - GVSUmath
 
-## Solutions to Discrete Mathematics and its Applications (2012) 7th Edition
-- [Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
+## Solutions to problems in the textbook Discrete Mathematics and its Applications
+- [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
+- [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
 
 ## Supplementary videos
 | Weeks in the module | Resource |
