@@ -61,6 +61,7 @@ One two hour unseen written examination and coursework (Type I)
 - [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - *"On edX platform, by UCSanDiegoX."*
 
 ### Computational complexity & P vs NP
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - bigocheatsheet.com
 - [Computational Complexity](https://www.youtube.com/watch?v=moPtwq_cVH8) - MIT OpenCourseWare
 - [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s) - hackerdashery
 

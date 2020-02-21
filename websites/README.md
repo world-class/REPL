@@ -14,6 +14,7 @@
     * [Algorithms](#algorithms)
         * [Visualizations](#visualizations)
     * [Articles](#articles)
+    * [Computational complexity](#computational-complexity)
     * [Courses and videos](#courses-and-videos)
     * [Free (e)books](#free-ebooks)
 * [Data science](#data-science)
@@ -135,6 +136,9 @@
 ## Articles
 - [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+
+## Computational complexity
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - bigocheatsheet.com
 
 ## Courses and videos
 - [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
