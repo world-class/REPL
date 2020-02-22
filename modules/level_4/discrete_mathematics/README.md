@@ -9,7 +9,7 @@
 * [Resources](#resources)
     * [Additional reading](#additional-reading)
     * [Essential reading](#essential-reading)
-    * [Examples of past written exams](#examples-of-past-written-exams)
+    * [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [Mathematical symbols](#mathematical-symbols)
     * [Notes](#notes)
@@ -71,12 +71,13 @@ _"The essentials readings for this course will come from the following text book
 
 _This course does not require you to read the whole book, you will be given specific  readings for each topic from these texts are listed with direct links on the Readings page  for each topic. You will also be asked to do some independent research from online sources or using the University of London digital library."_
 
-## Examples of past written exams
+## Examples of past and current written exams
 - [2014](./past_exams/DM14.pdf)
 - [2015](./past_exams/DM15.pdf)
 - [2016](./past_exams/DM16.pdf)
 - [2017](./past_exams/DM17.pdf)
 - [2018](./past_exams/DM18.pdf)
+- [2020](./past_exams/DM20.pdf) (:lock: **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2LKPW/p1582307389452400)).
 
 ## Kinks to be aware of
 - [List of reported errors and bugs with the module](../../../kinks/level_4/discrete_mathematics/).
