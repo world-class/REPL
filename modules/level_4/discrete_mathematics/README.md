@@ -76,8 +76,8 @@ _This course does not require you to read the whole book, you will be given spec
 - [2015](./past_exams/DM15.pdf)
 - [2016](./past_exams/DM16.pdf)
 - [2017](./past_exams/DM17.pdf)
-- [2018](./past_exams/DM18.pdf)
-- [2020](./past_exams/DM20.pdf) (:lock: **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2LKPW/p1582307389452400)).
+- [2018](./past_exams/DM18.pdf) ([answers are being compiled in this PDF](./past_exams/DM18_answers.pdf))
+- [2020](./past_exams/DM20.pdf) (:lock: **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2LKPW/p1582307389452400))
 
 ## Kinks to be aware of
 - [List of reported errors and bugs with the module](../../../kinks/level_4/discrete_mathematics/).

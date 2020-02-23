@@ -91,7 +91,7 @@ _There will also be discussion prompts asking you to do some independent researc
 - [2015](./past_exams/ADS15.pdf)
 - [2016](./past_exams/ADS16.pdf)
 - [2018](./past_exams/ADS18.pdf)
-- [2020](./past_exams/ADS20.pdf) (:lock: **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2SR0U/p1582170196149300)).
+- [2020](./past_exams/ADS20.pdf) (:lock: **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2SR0U/p1582170196149300))
 
 ## Kinks to be aware of
 - [List of reported errors and bugs with the module](../../../kinks/level_4/algorithms_and_data_structures_i/).
