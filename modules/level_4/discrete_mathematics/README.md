@@ -34,6 +34,8 @@ experimentation, reasoning and generalisation.
 
 # Topics covered
 
+[See this fabulous mind map for more details](./resources/CM-1020_DM_mind_map.png).
+
 - Sets
 - Boolean Algebra
 - Propositional Logic
