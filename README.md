@@ -87,16 +87,16 @@ To get started on that learning path, please refer to the following web pages:
 <details>
 <summary><strong>Level 4 (year 1+)</strong></summary>
 
-| Module name                                                                          | Module code | Written exam? | Slack channel            |
-| ------------------------------------------------------------------------------------ | ----------- | ------------- | -------------            |
-| [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) | **CM1035**  | **Yes**       | `#cm1035-algos-data-i`   |
-| [Discrete Mathematics](modules/level_4/discrete_mathematics)                         | **CM1020**  | **Yes**       | `#cm1020-discrete-math`  |
-| [Fundamentals of Computer Science](modules/level_4/fundamentals_of_computer_science) | **CM1025**  | **Yes**       | `#cm1025-fundamental-cs` |
-| [How Computers Work](modules/level_4/how_computers_work)                             | **CM1030**  | **Yes**       | `#cm1030-hcw`            |
-| [Introduction to Programming I](modules/level_4/introduction_to_programming_i)       | **CM1005**  | No            | `#cm1005-intro-prog-i`   |
-| [Introduction to Programming II](modules/level_4/introduction_to_programming_ii)     | **CM1010**  | No            | `#cm1010-intro-prog-ii`  |
-| [Numerical Mathematics](modules/level_4/numerical_mathematics) \*                    | **CM1015**  | **Yes**       | `#cm1015-numerical-math` |
-| [Web Development](modules/level_4/web_development)                                   | **CM1040**  | No            | `#cm1040-web-dev`        |
+| Module name                                                                          | Module code | Written exam? | Slack channel                    |
+| ------------------------------------------------------------------------------------ | ----------- | ------------- | -------------                    |
+| [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) | **CM1035**  | **Yes**       | `#cm1035-algos-data-i`           |
+| [Computational Mathematics](modules/level_4/computational_mathematics) \*            | **CM1015**  | **Yes**       | `#cm1015-computational-math`     |
+| [Discrete Mathematics](modules/level_4/discrete_mathematics)                         | **CM1020**  | **Yes**       | `#cm1020-discrete-math`          |
+| [Fundamentals of Computer Science](modules/level_4/fundamentals_of_computer_science) | **CM1025**  | **Yes**       | `#cm1025-fundamental-cs`         |
+| [How Computers Work](modules/level_4/how_computers_work)                             | **CM1030**  | **Yes**       | `#cm1030-hcw` / `#rpl-google-it` |
+| [Introduction to Programming II](modules/level_4/introduction_to_programming_ii)     | **CM1010**  | No            | `#cm1010-intro-prog-ii`          |
+| [Introduction to Programming I](modules/level_4/introduction_to_programming_i)       | **CM1005**  | No            | `#cm1005-intro-prog-i`           |
+| [Web Development](modules/level_4/web_development)                                   | **CM1040**  | No            | `#cm1040-web-dev`                |
 
 \* **Not available for October 2019-March 2020**
 
@@ -105,16 +105,16 @@ To get started on that learning path, please refer to the following web pages:
 <details>
 <summary><strong>Level 5 (year 2+)</strong></summary>
 
-| Module name                                                                            | Module code | Written exam? |
-| -------------------------------------------------------------------------------------- | ----------- | ------------- |
-| [Agile Software Projects](modules/level_5/agile_software_projects)                     | **CM2020**  | No            |
-| [Algorithms and Data Structures II](modules/level_5/algorithms_and_data_structures_ii) | **CM2035**  | **Yes**       |
-| [Computer Security](modules/level_5/computer_security)                                 | **CM2025**  | **Yes**       |
-| [Databases, Networks and the Web](modules/level_5/databases_networks_and_the_web)      | **CM2040**  | **Yes**       |
-| [Graphics Programming](modules/level_5/graphics_programming)                           | **CM2030**  | No            |
-| [Object Oriented Programming](modules/level_5/object_oriented_programming)             | **CM2005**  | No            |
-| [Programming with Data](modules/level_5/programming_with_data)                         | **CM2015**  | **Yes**       |
-| [Software Design and Development](modules/level_5/software_design_and_development)     | **CM2010**  | **Yes**       |
+| Module name                                                                            | Module code | Written exam? | Slack channel                         |
+| -------------------------------------------------------------------------------------- | ----------- | ------------- | -------------                         |
+| [Agile Software Projects](modules/level_5/agile_software_projects)                     | **CM2020**  | No            |                                       |
+| [Algorithms and Data Structures II](modules/level_5/algorithms_and_data_structures_ii) | **CM2035**  | **Yes**       | `#cm2035-algos-data-ii`               |
+| [Computer Security](modules/level_5/computer_security)                                 | **CM2025**  | **Yes**       |                                       |
+| [Databases, Networks and the Web](modules/level_5/databases_networks_and_the_web)      | **CM2040**  | **Yes**       | `#cm2040-databases-networks-web`      |
+| [Graphics Programming](modules/level_5/graphics_programming)                           | **CM2030**  | No            | `#cm2030-graphics-programming`        |
+| [Object Oriented Programming](modules/level_5/object_oriented_programming)             | **CM2005**  | No            | `#cm2005-object-oriented-programming` |
+| [Programming with Data](modules/level_5/programming_with_data)                         | **CM2015**  | **Yes**       |                                       |
+| [Software Design and Development](modules/level_5/software_design_and_development)     | **CM2010**  | **Yes**       |                                       |
 
 </details>
 

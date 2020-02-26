@@ -9,6 +9,7 @@
         * [Fun channels](#fun-channels)
         * [Help and resources](#help-and-resources)
         * [Modules level 4](#modules-level-4)
+        * [Modules level 5](#modules-level-5)
         * [Specialisms](#specialisms)
     * [How to use Slack](#how-to-use-slack)
 * [For developers & contributors](#for-developers--contributors)
@@ -67,16 +68,25 @@ Don't forget to check out the right channels on Slack that will be best suited t
 All channels starting with `#asg` for **Accountable Study Groups**.
 
 #### Modules level 4
-| Channel                                               | Module name                                                                                                               |
-| ---------------------------------------------------   | ----------------------------------------------------------------------------------------------------------------------    |
-| `#cm1005-intro-prog-i`                                | [Introduction to programming I](../modules/level_4/introduction_to_programming_i/README.md)                               |
-| `#cm1010-intro-prog-ii`                               | [Introduction to programming II](../modules/level_4/introduction_to_programming_ii/README.md)                             |
-| `#cm1015-numerical-math` <br>- `#cm1015-sample-paper` | [Numerical mathematics](../modules/level_4/numerical_mathematics/README.md) <br> - Sample paper for numerical mathematics |
-| `#cm1020-discrete-math`                               | [Discrete mathematics](../modules/level_4/discrete_mathematics/README.md)                                                 |
-| `#cm1025-fundamental-cs`                              | [Fundamentals of computer science](../modules/level_4/fundamentals_of_computer_science/README.md)                         |
-| `#cm1030-hcw`                                         | [How computers work](../modules/level_4/how_computers_work/README.md)                                                     |
-| `#cm1035-algos-data-i`                                | [Algorithms and data structures I](../modules/level_4/algorithms_and_data_structures_i/README.md)                         |
-| `#cm1040-web-dev`                                     | [Web development](../modules/level_4/web_development/README.md)                                                           |
+| Channel                                                   | Module name                                                                                                                       |
+| ---------------------------------------------------       | ----------------------------------------------------------------------------------------------------------------------            |
+| `#cm1005-intro-prog-i`                                    | [Introduction to programming I](../modules/level_4/introduction_to_programming_i/README.md)                                       |
+| `#cm1010-intro-prog-ii`                                   | [Introduction to programming II](../modules/level_4/introduction_to_programming_ii/README.md)                                     |
+| `#cm1015-computational-math`                              | [Computational mathematics](../modules/level_4/computational_mathematics/README.md)                                               |
+| `#cm1020-discrete-math`                                   | [Discrete mathematics](../modules/level_4/discrete_mathematics/README.md)                                                         |
+| `#cm1025-fundamental-cs`                                  | [Fundamentals of computer science](../modules/level_4/fundamentals_of_computer_science/README.md)                                 |
+| `#cm1030-hcw`                                             | [How computers work](../modules/level_4/how_computers_work/README.md)                                                             |
+| `#cm1035-algos-data-i`                                    | [Algorithms and data structures I](../modules/level_4/algorithms_and_data_structures_i/README.md)                                 |
+| `#cm1040-web-dev`                                         | [Web development](../modules/level_4/web_development/README.md)                                                                   |
+
+#### Modules level 5
+| Channel                               | Module name                                                                                         |
+| ------------------------------------- | --------------------------------------------------------------------------------------              |
+| `#cm2035-algos-data-ii`               | [Algorithms and data structures II](../modules/level_5/algorithms_and_data_structures_ii/README.md) |
+| `#cm2040-databases-networks-web`      | [Databases, Networks and the Web](../modules/level_5/databases_networks_and_the_web)                |
+| `#cm2030-graphics-programming`        | [Graphics Programming](../modules/level_5/graphics_programming)                                     |
+| `#cm2005-object-oriented-programming` | [Object Oriented Programming](../modules/level_5/object_oriented_programming)                       |
+
 
 #### Specialisms
 | Channel          | Specialism                                                                       |
