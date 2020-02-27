@@ -44,6 +44,7 @@
             * [TeX editors](#tex-editors)
         * [Learning environment](#learning-environment)
         * [Mathematical tools](#mathematical-tools)
+        * [Mind mapping](#mind-mapping)
         * [Office suite](#office-suite)
         * [Operating Systems](#operating-systems)
             * [Linux distributions](#linux-distributions)
@@ -211,7 +212,7 @@
 - :star: [List of free graphics software](https://en.wikipedia.org/wiki/Category:Free_graphics_software)
 - Graphic art & Office suite
     - :star: [Calligra](https://www.calligra.org)
-    - :cloud: :star: [draw.io](https://about.draw.io/integrations) - *"Create flow charts, process diagrams, org charts, UML diagrams, ER models, network diagrams, and much more."* (from [draw.io](https://about.draw.io)) (Linux, macOS, Windows, Browser, ChromeOS)
+    - :cloud: :star: [draw.io](https://www.draw.io)  (Linux, macOS, Windows, Browser, ChromeOS) - *"Create flow charts, process diagrams, org charts, UML diagrams, ER models, network diagrams, and much more."* (from [draw.io](https://www.draw.io))
 
 ### IDE (Integrated Development Environment)
 - [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
@@ -251,6 +252,13 @@
 - :star: [Free statistical software](https://en.wikipedia.org/wiki/Category:Free_statistical_software)
 - :star: [GeoGebra](https://www.geogebra.org/?lang=en) - Graphing, geometry, 3D, and more
 - :star: [SciPy](https://www.scipy.org) - Library used for scientific computing and technical computing
+
+### Mind mapping
+- [Coggle](https://coggle.it) (Web-based) - *"Coggle is an online tool for creating and sharing mindmaps and flow charts. It works online in your browser: there's nothing to download or install. Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world."*
+- :cloud: :star: [draw.io](https://www.draw.io) (Linux, macOS, Windows, Browser, ChromeOS) - Best for flowcharts. *"Create flow charts, process diagrams, org charts, UML diagrams, ER models, network diagrams, and much more."* (from [draw.io](https://www.draw.io))
+- :star: [Freeplane](https://www.freeplane.org/) (Windows, macOS, Linux) - *"Freeplane is a free and open source software application that supports thinking, sharing information and getting things done at work, in school and at home."*
+- :cloud: [MindMeister](https://www.mindmeister.com) (Web, Android, iOS) - "MindMeister is an online mind mapping tool that lets you capture, develop and share ideas visually. MindMeister is completely web-based, which means there's no download and no updating! Whether you're working on Windows, Mac OS or Linux, you can always access your mind maps right inside the web-browser."
+- [MindMup](https://www.mindmup.com) (Web-based) - *"Powerful keyboard shortcuts speed up your work. Frictionless interface helps you focus. Convert maps easily to PDF, PowerPoint, outlines... Publish and share maps online Easily save to Google Drive and manage using Google Apps."*
 
 ### Office suite
 - :star: [LibreOffice](https://www.libreoffice.org) (Windows, macOS, Linux)
