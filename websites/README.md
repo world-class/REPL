@@ -130,6 +130,7 @@
 - [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms/) - *"We've partnered with Dartmouth college professors Tom Cormen and Devin Balkcom to teach introductory computer science algorithms, including searching, sorting, recursion, and graph theory. Learn with a combination of articles, visualizations, quizzes, and coding challenges."*
 - [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/)
 ### Visualizations
+- [HackerEarth](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/) - Visualize sorting algorithms, step by step.
 - [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
 
 
