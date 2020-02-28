@@ -8,9 +8,10 @@
 * [Assessment](#assessment)
 * [Resources](#resources)
     * [Complementary learning](#complementary-learning)
+        * [Algorithms](#algorithms)
+            * [`mergeSort` algorithm](#mergesort-algorithm)
+            * [`quickSort` algorithm](#quicksort-algorithm)
         * [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
-        * [`mergeSort` algorithm](#mergesort-algorithm)
-        * [`quickSort` algorithm](#quicksort-algorithm)
     * [Essential reading](#essential-reading)
     * [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
     * [Kinks to be aware of](#kinks-to-be-aware-of)
@@ -60,19 +61,21 @@ One two hour unseen written examination and coursework (Type I)
 ## Complementary learning
 - [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - *"On edX platform, by UCSanDiegoX."*
 
+### Algorithms
+- [Comparison of Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms) - See time complexity at a glance for various popular algorithms.
+
+#### `mergeSort` algorithm
+- [2.7.2. Merge Sort Algorithm](https://www.youtube.com/watch?v=mB5HXBb_HY8) - Abdul Bari
+- [Algorithm lecture 8 -- Merge sort algorithm, analysis and problems](https://www.youtube.com/watch?v=sfmaf4QpVTw) - Gate Lectures by Ravindrababu Ravula
+
+#### `quickSort` algorithm
+- [Algorithms lecture 9 -- Quick sort algorithm](https://www.youtube.com/watch?v=3DV8GO9g7B4) - Gate Lectures by Ravindrababu Ravula
+- [2.8.1 QuickSort Algorithm](https://www.youtube.com/watch?v=7h1s2SojIRw) - Abdul Bari
+
 ### Computational complexity & P vs NP
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - bigocheatsheet.com
 - [Computational Complexity](https://www.youtube.com/watch?v=moPtwq_cVH8) - MIT OpenCourseWare
 - [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s) - hackerdashery
-
-### `mergeSort` algorithm
-- [2.7.2. Merge Sort Algorithm](https://www.youtube.com/watch?v=mB5HXBb_HY8) - Abdul Bari
-- [Algorithm lecture 8 -- Merge sort algorithm, analysis and problems](https://www.youtube.com/watch?v=sfmaf4QpVTw) - Gate Lectures by Ravindrababu Ravula
-
-### `quickSort` algorithm
-- [Algorithms lecture 9 -- Quick sort algorithm](https://www.youtube.com/watch?v=3DV8GO9g7B4) - Gate Lectures by Ravindrababu Ravula
-- [2.8.1 QuickSort Algorithm](https://www.youtube.com/watch?v=7h1s2SojIRw) - Abdul Bari
-
 
 ## Essential reading
 _"Specific essential readings for this course will be taken from the following text book:_
