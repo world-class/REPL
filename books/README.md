@@ -48,6 +48,7 @@ The following list goes beyond the essential/required reading that is part of th
 - [Calculus Made Easy](https://www.gutenberg.org/files/33283/33283-pdf.pdf), by Silvanus Thompson - *"Being a very-simplest introduction to those beautiful methods which are generally called by the terrifying names of the Differentia."*
 
 ### Discrete mathematics
+- [Discrete Mathematics - An Open Introduction](http://discrete.openmathbooks.org/dmoi3.html), by Oscar Levin - *"Discrete Mathematics: An Open Introduction is a free, open source textbook appropriate for a first or second year undergraduate course for math majors, especially those who will go on to teach."*
 - [How to Solve It - A New Aspect of Mathematical Method](https://lms.umb.sk/pluginfile.php/37176/mod_folder/content/0/Polya_How-to-solve-it.pdf), by G. Polya (PDF file)
 
 ### Linear algebra
