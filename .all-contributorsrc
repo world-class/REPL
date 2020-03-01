@@ -181,6 +181,15 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "ykahan",
+      "name": "Yehoshua Kahan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15960877?v=4",
+      "profile": "https://github.com/ykahan",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
