@@ -49,6 +49,7 @@ The following list goes beyond the essential/required reading that is part of th
 
 ### Discrete mathematics
 - [How to Solve It - A New Aspect of Mathematical Method](https://lms.umb.sk/pluginfile.php/37176/mod_folder/content/0/Polya_How-to-solve-it.pdf), by G. Polya (PDF file)
+- [Discrete Mathematics - An Open Introduction](http://discrete.openmathbooks.org/dmoi3.html), by Oscar Levin - *"Discrete Mathematics: An Open Introduction is a free, open source textbook appropriate for a first or second year undergraduate course for math majors, especially those who will go on to teach."*
 
 ### Linear algebra
 - [Linear Algebra Done Right](http://linear.axler.net/LinearAbridged.pdf), by Sheldon Axler - *"The text focuses on the central goal of linear algebra: understanding the structure of linear operators on finite-dimensional vector spaces."*
