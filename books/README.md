@@ -61,6 +61,9 @@ The following list goes beyond the essential/required reading that is part of th
 ### Number theory and algebra
 - [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/ntb-v2.pdf), by Victor Shoup - *" My goal in writing this bookwas to provide an introduction to number theory and algebra, with an emphasis on algorithms and applications, that would be accessible to a broad audience. In particular, I wanted to write a book that would be appropriate for typical students in computer science or mathematics who have some amount of general mathematical experience, but without presuming too much specific mathematical knowledge."*
 
+### Statistics
+- [Introductory Business Statistics](https://openstax.org/details/books/introductory-business-statistics) - *"Introductory Business Statistics is designed to meet the scope and sequence requirements of the one-semester statistics course for business, economics, and related majors. Core statistical concepts and skills have been augmented with practical business examples, scenarios, and exercises. The result is a meaningful understanding of the discipline, which will serve students in their business careers and real-world experiences."*
+
 ## Programming
 ### Assembly
 - [Assembly Language for x86 Processors, Global Edition](http://catalogue.pearsoned.co.uk/catalog/academic/product?ISBN=9781292061214) - *"Assembly Language for x86 Processors, 7e is suitable for undergraduate courses in assembly language programming and introductory courses in computer systems and computer architecture. Proficiency in one other programming language, preferably Java, C, or C++, is recommended."*
