@@ -28,6 +28,7 @@ The following list goes beyond the essential/required reading that is part of th
 
 ## Computer science
 - [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml), by Harold Abelson, Gerald Jay Sussman and Julie Sussman (2<sup>nd</sup> edition) - *"An excellent computer science text used in introductory courses at MIT. So called because of the wizard on the jacket. One of the bibles of the LISP/Scheme world. Also, less commonly, known as the Purple Book."*
+- [How To Think Like A Computer Scientist With Python 3](http://openbookproject.net/thinkcs/python/english3e/), by Elkner, Wentworth, Downey, and Myers - *"An introduction to numerous useful features of a modern programming language and to basic object oriented programming, using Python 3 as the vehicle of choice"*
 
 ### Algorithms
 - [Algorithms to Live by: The Computer Science of Human Decisions](https://algorithmstoliveby.com/) - *"[...] show how algorithms developed for computers also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one’s inbox to peering into the future, Algorithms to Live By transforms the wisdom of computer science into strategies for human living."*
