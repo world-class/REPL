@@ -16,6 +16,7 @@ The following list goes beyond the essential/required reading that is part of th
     * [Discrete mathematics](#discrete-mathematics)
     * [Linear algebra](#linear-algebra)
     * [Number theory and algebra](#number-theory-and-algebra)
+    * [Statistics](#statistics)
 * [Programming](#programming)
     * [Assembly](#assembly)
     * [Games](#games)
@@ -27,8 +28,8 @@ The following list goes beyond the essential/required reading that is part of th
 ---
 
 ## Computer science
-- [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml), by Harold Abelson, Gerald Jay Sussman and Julie Sussman (2<sup>nd</sup> edition) - *"An excellent computer science text used in introductory courses at MIT. So called because of the wizard on the jacket. One of the bibles of the LISP/Scheme world. Also, less commonly, known as the Purple Book."*
 - [How To Think Like A Computer Scientist With Python 3](http://openbookproject.net/thinkcs/python/english3e/), by Elkner, Wentworth, Downey, and Myers - *"An introduction to numerous useful features of a modern programming language and to basic object oriented programming, using Python 3 as the vehicle of choice"*
+- [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml), by Harold Abelson, Gerald Jay Sussman and Julie Sussman (2<sup>nd</sup> edition) - *"An excellent computer science text used in introductory courses at MIT. So called because of the wizard on the jacket. One of the bibles of the LISP/Scheme world. Also, less commonly, known as the Purple Book."*
 
 ### Algorithms
 - [Algorithms to Live by: The Computer Science of Human Decisions](https://algorithmstoliveby.com/) - *"[...] show how algorithms developed for computers also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one’s inbox to peering into the future, Algorithms to Live By transforms the wisdom of computer science into strategies for human living."*
@@ -46,10 +47,10 @@ The following list goes beyond the essential/required reading that is part of th
 - [The Beauty of Mathematics in Computer Science](https://www.goodreads.com/book/show/40590852-the-beauty-of-mathematics-in-computer-science) - *"[...] explains the mathematical fundamentals of information technology products and services we use every day, from Google Web Search to GPS Navigation, and from speech recognition to CDMA mobile services."*
 
 ### Calculus
-- [Calculus Made Easy](https://www.gutenberg.org/files/33283/33283-pdf.pdf), by Silvanus Thompson - *"Being a very-simplest introduction to those beautiful methods which are generally called by the terrifying names of the Differentia."*
 - [Calculus 1](https://openstax.org/details/books/calculus-volume-1) - *"Calculus is designed for the typical two- or three-semester general calculus course, incorporating innovative features to enhance student learning. The book guides students through the core concepts of calculus and helps them understand how those concepts apply to their lives and the world around them. Due to the comprehensive nature of the material, we are offering the book in three volumes for flexibility and efficiency. Volume 1 covers functions, limits, derivatives, and integration."*
 - [Calculus 2](https://openstax.org/details/books/calculus-volume-2) - *"Calculus is designed for the typical two- or three-semester general calculus course, incorporating innovative features to enhance student learning. The book guides students through the core concepts of calculus and helps them understand how those concepts apply to their lives and the world around them. Due to the comprehensive nature of the material, we are offering the book in three volumes for flexibility and efficiency. Volume 2 covers integration, differential equations, sequences and series, and parametric equations and polar coordinates."*
 - [Calculus 3](https://openstax.org/details/books/calculus-volume-3) - *"Calculus is designed for the typical two- or three-semester general calculus course, incorporating innovative features to enhance student learning. The book guides students through the core concepts of calculus and helps them understand how those concepts apply to their lives and the world around them. Due to the comprehensive nature of the material, we are offering the book in three volumes for flexibility and efficiency. Volume 3 covers parametric equations and polar coordinates, vectors, functions of several variables, multiple integration, and second-order differential equations."*
+- [Calculus Made Easy](https://www.gutenberg.org/files/33283/33283-pdf.pdf), by Silvanus Thompson - *"Being a very-simplest introduction to those beautiful methods which are generally called by the terrifying names of the Differentia."*
 
 ### Discrete mathematics
 - [Discrete Mathematics - An Open Introduction](http://discrete.openmathbooks.org/dmoi3.html), by Oscar Levin - *"Discrete Mathematics: An Open Introduction is a free, open source textbook appropriate for a first or second year undergraduate course for math majors, especially those who will go on to teach."*
