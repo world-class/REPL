@@ -107,9 +107,9 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 
 ## For developers & contributors
-### Slack app integrations
-#### GreetBot
-[GreetBot](https://greet.bot/) welcomes new students joining the workspace to guide them on their journey from the very beginning by pointing them to this repository and other useful resources. Right now, the custom message sent by the bot is as follow:
+### Slack Onboarding
+#### Slack Onboarding Workflow ('Slack Tutor')
+A Slack workflow welcomes new students joining the workspace to guide them on their journey from the very beginning by pointing them to this repository and other useful resources. Right now, the custom message sent by the workflow is as follow:
 ```
 Hey @new_user_name! Welcome aboard. A few key points you will want to know to get started:
 
@@ -125,7 +125,6 @@ Hey @new_user_name! Welcome aboard. A few key points you will want to know to ge
 - Be *nice*, be *respectful*. Don't make jokes or post memes that target a particular gender, religion, nationality or sexuality — we're a global and multicultural community. *Some students may be more sensitive* about certain topics and we certainly *don't want to discriminate* anybody and *don't want to make Slack a hostile environment* in any way.
 - *Do not violate UoL guidelines* (don’t post *illegal* materials, solutions to *graded quizzes* or big *chunks of code* related to any graded assignment).
 - *Refer to specific modules, videos and quizzes by their number* (week and item numbers as shown in Coursera), so that it is easy for future users to look for answers. You'll find a #bugs channel to help you uncover if a bug you have encountered has been documented before: please post to that channel *only once a bug has been identified* as such in another channel.
-- Use your real name — we are at a real university and we are real students. You will get as much privacy as at a real university. If you wish to remain private, expect part of the community to not interact with you.
 - *Thank people* when they help you! :slightly_smiling_face: Despite the distance, we're still humans (most of us, anyways).
 
 We hope you'll have a great time here! *_Remember that succeeding as a CS student has a lot to do with being able to find answers on your own and sharing them to cement your learning_* :bulb:.
