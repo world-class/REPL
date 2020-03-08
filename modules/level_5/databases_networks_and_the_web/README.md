@@ -6,6 +6,7 @@
 * [Databases, Networks and the Web](#databases-networks-and-the-web)
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
+* [External resources](#external-resources)
 
 <!-- vim-markdown-toc -->
 
@@ -36,6 +37,13 @@ communication.
 - Revision of HTML and CSS
 - Building a dynamic website
 
+
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+
+
+# External resources
+
+- [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/) 
