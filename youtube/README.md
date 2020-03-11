@@ -2,8 +2,7 @@
 
 # YouTube
 
-# Table of contents
-
+- [YouTube](#youtube)
 - [Artificial intelligence](#artificial-intelligence)
   - [Deep learning](#deep-learning)
   - [General learning](#general-learning)
@@ -47,7 +46,7 @@
 - [Programming](#programming)
   - [Android](#android)
   - [C](#c)
-  - [C#](#c-1)
+  - [C&#35;](#c-1)
   - [C++](#c-2)
   - [JavaScript](#javascript)
   - [PHP](#php)
@@ -312,13 +311,14 @@
 - Beginner
   - [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) [3h46m] - freeCodeCamp.org
 
-## C
+## C&#35;
 
 - [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4) [24h00m] - Literally a course you can take in 24 hours... If you don't sleep. - freeCodeCamp.org
 
 ## C++
 
 - Beginner
+  - [C++ Object Oriented Programming Video Tutorial](https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq)
   - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) [4h01m] - freeCodeCamp.org
 
 ## JavaScript

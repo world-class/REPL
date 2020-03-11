@@ -1,10 +1,10 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
-# Table of contents
-
 - [Object-Oriented Programming](#object-oriented-programming)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Resources](#resources)
+  - [On REPL](#on-repl)
 
 ---
 
@@ -35,3 +35,10 @@ documentation.
 # Assessment
 
 Coursework only (Type II)
+
+# Resources
+
+## On REPL
+
+- [YouTube](https://github.com/world-class/REPL/tree/master/youtube).
+  - [C++](https://github.com/world-class/REPL/tree/master/youtube#c-2).
