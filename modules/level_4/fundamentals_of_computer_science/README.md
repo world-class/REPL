@@ -1,7 +1,5 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
-# Table of contents
-
 - [Fundamentals of Computer Science](#fundamentals-of-computer-science)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -49,8 +47,8 @@ One two hour unseen written examination and coursework (Type I)
 _"Specific essential readings for each week from the following list are included in the Readings page for each week:_"
 
 - Kenneth H. Rosen (2011). Discrete Mathematics and its Applications, 7th. McGraw-Hill
-- Michael Sipser (2012). Introduction to the theory of computation, 3rd. Cengage Learning
-- John Hopcroft et al. (2013). Introduction to Automata Theory, Languages and Computation, Pearson
+- :key: Michael Sipser (2012). Introduction to the theory of computation, 3rd. Cengage Learning
+- :key: John Hopcroft et al. (2013). Introduction to Automata Theory, Languages and Computation, Pearson
 - Dexter Kozen (2007). Automata and Computability, 1st. Springer
 - Merlin Forbes (2012). A Theoretical Introduction to Turing Machine, 1st. Learning Press
 - Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
