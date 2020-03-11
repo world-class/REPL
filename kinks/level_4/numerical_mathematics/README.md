@@ -11,6 +11,7 @@
   - [Week 2](#week-2)
     - [Video: 1.401 Octal and hexadecimal (integer)](#video-1401-octal-and-hexadecimal-integer)
     - [Practice quiz: 1.404 Translate between decimal and hexadecimal or octal (fractional)](#practice-quiz-1404-translate-between-decimal-and-hexadecimal-or-octal-fractional)
+    - [FIXED - Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal](#fixed---video-1405-special-relationship-between-binary-and-hexadecimal-and-binary-and-octal)
     - [Practice quiz: 1.406 Translate between binary and hexadecimal/octal](#practice-quiz-1406-translate-between-binary-and-hexadecimaloctal)
     - [Practice quiz: 1.602 Arithmetic in hexadecimal/octal](#practice-quiz-1602-arithmetic-in-hexadecimaloctal)
   - [Week 3](#week-3)
@@ -21,6 +22,7 @@
       - [Video 1.1101 Encryption using modular arithmetic](#video-11101-encryption-using-modular-arithmetic)
   - [Week 4](#week-4)
     - [Lesson 2.1: Video 2.103 Defining sequences](#lesson-21-video-2103-defining-sequences)
+    - [Lesson 2.2: Video 2.201 Arithmetic progressions](#lesson-22-video-2201-arithmetic-progressions)
   - [Week 5](#week-5)
     - [Lesson 2.5](#lesson-25)
       - [Video 2.502 Series: sums of terms of sequences; summation symbol: sigma notation](#video-2502-series-sums-of-terms-of-sequences-summation-symbol-sigma-notation)
@@ -28,6 +30,7 @@
     - [Lesson 2.6](#lesson-26)
       - [Practice quiz: 2.602 Limits of sequences](#practice-quiz-2602-limits-of-sequences)
       - [Video 2.604 Patterns in series; limit; convergent and divergent series](#video-2604-patterns-in-series-limit-convergent-and-divergent-series)
+      - [FIXED - Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series](#fixed---practice-quiz-2608-criteria-for-identifying-convergentdivergent-sequences-and-series)
     - [Summative quiz](#summative-quiz)
   - [Week 6](#week-6)
     - [Lesson 3.1](#lesson-31)
@@ -118,6 +121,12 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 - `3.44` in octal is <img src="/kinks/level_4/numerical_mathematics/tex/f03b8ce4e91db42f7e7d426d03a4c530.svg?invert_in_darkmode&sanitize=true" align=middle width=73.97702069999998pt height=27.77565449999998pt/>, not <img src="/kinks/level_4/numerical_mathematics/tex/7f3d1f907178e8fb43776d4a6f090654.svg?invert_in_darkmode&sanitize=true" align=middle width=73.97702069999998pt height=27.77565449999998pt/>.
 - Options may present groupings of numbers. If a grouping is supposed to be of **3** digits for instance and you're presented with **4** digits, assume that the last digit should be in subscript (representing the number base, such as **2** for binary or **8** for octal) so that it makes sense when reading. In a grouping of 3 digits, `0002` should be interpreted as `000`, base `2`.
 
+### FIXED - Video: 1.405 Special relationship between binary and hexadecimal, and binary and octal
+
+- At 7:38, this is wrong. `C` (base 16) = 12 (base 10) = 1100 (base 2), not 1101.
+- At 11:24, The grouping of digits is wrong. <img src="/kinks/level_4/numerical_mathematics/tex/e69897cf733cbdb021a347ca0f09add0.svg?invert_in_darkmode&sanitize=true" align=middle width=74.88612284999998pt height=21.18721440000001pt/> in binary should read <img src="/kinks/level_4/numerical_mathematics/tex/dd335c95a331b81f6a13c73d69528be6.svg?invert_in_darkmode&sanitize=true" align=middle width=86.75831834999998pt height=21.18721440000001pt/>, having only one radix point.
+- At 11:37, it is said the answer is `11.71` (base 8). Wrong: It's `11.74` (base 8).
+
 ### Practice quiz: 1.406 Translate between binary and hexadecimal/octal
 
 - Question 6: `73.06` (base 8) _is_ `111011.00011` in binary.
@@ -157,6 +166,10 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 - Audio is out of sync from 15:19 onward: please refer to the transcript to better follow along.
 
+### Lesson 2.2: Video 2.201 Arithmetic progressions
+
+**Partially fixed**. The transcript and subtitles do not appear at this moment.
+
 ## Week 5
 
 ### Lesson 2.5
@@ -178,6 +191,11 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 #### Video 2.604 Patterns in series; limit; convergent and divergent series
 
 - The result for the last example is <img src="/kinks/level_4/numerical_mathematics/tex/4866e384d04d2b473e19a2850b073f50.svg?invert_in_darkmode&sanitize=true" align=middle width=6.552545999999997pt height=27.77565449999998pt/>, not <img src="/kinks/level_4/numerical_mathematics/tex/2bdaae729e504043557b55b0bc346f8f.svg?invert_in_darkmode&sanitize=true" align=middle width=24.657628049999992pt height=21.18721440000001pt/>.
+
+#### FIXED - Practice quiz 2.608 Criteria for identifying convergent/divergent sequences and series
+
+- Question 1: The answer is `divergent`.
+- Question 2: The answer is `convergent,3/4`.
 
 ### Summative quiz
 
@@ -241,6 +259,7 @@ This page is about the [numerical mathematics module](../../../modules/level_4/n
 
 - Question 1: The given angles in the selection are computed correctly, but they do not correspond to the correct letter: the value of angle **C** should be the value of angle **A** and vice versa.
 - Question 4: The grader appears to consistently invert the solution when converting from radians to degrees. For example, **40 radians** is **~131.83°** but the expected answer is **0.698°**, which is the result **in radians** of **40°**.
+- [**fixed**] The quiz doesn't let the student see what the mistakes are once the quiz has been submitted.
 
 ## Week 10
 
