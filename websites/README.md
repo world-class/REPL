@@ -2,8 +2,7 @@
 
 # Websites
 
-# Table of contents
-
+- [Websites](#websites)
 - [Artificial intelligence](#artificial-intelligence)
   - [Machine learning](#machine-learning)
 - [Career](#career)
@@ -57,10 +56,11 @@
 - [Programming](#programming)
   - [App monitoring](#app-monitoring)
   - [Basics](#basics)
+  - [Books](#books)
   - [Coding challenges](#coding-challenges)
   - [Documentation](#documentation)
   - [Interview preparation](#interview-preparation)
-    - [Books](#books)
+    - [Books](#books-1)
     - [Facebook](#facebook)
     - [Google](#google)
     - [Microsoft](#microsoft)
@@ -362,6 +362,10 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 ## Basics
 
 - [SoloLearn](https://www.sololearn.com) - _"Learn on the web and on the go. Available on all major devices and platforms. Always pick up where you left off. More simple and enjoyable than ever!"_
+
+## Books
+
+[Programming Notes for Professionals books](https://books.goalkicker.com/) - Wide range of relevant topics (algorithms, C++, CSS, Git, HTML5, JavaScript, LaTeX, Linux, Python, SQL, etc.). _"Books are updated weekly."_
 
 ## Coding challenges
 
