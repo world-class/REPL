@@ -1,14 +1,11 @@
-[Go back to the main page](https://github.com/world-class/REPL) 
+[Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
 
-* [Databases, Networks and the Web](#databases-networks-and-the-web)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-* [External resources](#external-resources)
-
-<!-- vim-markdown-toc -->
+- [Databases, Networks and the Web](#databases-networks-and-the-web)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [External resources](#external-resources)
 
 ---
 
@@ -37,13 +34,10 @@ communication.
 - Revision of HTML and CSS
 - Building a dynamic website
 
-
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-
-
 # External resources
 
-- [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/) 
+- [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/)

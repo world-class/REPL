@@ -1,13 +1,10 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
 
-* [Graphics Programming](#graphics-programming)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-
-<!-- vim-markdown-toc -->
+- [Graphics Programming](#graphics-programming)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
 
 ---
 

@@ -1,4 +1,5 @@
 # Applying to the University of London Bachelors of Computer Science degree (UoL)
+
 UoL has a [long, esteemed history of
 administering reputable distance learning
 degrees](https://en.wikipedia.org/wiki/University_of_London_Worldwide),
@@ -8,19 +9,17 @@ behind applying in a concise and clear way so you know exactly what to
 expect when you do it yourself.
 
 ## Table of Contents
-<!-- vim-markdown-toc GFM -->
 
-* [Administrative Information: Admissions Process and Requirements](#administrative-information-admissions-process-and-requirements)
-    * [English Requirements for Non-English Speaking Countries](#english-requirements-for-non-english-speaking-countries)
-    * [Documents and Statement to Prepare for Application](#documents-and-statement-to-prepare-for-application)
-* [Application Process](#application-process)
-* [Recognition of Prior Learning (RPL) Application](#recognition-of-prior-learning-rpl-application)
-* [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
-* [Additional Resources](#additional-resources)
-
-<!-- vim-markdown-toc -->
+- [Administrative Information: Admissions Process and Requirements](#administrative-information-admissions-process-and-requirements)
+  - [English Requirements for Non-English Speaking Countries](#english-requirements-for-non-english-speaking-countries)
+  - [Documents and Statement to Prepare for Application](#documents-and-statement-to-prepare-for-application)
+- [Application Process](#application-process)
+- [Recognition of Prior Learning (RPL) Application](#recognition-of-prior-learning-rpl-application)
+- [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
+- [Additional Resources](#additional-resources)
 
 ## Administrative Information: Admissions Process and Requirements
+
 Students may apply to the programme in two of the following ways:
 Direct Admissions (where you are admitted to study as conventionally
 expected) and Performance-based Admissions (often used as an
@@ -45,6 +44,7 @@ advice is to apply early and to apply anyway (see [Application
 Process](#application-process)).
 
 ### English Requirements for Non-English Speaking Countries
+
 Every student, English-speaking country or not must prove their
 proficiency in English before applying. This is often proven
 by native English speakers by showing that you were educated
@@ -57,6 +57,7 @@ worth applying if you think you have an equivalent qualification not
 listed.
 
 ### Documents and Statement to Prepare for Application
+
 If you're familiar with the British UCAS system, which students use
 after sixth form (12/13th Grade) apply to university, the application
 is fairly similar. The only difference being that you're applying to
@@ -70,9 +71,9 @@ application decisions come in as quickly and efficiently as possible:
 1. A scanned copy of your ID
 2. A verified copy of the Academic Documents that back your meeting the requirements for the programme
 3. A 100-250 word Personal Statement (of prompt: "Why do you wish to study for this programme?
-Please give your reasons, you should include details about your
-education, work experience and current responsibilities, which are
-relevant to this application.")
+   Please give your reasons, you should include details about your
+   education, work experience and current responsibilities, which are
+   relevant to this application.")
 
 It is worth noting that you do not have your certificates verified
 before applying. That being said, providing verification can be the
@@ -83,6 +84,7 @@ is some guidance from the university on how you can get this
 done.](https://london.ac.uk/applications/how-apply/supplying-evidence)
 
 ## Application Process
+
 Upon submission, you will be assigned to an admissions advisor. An
 admissions advisor's role is to go through your qualifications to give
 you advice on whether or not they can admit you.
@@ -104,6 +106,7 @@ can be slow. **I would advise everyone interested in applying to apply
 as soon as possible.**
 
 ## Recognition of Prior Learning (RPL) Application
+
 RPL is the exemption of modules taken if you had taken it before
 in a prior diploma or university. It can be seen as a form of
 credit transfer. Full regulations can be found in the [course
@@ -131,6 +134,7 @@ complete. It would be wise to apply as soon as possible to avoid
 delays with module registration.
 
 ## Frequently Asked Questions (FAQs)
+
 **Q:** My application to UoL/for RPL/some other administrative process is taking so long, have they received it/why's it taking so long?
 
 **A:** It takes forever. Sorry mate. That's why an emphasis on applying early was made in the documentation. Applying early not only gives you peace of mind, it means your application doesn't pile up and done when professors aren't stressed out when they read your application.
@@ -146,6 +150,7 @@ RPL has taken a month, UoL admissions has taken longer than the 5 days they aim 
 **A:** [Here, at The Barbican in London](https://www.youtube.com/watch?v=Oja7n2Kq2do)
 
 ## Additional Resources
-* [UoL Unofficial Students' Discord](https://discord.gg/fugMPVR)
-* [UoL Facebook](https://www.facebook.com/LondonU/?ref=br_rs)
-* Do keep a look out for UoL's virtual open day if you're curious to learn more and speak to representatives for more information.
+
+- [UoL Unofficial Students' Discord](https://discord.gg/fugMPVR)
+- [UoL Facebook](https://www.facebook.com/LondonU/?ref=br_rs)
+- Do keep a look out for UoL's virtual open day if you're curious to learn more and speak to representatives for more information.

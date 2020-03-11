@@ -1,20 +1,17 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
 
-* [Fundamentals of Computer Science](#fundamentals-of-computer-science)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-* [Resources](#resources)
-    * [Essential reading](#essential-reading)
-    * [Notes](#notes)
-    * [Study guide](#study-guide)
-    * [Syllabus](#syllabus)
-    * [Weekly reading list](#weekly-reading-list)
-    * [Supplementary Videos](#supplementary-videos)
-
-<!-- vim-markdown-toc -->
+- [Fundamentals of Computer Science](#fundamentals-of-computer-science)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Resources](#resources)
+  - [Essential reading](#essential-reading)
+  - [Notes](#notes)
+  - [Study guide](#study-guide)
+  - [Syllabus](#syllabus)
+  - [Weekly reading list](#weekly-reading-list)
+  - [Supplementary Videos](#supplementary-videos)
 
 # Fundamentals of Computer Science
 
@@ -46,7 +43,9 @@ systems.
 One two hour unseen written examination and coursework (Type I)
 
 # Resources
+
 ## Essential reading
+
 _"Specific essential readings for each week from the following list are included in the Readings page for each week:_"
 
 - Kenneth H. Rosen (2011). Discrete Mathematics and its Applications, 7th. McGraw-Hill
@@ -57,15 +56,19 @@ _"Specific essential readings for each week from the following list are included
 - Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
 
 ## Notes
+
 - See shared notes [in this section](../../../notes/fundamentals_of_computer_science).
 
 ## Study guide
+
 - [Resources compiled by Hassan Sarhan](https://github.com/h-sarhan/FCS-study-guide).
 
 ## Syllabus
+
 - [Syllabus PDF (October 2019)](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)
 
 ## Weekly reading list
+
 - [Weekly reading list PDF](./resources/FCS_reading_list.pdf)
 
 ## Supplementary Videos

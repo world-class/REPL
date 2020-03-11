@@ -1,13 +1,10 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
 
-* [Software Design and Development](#software-design-and-development)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-
-<!-- vim-markdown-toc -->
+- [Software Design and Development](#software-design-and-development)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
 
 ---
 

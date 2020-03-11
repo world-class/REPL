@@ -1,13 +1,10 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
 
-* [Programming with Data](#programming-with-data)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-
-<!-- vim-markdown-toc -->
+- [Programming with Data](#programming-with-data)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
 
 ---
 

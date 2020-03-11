@@ -1,17 +1,15 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
 
-* [Computational Mathematics](#computational-mathematics)
-* [Topics previously covered (numerical mathematics)](#topics-previously-covered-numerical-mathematics)
-* [Assessment](#assessment)
-
-<!-- vim-markdown-toc -->
+- [Computational Mathematics](#computational-mathematics)
+- [Topics previously covered (numerical mathematics)](#topics-previously-covered-numerical-mathematics)
+- [Assessment](#assessment)
 
 ---
 
 # Computational Mathematics
+
 This module helps you hone your skills in thinking abstractly. It also
 introduces you to many of the standard continuous models used to help
 understand and design computational systems. Through this module, you

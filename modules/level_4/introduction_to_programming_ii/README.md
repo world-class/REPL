@@ -1,22 +1,19 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
 
-* [Introduction to Programming II](#introduction-to-programming-ii)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-* [Resources](#resources)
-    * [Articles](#articles)
-    * [Case studies](#case-studies)
-        * [Music visualizer](#music-visualizer)
-    * [Essential reading](#essential-reading)
-    * [Getting started with HTML](#getting-started-with-html)
-    * [Kinks to be aware of](#kinks-to-be-aware-of)
-    * [Notes](#notes)
-    * [Syllabus](#syllabus)
-
-<!-- vim-markdown-toc -->
+- [Introduction to Programming II](#introduction-to-programming-ii)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Resources](#resources)
+  - [Articles](#articles)
+  - [Case studies](#case-studies)
+    - [Music visualizer](#music-visualizer)
+  - [Essential reading](#essential-reading)
+  - [Getting started with HTML](#getting-started-with-html)
+  - [Kinks to be aware of](#kinks-to-be-aware-of)
+  - [Notes](#notes)
+  - [Syllabus](#syllabus)
 
 # Introduction to Programming II
 
@@ -44,15 +41,20 @@ developing code across multiple files and using third-party libraries.
 Coursework only (Type III)
 
 # Resources
+
 ## Articles
+
 - [Understanding Automatic Semicolon Insertion in JavaScript](http://www.bradoncode.com/blog/2015/08/26/javascript-semi-colon-insertion/)
 - [Your Guide to Semicolons in JavaScript](https://news.codecademy.com/your-guide-to-semicolons-in-javascript/)
 
 ## Case studies
+
 ### Music visualizer
+
 - [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY) - YouTube video - 3Blue1Brown
 
 ## Essential reading
+
 _"There is no required textbook for this course. Listed below are some books to supplement some of the material covered in this course."_
 
 - **Getting Started with p5.js Lauren McCarthy, Casey Reas, and Ben Fry**
@@ -60,15 +62,19 @@ _"There is no required textbook for this course. Listed below are some books to 
 - **Coders at Work: Reflections on the Craft of Programming, by Peter Seibel**
 
 ## Getting started with HTML
+
 - [Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [HTML5 tutorial](https://www.w3schools.com/html/default.asp)
 - [Responsive website basics: code with HTML, CSS, and JavaScript](https://www.coursera.org/learn/website-coding) (Coursera)
 
 ## Kinks to be aware of
+
 - [List of reported errors and bugs with the module](../../../kinks/level_4/introduction_to_programming_ii/).
 
 ## Notes
+
 - See shared notes [in this section](../../../notes/introduction_to_programming_ii).
 
 ## Syllabus
+
 - [Syllabus PDF (October 2019)](./resources/Syllabus_Introduction_to_Programming_2_CM1010.pdf)

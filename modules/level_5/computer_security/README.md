@@ -1,13 +1,10 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
 
-* [Computer Security](#computer-security)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-
-<!-- vim-markdown-toc -->
+- [Computer Security](#computer-security)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
 
 ---
 
@@ -32,7 +29,6 @@ mathematics underlying the protocols by programming small examples.
 - Cryptographic protocols and key management
 - Public Key Cryptography
 - Blockchain protocols
-
 
 # Assessment
 

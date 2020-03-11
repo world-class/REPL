@@ -1,13 +1,10 @@
 [Go back to the main page](https://github.com/world-class/REPL)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
 
-* [Object-Oriented Programming](#object-oriented-programming)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-
-<!-- vim-markdown-toc -->
+- [Object-Oriented Programming](#object-oriented-programming)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
 
 ---
 
