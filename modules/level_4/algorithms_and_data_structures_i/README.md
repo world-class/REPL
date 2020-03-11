@@ -2,6 +2,7 @@
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -63,6 +64,7 @@ One two hour unseen written examination and coursework (Type I)
 ### Algorithms
 
 - [Comparison of Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms) - See time complexity at a glance for various popular algorithms.
+- [Data Structure & Algorithms Introduction](https://www.programiz.com/dsa/algorithm) - Sorting algorithms, data structures, tree data structure and more.
 
 #### `mergeSort` algorithm
 
@@ -99,7 +101,7 @@ _There will also be discussion prompts asking you to do some independent researc
 - [2015](./past_exams/ADS15.pdf)
 - [2016](./past_exams/ADS16.pdf)
 - [2018](./past_exams/ADS18.pdf)
-- [2020](./past_exams/ADS20.pdf) (:lock: **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2SR0U/p1582561904016800))
+- [2020](./past_exams/ADS20.pdf) - ([Official answers](./past_exams/ADS20_answers.pdf)) (:lock: **enrolled students**: more answers were compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2SR0U/p1582561904016800))
 
 ## Kinks to be aware of
 
