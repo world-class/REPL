@@ -1,12 +1,15 @@
 <img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/world-class/REPL/compare) ![GitHub repo size](https://img.shields.io/github/repo-size/world-class/REPL?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/world-class/REPL?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/world-class/REPL?style=flat-square) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/world-class/REPL?style=flat-square) ![GitHub](https://img.shields.io/github/license/world-class/REPL?style=flat-square)
 
-A twist on the use of **REPL**, which stands for *read–eval–print
-loop* in computer programming. This repository aims to become a central
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/world-class/REPL/compare) ![GitHub](https://img.shields.io/github/license/world-class/REPL?style=flat-square)
+
+A twist on the use of **REPL**, which stands for _read–eval–print
+loop_ in computer programming. This repository aims to become a central
 place to share resources that other learners have found useful,
 especially in the context of studying a [BSc Computer Science offered by Goldsmiths, University of London](https://london.ac.uk/courses/computer-science) :school:.
 
@@ -19,6 +22,7 @@ chances of celebrating all together when we graduate.
 
 Good luck to all and may this path fulfill you, knowing that you will
 find support along the way!
+
 </details>
 
 <details>
@@ -30,11 +34,13 @@ material. Anything that could potentially fall under the
 [regulations of the University of London](https://london.ac.uk/current-students/programme-documents/regulations)
 will be removed if it appears by accident and you are welcome to
 report it. :+1:**
+
 </details>
 
 ---
 
 ## Useful resources
+
 - [Applying to UoL: Guide and FAQs about the process](applying_to_uol/README.md)
 - [Books recommended by students in this degree](books/README.md)
 - [Free software](software/README.md)
@@ -46,6 +52,7 @@ report it. :+1:**
 - [YouTube videos](youtube/README.md)
 
 ## How to ask for help?
+
 <details>
 <summary><strong>Reaching out to tutors and SRMs</strong></summary>
 
@@ -54,7 +61,7 @@ Despite being ~100% remote, this degree is equipped with a team of tutors and SR
 - For module-specific inquiries, you can reach out to your tutors in the appropriate discussion forums on Coursera. Access any module you are enrolled in from the [home page of this degree](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/) on Coursera.
 - For non-academic questions, you can write [in the **Reach out** forum](https://www.coursera.org/learn/london-cs-orientation/discussions) on Coursera.
 - For private matters and other types of inquiries, you can write an email to <BScCS-Support@london.ac.uk> or find an alternative route [in this section](#contacting-each-other), including phone numbers, Student Advice Center, Slack workspace and Discord server.
-</details>
+  </details>
 
 <details>
 <summary><strong>General advice on how to ask and find answers</strong></summary>
@@ -62,25 +69,19 @@ Despite being ~100% remote, this degree is equipped with a team of tutors and SR
 Succeeding in this degree has a lot to do with how resourceful you are. This page is meant to be a helpful guidance along the way, but developing a few key skills on your own will become an increasing necessity, including **being able to research online**, **debugging code effectively** and **knowing how to ask questions**.
 
 To get started on that learning path, please refer to the following web pages:
+
 - Getting help
-    - [How to ask questions](https://stackoverflow.com/help/how-to-ask) - Stack Overflow
-    - [How to create a minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) - Stack Overflow
-    - [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) - Jon Skeet's coding blog
-    - [Code philosophy, asking for help](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/uTcr6/code-philosophy-asking-for-help) - From [Introduction to Programming I](modules/level_4/introduction_to_programming_i) module - :lock: _you need to be enrolled in this degree to view this lecture_.
+  - [How to ask questions](https://stackoverflow.com/help/how-to-ask) - Stack Overflow
+  - [How to create a minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) - Stack Overflow
+  - [Writing the perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) - Jon Skeet's coding blog
+  - [Code philosophy, asking for help](https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/uTcr6/code-philosophy-asking-for-help) - From [Introduction to Programming I](modules/level_4/introduction_to_programming_i) module - :lock: _you need to be enrolled in this degree to view this lecture_.
 - Debugging code
-    - [10 Debugging Tips for Beginners: How to Troubleshoot and Fix Your Code Without Pulling Your Hair Out](https://blog.hartleybrody.com/debugging-code-beginner/) - hartleybrody.com
-    - [How to debug code in Atom editor](https://flight-manual.atom.io/hacking-atom/sections/debugging/) - Atom.io
-    - [How to debug for absolute beginners in VS Code editor](https://docs.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019) - Microsoft.com
-    - [How to use Brackets editor](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets) - Adobe, on GitHub
-- Finding answers
-    - [10 Tips to Improve Your Online Research](https://thebestschools.org/magazine/10-tips-to-improve-your-online-research/)
-    - [List of search engines](https://en.wikipedia.org/wiki/List_of_search_engines) - Wikipedia
-    - Google
-        - [15 Ways to Search Google 96% of People Don’t Know About](https://www.youtube.com/watch?v=erZ3IyBCXdY) - YouTube
-        - [20 Google Search Tips to Use Google More Efficiently](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) - Lifehack
-        - [Advanced Power Searching](http://www.powersearchingwithgoogle.com/course/aps) - Google Course
-        - [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course) - Google Course
-</details>
+  - [10 Debugging Tips for Beginners: How to Troubleshoot and Fix Your Code Without Pulling Your Hair Out](https://blog.hartleybrody.com/debugging-code-beginner/) - hartleybrody.com
+  - [How to debug code in Atom editor](https://flight-manual.atom.io/hacking-atom/sections/debugging/) - Atom.io
+  - [How to debug for absolute beginners in VS Code editor](https://docs.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019) - Microsoft.com
+  - [How to use Brackets editor](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets) - Adobe, on GitHub
+- Finding answers - [10 Tips to Improve Your Online Research](https://thebestschools.org/magazine/10-tips-to-improve-your-online-research/) - [List of search engines](https://en.wikipedia.org/wiki/List_of_search_engines) - Wikipedia - Google - [15 Ways to Search Google 96% of People Don’t Know About](https://www.youtube.com/watch?v=erZ3IyBCXdY) - YouTube - [20 Google Search Tips to Use Google More Efficiently](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) - Lifehack - [Advanced Power Searching](http://www.powersearchingwithgoogle.com/course/aps) - Google Course - [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course) - Google Course
+  </details>
 
 ## Modules in the curriculum
 
@@ -88,7 +89,7 @@ To get started on that learning path, please refer to the following web pages:
 <summary><strong>Level 4 (year 1+)</strong></summary>
 
 | Module name                                                                          | Module code | Written exam? | Slack channel                    |
-| ------------------------------------------------------------------------------------ | ----------- | ------------- | -------------                    |
+| ------------------------------------------------------------------------------------ | ----------- | ------------- | -------------------------------- |
 | [Algorithms and Data Structures I](modules/level_4/algorithms_and_data_structures_i) | **CM1035**  | **Yes**       | `#cm1035-algos-data-i`           |
 | [Computational Mathematics](modules/level_4/computational_mathematics) \*            | **CM1015**  | **Yes**       | `#cm1015-computational-math`     |
 | [Discrete Mathematics](modules/level_4/discrete_mathematics)                         | **CM1020**  | **Yes**       | `#cm1020-discrete-math`          |
@@ -106,7 +107,7 @@ To get started on that learning path, please refer to the following web pages:
 <summary><strong>Level 5 (year 2+)</strong></summary>
 
 | Module name                                                                            | Module code | Written exam? | Slack channel                         |
-| -------------------------------------------------------------------------------------- | ----------- | ------------- | -------------                         |
+| -------------------------------------------------------------------------------------- | ----------- | ------------- | ------------------------------------- |
 | [Agile Software Projects](modules/level_5/agile_software_projects)                     | **CM2020**  | No            |                                       |
 | [Algorithms and Data Structures II](modules/level_5/algorithms_and_data_structures_ii) | **CM2035**  | **Yes**       | `#cm2035-algos-data-ii`               |
 | [Computer Security](modules/level_5/computer_security)                                 | **CM2025**  | **Yes**       |                                       |
@@ -151,6 +152,7 @@ following modules.
 Each specialism contains five prescribed modules from the above 13. All
 five must be completed along with one elective module from any other
 specialism. The specialisms are:
+
 - [Data Science](modules/level_6/data_science) (**CM3005**)
 - [Games Development](modules/level_6/games_dev) (**CM3030**)
 - [Machine Learning & Artificial Intelligence](modules/level_6/ml_ai) (**CM3020**)
@@ -167,13 +169,14 @@ specialism. The specialisms are:
 A final project must also be completed to graduate. If a student is
 opting for a specialism, they are strongly encouraged to select a
 relevant topic for the final project.
+
 - [Final Project](modules/level_6/final_project) (**CM3070**, _written exam_)
 
 </details>
 
 ## Notes (students, professors, academic background)
-- Find out more about shared notes in [this location](https://github.com/world-class/REPL/tree/master/notes).
 
+- Find out more about shared notes in [this location](https://github.com/world-class/REPL/tree/master/notes).
 
 ## Calendar due dates and events
 
@@ -182,20 +185,19 @@ relevant topic for the final project.
 
 - Find out what, when and where things are happening with this [Google Calendar](https://calendar.google.com/calendar/embed?src=i8bo48kc5tnudmnn669v4m1vhs%40group.calendar.google.com).
 - **If you have a Google account**, you can follow [this link](https://calendar.google.com/calendar/r?cid=aThibzQ4a2M1dG51ZG1ubjY2OXY0bTF2aHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) instead.
-</details>
+  </details>
 
 <details>
 <summary><strong>See what's the current week</strong></summary>
 
 - Find out what week we are on right now in this very semester by [following this link](https://week.atz.now.sh) (probably one of the simplest yet useful user interface you will ever see).
-</details>
+  </details>
 
 <details>
 <summary><strong>Sync deadlines and events from Coursera</strong></summary>
 
-- *"Automatically sync all the deadlines and other related items from all active courses to your calendar."* Simply visit the [account settings](https://www.coursera.org/account-settings) page on Coursera and click on the **Calendar Sync** tab to see options to sync with Google Calendar, Apple Calendar and others.
-</details>
-
+- _"Automatically sync all the deadlines and other related items from all active courses to your calendar."_ Simply visit the [account settings](https://www.coursera.org/account-settings) page on Coursera and click on the **Calendar Sync** tab to see options to sync with Google Calendar, Apple Calendar and others.
+  </details>
 
 ## Documents and resources provided publicly by the University of London
 
@@ -214,42 +216,35 @@ relevant topic for the final project.
 - [Student Terms and Conditions 2019-2020](./uol_documents/student_terms_and_conditions.pdf)
 - [Student privacy notice](./uol_documents/student_privacy_notice_uol_april_2018_final.pdf)
 - [Welcome webinar Q&A, September 24, 2019](./uol_documents/welcome_webinar_questions_and_answers_september_24_2019.pdf)
-</details>
+  </details>
 
 <details>
 <summary><strong>Webpages of interest</strong></summary>
 
 - Exams
-    - [Examinations](https://london.ac.uk/current-students/examinations)
-    - [How assessment works](https://london.ac.uk/applications/how-it-works/how-assessment-works)
+  - [Examinations](https://london.ac.uk/current-students/examinations)
+  - [How assessment works](https://london.ac.uk/applications/how-it-works/how-assessment-works)
 - [Funding your study](https://london.ac.uk/applications/funding-your-study)
 - [Main page of the BSc Computer Science](https://london.ac.uk/courses/computer-science)
-    - [Structure of the degree](https://london.ac.uk/computer-science-structure)
+  - [Structure of the degree](https://london.ac.uk/computer-science-structure)
 - [Online library](https://onlinelibrary.london.ac.uk/)
 - [Portal](https://my.london.ac.uk/)
-- Specialisms
-    - [Data Science](https://london.ac.uk/courses/computer-science-data-science)
-    - [Games Development](https://london.ac.uk/courses/computer-science-games)
-    - [Machine Learning and Artificial Intelligence](https://london.ac.uk/courses/computer-science-machine-learning-and-ai)
-    - [Physical Computing and the Internet of things](https://london.ac.uk/courses/bsc-computer-science-physical-computing)
-    - [User Experience](https://london.ac.uk/courses/computer-science-user-experience)
-    - [Virtual Reality](https://london.ac.uk/courses/computer-science-virtual-reality)
-    - [Web and Mobile Development](https://london.ac.uk/courses/computer-science-web-and-mobile-development)
-</details>
+- Specialisms - [Data Science](https://london.ac.uk/courses/computer-science-data-science) - [Games Development](https://london.ac.uk/courses/computer-science-games) - [Machine Learning and Artificial Intelligence](https://london.ac.uk/courses/computer-science-machine-learning-and-ai) - [Physical Computing and the Internet of things](https://london.ac.uk/courses/bsc-computer-science-physical-computing) - [User Experience](https://london.ac.uk/courses/computer-science-user-experience) - [Virtual Reality](https://london.ac.uk/courses/computer-science-virtual-reality) - [Web and Mobile Development](https://london.ac.uk/courses/computer-science-web-and-mobile-development)
+  </details>
 
 ---
 
 ## Stay in touch
+
 <details>
 <summary><strong>What's happening at Goldsmiths</strong></summary>
 
-- [Blog.DoC](http://www.doc.gold.ac.uk/blog/) - *"This is the blog for Goldsmiths' Department of Computing. If you are a student, graduate or staff member of Goldsmiths Computing and you want to share news, photos or stories about your work, email our blog editor at: computing@gold.ac.uk"*
-- [Computing events, seminars & conferences](https://www.gold.ac.uk/computing/events/) - *"The Computing and Psychology departments' regular seminars encompassing various aspects of cognition, computation and culture. All are welcome to attend."*
-- [Goldsmiths Computing (Twitter)](https://twitter.com/goldcomputing) - *"Creativity, independence and learning by doing. Computing at Goldsmiths, University of London."*
-- [Goldsmiths, UoL students (Twitter)](https://twitter.com/StudentsAtGold) - *"The official account for students at Goldsmiths, University of London. Online Mon-Fri 9-5pm."*
-- [Hacksmiths](https://2020.goldsmiths.tech/) - *"Hacksmiths is the student-run tech society at Goldsmiths. Our mission is to provide an opportunity for people in all departments and from all backgrounds the chance to learn about, and play with, technology."*
-</details>
-
+- [Blog.DoC](http://www.doc.gold.ac.uk/blog/) - _"This is the blog for Goldsmiths' Department of Computing. If you are a student, graduate or staff member of Goldsmiths Computing and you want to share news, photos or stories about your work, email our blog editor at: computing@gold.ac.uk"_
+- [Computing events, seminars & conferences](https://www.gold.ac.uk/computing/events/) - _"The Computing and Psychology departments' regular seminars encompassing various aspects of cognition, computation and culture. All are welcome to attend."_
+- [Goldsmiths Computing (Twitter)](https://twitter.com/goldcomputing) - _"Creativity, independence and learning by doing. Computing at Goldsmiths, University of London."_
+- [Goldsmiths, UoL students (Twitter)](https://twitter.com/StudentsAtGold) - _"The official account for students at Goldsmiths, University of London. Online Mon-Fri 9-5pm."_
+- [Hacksmiths](https://2020.goldsmiths.tech/) - _"Hacksmiths is the student-run tech society at Goldsmiths. Our mission is to provide an opportunity for people in all departments and from all backgrounds the chance to learn about, and play with, technology."_
+  </details>
 
 <details>
 <summary><strong>Contacting UoL</strong></summary>
@@ -258,7 +253,7 @@ relevant topic for the final project.
 - [General enquiries](https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&category=UOL) (← For non-students. Students should ask in **[the portal](https://my.london.ac.uk/)** instead.)
 - Reach out by phone: `+44 (0)20 7862 8000` (general), `+44 (0)20 7862 5766` (specific to this degree), `+44 (0)20 7862 8368` (fees office).
 - [Student Advice Center](https://london.kb.help/)
-</details>
+  </details>
 
 <details>
 <summary><strong>Contacting other students in this programme</strong></summary>
@@ -268,9 +263,11 @@ relevant topic for the final project.
 - [Zoom](https://zoom.us/) (video conferencing used on Coursera)
 
 More software options for video conferencing on [this page](/software).
+
 </details>
 
 ## Getting ready: Study and work options
+
 - [Job readiness, other online study options and work opportunities](after_uol/README.md).
 
 ---
@@ -313,6 +310,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
