@@ -104,7 +104,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 
 ### Your First Contribution
 
-Unsure where to begin contributing to REPL? You can start by looking through the issues with the label `first-timers-only`.
+Unsure where to begin contributing to REPL? You can start by looking through the issues with the label `good first issue`.
 
 ### Pull Requests
 
