@@ -31,7 +31,11 @@ report it.</strong></p>
 
 ---
 
+<br />
+
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
+
+<br />
 
 # Useful resources
 
@@ -45,6 +49,8 @@ report it.</strong></p>
 - [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
 - [Websites to visit](websites)
 - [YouTube videos](youtube)
+
+<br />
 
 ## How to ask for help?
 
@@ -98,6 +104,7 @@ report it.</strong></p>
 </ul>
 
   </details>
+<br />
 
 ## Modules in the curriculum
 
@@ -350,6 +357,7 @@ relevant topic for the final project.</p>
 </ul>
 
 </details>
+<br />
 
 ## Calendar due dates and events
 
@@ -380,6 +388,7 @@ relevant topic for the final project.</p>
 </ul>
 
   </details>
+<br />
 
 ## Documents and resources provided publicly by the University of London
 
@@ -432,8 +441,7 @@ relevant topic for the final project.</p>
 </ul>
 
   </details>
-
----
+<br />
 
 ## Stay in touch
 
@@ -473,6 +481,7 @@ relevant topic for the final project.</p>
 <p>More software options for video conferencing on <a href="/software">this page</a>.</p>
 
 </details>
+<br />
 
 ## Getting ready: Study and work options
 
