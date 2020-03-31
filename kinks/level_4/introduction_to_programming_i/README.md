@@ -1,7 +1,8 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [ITP1 - Reported problems, tips and additional instructions](#itp1---reported-problems-tips-and-additional-instructions)
   - [Sleuth](#sleuth)
     - [General Sleuth Issues](#general-sleuth-issues)

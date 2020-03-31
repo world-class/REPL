@@ -1,25 +1,27 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../README.md)
 
 # After UoL's Online Bachelor Degree
 
 ## Table of contents
 
-- [Job readiness](#job-readiness)
-- [Study: Online options](#study-online-options)
-  - [Doctor of Computer Science](#doctor-of-computer-science)
-  - [Master's Degree](#masters-degree)
-    - [Analytics](#analytics)
-    - [Cyber security](#cyber-security)
-    - [Data science](#data-science)
-    - [Machine learning](#machine-learning)
-- [Work: Remote options](#work-remote-options)
-  - [Finding opportunities](#finding-opportunities)
-  - [Freelancing](#freelancing)
+- [After UoL's Online Bachelor Degree](#after-uols-online-bachelor-degree)
+  - [Table of contents](#table-of-contents)
+  - [Job readiness](#job-readiness)
+  - [Study: Online options](#study-online-options)
+    - [Doctor of Computer Science](#doctor-of-computer-science)
+    - [Master's Degree](#masters-degree)
+      - [Analytics](#analytics)
+      - [Cyber security](#cyber-security)
+      - [Data science](#data-science)
+      - [Machine learning](#machine-learning)
+  - [Work: Remote options](#work-remote-options)
+    - [Finding opportunities](#finding-opportunities)
+    - [Freelancing](#freelancing)
 
 ## Job readiness
 
-- See [Websites > Programming > Coding challenges](https://github.com/world-class/REPL/tree/master/websites#coding-challenges) for direct opportunities to practice solving real-world interview questions and relevant CS problems.
-- See [Websites > Programming > Interview preparation](https://github.com/world-class/REPL/tree/master/websites#interview-preparation) for examples of interview questions from big tech companies such as Facebook, Google and Microsoft.
+- See [Websites > Programming > Coding challenges](../websites/README.md#coding-challenges) for direct opportunities to practice solving real-world interview questions and relevant CS problems.
+- See [Websites > Programming > Interview preparation](../websites/README.md#interview-preparation) for examples of interview questions from big tech companies such as Facebook, Google and Microsoft.
 
 ---
 

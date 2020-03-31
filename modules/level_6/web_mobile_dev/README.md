@@ -1,8 +1,9 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
-# *Web and Mobile Development* specialism modules
+# _Web and Mobile Development_ specialism modules
 
 ### Databases and Advanced Data Techniques
+
 This module aims to show you how to work with data in your computer
 programs. You will learn how to use SQL and NoSQL databases to store
 tabular data and documents. You will learn about the ethics of gathering
@@ -12,6 +13,7 @@ access them from your computer programs. You will learn about audio and
 video data, and the challenges of working with this kind of data.
 
 ### Advanced Web Development
+
 Advanced Web Development teaches you how to build dynamic, data-driven
 websites using databases, front-end frameworks and server-side
 programming. You'll develop the skills needed for full stack web
@@ -24,6 +26,7 @@ around databases, consider scalability issues and learn about web app
 configuration and deployment.
 
 ### 3D Graphics and Animation
+
 This module covers advanced methods used in current state-of-the-art
 graphics and animation systems. It includes mathematical foundations,
 computational techniques and their use in creative practice. In this
@@ -34,6 +37,7 @@ programming. You'll study a range of examples and learn how to program
 graphics in contemporary graphical software for different applications.
 
 ### Mobile Development
+
 The Mobile Development module aims to give you the fundamental
 understanding and skills needed to develop mobile applications. By
 studying this module, you will learn the principles of effective mobile
@@ -46,6 +50,7 @@ application programming interfaces. The style of the module is
 practical, focusing on developing working apps.
 
 ### Interaction Design
+
 In this module, you'll examine the notion of ‘interaction with
 technology'. You will focus on the concepts behind modern UX design
 and production and gain a solid grasp and practical experience of

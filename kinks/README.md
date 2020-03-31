@@ -1,7 +1,8 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../README.md)
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Kinks found in Level 4 modules](#kinks-found-in-level-4-modules)
 - [Note to future students](#note-to-future-students)
 

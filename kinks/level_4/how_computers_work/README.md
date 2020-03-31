@@ -1,7 +1,8 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [How computers work - Reported problems](#how-computers-work---reported-problems)
   - [Week 2](#week-2)
     - [Review quiz (unverified)](#review-quiz-unverified)

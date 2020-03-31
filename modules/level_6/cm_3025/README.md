@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 ## Virtual Reality (CM3025)
 
@@ -16,6 +16,7 @@ interactive virtual environments. These skills will include creating
 building social VR experiences with interactive virtual characters.
 
 Topics covered:
+
 - Introduction to Virtual Reality: History of VR, VR Hardware and applications
 - Presence: the three illusions of VR
 - 3D graphics for VR

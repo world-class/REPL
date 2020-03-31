@@ -1,7 +1,8 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Introduction to Programming II](#introduction-to-programming-ii)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)

@@ -1,7 +1,8 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Discrete Mathematics](#discrete-mathematics)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -97,7 +98,7 @@ _This course does not require you to read the whole book, you will be given spec
 
 ## On REPL
 
-- [Websites](https://github.com/world-class/REPL/tree/master/websites#discrete-mathematics)
+- [Websites](../../../websites/README.md#discrete-mathematics)
 
   - **Algorithms**
     - [Hopcroft-Karp algorithm - Bipartite Matching](https://www-m9.ma.tum.de/graph-algorithms/matchings-hopcroft-karp/index_en.html) - Interactive: _"Here we demonstrate the Hopcroft-Karp algorithm that solves the problem of finding maximal matchings on bipartite graphs."_
@@ -110,7 +111,7 @@ _This course does not require you to read the whole book, you will be given spec
   - **Rules of inference - logic proofs**
     - [Rules of Inference and Logic Proofs](http://sites.millersville.edu/bikenaga/math-proof/rules-of-inference/rules-of-inference.html) - Covers modus ponens, modus tollens, disjunctive syllogism, De Morgan's law, biconditional, conjunctions, disjunctions, equivalences, double negation.
 
-- [YouTube](https://github.com/world-class/REPL/tree/master/youtube#discrete-mathematics)
+- [YouTube](../../../youtube/README.md#discrete-mathematics)
   - **Algorithms**
     - [Algorithms: Graph Search, DFS and BFS](https://www.youtube.com/watch?v=zaBhtODEL0w) - HackerRank
     - [Breadth-First Search (BFS) algorithm](https://www.youtube.com/watch?v=s-CYnVz-uh4) - MIT OpenCourseWare

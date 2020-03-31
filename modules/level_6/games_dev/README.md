@@ -1,8 +1,9 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
-# *Games Development* specialism modules
+# _Games Development_ specialism modules
 
 ### Artificial Intelligence
+
 Focusing on Artificial Intelligence (AI) techniques, you will learn the
 historical development of AI including search, vision and planning. You
 will become familiar with the foundations of agent-based approaches to
@@ -11,6 +12,7 @@ uncertainty. You will have an opportunity to apply AI techniques to
 particular problems such as game playing and decision making.
 
 ### Virtual Reality
+
 The Virtual Reality (VR) module combines the theory and psychology of VR
 with practical development skills. You'll learn the skills needed to
 design compelling VR environments and the skills that apply to creative
@@ -23,6 +25,7 @@ implementing 3D interaction for VR and building social VR experiences
 with interactive virtual characters.
 
 ### Games Development
+
 This module introduces you to i) industry standard tools for game
 development, such as game engines, and ii) the process of game
 development, including prototyping and playtesting. You will undertake a
@@ -39,6 +42,7 @@ computational resources. This module provides practical experience of
 programming game AI systems and an understanding of the relevant theory.
 
 ### 3D Graphics and Animation
+
 This module covers advanced methods used in current state-of-the-art
 graphics and animation systems. It includes mathematical foundations,
 computational techniques and their use in creative practice. In this
@@ -49,6 +53,7 @@ programming. You'll study a range of examples and learn how to program
 graphics in contemporary graphical software for different applications.
 
 ### Interaction Design
+
 In this module, you'll examine the notion of ‘interaction with
 technology'. You will focus on the concepts behind modern UX design
 and production and gain a solid grasp and practical experience of

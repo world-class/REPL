@@ -1,6 +1,7 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Final Project
+
 In this module, you'll undertake a substantial independent project
 that allows you to demonstrate a wide range of skills such as project
 planning, management, research, software implementation and written
