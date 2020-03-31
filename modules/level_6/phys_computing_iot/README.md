@@ -1,8 +1,9 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
-# *Physical Computing and the Internet of Things* specialism modules
+# _Physical Computing and the Internet of Things_ specialism modules
 
 ### Databases and Advanced Data Techniques
+
 This module aims to show you how to work with data in your computer
 programs. You will learn how to use SQL and NoSQL databases to store
 tabular data and documents. You will learn about the ethics of gathering
@@ -12,6 +13,7 @@ access them from your computer programs. You will learn about audio and
 video data, and the challenges of working with this kind of data.
 
 ### Advanced Web Development
+
 Advanced Web Development teaches you how to build dynamic, data-driven
 websites using databases, front-end frameworks and server-side
 programming. You'll develop the skills needed for full stack web
@@ -24,6 +26,7 @@ around databases, consider scalability issues and learn about web app
 configuration and deployment.
 
 ### Physical Computing and the Internet of Things
+
 Studying this module will introduce the technology involved in the
 development and programming of hardware devices that can sense and act
 in the environment. It explains and demonstrates how the environment,
@@ -36,6 +39,7 @@ practical objective is the development of the skills needed for
 designing and building interactive physical devices.
 
 ### Interaction Design
+
 In this module, you'll examine the notion of ‘interaction with
 technology'. You will focus on the concepts behind modern UX design
 and production and gain a solid grasp and practical experience of
@@ -48,6 +52,7 @@ You'll examine accessibility issues from the perspective of different
 populations.
 
 ### Intelligent Signal Processing
+
 Studying Intelligent Signal Processing will provide a broad experience
 of digital signal processing techniques and applications. You will
 study how programs can capture and process audio and video signals.

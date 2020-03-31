@@ -1,7 +1,8 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Web Development - Reported problems](#web-development---reported-problems)
   - [Week 6](#week-6)
     - [Lecture: 3.3.10 HTML media tags](#lecture-3310-html-media-tags)

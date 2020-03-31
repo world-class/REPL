@@ -1,9 +1,11 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../README.md)
 
 # Podcasts
 
 # Table of contents
 
+- [Podcasts](#podcasts)
+- [Table of contents](#table-of-contents)
 - [Artificial intelligence](#artificial-intelligence)
 - [Computer science](#computer-science)
 - [Cybersecurity](#cybersecurity)

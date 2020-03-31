@@ -1,7 +1,8 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Algorithms and Data Structures I - Reported problems](#algorithms-and-data-structures-i---reported-problems)
   - [Week 6](#week-6)
     - [3.3.4 Using stacks to check for palindrome words](#334-using-stacks-to-check-for-palindrome-words)

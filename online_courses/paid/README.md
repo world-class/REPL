@@ -1,9 +1,11 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../README.md)
 
 # Paid online courses
 
 # Table of contents
 
+- [Paid online courses](#paid-online-courses)
+- [Table of contents](#table-of-contents)
 - [Subscription-based](#subscription-based)
 - [Pay per course](#pay-per-course)
 

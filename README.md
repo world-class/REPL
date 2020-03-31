@@ -170,7 +170,7 @@ relevant topic for the final project.
 
 ## Notes (students, professors, academic background)
 
-- Find out more about shared notes in [this location](https://github.com/world-class/REPL/tree/master/notes).
+- Find out more about shared notes in [this location](./notes/).
 
 ## Calendar due dates and events
 

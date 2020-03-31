@@ -1,8 +1,9 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
-# *Virtual Reality* specialism modules
+# _Virtual Reality_ specialism modules
 
 ### Virtual Reality
+
 The Virtual Reality (VR) module combines the theory and psychology of VR
 with practical development skills. You'll learn the skills needed to
 design compelling VR environments and the skills that apply to creative
@@ -15,6 +16,7 @@ implementing 3D interaction for VR and building social VR experiences
 with interactive virtual characters.
 
 ### Games Development
+
 This module introduces you to i) industry standard tools for game
 development, such as game engines, and ii) the process of game
 development, including prototyping and playtesting. You will undertake a
@@ -31,6 +33,7 @@ computational resources. This module provides practical experience of
 programming game AI systems and an understanding of the relevant theory.
 
 ### 3D Graphics and Animation
+
 This module covers advanced methods used in current state-of-the-art
 graphics and animation systems. It includes mathematical foundations,
 computational techniques and their use in creative practice. In this
@@ -41,6 +44,7 @@ programming. You'll study a range of examples and learn how to program
 graphics in contemporary graphical software for different applications.
 
 ### Mobile Development
+
 The Mobile Development module aims to give you the fundamental
 understanding and skills needed to develop mobile applications. By
 studying this module, you will learn the principles of effective mobile
@@ -53,6 +57,7 @@ application programming interfaces. The style of the module is
 practical, focusing on developing working apps.
 
 ### Interaction Design
+
 In this module, you'll examine the notion of ‘interaction with
 technology'. You will focus on the concepts behind modern UX design
 and production and gain a solid grasp and practical experience of

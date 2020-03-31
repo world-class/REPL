@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 - [Object-Oriented Programming](#object-oriented-programming)
 - [Topics covered](#topics-covered)
@@ -40,5 +40,5 @@ Coursework only (Type II)
 
 ## On REPL
 
-- [YouTube](https://github.com/world-class/REPL/tree/master/youtube).
-  - [C++](https://github.com/world-class/REPL/tree/master/youtube#c-2).
+- [YouTube](../../../youtube/README.md).
+  - [C++](../../../youtube/README.md#c-2).

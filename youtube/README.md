@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../README.md)
 
 # YouTube
 
@@ -47,7 +47,7 @@
   - [Android](#android)
   - [C](#c)
   - [C&#35;](#c-1)
-  - [C++](#c-2)
+  - [C&#43;&#43;](#c-2)
   - [JavaScript](#javascript)
   - [PHP](#php)
   - [Python](#python)
@@ -315,7 +315,7 @@
 
 - [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4) [24h00m] - Literally a course you can take in 24 hours... If you don't sleep. - freeCodeCamp.org
 
-## C++
+## C&#43;&#43;
 
 - Beginner
   - [C++ Object Oriented Programming Video Tutorial](https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq)

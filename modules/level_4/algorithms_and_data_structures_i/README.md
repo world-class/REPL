@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
 
@@ -113,8 +113,8 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## On REPL
 
-- [YouTube](https://github.com/world-class/REPL/tree/master/youtube#algorithms).
-- [Websites](https://github.com/world-class/REPL/tree/master/websites#algorithms).
+- [YouTube](../../../youtube/README.md#algorithms).
+- [Websites](../../../websites/README.md#algorithms).
 
 ## Syllabus
 

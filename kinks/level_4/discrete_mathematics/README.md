@@ -1,7 +1,8 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Discrete Mathematics - Reported problems](#discrete-mathematics---reported-problems)
   - [Week 10](#week-10)
     - [5.212 Domino logic gates simulation](#5212-domino-logic-gates-simulation)

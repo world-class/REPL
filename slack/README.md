@@ -1,20 +1,22 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../README.md)
 
 # Slack
 
 # Table of contents
 
-- [Resources](#resources)
-  - [Channels](#channels)
-    - [Fun channels](#fun-channels)
-    - [Help and resources](#help-and-resources)
-    - [Modules level 4](#modules-level-4)
-    - [Modules level 5](#modules-level-5)
-    - [Specialisms](#specialisms)
-  - [How to use Slack](#how-to-use-slack)
-- [For developers & contributors](#for-developers--contributors)
-  - [Slack app integrations](#slack-app-integrations)
-    - [GreetBot](#greetbot)
+- [Slack](#slack)
+- [Table of contents](#table-of-contents)
+  - [Resources](#resources)
+    - [Channels](#channels)
+      - [Fun channels](#fun-channels)
+      - [Help and resources](#help-and-resources)
+      - [Modules level 4](#modules-level-4)
+      - [Modules level 5](#modules-level-5)
+      - [Specialisms](#specialisms)
+    - [How to use Slack](#how-to-use-slack)
+  - [For developers & contributors](#for-developers--contributors)
+    - [Slack Onboarding](#slack-onboarding)
+      - [Slack Onboarding Workflow ('Slack Tutor')](#slack-onboarding-workflow-slack-tutor)
 
 ## Resources
 

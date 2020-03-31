@@ -1,28 +1,30 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../README.md)
 
 # Books
 
 - [Free Programming Books (GitHub awesome list)](https://ebookfoundation.github.io/free-programming-books/) - _"[...] administered by the Free Ebook Foundation, a not-for-profit organization devoted to promoting the creation, distribution, archiving and sustainability of free ebooks."_
 
-The following list goes beyond the essential/required reading that is part of this degree. The essential reading for each module, if available, can be found by visiting the relevant page in this repository from the [list of modules](https://github.com/world-class/REPL/tree/master/modules).
+The following list goes beyond the essential/required reading that is part of this degree. The essential reading for each module, if available, can be found by visiting the relevant page in this repository from the [list of modules](../modules/).
 
 # Table of contents
 
-- [Computer Science](#computer-science)
-  - [Algorithms](#algorithms)
-- [Data Science](#data-science)
-- [Learning](#learning)
-- [Mathematics](#mathematics)
-  - [Calculus](#calculus)
-  - [Discrete mathematics](#discrete-mathematics)
-  - [Linear algebra](#linear-algebra)
-  - [Number theory and algebra](#number-theory-and-algebra)
-  - [Statistics](#statistics)
-- [Programming](#programming)
-  - [Assembly](#assembly)
-  - [Games](#games)
-  - [General](#general)
-- [UX/UI design](#uxui-design)
+- [Books](#books)
+- [Table of contents](#table-of-contents)
+  - [Computer Science](#computer-science)
+  - [Data Science](#data-science)
+    - [Algorithms](#algorithms)
+  - [Learning](#learning)
+  - [Mathematics](#mathematics)
+    - [Calculus](#calculus)
+    - [Discrete mathematics](#discrete-mathematics)
+    - [Linear algebra](#linear-algebra)
+    - [Number theory and algebra](#number-theory-and-algebra)
+    - [Statistics](#statistics)
+  - [Programming](#programming)
+    - [Assembly](#assembly)
+    - [Games](#games)
+    - [General](#general)
+  - [UX/UI design](#uxui-design)
 
 ---
 

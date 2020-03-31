@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 - [Fundamentals of Computer Science](#fundamentals-of-computer-science)
 - [Topics covered](#topics-covered)

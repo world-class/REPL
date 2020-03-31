@@ -1,4 +1,4 @@
-[Go back to the main page](https://github.com/world-class/REPL)
+[Go back to the main page](../../../README.md)
 
 - [List of free deep learning ebooks](#list-of-free-deep-learning-ebooks)
 - [List of deep learning courses](#list-of-deep-learning-courses)
