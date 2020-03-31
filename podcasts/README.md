@@ -53,8 +53,10 @@
 
 # Education
 
+- [Naval](https://nav.al/) - _"Naval on wealth and happiness."_
 - [TED Podcasts](https://www.ted.com/podcasts) - _"Learn more about TED's original podcast initiatives. Subscribe to listen on Apple Podcasts, the TED Android app, or wherever you get your podcasts."_
 - [TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/) - _"A journey through fascinating ideas, astonishing inventions, and new ways to think and create. Based on riveting TEDTalks from the world's most remarkable minds."_
+- [The Knowledge Project](https://fs.blog/knowledge-project/) - _"Master the best of what other people have already figured out."_
 
 # Music
 
