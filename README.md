@@ -31,7 +31,9 @@ report it.</strong></p>
 
 ---
 
-## Useful resources
+# • [Frequently Asked Questions (FAQ)](faq/README.md)
+
+# Useful resources
 
 - [Applying to UoL: Guide and FAQs about the process](applying_to_uol)
 - [Books recommended by students in this degree](books)
