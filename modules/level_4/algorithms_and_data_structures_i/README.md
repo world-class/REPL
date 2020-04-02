@@ -59,7 +59,8 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Complementary learning
 
-- [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - _"On edX platform, by UCSanDiegoX."_
+- [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - _edX platform, by UC San Diego_
+- [Data Structures Fundamentals](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS201x+1T2019/course) - _edX platform, by UC San Diego_
 
 ### Algorithms
 
