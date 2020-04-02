@@ -40,3 +40,11 @@ Data Structures I before attempting this module.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Resources
+
+## Complementary learning
+
+- [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - _edX platform, by UC San Diego_
+- [Data Structures Fundamentals](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS201x+1T2019/course) - _edX platform, by UC San Diego_
+- [Graph Algorithms](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS202x+2T2017/course) - _edX platform, by UC San Diego_
