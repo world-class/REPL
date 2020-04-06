@@ -37,18 +37,21 @@ report it.</strong></p>
 
 <br />
 
-# Useful resources
-
-- [Applying to UoL: Guide and FAQs about the process](applying_to_uol)
-- [Books recommended by students in this degree](books)
-- [Free software](software)
+# Most used resources
 - [Kinks to be aware of in the different modules](kinks)
 - [Notes from students, professors and more](https://github.com/world-class/REPL/tree/master/notes) (opens directly on GitHub).
-- Online courses: [free resources](online_courses/free), [paid resources](online_courses/paid)
-- [Podcasts](podcasts)
 - [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
 - [Websites to visit](websites)
 - [YouTube videos](youtube)
+
+# Other useful resources
+- [Applying to UoL: Guide and FAQs about the process](applying_to_uol)
+- [Books recommended by students in this degree](books)
+- [Free software](software)
+- [Job opportunities](job_opportunities)
+- Online courses: [free resources](online_courses/free), [paid resources](online_courses/paid)
+- [Online study options](after_uol) (Master's, PhD, certificates, etc.)
+- [Podcasts](podcasts)
 
 <br />
 
@@ -482,10 +485,6 @@ relevant topic for the final project.</p>
 
 </details>
 <br />
-
-## Getting ready: Study and work options
-
-- [Job readiness, other online study options and work opportunities](after_uol).
 
 ---
 
