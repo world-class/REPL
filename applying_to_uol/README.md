@@ -157,4 +157,5 @@ RPL has taken a month, UoL admissions has taken longer than the 5 days they aim 
 
 - [UoL Facebook](https://www.facebook.com/LondonU/?ref=br_rs)
 - [UoL Twitter](https://twitter.com/LondonU)
+- [UoL Unofficial Students' Discord](https://discord.gg/zDpffJQ)
 - Do keep a look out for UoL's virtual open day if you're curious to learn more and speak to representatives for more information.
