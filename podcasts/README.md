@@ -3,29 +3,34 @@
 # Podcasts
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Podcasts](#podcasts)
-- [Table of contents](#table-of-contents)
-- [Artificial intelligence](#artificial-intelligence)
-- [Computer science](#computer-science)
-- [Cybersecurity](#cybersecurity)
-- [Data science](#data-science)
-- [Economics](#economics)
-- [Education](#education)
-- [Music](#music)
-- [Programming](#programming)
-  - [Beginner-friendly](#beginner-friendly)
-  - [Interviews](#interviews)
-  - [Music](#music-1)
-  - [Python](#python)
-  - [Software development](#software-development)
-  - [Testing](#testing)
-  - [Web development](#web-development)
-- [Science](#science)
-- [Technology](#technology)
-- [Variety](#variety)
+* [Awesome Geek Podcasts](#awesome-geek-podcasts)
+* [Artificial intelligence](#artificial-intelligence)
+* [Computer science](#computer-science)
+* [Cybersecurity](#cybersecurity)
+* [Data science](#data-science)
+* [Economics](#economics)
+* [Education](#education)
+* [Music](#music)
+* [Programming](#programming)
+    * [Beginner-friendly](#beginner-friendly)
+    * [Interviews](#interviews)
+    * [Music](#music-1)
+    * [Python](#python)
+    * [Software development](#software-development)
+    * [Testing](#testing)
+    * [Web development](#web-development)
+* [Science](#science)
+* [Technology](#technology)
+* [Variety](#variety)
 
+<!-- vim-markdown-toc -->
 ---
+
+# [Awesome Geek Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts)
+
+> A curated list of podcasts we like to listen to. — [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Artificial intelligence
 

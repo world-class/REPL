@@ -6,7 +6,10 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Job readiness](#job-readiness)
+    * [Awesome Interviews](#awesome-interviews)
 * [Work: Remote options](#work-remote-options)
+    * [Awesome Remote Job](#awesome-remote-job)
+    * [Awesome Job Boards](#awesome-job-boards)
     * [Finding opportunities](#finding-opportunities)
     * [Freelancing](#freelancing)
 
@@ -17,9 +20,21 @@
 - See [Websites > Programming > Coding challenges](../websites/README.md#coding-challenges) for direct opportunities to practice solving real-world interview questions and relevant CS problems.
 - See [Websites > Programming > Interview preparation](../websites/README.md#interview-preparation) for examples of interview questions from big tech companies such as Facebook, Google and Microsoft.
 
+## [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+> A curated list of lists of technical interview questions.  — [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ---
 
 # Work: Remote options
+
+## [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+
+> A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.  — [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+## [Awesome Job Boards](https://github.com/tramcar/awesome-job-boards)
+
+> A curated list of awesome niche job boards.  — [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Finding opportunities
 
