@@ -6,6 +6,7 @@
 - [Algorithms and Data Structures II](#algorithms-and-data-structures-ii)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
 
@@ -43,6 +44,10 @@ Data Structures I before attempting this module.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Syllabus
+
+- [Syllabus PDF April 2020](./ADS2-Syllabus.pdf)
 
 # Resources
 
