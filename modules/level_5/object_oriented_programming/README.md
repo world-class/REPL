@@ -3,6 +3,7 @@
 - [Object-Oriented Programming](#object-oriented-programming)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [On REPL](#on-repl)
 
@@ -35,6 +36,10 @@ documentation.
 # Assessment
 
 Coursework only (Type II)
+
+# Syllabus
+
+- [Syllabus PDF (April 2020)](./OOP-Syllabus.pdf)
 
 # Resources
 
