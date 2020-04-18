@@ -5,6 +5,7 @@
 - [Graphics Programming](#graphics-programming)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Syllabus](#syllabus)
 
 ---
 
@@ -33,3 +34,7 @@ basics of working with simulated physics and 3D graphics.
 # Assessment
 
 Coursework only (Type II)
+
+# Syllabus
+
+- [Syllabus PDF (April 2020)](./GP-Syllabus-.pdf)
