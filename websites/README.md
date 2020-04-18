@@ -345,7 +345,6 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Imgur](https://imgur.com) - _"Imgur is an online image sharing community and image host founded by Alan Schaaf in 2009."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Imgur))
 - [Postimage](https://postimages.org) - _"Provides free image upload and hosting integration for forums. Free picture hosting and photo sharing for websites and blogs."_
 - [TinyPic](http://tinypic.com) - No sign up required. _"TinyPic is a photo and video sharing service, owned and operated by Photobucket.com, that allows users to upload, link and share, images and videos on the Internet. The idea is similar to URL shortening in which each uploaded image is given a relatively short internet address."_ ([from Wikipedia](https://en.wikipedia.org/wiki/TinyPic))
-- [Use](https://www.use.com) - _"Use.com offers unlimited free image hosting - No sign up required! It's easy to upload, link, and share your photos on eBay®, craigslist®, MySpace®, blogs..."_
 
 ## Manage your privacy
 

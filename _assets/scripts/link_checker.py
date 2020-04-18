@@ -26,6 +26,7 @@ HEADERS = {
 EXCLUDED_WEBSITES = [
     "calendar.google.com",
     "challengerocket.com",
+    "https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf",
     "https://yukaichou.com/gamification-book/",
 ]
 
