@@ -6,6 +6,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [External resources](#external-resources)
+- [Syllabus](#syllabus)
 
 ---
 
@@ -41,3 +42,7 @@ One two hour unseen written examination and coursework (Type I)
 # External resources
 
 - [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/)
+
+# Syllabus
+
+- [Syllabus PDF (April 2020)](./DNW-Syllabus.pdf)
