@@ -6,6 +6,7 @@
 - [Computational Mathematics](#computational-mathematics)
 - [Topics previously covered (numerical mathematics)](#topics-previously-covered-numerical-mathematics)
 - [Assessment](#assessment)
+- [Syllabus](#syllabus)
 
 ---
 
@@ -40,3 +41,7 @@ graphing and linear algebra.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Syllabus
+
+- [Computational Math syllabus PDF (April 2020)](./resources/CM-Syllabus.pdf)
