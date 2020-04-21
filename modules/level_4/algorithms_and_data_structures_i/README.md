@@ -8,6 +8,7 @@
 - [Assessment](#assessment)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
+    - [Visualizations](#visualizations)
     - [Algorithms](#algorithms)
       - [`mergeSort` algorithm](#mergesort-algorithm)
       - [`quickSort` algorithm](#quicksort-algorithm)
@@ -61,6 +62,12 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - _edX platform, by UC San Diego_
 - [Data Structures Fundamentals](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS201x+1T2019/course) - _edX platform, by UC San Diego_
+
+### Visualizations
+
+- [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualizations of a lot of data structures and related algorithms.
+
+- [Animated DSA Visualization](https://visualgo.net/en) - Sorting algorithms, searching algorithms and many data structures beautifully visualized.
 
 ### Algorithms
 
