@@ -78,6 +78,7 @@
         * [Swift](#swift)
     * [JavaScript](#javascript-1)
     * [Julia](#julia)
+    * [Markdown](#markdown)
     * [Python](#python-1)
     * [Questions and answers](#questions-and-answers)
     * [Regular expressions (regex)](#regular-expressions-regex)
@@ -468,6 +469,11 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 ## Julia
 
 - [Quantitative Economics with Julia](https://lectures.quantecon.org/jl) - Learning Julia, dynamic programming, many mathematical concepts.
+
+## Markdown
+
+- [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) - _"This document is itself written using Markdown; you can see the source for it by adding ‘.text’ to the URL"_.
+- [Mastering Markdown](https://masteringmarkdown.com/) - _"A Mini Series that will change how you write"_.
 
 ## Python
 
