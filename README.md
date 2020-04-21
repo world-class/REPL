@@ -65,7 +65,7 @@ report it.</strong></p>
 <ul>
     <li>For module-specific inquiries, you can reach out to your tutors in the appropriate discussion forums on Coursera. Access any module you are enrolled in from the <a href="https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/">home page of this degree</a> on Coursera.</li>
     <li>For non-academic questions, you can write <a href="https://www.coursera.org/learn/london-cs-orientation/discussions">in the <strong>Reach out</strong> forum</a> on Coursera.</li>
-   <li>For private matters and other types of inquiries, you can write an email to <a href="mailto:BScCS-Support@london.ac.uk">BScCS-Support@london.ac.uk</a> or find an alternative route <a href="#contacting-each-other">in this section</a>, including phone numbers, Student Advice Center, Slack workspace and Discord server.</li> 
+   <li>For private matters and other types of inquiries, you can write an email to <a href="mailto:BScCS-Support@london.ac.uk">BScCS-Support@london.ac.uk</a> or find an alternative route <a href="#contacting-each-other">in this section</a>, including phone numbers, Student Advice Center, Slack workspace and Discord server.</li>
 </ul>
 
   </details>
@@ -364,7 +364,7 @@ relevant topic for the final project.</p>
 
 ## Calendar due dates and events
 
-<details>
+<!-- <details>
 <summary><strong>Google Calendar</strong></summary>
 
 <ul>
@@ -372,7 +372,7 @@ relevant topic for the final project.</p>
 <li><strong>If you have a Google account</strong>, you can follow <a href="https://calendar.google.com/calendar/r?cid=aThibzQ4a2M1dG51ZG1ubjY2OXY0bTF2aHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">this link</a> instead.</li>
 </ul>
 
-  </details>
+  </details> -->
 
 <details>
 <summary><strong>See what's the current week</strong></summary>
