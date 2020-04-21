@@ -76,8 +76,10 @@
     * [Git / GitHub](#git--github)
     * [iOS](#ios)
         * [Swift](#swift)
+    * [Java](#java)
     * [JavaScript](#javascript-1)
     * [Julia](#julia)
+    * [Kotlin](#kotlin)
     * [Markdown](#markdown)
     * [Python](#python-1)
     * [Questions and answers](#questions-and-answers)
@@ -461,6 +463,9 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 - [Developing iOS 10 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120?ign-mpt=uo%3D8) - Stanford
 
+## Java
+- [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building around 5 different projects. Eventually you’ll be able to create a project that will showcase your skills at the junior Java Developer level."_.
+
 ## JavaScript
 
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - _"This is a series of books diving deep into the core mechanisms of the JavaScript language."_
@@ -470,6 +475,10 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 - [Quantitative Economics with Julia](https://lectures.quantecon.org/jl) - Learning Julia, dynamic programming, many mathematical concepts.
 
+## Kotlin
+
+- [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the syntax of Kotlin and the features that make it a laconic language."_.
+
 ## Markdown
 
 - [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) - _"This document is itself written using Markdown; you can see the source for it by adding ‘.text’ to the URL"_.
@@ -477,6 +486,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 ## Python
 
+- [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the basic syntax of Python, some standard libraries and the Django framework that is used to build web applications."_.
 - [Quantitative Economics with Python](https://lectures.quantecon.org/py) - Great reference for scientific libraries, working with data, advanced Python concepts, dynamic programming.
 
 ## Questions and answers
