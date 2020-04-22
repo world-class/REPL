@@ -10,7 +10,7 @@ and processing. You will learn how you can extract information from
 audio signals. You will implement movement and face detection systems
 that work with live camera input.
 
-Topics covered:
+### Topics covered
 
 - Capturing representing and processing audio signals
 - LTI systems and impulse responses
@@ -22,4 +22,6 @@ Topics covered:
 - Computer vision: face detection
 - Compressing signals
 
-**Assessment:** Coursework only (Type II)
+### Assessment
+
+Coursework only (Type II)

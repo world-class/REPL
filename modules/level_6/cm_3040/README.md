@@ -15,7 +15,7 @@ software engineering. The practical objective of this course is the
 development of the skills needed for designing and building interactive
 physical devices.
 
-Topics covered:
+### Topics covered
 
 - Electricity and circuits
 - Microcontrollers
@@ -28,4 +28,6 @@ Topics covered:
 - Bodily monitoring
 - Robots
 
-**Assessment:** Coursework only (Type III)
+### Assessment
+
+Coursework only (Type III)

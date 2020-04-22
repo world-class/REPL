@@ -2,7 +2,6 @@
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Introduction to Programming II](#introduction-to-programming-ii)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -74,7 +73,7 @@ _"There is no required textbook for this course. Listed below are some books to 
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/introduction_to_programming_ii).
+- See shared notes [in this section](../../../notes/level_4/introduction_to_programming_ii).
 
 ## Syllabus
 

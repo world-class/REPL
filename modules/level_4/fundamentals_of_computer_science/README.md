@@ -55,7 +55,7 @@ _"Specific essential readings for each week from the following list are included
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/fundamentals_of_computer_science).
+- See shared notes [in this section](../../../notes/level_4/fundamentals_of_computer_science).
 
 ## Study guide
 

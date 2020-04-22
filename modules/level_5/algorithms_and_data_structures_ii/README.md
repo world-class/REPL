@@ -1,15 +1,17 @@
 [Go back to the main page](../../../README.md)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Table of contents](#table-of-contents)
-- [Algorithms and Data Structures II](#algorithms-and-data-structures-ii)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [Complementary learning](#complementary-learning)
+* [Algorithms and Data Structures II](#algorithms-and-data-structures-ii)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [Complementary learning](#complementary-learning)
+    * [Notes](#notes)
+    * [Syllabus](#syllabus)
 
+<!-- vim-markdown-toc -->
 ---
 
 # Algorithms and Data Structures II
@@ -45,10 +47,6 @@ Data Structures I before attempting this module.
 
 One two hour unseen written examination and coursework (Type I)
 
-# Syllabus
-
-- [Syllabus PDF April 2020](./ADS2-Syllabus.pdf)
-
 # Resources
 
 ## Complementary learning
@@ -79,3 +77,12 @@ One two hour unseen written examination and coursework (Type I)
   - [Algorithms for Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) (playlist) - Harvard University
   - [Introduction to algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (playlist) - Abdul Bari
   - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
+
+## Notes
+
+- See shared notes [in this section](../../../notes/level_5/algorithms_and_data_structures_ii).
+
+
+## Syllabus
+
+- [Syllabus PDF April 2020](./ADS2-Syllabus.pdf)

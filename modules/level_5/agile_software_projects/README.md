@@ -2,7 +2,6 @@
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Agile Software Projects](#agile-software-projects)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)

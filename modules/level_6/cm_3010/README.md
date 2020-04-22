@@ -10,7 +10,7 @@ data security. You will learn about open data resources, and how you can
 access them from your computer programs. You will learn about audio and
 video data, and the challenges of working with this kind of data.
 
-Topics covered:
+### Topics covered
 
 - Open data sources: different data formats
 - Gathering and cleaning data
@@ -23,4 +23,6 @@ Topics covered:
 - Audio and video data
 - Data security
 
-**Assessment:** One two-hour unseen written examination and coursework (Type I)
+### Assessment
+
+One two-hour unseen written examination and coursework (Type I)

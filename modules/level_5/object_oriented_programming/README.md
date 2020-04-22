@@ -1,12 +1,17 @@
 [Go back to the main page](../../../README.md)
 
-- [Object-Oriented Programming](#object-oriented-programming)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [On REPL](#on-repl)
+# Table of contents
+<!-- vim-markdown-toc GFM -->
 
+* [Object-Oriented Programming](#object-oriented-programming)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [On REPL](#on-repl)
+    * [Notes](#notes)
+    * [Syllabus](#syllabus)
+
+<!-- vim-markdown-toc -->
 ---
 
 # Object-Oriented Programming
@@ -37,13 +42,19 @@ documentation.
 
 Coursework only (Type II)
 
-# Syllabus
-
-- [Syllabus PDF (April 2020)](./OOP-Syllabus.pdf)
-
 # Resources
 
 ## On REPL
 
 - [YouTube](../../../youtube/README.md).
   - [C++](../../../youtube/README.md#c-2).
+
+## Notes
+
+- See shared notes [in this section](../../../notes/level_5/object-oriented-programming).
+
+## Syllabus
+
+- [Syllabus PDF (April 2020)](./OOP-Syllabus.pdf)
+
+

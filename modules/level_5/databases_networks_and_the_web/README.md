@@ -1,13 +1,17 @@
 [Go back to the main page](../../../README.md)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Databases, Networks and the Web](#databases-networks-and-the-web)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [External resources](#external-resources)
-- [Syllabus](#syllabus)
+* [Databases, Networks and the Web](#databases-networks-and-the-web)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [Notes](#notes)
+    * [Websites](#websites)
+    * [Syllabus](#syllabus)
 
+<!-- vim-markdown-toc -->
 ---
 
 # Databases, Networks and the Web
@@ -39,10 +43,17 @@ communication.
 
 One two hour unseen written examination and coursework (Type I)
 
-# External resources
+# Resources
+
+## Notes
+
+- See shared notes [in this section](../../../notes/level_5/databases-networks-and-the-web).
+
+## Websites
 
 - [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/)
 
-# Syllabus
+
+## Syllabus
 
 - [Syllabus PDF (April 2020)](./DNW-Syllabus.pdf)

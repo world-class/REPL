@@ -13,7 +13,7 @@ how to work with various sensors available on mobile devices using
 built-in APIs. The style of the modules will be practical, with a focus
 on developing functioning applications.
 
-Topics covered:
+### Topics covered
 
 - The mobile app ecosystem
 - Mobile user interface design
@@ -26,4 +26,6 @@ Topics covered:
 - Advanced APIs
 - Deployment
 
-**Assessment:** Coursework only (Type III)
+### Assessment
+
+Coursework only (Type III)

@@ -12,7 +12,7 @@ of physics and shader programming. You will study a range of examples,
 and through these learn how you can program computer graphics in
 contemporary graphical software for different applications.
 
-Topics covered:
+### Topics covered
 
 - Overview of 3D Graphics and mathematics for graphics
 - 3D Models and Transforms
@@ -25,4 +25,6 @@ Topics covered:
 - Vertex Shaders
 - Fragment Shaders
 
-**Assessment:** One two-hour unseen written examination and coursework (Type I)
+### Assessment
+
+One two-hour unseen written examination and coursework (Type I)

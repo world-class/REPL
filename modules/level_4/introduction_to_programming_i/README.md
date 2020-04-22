@@ -2,7 +2,6 @@
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Introduction to Programming I](#introduction-to-programming-i)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -71,7 +70,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/introduction_to_programming_i).
+- See shared notes [in this section](../../../notes/level_4/introduction_to_programming_i).
 
 ## On REPL (see relevant sections)
 

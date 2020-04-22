@@ -13,7 +13,7 @@ used to extract information from and classify text. You will work in
 an appropriate programming environment for NLP, using libraries to
 implement NLP workflows.
 
-Topics covered:
+### Topics covered
 
 - History of NLP.
 - Information retrieval and curation in NLP.
@@ -26,4 +26,6 @@ Topics covered:
 - Software packages for NLP
 - Applications of NLP
 
-**Assessment:** One two-hour unseen written examination and coursework (Type I)
+### Assessment
+
+One two-hour unseen written examination and coursework (Type I)
