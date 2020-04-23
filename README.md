@@ -523,6 +523,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ykahan"><img src="https://avatars2.githubusercontent.com/u/15960877?v=4" width="100px;" alt=""/><br /><sub><b>Yehoshua Kahan</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=ykahan" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/NagariaHussain"><img src="https://avatars1.githubusercontent.com/u/34810212?v=4" width="100px;" alt=""/><br /><sub><b>Mohammad Hussain Nagaria</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=NagariaHussain" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Sukhjit-Mann"><img src="https://avatars0.githubusercontent.com/u/62451479?v=4" width="100px;" alt=""/><br /><sub><b>Sukhjit Mann</b></sub></a><br /><a href="#content-Sukhjit-Mann" title="Content">🖋</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
