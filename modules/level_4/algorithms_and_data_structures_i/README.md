@@ -1,25 +1,26 @@
 [Go back to the main page](../../../README.md)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Table of contents](#table-of-contents)
-- [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Resources](#resources)
-  - [Complementary learning](#complementary-learning)
-    - [Visualizations](#visualizations)
-    - [Algorithms](#algorithms)
-      - [`mergeSort` algorithm](#mergesort-algorithm)
-      - [`quickSort` algorithm](#quicksort-algorithm)
-    - [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
-  - [Essential reading](#essential-reading)
-  - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
-  - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Notes](#notes)
-  - [On REPL](#on-repl)
-  - [Syllabus](#syllabus)
+* [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [Complementary learning](#complementary-learning)
+        * [Visualizations](#visualizations)
+        * [Algorithms](#algorithms)
+            * [`mergeSort` algorithm](#mergesort-algorithm)
+            * [`quickSort` algorithm](#quicksort-algorithm)
+        * [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
+    * [Essential reading](#essential-reading)
+    * [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
+    * [Kinks to be aware of](#kinks-to-be-aware-of)
+    * [Notes](#notes)
+    * [On REPL](#on-repl)
+    * [Syllabus](#syllabus)
 
+<!-- vim-markdown-toc -->
 ---
 
 # Algorithms and Data Structures I
@@ -117,7 +118,7 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/algorithms_and_data_structures_i).
+- See shared notes [in this section](../../../notes/level_4/algorithms_and_data_structures_i).
 
 ## On REPL
 

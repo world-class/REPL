@@ -13,7 +13,7 @@ will learn how to evaluate interactive systems against criteria such as
 efficiency and usability. You will examine issues of accessibility from
 the perspective of different populations.
 
-Topics covered:
+### Topics covered
 
 - History of HCI.
 - Usability and Principles of design.
@@ -26,4 +26,6 @@ Topics covered:
 - Tools and techniques that support interaction development.
 - Current trends in interaction design and HCI.
 
-**Assessment:** One two-hour unseen written examination and coursework (Type I)
+### Assessment
+
+One two-hour unseen written examination and coursework (Type I)

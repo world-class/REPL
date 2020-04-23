@@ -1,12 +1,16 @@
 [Go back to the main page](../../../README.md)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Graphics Programming](#graphics-programming)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Syllabus](#syllabus)
+* [Graphics Programming](#graphics-programming)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [Notes](#notes)
+    * [Syllabus](#syllabus)
 
+<!-- vim-markdown-toc -->
 ---
 
 # Graphics Programming
@@ -35,6 +39,12 @@ basics of working with simulated physics and 3D graphics.
 
 Coursework only (Type II)
 
-# Syllabus
+# Resources
+
+## Notes
+
+- See shared notes [in this section](../../../notes/level_5/graphics_programming).
+
+## Syllabus
 
 - [Syllabus PDF (April 2020)](./GP-Syllabus-.pdf)

@@ -16,7 +16,7 @@ proportions. You will be expected to make use of methodologies from
 various components of computer science, including your specialist
 pathway if appropriate.
 
-Topics covered:
+### Topics covered
 
 - Project planning and management.
 - Project-associated risk management.
@@ -29,4 +29,6 @@ Topics covered:
 - Evaluation of project results.
 - Project-specific academic writing.
 
-**Assessment:** One two-hour unseen written examination and coursework
+### Assessment
+
+One two-hour unseen written examination and coursework

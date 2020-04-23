@@ -1,24 +1,25 @@
 [Go back to the main page](../../../README.md)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Table of contents](#table-of-contents)
-- [Discrete Mathematics](#discrete-mathematics)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Resources](#resources)
-  - [Additional reading](#additional-reading)
-  - [Essential reading](#essential-reading)
-  - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
-  - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Mathematical symbols](#mathematical-symbols)
-  - [Notes](#notes)
-  - [On REPL](#on-repl)
-  - [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
-  - [Supplementary videos](#supplementary-videos)
-  - [Syllabus](#syllabus)
-  - [Weekly readings](#weekly-readings)
+* [Discrete Mathematics](#discrete-mathematics)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [Additional reading](#additional-reading)
+    * [Essential reading](#essential-reading)
+    * [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
+    * [Kinks to be aware of](#kinks-to-be-aware-of)
+    * [Mathematical symbols](#mathematical-symbols)
+    * [Notes](#notes)
+    * [On REPL](#on-repl)
+    * [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
+    * [Supplementary videos](#supplementary-videos)
+    * [Syllabus](#syllabus)
+    * [Weekly readings](#weekly-readings)
 
+<!-- vim-markdown-toc -->
 ---
 
 # Discrete Mathematics
@@ -94,7 +95,7 @@ _This course does not require you to read the whole book, you will be given spec
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/discrete_mathematics).
+- See shared notes [in this section](../../../notes/level_4/discrete_mathematics).
 
 ## On REPL
 

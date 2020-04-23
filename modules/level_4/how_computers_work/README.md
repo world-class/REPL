@@ -1,17 +1,18 @@
 [Go back to the main page](../../../README.md)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Table of contents](#table-of-contents)
-- [How Computers Work](#how-computers-work)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Resources](#resources)
-  - [Essential reading](#essential-reading)
-  - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Notes](#notes)
-  - [Syllabus](#syllabus)
+* [How Computers Work](#how-computers-work)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Resources](#resources)
+    * [Essential reading](#essential-reading)
+    * [Kinks to be aware of](#kinks-to-be-aware-of)
+    * [Notes](#notes)
+    * [Syllabus](#syllabus)
 
+<!-- vim-markdown-toc -->
 ---
 
 # How Computers Work
@@ -60,7 +61,7 @@ _You will also be asked to do some independent research from online sources or u
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/how_computers_work).
+- See shared notes [in this section](../../../notes/level_4/how_computers_work).
 
 ## Syllabus
 

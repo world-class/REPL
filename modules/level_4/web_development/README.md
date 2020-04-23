@@ -2,7 +2,6 @@
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Web Development](#web-development)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)

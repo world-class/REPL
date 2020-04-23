@@ -11,7 +11,7 @@ networks. You will learn about machine learning and neural network
 software libraries that allow you to develop machine learning systems
 rapidly, and you will learn how to verify and evaluate the results.
 
-Topics covered:
+### Topics covered
 
 - Regression and classification
 - Features and distances
@@ -24,4 +24,6 @@ Topics covered:
 - Network optimisers
 - Deep and recurrent networks
 
-**Assessment:** One two-hour unseen written examination and coursework (Type I)
+### Assessment
+
+One two-hour unseen written examination and coursework (Type I)

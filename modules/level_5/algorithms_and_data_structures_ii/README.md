@@ -6,9 +6,11 @@
 - [Algorithms and Data Structures II](#algorithms-and-data-structures-ii)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
-- [Syllabus](#syllabus)
+- [List of required reading](#list-of-required-reading)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
+  - [Notes](#notes)
+  - [Syllabus](#syllabus)
 
 ---
 
@@ -45,9 +47,29 @@ Data Structures I before attempting this module.
 
 One two hour unseen written examination and coursework (Type I)
 
-# Syllabus
+# List of required reading
 
-- [Syllabus PDF April 2020](./ADS2-Syllabus.pdf)
+Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058].
+
+| Week | Topic                                  | Section                             | Page number                       |
+|------|----------------------------------------|-------------------------------------|-----------------------------------|
+| 1    | RAM Model                              | 2.2                                 | pp. 23-4                          |
+| 2    | Worst and average case analysis        |                                     | p. 27                              |
+| 2    | Asymptotic notation                    | 3.1                                 | 43-52                             |
+| 4    | Recursive algorithm and analysis       | 2.3, ch. 4 (except 4.6)             | pp. 29-37, pp. 65-113             |
+| 5    | Insertion Sort                         | 2.1, 2.2                            | pp. 16-22, pp. 23-9               |
+| 6    | QuickSort                              | Ch.7, 7.1, 7.2                      | pp. 170-3, pp. 174-8              |
+| 6    | MergeSort                              | 2.3.1, 2.3.2                        | pp. 30-34, pp. 34-37              |
+| 7    | Lower bounds for comparison sorts      | Chapter 8, 8.1                      | pp. 191-3                         |
+| 7    | Counting Sort                          | 8.2                                 | pp 194-6                          |
+| 8    | Radix Sort                             | 8.3                                 | pp. 197-9                         |
+| 8    | Bucket Sort                            | 8.4                                 | pp. 200-                          |
+| 9    | Hashing                                | 11                                  | pp. 253-285                       |
+| 13   | Linked Lists                           | definition of DS, 10.2              | p.9, pp.236-41                    |
+| 14   | Stacks and Queues                      | 10.1                                | pp 232-5                          |
+| 16   | Binary search trees                    | ch. 12, 12.1, 12.2, 12.3            | pp. 286-8, pp. 289-92, pp.294-8   |
+| 17   | Heaps, Heapsort and priority queues    | Chapter 6                           | pp. 151-69                        |
+| 19   | Graph representation, MST and Dijsktra | Ch.22- 22.1, Ch. 23, Ch 24-Ch. 24.3 | pp. 579-92, pp. 624-42, pp.658-66 |
 
 # Resources
 
@@ -79,3 +101,12 @@ One two hour unseen written examination and coursework (Type I)
   - [Algorithms for Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) (playlist) - Harvard University
   - [Introduction to algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (playlist) - Abdul Bari
   - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
+
+## Notes
+
+- See shared notes [in this section](../../../notes/level_5/algorithms_and_data_structures_ii).
+
+
+## Syllabus
+
+- [Syllabus PDF April 2020](./ADS2-Syllabus.pdf)
