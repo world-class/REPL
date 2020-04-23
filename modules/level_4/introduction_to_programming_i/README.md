@@ -2,6 +2,7 @@
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Introduction to Programming I](#introduction-to-programming-i)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -93,7 +94,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ## Syllabus
 
-- [Syllabus PDF (April 2019)](./resources/ITP1-Syllabus.pdf)
+- [Syllabus PDF (April 2020)](./resources/ITP1-Syllabus.pdf)
 
 ## Text editor
 
