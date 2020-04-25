@@ -75,6 +75,8 @@ _"Specific essential readings for each week from the following list are included
 
 Following are supplementary videos for Theory of computation part of the module (week 7-14) for week 1-6 refer NM/DM material and for week 15-20 refer ADS1 material.
 
+- [Basics: Proofs](https://www.youtube.com/playlist?list=PLgKTLlHQn951DaIxphYta6OcAnTL77t4b) (YouTube playlist)
+- [Mathematical Thinking - Keith Devlin](https://www.youtube.com/playlist?list=PL_onPhFCkVQiZgE9U539_QmKLJV_0YvlQ) (YouTube playlist)
+- [Portland State university - YouTube - Harry Porter - "Theory of Computation"(Uses Sipser book and paper+sharpie for teaching) ](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz) (YouTube playlist)
 - [Stanford - Lagunita - Jeff Ullman - "Automata theory" (uses Hopcroft - Ullman book and slideshow based lectures)](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
-- [UC Davis - YouTube - Dan Gusfield - "Theory of Computation" (Uses Sipser book and blackboard style lectures)](https://www.youtube.com/watch?v=GP21wU6R0-o&list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
-- [Portland State university - YouTube - Harry Porter - "Theory of Computation"(Uses Sipser book and paper+sharpie for teaching) ](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz)
+- [UC Davis - YouTube - Dan Gusfield - "Theory of Computation" (Uses Sipser book and blackboard style lectures)](https://www.youtube.com/watch?v=GP21wU6R0-o&list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt) (YouTube playlist)
