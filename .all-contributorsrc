@@ -208,6 +208,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "aimschroeds",
+      "name": "Aimee",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25737865?v=4",
+      "profile": "https://github.com/aimschroeds",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
