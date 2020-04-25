@@ -55,7 +55,9 @@ _"Specific essential readings for each week from the following list are included
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/level_4/fundamentals_of_computer_science).
+- [students_notes/arjun_muralidharan/CM1025_FCS.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/arjun_muralidharan/CM1025_FCS.pdf)
+- [students_notes/felipe_balbi/notes.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/felipe_balbi/notes.pdf)
+- [students_notes/katherine_lambert/KL-1-12.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/katherine_lambert/KL-1-12.pdf)
 
 ## Study guide
 

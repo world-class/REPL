@@ -104,7 +104,7 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/level_5/algorithms_and_data_structures_ii).
+- [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/algorithms_and_data_structures_ii/student_notes/felipe_balbi/notes.pdf)
 
 
 ## Syllabus

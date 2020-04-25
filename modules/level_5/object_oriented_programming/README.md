@@ -51,7 +51,7 @@ Coursework only (Type II)
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/level_5/object-oriented-programming).
+- [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/object-oriented-programming/student_notes/felipe_balbi/notes.pdf)
 
 ## Syllabus
 
