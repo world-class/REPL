@@ -203,7 +203,7 @@
 - [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) - Coursera. Offered by University of Toronto. - _"This course introduces the fundamental building blocks of programming and teaches you how to write fun and useful programs using the Python language."_
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) - Coursera. Offered by University of Michigan.
 - [Using Python for Research](https://www.edx.org/course/using-python-for-research-2) - _"Take your introductory knowledge of Python programming to the next level and learn how to use Python 3 for your research."_ - edX. Offered by Harvard University.
-- [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) - Udemy. Offered by Al Sweigert. - _"A practical programming course for anyone who want to improve their productivity."_ This course can be accessed for free with [monthly coupon codes](https://inventwithpython.com/automateudemy) that are available.
+- [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) - Udemy. Offered by Al Sweigert. - _"A practical programming course for anyone who want to improve their productivity."_ - This course can be accessed for free with [monthly coupon codes](https://inventwithpython.com/automateudemy) that are available.
 
 ### Security
 
