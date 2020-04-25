@@ -21,7 +21,10 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/9079960?v=4",
       "profile": "https://ankush.dev",
       "contributions": [
-        "doc"
+        "doc",
+        "bug",
+        "a11y",
+        "question"
       ]
     },
     {
