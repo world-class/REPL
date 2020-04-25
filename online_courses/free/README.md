@@ -208,7 +208,7 @@
 ### Security
 
 - [Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design) - Coursera. Offered by University of Colorado. Includes:
-  - Cloud Computing Security
+  - Cloud Computing Security 
   - DDoS Attacks and Defenses
   - Security and Privacy in TOR Network
   - Advanced System Security Topics
