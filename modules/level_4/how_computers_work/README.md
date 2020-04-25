@@ -61,7 +61,39 @@ _You will also be asked to do some independent research from online sources or u
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/level_4/how_computers_work).
+- [students_notes/peter_houlihan/Notes 1-7.pdf](../../../notes/level_4/how_computers_work/students_notes/peter_houlihan/Notes 1-7.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_10_10.1-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_10_10.1-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_10_10.1.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_10_10.1.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_11_11.1-11.2-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_11_11.1-11.2-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_11_11.1-11.2.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_11_11.1-11.2.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_12_12.1-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_12_12.1-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_12_12.1.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_12_12.1.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_13_13.1-13.2-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_13_13.1-13.2-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_13_13.1-13.2.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_13_13.1-13.2.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_14_14.1-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_14_14.1-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_14_14.1.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_14_14.1.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_15_15.1-15.2-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_15_15.1-15.2-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_15_15.1-15.2.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_15_15.1-15.2.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_16_16.1-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_16_16.1-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_16_16.1.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_16_16.1.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_17_17.1-17.2-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_17_17.1-17.2-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_17_17.1-17.2.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_17_17.1-17.2.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_18_18.1-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_18_18.1-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_18_18.1.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_18_18.1.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_1_1.1_Abstraction.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_1_1.1_Abstraction.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_2_1.1_2.1-2.2.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_2_1.1_2.1-2.2.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_3_3.1-3.2.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_3_3.1-3.2.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_4_4.1.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_4_4.1.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_5_5.1-5.2-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_5_5.1-5.2-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_5_5.1-5.2.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_5_5.1-5.2.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_6_6.1-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_6_6.1-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_6_6.1.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_6_6.1.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_7_7.1-7.2-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_7_7.1-7.2-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_7_7.1-7.2.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_7_7.1-7.2.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_8_8.1-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_8_8.1-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_8_8.1.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_8_8.1.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_9_9.1-9.2-Reading.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_9_9.1-9.2-Reading.pdf)
+- [students_notes/sukhjit_mann/How_Comps_Work_Week_9_9.1-9.2.pdf](../../../notes/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_9_9.1-9.2.pdf)
 
 ## Syllabus
 
