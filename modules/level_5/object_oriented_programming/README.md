@@ -10,6 +10,7 @@
     * [On REPL](#on-repl)
     * [Notes](#notes)
     * [Syllabus](#syllabus)
+* [IDE warning](#ide-warning)
 
 <!-- vim-markdown-toc -->
 ---
@@ -42,6 +43,7 @@ documentation.
 
 Coursework only (Type II)
 
+
 # Resources
 
 ## On REPL
@@ -58,3 +60,6 @@ Coursework only (Type II)
 - [Syllabus PDF (April 2020)](./OOP-Syllabus.pdf)
 
 
+# IDE warning
+
+The programme's director said that "_you cannot do the work in the second half of the course in Windows with VSCode, so people would need to install Visual Studio eventually anyway._"
