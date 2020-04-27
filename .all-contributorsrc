@@ -21,7 +21,11 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/9079960?v=4",
       "profile": "https://ankush.dev",
       "contributions": [
-        "doc"
+        "doc",
+        "bug",
+        "a11y",
+        "question",
+        "review"
       ]
     },
     {
@@ -96,7 +100,8 @@
       "profile": "https://github.com/felipebalbi",
       "contributions": [
         "doc",
-        "content"
+        "content",
+        "review"
       ]
     },
     {
@@ -160,7 +165,9 @@
       "profile": "https://www.sglavoie.com/",
       "contributions": [
         "code",
-        "doc"
+        "doc",
+        "maintenance",
+        "review"
       ]
     },
     {
@@ -205,6 +212,25 @@
       "name": "Sukhjit Mann",
       "avatar_url": "https://avatars0.githubusercontent.com/u/62451479?v=4",
       "profile": "https://github.com/Sukhjit-Mann",
+      "contributions": [
+        "content",
+        "bug"
+      ]
+    },
+    {
+      "login": "aimschroeds",
+      "name": "Aimee",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25737865?v=4",
+      "profile": "https://github.com/aimschroeds",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Arundel2017",
+      "name": "Arundel2017",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29566187?v=4",
+      "profile": "https://github.com/Arundel2017",
       "contributions": [
         "content"
       ]

@@ -203,11 +203,12 @@
 - [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) - Coursera. Offered by University of Toronto. - _"This course introduces the fundamental building blocks of programming and teaches you how to write fun and useful programs using the Python language."_
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) - Coursera. Offered by University of Michigan.
 - [Using Python for Research](https://www.edx.org/course/using-python-for-research-2) - _"Take your introductory knowledge of Python programming to the next level and learn how to use Python 3 for your research."_ - edX. Offered by Harvard University.
+- [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) - Udemy. Offered by Al Sweigert. - _"A practical programming course for anyone who want to improve their productivity."_ - This course can be accessed for free with [monthly coupon codes](https://inventwithpython.com/automateudemy) that are available.
 
 ### Security
 
 - [Advanced System Security Design Specialization](https://www.coursera.org/specializations/advanced-system-security-design) - Coursera. Offered by University of Colorado. Includes:
-  - Cloud Computing Security
+  - Cloud Computing Security 
   - DDoS Attacks and Defenses
   - Security and Privacy in TOR Network
   - Advanced System Security Topics
@@ -329,6 +330,7 @@
 - [Short and Sweet: Get Started with Git and GitHub Right Now](https://www.udemy.com/short-and-sweet-get-started-with-git-and-github-right-now/) - Udemy. _"In just 30 minutes, this "Short and Sweet" course covers the essential ideas you need to move forward, without a lot of filler. At the end of the course, you'll be able to set up a GitHub account, install Git, create and configure new Git and GitHub repositories, create a change history for your software projects, and publish your software projects to GitHub."_
 - [The Ultimate GIT 5-day Challenge](https://www.udemy.com/the-ultimate-git-5-day-challenge/) - Udacity. _"A quick way to determine if working with GIT is something you want to learn more about. This course takes us step-by-step through some basic GIT operations. The course will not dive too deep, and takes small steps on each of five days. As we continue through the course, we learn a basic, single-person workflow that could allow anyone to store files at GitHub or BitBucket."_
 - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) - Coursera. _"In this course, you will not learn everything there is to know about Git, but you will build a strong conceptual understanding of the technology, and afterward will be able to confidently dig deeper on any topic that interests you."_
+- [Introduction to Git and Github](https://www.coursera.org/learn/introduction-git-github) - Coursera. Offered by Google. _"In this course, you’ll learn how to keep track of the different versions of your code and configuration files using a popular version control system (VCS) called Git. We'll also go through how to setup an account with a service called GitHub so that you can create your very own remote repositories to store your code and configuration."_
 
 ## Internet of Things
 

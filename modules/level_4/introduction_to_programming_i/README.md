@@ -71,7 +71,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/level_4/introduction_to_programming_i).
+- [students_notes/sukhjit_mann/week-1_Intro_to_p5.pdf](../../../notes/level_4/introduction_to_programming_i/students_notes/sukhjit_mann/week-1_Intro_to_p5.pdf)
 
 ## On REPL (see relevant sections)
 

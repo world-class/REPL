@@ -10,6 +10,7 @@
     * [On REPL](#on-repl)
     * [Notes](#notes)
     * [Syllabus](#syllabus)
+* [IDE warning](#ide-warning)
 
 <!-- vim-markdown-toc -->
 ---
@@ -42,6 +43,7 @@ documentation.
 
 Coursework only (Type II)
 
+
 # Resources
 
 ## On REPL
@@ -51,10 +53,14 @@ Coursework only (Type II)
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/level_5/object-oriented-programming).
+- [student_notes/alex_f/notes.md](../../../notes/level_5/object-oriented-programming/student_notes/alex_f/notes.md)
+- [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/object-oriented-programming/student_notes/felipe_balbi/notes.pdf)
 
 ## Syllabus
 
 - [Syllabus PDF (April 2020)](./OOP-Syllabus.pdf)
 
 
+# IDE warning
+
+The programme's director said that "_you cannot do the work in the second half of the course in Windows with VSCode, so people would need to install Visual Studio eventually anyway._"

@@ -8,6 +8,7 @@
 * [Assessment](#assessment)
 * [Resources](#resources)
     * [Notes](#notes)
+        * [Numerical Mathematics (earlier iteration of the module)](#numerical-mathematics-earlier-iteration-of-the-module)
     * [Syllabus](#syllabus)
 
 <!-- vim-markdown-toc -->
@@ -49,7 +50,16 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/level_4/computational_mathematics).
+- [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-1_Lecture.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-1_Lecture.pdf)
+- [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-1_Reading.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-1_Reading.pdf)
+- [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-2_Lecture.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-2_Lecture.pdf)
+
+### Numerical Mathematics (earlier iteration of the module)
+
+- [students_notes/arjun_muralidharan/CM1015_NM.pdf](../../../notes/level_4/numerical_mathematics/students_notes/arjun_muralidharan/CM1015_NM.pdf)
+- [students_notes/hannes_seller/1015_numerical_mathematics.pdf](../../../notes/level_4/numerical_mathematics/students_notes/hannes_seller/1015_numerical_mathematics.pdf)
+- [students_notes/peter_houlihan/Notes_Pehoulihan.pdf](../../../notes/level_4/numerical_mathematics/students_notes/peter_houlihan/Notes_Pehoulihan.pdf)
+
 
 ## Syllabus
 

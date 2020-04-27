@@ -18,6 +18,7 @@
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [Notes](#notes)
     * [On REPL](#on-repl)
+    * [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
     * [Syllabus](#syllabus)
 
 <!-- vim-markdown-toc -->
@@ -118,12 +119,17 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## Notes
 
-- See shared notes [in this section](../../../notes/level_4/algorithms_and_data_structures_i).
+- [students_notes/arjun_muralidharan/CM1035_ADS.pdf](../../../notes/level_4/algorithms_and_data_structures_i/students_notes/arjun_muralidharan/CM1035_ADS.pdf)
+- [students_notes/felipe_balbi/notes.pdf](../../../notes/level_4/algorithms_and_data_structures_i/students_notes/felipe_balbi/notes.pdf)
 
 ## On REPL
 
 - [YouTube](../../../youtube/README.md#algorithms).
 - [Websites](../../../websites/README.md#algorithms).
+
+## Solutions to the textbook Introduction to Algorithms
+
+- [CLRS Solutions](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html) - Michelle Bodnar, Andrew Lohr
 
 ## Syllabus
 
