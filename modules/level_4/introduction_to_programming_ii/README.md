@@ -2,6 +2,7 @@
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Introduction to Programming II](#introduction-to-programming-ii)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -77,4 +78,4 @@ _"There is no required textbook for this course. Listed below are some books to 
 
 ## Syllabus
 
-- [Syllabus PDF (October 2019)](./resources/Syllabus_Introduction_to_Programming_2_CM1010.pdf)
+- [Syllabus PDF (October 2019)](./resources/ITP2-Syllabus.pdf)
