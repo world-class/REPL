@@ -34,15 +34,32 @@
     - [Core Guidelines](#core-guidelines-2)
     - [CPP Reference](#cpp-reference-3)
   - [Vectors](#vectors)
-- [Topic 2b User Defined Types: Enumerations and Classes](#topic-2b-user-defined-types-enumerations-and-classes)
-  - [Enumerations](#enumerations)
     - [Points to Remember](#points-to-remember-6)
     - [Key Reading](#key-reading-5)
     - [Supplementary Reading](#supplementary-reading-3)
     - [Core Guidelines](#core-guidelines-3)
     - [CPP Reference](#cpp-reference-4)
-  - [Classes](#classes)
+- [Topic 2b User Defined Types: Enumerations and Classes](#topic-2b-user-defined-types-enumerations-and-classes)
+  - [Enumerations](#enumerations)
+    - [Points to Remember](#points-to-remember-7)
+    - [Key Reading](#key-reading-6)
+    - [Supplementary Reading](#supplementary-reading-4)
+    - [Core Guidelines](#core-guidelines-4)
+    - [CPP Reference](#cpp-reference-5)
+  - [Classes: Basic Syntax and Constructors](#classes-basic-syntax-and-constructors)
+    - [Points to Remember](#points-to-remember-8)
+    - [Member Functions](#member-functions)
+    - [Key Reading](#key-reading-7)
+    - [Supplementary Reading](#supplementary-reading-5)
+    - [Core Guidelines](#core-guidelines-5)
+    - [CPP Reference](#cpp-reference-6)
 - [Topic 2c File Organization](#topic-2c-file-organization)
+  - [Class Structure and Header Files](#class-structure-and-header-files)
+    - [Points to Remember](#points-to-remember-9)
+    - [Key Reading](#key-reading-8)
+    - [Supplementary Reading](#supplementary-reading-6)
+    - [Core Guidelines](#core-guidelines-6)
+    - [CPP Reference](#cpp-reference-7)
 
 ## Intro
 
@@ -69,13 +86,14 @@ And references to the following resources:
 - To use a type from a **namespace** you need to `#include` it at the start of your file, and either refer to it using namespace notation `std::cout` or bring the namespace into scope `using namespace std;` (can lead to name clashes so avoid where possible) or the particular type `using std::cout;` then just `cout` will work.
 - C++ also allows **User Defined Types**, also known as **Classes**, which are *first class citizens*.
 - Before an object can be used it must be **initialized** which allocates the memory correctly depending on type.
-- A named variable can only be used if it is in **scope**. There are four levels of scope:
+- A named variable can only be used if it is in **scope**.
+- Scope is a region of program text. A name is declared in a scope, and is valid (or "in scope") from the point of declaration to the end of that scope. There are four levels of scope:
   - **Local Scope** - a name declared in a function, lambda or local block `{}`, includes function parameters.
   - **Class Scope** - a name is called a **member name** if it is declared in a class, outside any function or lambda.
   - **Namespace Scope** - a name is called a **namespace member name** if declared in a namespace outside a function/lambda.
   - **Global Scope** - a name declared outside any construct.
-- variables can be made *immutable* by declaring them as `const` (meaning "I promise not to change this"), or `constexpr` (meaning "to be evaluated at compile time"), the difference is when the value is calculated either run-time or compile time respectively.
-- in variable declarations `*` signifies a **pointer** and `&` signifies a **reference**. Both are ways to denote an object in memory without evaluating or copying it. The syntax to access the values is different (see *Tour*, p. 11)
+- Variables can be made *immutable* by declaring them as `const` (meaning "I promise not to change this"), or `constexpr` (meaning "to be evaluated at compile time"), the difference is when the value is calculated either run-time or compile time respectively.
+- In variable declarations `*` signifies a **pointer** and `&` signifies a **reference**. Both are ways to denote an object in memory without evaluating or copying it. The syntax to access the values is different (see *Tour*, p. 11)
 
 
 
@@ -342,6 +360,98 @@ if(!cin)
 
 ### Vectors
 
+#### Points to Remember
+- A `vector` is a collection, or **container** of objects, all with the same type, that knows its own length. Objects in the vector can be accessed through their index.
+- NB `vector` is a template, not a type. Templates allow you to generate different types from them depending on information you pass with `<>` after the template name.
+- In vector's case you specify the type of the objects the vector will hold. EG `vector<int>`, `vector<string>`, `vector<My_class>`. These are three different types.
+- Vectors can hold vectors, declared as follows: `vector<vector<int>>` (or old style `vector<vector<int> >` with a space).
+- Most common is to initialize empty vector and populate at runtime, other common ways to initialize:
+
+```C++
+
+#include <vector>
+using std::vector;
+
+vector<T> v1;   //vector that holds objects of type T. Default initialization is empty (most common).
+
+vector<T> v2(v1); //vector v2 has a copy of every element in v1, could also say v2 = v1.
+
+vector<T> v3(n, val); // vector has n elements of value val
+
+vector<T> v4(n); // vector has n elements with default values for their type (only if that type supports default initialization)
+
+vector<T> v5{a, b, c}; // vector contains a,b,c
+
+```
+
+- For fiddly aspects of initialization, including **list initialization** and **element counts** see *Primer*, p. 99.
+- Key to vectors in C++ is that they *grow efficiently*. Unless all the elements have the same value it is better to initialize an empty vector and then grow it, rather than create a vector of a specific size. (*Primer*, p. 101). Unlike C/Java.
+- `push_back()` method takes a value and adds it to the end of the vector. The most common way to add elements. Some examples:
+
+```C++
+vector<int> v2;
+for (int i =0; i != 100, ++i)
+    v2.push_back(i);
+
+//end of loop v2 has 100 elements, 0 - 99
+
+string word;
+vector<string> text;
+while(cin >> word) {
+  text.push_back(word)
+}
+//text has all the words from the input stream as elements.
+```
+
+- use a range `for` loop to process all elements of a vector:
+
+```C++
+
+vector<int> v{1,2,3,4,5,6,7,8};
+
+for(auto &i : v)      //for all elements in v, NB i is a reference allowing us to change values, auto deduces type.
+  i *= i;             //square the value
+for(auto i : v)       //for each element (not a reference)
+  cout << i << " ";   //outputs the square of the original elements.
+cout << '\n';
+```
+
+- Useful vector methods:
+
+```C++
+
+v.empty()       //boolean return
+v.size()        //returns number of elements. NB returns vector<T>::size_type, not int
+v[n]            //returns a reference to the element at n in v. NB cannot add elements to vector using [], only access and replace.
+v.push_back(t)  //adds an element with value t at the end of the vector
+v.pop_back()    //removes last element from vector - careful with references and iterators
+v1 = v2         //replaces elements of v1 with a copy of elements in v2
+v1 == v2        //vectors are equal if they are the same size and each element in v1 is equal to corresponding element in v2
+<, >, <=, >=    //comparisons use dictionary ordering, see *Primer*, p. 102.
+
+```
+
+- Range checking is a common problem. Accessing elements out of range does not throw compiler error, and causes undefined values to be returned. For Stroustrup's custom solution see *Tour*, pp 141-142.
+- Consider vectors the default container, use them unless you have a reason not to (Stroustrup).
+
+#### Key Reading
+- *Primer*: Section 3.3, *Library `vector` Type* (pp 96 - 105)
+- *Programming*: Section 4.6, `vector` (pp 117 - 125)
+
+#### Supplementary Reading
+- *Tour*: Section 11.2, `vector` (pp 138 - 142)
+- *C++*: Section 31.4.1, `vector` (pp 902 - 906)
+- *Programming*: Chapters 17, 18, and 19 implement a `vector` Template and deep dive into how it works. They cover a lot of ground inc. constructors, destructors, the free store, templates etc. Useful reference for specific issues.
+
+#### Core Guidelines
+- [Containers](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#SS-con)
+- [Prefer STL `vector` by default](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rsl-vectorr)
+- [Avoid Bounds Errors](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rsl-bounds)
+
+#### CPP Reference
+- [vectors](https://en.cppreference.com/w/cpp/container/vector)
+
+
 ## Topic 2b User Defined Types: Enumerations and Classes
 ### Enumerations
 #### Points to Remember
@@ -351,15 +461,32 @@ if(!cin)
 - Generally avoided now in favour of C++ **scoped enumerations** or `enum classes`, use as follows:
 
   ```C++
+  #include <iostream>
+  #include <type_traits>
+  #include <map>
+  #include <string>
+
   enum class Month {
     jan =1, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec
+  };
+
+  //use a map to create labels for the enumerators to print them
+  std::map<Month, std::string> months = {
+    {Month::jan, "January"},
+    {Month::feb, "February"},
+    ...
   };
 
   Month m = Month::feb; //good
   int n = m; //error, no implicit conversion from Month to int
   m = 7; //error, can't assign an int to a Month
+  std::cout << m; //error, no implicit conversion, << not defined for `Month`
+  std::cout << static_cast<std::underlying_type<Month>::type>(m); //ok, outputs '2'
+  std::cout << months[m]; //ok, outputs "February"
   ```
 - The `class` denotes that the enumerators are in the scope of the enumeration, so to refer to `jan` you say `Month::jan`. No implicit conversion to ints.
+- This makes it fiddly to, for example, `cout` an enum class. You have to explicitly cast it to the underlying type. See eg this [Stack Overflow post](https://stackoverflow.com/questions/11421432/how-can-i-output-the-value-of-an-enum-class-in-c11).
+- Or you can create a map of labels if you want to print a string (see code example above).
 - The compiler will pick the value for each enumerator you don't specify, default starting at `0`, then incrementing by 1. Better to let the compiler pick values for you, though you can explicitly define each value.
 - You can also specify the underlying type of the enum, if you don't want an int, but this is generally avoided.
 
@@ -383,5 +510,143 @@ if(!cin)
 #### CPP Reference
 - [Enum declaration](https://en.cppreference.com/w/cpp/language/enum)
 
-### Classes
+### Classes: Basic Syntax and Constructors
+#### Points to Remember
+
+- A class is a **user-defined type** consisting of a set of **members**. The most common kinds of members are **data members** and **member functions**.
+- Members are accessed by using `.` for objects and `->` for pointers.
+- A class is a namespace containing its members.
+- The **public** members define a class's **interface**, while its **private** members detail its **implementation**.
+- A **struct** is a class where all members are by default public. By default members of a `class` are private.
+- The construct `class X {...};` is a **class definition**, often referred to as a **class declaration**.
+- `struct S {...};` is simply shorthand for `class S{public:...};`.
+- It is not a requirement to declare data first in a class definition before they are used in member functions. Often useful to show the functions first.
+- A **constructor** is a function that specifies how objects of a class are initialized. They are recognized by having the same name as the class itself.
+- When a class has a constructor, all objects of that class will by initialized by a constructor call. If that constructor requires arguments, those must be supplied.
+- By having multiple constructors with different arguments, we can create a variety of ways of initializing class objects, ie constructors can be *overloaded* like regular functions.
+- Here is an example `Date` class with private members and public constructors showing the syntax, including for default values in constructors:
+
+```C++
+  class Date {
+    int d,m,y; //these are private data members, can also specify `private:` to be explicit
+
+    public:
+
+    Date(int dd =0,int mm =0,int yy =0); //constructor for day,month,year, with defaults used in constructor below
+    Date(int dd,int mm); //constructor for day, month, assume current year, no defaults
+    Date(int); //constructor for day, assume current month and year
+    Date(); //default constructor, initialize to today
+    Date(const char*); //date from a string
+  }; //don't forget semi-colon!
+
+  Date::Date(int dd, int mm, int yy)
+  {
+    d = dd ? dd : today.d; //assume today has been created with public members
+    m = mm ? mm : today.m;
+    y = yy ? yy : today.y;
+
+    //check date validity
+  }
+
+  Date::Date(int dd, int mm)
+  :y{today.y}, m{mm}, d{dd} //initializer list syntax
+  {
+    //check date validity
+  }
+
+  Date date1 {30,4,2020}; // uses first constructor, NB Stroustrup prefers {} when initializing
+  Date date2(30,4); //same effect, uses second constructor, but Stroustrup doesn't like () here.
+```
+#### Member Functions
+- We define and declare member functions similarly to ordinary functions. Member functions *must* be declared within the class. They *may* be defined inside the class itself or outside the class body using the namespace: `Class::memberFunction(){};`.
+- See section on header files for usual way of declaring and defining member functions.
+- Almost always, when a member function is called, it is called on behalf of an object (an instance of the class).
+- When a member function is called an extra, implicit parameter is initialized, called `this`. `this` is a const pointer to the address of the object on which the function was evoked.
+- Inside a member function we can then refer directly to members of the object without any access operator or namespace. It will be interpreted as an implicit reference to `this`.
+- So an ordinary member function declaration specifies three distinct things:
+  - The function can access the private parts of the class declaration.
+  - The function is in the scope of the class.
+  - The function must be invoked on an object (has a `this` pointer).
+- You can declare a member function `static` to give it the first two properties only. And you can declare a nonmember function a `friend` to give it the first property. (This is covered later).
+- The compiler processes classes in two steps. First member declarations are compiled, and then member function bodies are processed. So member functions can use other members in the class regardless of where those members are declared.
+#### Key Reading
+- *Programming*, Chapter 9, *Technicalities: Classes, etc* (pp 303 - 342) Ch. 9 evolves a date class, growing in complexity.
+- *C++*, Sections 16.1 - 16.2.5 (pp 449 - 457), and p. 571.
+
+#### Supplementary Reading
+- *Tour*, Sections 4.1 and 4.2 (pp 47 - 51)
+- *Primer*:
+  -  Section 7.1.2, on member functions (pp 256 - 260)
+  -  Section 7.1.3, on class helper functions (pp 260 - 262)
+  -  Section 7.1.4, *Constructors* (pp 262 - 266)
+  -  NB *Primer* chapter on classes relies a lot on a case study built up over previous chapters so a bit hard to follow if you're not working through the book.
+
+#### Core Guidelines
+- [Classes](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-class)
+- [Organize related data into structures (`struct` or `class`)](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rc-org)
+- [Use `class` not `struct` if there are invariants](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rc-struct)
+- [Use `class` not `struct` if there are any private members](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rc-class)
+- [Represent the distinction between *interface* and *implementation* in the class](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rc-interface)
+
+#### CPP Reference
+- [Classes](https://en.cppreference.com/w/cpp/language/classes)
+- [Default Constructor](https://en.cppreference.com/w/cpp/language/default_constructor)
 ## Topic 2c File Organization
+
+### Class Structure and Header Files
+
+#### Points to Remember
+- C++ allows for **separate compilation** where user code only sees the declarations of the classes and functions it uses (their *interfaces*).
+- The full definitions are then in separate source code files and can be compiled separately, minimizing compile times.
+- Typically a class is written in two files:
+  -  a **header file** `Class.h` containing the class definition and declarations of its member variables and functions.
+  -  an **implementation file** `Class.cpp`, with the full definitions of the class's member functions.
+- For what can and can't be included in header files, see *C++*, p. 424.
+- A `.cpp` file that is compiled by itself is called a **translation unit**, a program might contain thousands of units.
+- The **One-Definition Rule** states that classes can only be defined once in a translation unit. For the full rule see *C++*, p. 425.
+- The source code fragments are pulled together during **pre-processing**, a stage in building the program that executes before compilation, using the `#include` mechanism.
+
+```C++
+  #include "Class.h" //use quotes for class headers in current directory
+  #include <iostream> //use <> for standard include directory, eg standard library.
+  #include < string > //error, whitespace is significant
+  #include " Class.h " //error whitespace is significant here too.
+```
+- `#include` is equivalent to pasting the text from the header file, bringing all the names into scope.
+- Because each header represents a class as a self-contained unit, there can be a lot of redundancy in `#include` statements. We can also quickly get errors as class definitions are `#include`d more than once in the same translation unit, which breaks the *One-Definition Rule*.
+- To get around this we use **header guards**, also called **include guards**. These ensure header files are only included once in a translation unit. There are two common ways:
+
+```C++
+#pragma once
+//rest of the header here
+```
+- `#pragma once` is non-standard, but supported by most modern compilers. See [CPP Reference](https://en.cppreference.com/w/cpp/preprocessor/impl). Alternatively:
+
+```C++
+#ifndef LIBRARY_FILENAME_H //preprocessor checks if variable is not defined, if so continues to execute
+#define LIBRARY_FILENAME_H //define the variable so it is in scope if encountered again. Use ALL_CAPS, and a long name to avoid clashes.
+// contents of the header
+#endif /* LIBRARY_FILENAME_H */ //end the conditional and resume execution
+```
+#### Key Reading
+- *C++*:
+  - Section 15.2.2 - 15.2.4, *Header Files*, *The One-Definition Rule*, and *Standard-Library Headers* (pp 424 - 428)
+  - Section 15.3, *Using Header Files* (pp 431 - 441)
+
+#### Supplementary Reading
+- *Tour*, Section 3.2, *Separate Compilation* (pp 30 - 32)
+- *Primer*, Section 2.6.3, *Writing our Own Header Files* (pp 76 - 77)
+- *Programming*, Section 8.3, *Header Files* (pp 264 - 266)
+
+#### Core Guidelines
+- [Source Files](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-source)
+- [Use header files for all declarations used in multiple files](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rs-declaration-header)
+- [Header files should be self-contained](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rs-contained)
+- [Use `#include` guards on all header files](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rs-guards)
+- [Put `#include` at the top of files](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rs-include-order)
+- [Avoid cyclic dependencies if possible](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rs-cycles)
+
+#### CPP Reference
+- [Source file inclusion](https://en.cppreference.com/w/cpp/preprocessor/include)
+- [#pragma once](https://en.cppreference.com/w/cpp/preprocessor/impl)
+- [preprocessor conditional inclusion - `ifdef` etc](https://en.cppreference.com/w/cpp/preprocessor/conditional)
