@@ -2,6 +2,7 @@
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Web Development](#web-development)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -93,4 +94,4 @@ _Specific readings for each topic are listed with direct links to free online re
 
 ## Syllabus
 
-- [Syllabus PDF (April 2019)](./resources/syllabus_WD_CM1040.pdf)
+- [Syllabus PDF (April 2020)](./resources/WD-Syllabus.pdf)

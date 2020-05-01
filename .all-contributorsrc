@@ -225,6 +225,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Arundel2017",
+      "name": "Arundel2017",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29566187?v=4",
+      "profile": "https://github.com/Arundel2017",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "svarlamov",
+      "name": "Sasha Varlamov",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10859025?v=4",
+      "profile": "http://www.sashavarlamov.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

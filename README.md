@@ -52,6 +52,7 @@ report it.</strong></p>
 - Online courses: [free resources](online_courses/free), [paid resources](online_courses/paid)
 - [Online study options](after_uol) (Master's, PhD, certificates, etc.)
 - [Podcasts](podcasts)
+- [Showcase of student-built applications](showcase)
 
 <br />
 
@@ -526,6 +527,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Sukhjit-Mann"><img src="https://avatars0.githubusercontent.com/u/62451479?v=4" width="100px;" alt=""/><br /><sub><b>Sukhjit Mann</b></sub></a><br /><a href="#content-Sukhjit-Mann" title="Content">🖋</a> <a href="https://github.com/world-class/REPL/issues?q=author%3ASukhjit-Mann" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/aimschroeds"><img src="https://avatars2.githubusercontent.com/u/25737865?v=4" width="100px;" alt=""/><br /><sub><b>Aimee</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=aimschroeds" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Arundel2017"><img src="https://avatars2.githubusercontent.com/u/29566187?v=4" width="100px;" alt=""/><br /><sub><b>Arundel2017</b></sub></a><br /><a href="#content-Arundel2017" title="Content">🖋</a></td>
+    <td align="center"><a href="http://www.sashavarlamov.com"><img src="https://avatars0.githubusercontent.com/u/10859025?v=4" width="100px;" alt=""/><br /><sub><b>Sasha Varlamov</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=svarlamov" title="Documentation">📖</a></td>
   </tr>
 </table>
 

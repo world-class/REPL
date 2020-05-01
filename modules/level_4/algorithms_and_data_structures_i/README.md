@@ -18,6 +18,7 @@
     * [Kinks to be aware of](#kinks-to-be-aware-of)
     * [Notes](#notes)
     * [On REPL](#on-repl)
+    * [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
     * [Syllabus](#syllabus)
 
 <!-- vim-markdown-toc -->
@@ -125,6 +126,10 @@ _There will also be discussion prompts asking you to do some independent researc
 
 - [YouTube](../../../youtube/README.md#algorithms).
 - [Websites](../../../websites/README.md#algorithms).
+
+## Solutions to the textbook Introduction to Algorithms
+
+- [CLRS Solutions](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html) - Michelle Bodnar, Andrew Lohr
 
 ## Syllabus
 

@@ -1,17 +1,19 @@
 [Go back to the main page](../../../README.md)
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [Table of contents](#table-of-contents)
-- [Algorithms and Data Structures II](#algorithms-and-data-structures-ii)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [List of required reading](#list-of-required-reading)
-- [Resources](#resources)
-  - [Complementary learning](#complementary-learning)
-  - [Notes](#notes)
-  - [Syllabus](#syllabus)
+* [Algorithms and Data Structures II](#algorithms-and-data-structures-ii)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [List of required reading](#list-of-required-reading)
+* [Resources](#resources)
+    * [Complementary learning](#complementary-learning)
+    * [Notes](#notes)
+    * [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
+    * [Syllabus](#syllabus)
 
+<!-- vim-markdown-toc -->
 ---
 
 # Algorithms and Data Structures II
@@ -106,6 +108,9 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
 
 - [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/algorithms_and_data_structures_ii/student_notes/felipe_balbi/notes.pdf)
 
+## Solutions to the textbook Introduction to Algorithms
+
+- [CLRS Solutions](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html) - Michelle Bodnar, Andrew Lohr
 
 ## Syllabus
 
