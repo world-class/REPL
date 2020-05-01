@@ -234,6 +234,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "svarlamov",
+      "name": "Sasha Varlamov",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10859025?v=4",
+      "profile": "http://www.sashavarlamov.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
