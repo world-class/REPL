@@ -52,6 +52,7 @@ report it.</strong></p>
 - Online courses: [free resources](online_courses/free), [paid resources](online_courses/paid)
 - [Online study options](after_uol) (Master's, PhD, certificates, etc.)
 - [Podcasts](podcasts)
+- [Showcase of student-built applications](showcase)
 
 <br />
 
