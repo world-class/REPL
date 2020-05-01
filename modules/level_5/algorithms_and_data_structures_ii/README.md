@@ -101,6 +101,8 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
   - [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://www.youtube.com/playlist?list=PLUl4u3cNGP63d33STUUBfZUpzFCVR5-PV) (playlist) - MIT OpenCourseWare - _"[...] summarizing the prerequisite complexity theory and featuring two examples of hardness proofs in games."_
   - [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY) - freeCodeCamp.org
   - [Algorithms for Big Data](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) (playlist) - Harvard University
+  - [Asymptotic Bounding 101: Big O, Big Omega, & Theta (Deeply Understanding Asymptotic Analysis)](https://www.youtube.com/watch?v=0oDAlMwTrLo) - Back To Back SWE
+  - [Asymptotic Notation Recurrences Substitution Master Method](https://www.youtube.com/watch?v=whjt_N9uYFI) - MIT OpenCourseWare
   - [Introduction to algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (playlist) - Abdul Bari
   - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
 
