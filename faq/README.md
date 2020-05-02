@@ -85,6 +85,8 @@
     * [What are the basics on how to use Slack?](#what-are-the-basics-on-how-to-use-slack)
     * [How do I reply to a specific user using threads?](#how-do-i-reply-to-a-specific-user-using-threads)
     * [I want to discuss off-topic things with other students, where should I go?](#i-want-to-discuss-off-topic-things-with-other-students-where-should-i-go)
+* [Contributing to REPL](#contributing-to-repl)
+    * [How can I contribute to this repository?](#how-can-i-contribute-to-this-repository)
 * [Off-topic](#off-topic)
     * [Where's the best place to read about Dr. Yee-King's research with computer music?](#wheres-the-best-place-to-read-about-dr-yee-kings-research-with-computer-music)
 
@@ -458,6 +460,14 @@ For instance, for a question about predicate logic, you might see something like
 ### I want to discuss off-topic things with other students, where should I go?
 
 - A list of Slack channels [can be found here](../slack/README.md).
+
+---
+
+## Contributing to REPL
+
+### How can I contribute to this repository?
+
+We're glad you asked! We have [contributing guidelines](https://github.com/world-class/REPL/blob/master/CONTRIBUTING.md) that you can check out to see where and how you might want to make a positive impact in the academic life of students enrolled in this degree :wink:.
 
 ---
 

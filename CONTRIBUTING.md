@@ -9,26 +9,75 @@ REPL Team
 ---
 
 # Table of contents
+<!-- vim-markdown-toc GFM -->
 
-- [How to contribute to REPL](#how-to-contribute-to-repl)
-- [Table of contents](#table-of-contents)
-  - [A few words](#a-few-words)
-  - [Code of Conduct](#code-of-conduct)
-  - [I don't want to read this whole thing I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
-  - [How Can I Contribute?](#how-can-i-contribute)
-    - [Reporting Issues](#reporting-issues)
-      - [Before Submitting An Issue](#before-submitting-an-issue)
-      - [How Do I Submit A (Good) Issue?](#how-do-i-submit-a-good-issue)
-    - [Suggesting Enhancements](#suggesting-enhancements)
-      - [Before Submitting An Enhancement Suggestion](#before-submitting-an-enhancement-suggestion)
-      - [How Do I Submit A (Good) Enhancement Suggestion?](#how-do-i-submit-a-good-enhancement-suggestion)
-    - [Your First Contribution](#your-first-contribution)
-    - [Pull Requests](#pull-requests)
-  - [Style Guides](#style-guides)
-    - [Git Commit Messages](#git-commit-messages)
-    - [Documentation Style Guide](#documentation-style-guide)
+* [Before getting started](#before-getting-started)
+    * [Cloning faster](#cloning-faster)
+        * [A tiny bit of background on the structure of this repo](#a-tiny-bit-of-background-on-the-structure-of-this-repo)
+        * [How to actually clone faster](#how-to-actually-clone-faster)
+            * [Preferred way](#preferred-way)
+            * [Other option](#other-option)
+    * [A few words](#a-few-words)
+* [Code of Conduct](#code-of-conduct)
+* [I don't want to read this whole thing I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
+* [How Can I Contribute?](#how-can-i-contribute)
+    * [Reporting Issues](#reporting-issues)
+        * [Before Submitting An Issue](#before-submitting-an-issue)
+        * [How Do I Submit A (Good) Issue?](#how-do-i-submit-a-good-issue)
+    * [Suggesting Enhancements](#suggesting-enhancements)
+        * [Before Submitting An Enhancement Suggestion](#before-submitting-an-enhancement-suggestion)
+        * [How Do I Submit A (Good) Enhancement Suggestion?](#how-do-i-submit-a-good-enhancement-suggestion)
+    * [Your First Contribution](#your-first-contribution)
+    * [Pull Requests](#pull-requests)
+* [Style Guides](#style-guides)
+    * [Git Commit Messages](#git-commit-messages)
+    * [Documentation Style Guide](#documentation-style-guide)
 
-## A few words
+<!-- vim-markdown-toc -->
+
+## Before getting started
+
+### Cloning faster
+
+#### A tiny bit of background on the structure of this repo
+
+At the time of this writing, cloning this repository means having to download less than ~200 MB of data. This is getting _a bit_ heavy, but this should still be very much acceptable for most users given the following constraints:
+
+- Those who end up contributing probably want most of the files anyways. What's heavy are a bunch of students notes and UoL PDFs. Adding to this, all modules are compulsory up to level 6 (therefore they are eventually useful to all students who wish to complete this degree), so we'll have figured something out by then. Modules at level 6 do not even exist right now :wink:.
+- We are trying to keep things simple so that students who are new to Git and GitHub can get some practice with forking, cloning, creating branches, submitting pull requests, etc. There are better ways to deal with large binary files, but still internet connections are fast enough these days to watch HD videos which will consume much more bandwidth than this repo, which is basically a one-time thing only.
+- By storing everything in one single repo for now, students are able to `pull` changes on their machine very easily without having to worry about missing something. From time to time, a script is executed to compress PDF files (which are the main culprits for the growing size of the repo), so that helps in a reasonable way too.
+
+#### How to actually clone faster
+
+If you already know [how to clone from the command line](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository), you'll be somewhat familiar with the following alternative (if not, you are highly encouraged to learn how to proceed as knowing Git will prove very useful to any computer science student). Without going into much details, here's what you can do to reduce the size of your clone by keeping revisions to the latest version of each file only. Your best bet should be to use `git clone --depth 1` for now.
+
+##### Preferred way
+
+If you use HTTPS (simpler way):
+
+    git clone -–depth 1 "https://github.com/world-class/REPL.git"
+
+If you use SSH (needs to be configured on GitHub):
+
+    git clone -–depth 1 "git@github.com:world-class/REPL.git"
+
+##### Other option
+
+You can also make sure to keep references only to the `master` branch to save some additional space if more branches get created. Again, use either HTTPS or SSH depending on your setup.
+
+> **Note:** Because this repo usually contains only the `master` branch, this method won't get you far in this particular instance.
+
+With HTTPS:
+
+    git clone https://github.com/world-class/REPL.git --branch master --single-branch REPL
+
+
+With SSH:
+
+    git clone git@github.com:world-class/REPL.git --branch master --single-branch REPL
+
+
+### A few words
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
@@ -43,11 +92,7 @@ This project and everyone participating in it is governed by the [REPL Code of C
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
-<!-- // TODO:
-We have an official FAQ with helpful advice if you have questions.
-
-- REPL FAQ
--->
+We have [an official FAQ](./FAQ/) with helpful advice if you have questions.
 
 If chat is more your speed, you can join the REPL Slack team:
 
