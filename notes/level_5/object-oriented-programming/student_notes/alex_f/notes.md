@@ -53,13 +53,35 @@
     - [Supplementary Reading](#supplementary-reading-5)
     - [Core Guidelines](#core-guidelines-5)
     - [CPP Reference](#cpp-reference-6)
-- [Topic 2c File Organization](#topic-2c-file-organization)
+- [Topic 2c Source File Organization](#topic-2c-source-file-organization)
   - [Class Structure and Header Files](#class-structure-and-header-files)
     - [Points to Remember](#points-to-remember-9)
     - [Key Reading](#key-reading-8)
     - [Supplementary Reading](#supplementary-reading-6)
     - [Core Guidelines](#core-guidelines-6)
     - [CPP Reference](#cpp-reference-7)
+- [Topic 3: File Handling, Input Streams, and Exceptions](#topic-3-file-handling-input-streams-and-exceptions)
+  - [File Handling](#file-handling)
+    - [Points to Remember](#points-to-remember-10)
+    - [File Modes](#file-modes)
+    - [Key Reading](#key-reading-9)
+    - [Supplementary Reading](#supplementary-reading-7)
+    - [CPP Reference](#cpp-reference-8)
+  - [Input Streams and Tokenizing](#input-streams-and-tokenizing)
+    - [Points to Remember](#points-to-remember-11)
+    - [Key Reading](#key-reading-10)
+    - [Supplementary Reading](#supplementary-reading-8)
+    - [Core Guidelines](#core-guidelines-7)
+    - [CPP Reference](#cpp-reference-9)
+  - [Exception Handling](#exception-handling)
+    - [Points to Remember](#points-to-remember-12)
+    - [Throwing an Exception](#throwing-an-exception)
+    - [Catching an Exception](#catching-an-exception)
+    - [Exception Classes](#exception-classes)
+    - [Key Reading](#key-reading-11)
+    - [Supplementary Reading](#supplementary-reading-9)
+    - [Core Guidelines](#core-guidelines-8)
+    - [CPP Reference](#cpp-reference-10)
 
 ## Intro
 
@@ -154,10 +176,10 @@ And references to the following resources:
 
 #### Points to Remember
 
-- The standard library defines 4 IO objects. `cin` and `cout` are standard input and output. `cerr` is the **standard error** stream, and `clog` is the **standard log** for execution info.
+- The standard library `<iostream>` defines 4 I/O objects. `cin` and `cout` are standard input and output. `cerr` is the **standard error** stream, and `clog` is the **standard log** for execution info.
 - Usually the system associates the streams with the window the program is executed. So data are read in and written out to the same window as program execution by default.
 - `<<` takes two operands, left operand is an output stream, right operand is a value. It returns its left-hand operand, allowing chaining.
-- Streams are buffered. *Flushing* the output stream prints it to the window immediately. You can flush with `std::endl`
+- Streams are buffered. *Flushing* the output stream prints it to the window immediately. You can flush with `std::endl` or `std::flush`
 - NB if you don't flush a statement while debugging it might be left in the buffer when the program crashes.
 - `>>` behaves like `<<` but takes an object as its right operand to store the input.
 - `>>` is type sensitive, it reads according to the type of variable you are reading into.
@@ -559,7 +581,7 @@ v1 == v2        //vectors are equal if they are the same size and each element i
 ```
 #### Member Functions
 - We define and declare member functions similarly to ordinary functions. Member functions *must* be declared within the class. They *may* be defined inside the class itself or outside the class body using the namespace: `Class::memberFunction(){};`.
-- See section on header files for usual way of declaring and defining member functions.
+- See section on [header files](#points-to-remember-9) for the usual way of declaring and defining member functions.
 - Almost always, when a member function is called, it is called on behalf of an object (an instance of the class).
 - When a member function is called an extra, implicit parameter is initialized, called `this`. `this` is a const pointer to the address of the object on which the function was evoked.
 - Inside a member function we can then refer directly to members of the object without any access operator or namespace. It will be interpreted as an implicit reference to `this`.
@@ -591,7 +613,7 @@ v1 == v2        //vectors are equal if they are the same size and each element i
 #### CPP Reference
 - [Classes](https://en.cppreference.com/w/cpp/language/classes)
 - [Default Constructor](https://en.cppreference.com/w/cpp/language/default_constructor)
-## Topic 2c File Organization
+## Topic 2c Source File Organization
 
 ### Class Structure and Header Files
 
@@ -650,3 +672,280 @@ v1 == v2        //vectors are equal if they are the same size and each element i
 - [Source file inclusion](https://en.cppreference.com/w/cpp/preprocessor/include)
 - [#pragma once](https://en.cppreference.com/w/cpp/preprocessor/impl)
 - [preprocessor conditional inclusion - `ifdef` etc](https://en.cppreference.com/w/cpp/preprocessor/conditional)
+
+## Topic 3: File Handling, Input Streams, and Exceptions
+
+### File Handling
+
+#### Points to Remember
+- In C++, a **file** is an abstraction on what the OS provides. It is a sequence of bytes numbered from 0 upwards.
+- In C++, the assumption is that these "bytes on disk" are characters in the usual character set. So by default a **file stream** interprets a sequence of bytes as a sequence of characters and converts them to objects in memory (or vice versa).
+- The `<fstream>` header defines three types to use for file IO. `ifstream` to read from a file, `ofstream` to write to a file, and `fstream` to read and write to the same file.
+- These types inherit the same operations as the standard streams `cin` and `cout`, eg `<<` and `>>`. They have the same stream states.
+- They also have custom methods for managing files, used as follows:
+
+```C++
+#include <fstream>
+#include <string>
+//using a "example.csv" file in the same directory as an example
+std::string file = "example.csv"
+
+std::ifstream inputFS; //creates an input file stream
+inputFS.open(file) //opens the file and binds it to inputFS
+
+std::ifstream inputFS2{file}; // equivalent to above, using constructor to open file
+
+inputFS.close(); //closes the file
+inputFS.is_open(); //returns true if file has been opened successfully and not closed.
+```
+
+- Once a file has been bound to a stream it must be closed before that stream can be bound to another file.
+- If the call to `open` fails, the stream `failbit` will be set, which you can use to check whether it is safe to proceed:
+
+```C++
+
+std::ifstream inputFS{"example.csv"}
+
+if(inputFS) {...} //only execute if file has opened
+
+if(inputFS.is_open()) {...} //alternative, does the same thing
+
+if(!inputFS) {error()...} //Stroustrup's preference, throw the error, then main logic is not wrapped in `if`.
+```
+- When a filestream object goes out of scope it is destroyed and `close` is called automatically.
+- When an output file is closed its buffer is flushed.
+- Opening a file implicitly using the stream constructor, and allowing the scope of the stream to close it is the ideal. (Stroustrup, *Programming*, p. 351)
+#### File Modes
+- Each stream has an associated **file mode** that represents how the file may be used.
+- The full list of file modes is:
+  - `in` - Open for input (not available on `ofstream` objects)
+  - `out` - Open for output (not available on `ifstream` objects)
+  - `app` - "append". Seek to the end of the file before every write
+  - `ate` - "at end". Seek to the end of the file immediately after open
+  - `trunc` - Truncate the file to 0 length
+  - `binary` - Do IO operations in binary mode, when the default 'char' based IO is not appropriate.
+- We can supply the file mode after the filename string when we call `open`, the mode is set again every time the file is opened.
+- NB if we open a file for output it is opened in `trunc` mode by default, so the contents are discarded:
+
+```C++
+#include <fstream>
+
+std::ofstream output{"example.csv"} //contents of "example.csv" are discarded
+
+std::ofstream output{"example.csv", std::ofstream::app} //preserves the file contents, appends to end of file
+
+std::fstream output{"example.csv"} //preserves file content, file available for input and output
+
+```
+
+#### Key Reading
+- *Primer*: Section 8.2, *File Input and Output* (pp 316 - 320)
+- *Programming*:
+  - Sections 10.3 - 10.5, *Files*, *Opening a file*, *Reading and writing a file* (pp 349 - 354)
+  - Section 11.3, *File opening and positioning* (pp 388 - 394)
+#### Supplementary Reading
+- *Tour*: Section 10.7, *File Streams* (p. 130)
+- *CPP*: Section 38.2.1, *File Streams* (pp 1076 - 1078)
+
+#### CPP Reference
+- [`<fstream>` Header](https://en.cppreference.com/w/cpp/header/fstream)
+- [Stream states](https://en.cppreference.com/w/cpp/io/ios_base/iostate)
+- [`ifstream` - File input stream](https://en.cppreference.com/w/cpp/io/basic_ifstream)
+- [`ofstream` - File output stream](https://en.cppreference.com/w/cpp/io/basic_ofstream)
+- [`fstream` - File I/O stream](https://en.cppreference.com/w/cpp/io/basic_fstream)
+- [`open` a file for input](https://en.cppreference.com/w/cpp/io/basic_ifstream/open)
+### Input Streams and Tokenizing
+#### Points to Remember
+- Remember the fundamental purpose of an IO stream is to translate between a sequence of bytes (usually) interpreted as standard [ASCII characters](https://en.cppreference.com/w/cpp/language/ascii) ('a', '3', '\n' etc) and objects in memory of any type.
+- The standard stream libraries provide two main tool-kits to do this:
+  - **Formatted operations** are recommended, they come with a lot of support for error handling and formatting built-in types.
+  - **Unformatted operations** provide lower-level control of how characters are interpreted, and should be used only if necessary, a lot of room for error.
+- **Formatted input** is provided by two main operators:
+  - ``inputStream >> x`` reads from the stream according to the type of `x`. The `>>` operator can be *overloaded* to handle user-defined types.
+  - `getline(inputStream, s)` reads a line from `inputStream` into a string `s`. It terminates on the `\n` character, discards it from the stream, and does not store it in `s`.
+- NB almost all formatted IO operations and methods return a reference to the stream so can be chained together.
+- For unformatted input operations and their challenges see eg *C++*, p. 1083.
+- `>>` will keep reading characters until it encounters a character that doesn't fit the type it is reading into. For example:
+
+```C++
+
+#include <iostream>
+#include <string>
+
+using std::string;
+using std::cin;
+
+//hypothetical input of "12345a 23.415"
+
+int x;
+string s, s2;
+double d;
+cin >> x; // x will be 12345
+// input stream will now be "a 23.415"
+cin >> s; // s will be "a", formatted string input is terminated on whitespace by default
+// input stream will now be " 23.415"
+cin >> d; // d will be "23.415", leading whitespace is ignored
+
+//alternatively read a whole line of input, input is "12345a 23.415" terminated by '\n'
+
+std::getline(cin, s2); //s2 is "12345a 23.415"
+```
+
+- On when to use `>>` and when to use `getline()` see *Programming*, pp 395 - 396.
+- Strings themselves can be used as input streams using the `<sstream>` library.
+- The unformatted version of `getline()` can be called with a delimiter as a third argument.
+- These could be combined to grab a line from a CSV file as a string, and then use that line as a input stream for parsing with the `,` separator (bit fiddly though and no error handling, better ways of doing this, you'd have to use character level manipulation to handle the `,` in places). Shown as an example of mixing formatted and unformatted input methods:
+
+```C++
+#include <iostream>
+#include <string>
+#include <sstream>
+
+using std::string;
+
+    string s = "Bob,Jones,32,5"; //line from csv, result of calling getline() on the csv file stream
+
+    std::istringstream stringStream{s}; //stringStream is now an input stream consisting of s.
+
+    string firstName,
+        secondName;
+    int age, children;
+
+    getline(stringStream, firstName, ',');  //terminates on ',' and discards
+    getline(stringStream, secondName, ','); //NB preserves any leading whitespace
+    stringStream >> age;                    //gets last value, ignores trailing ',' but would put back on stream
+    stringStream.ignore(1, ',');            //ignores single character
+    stringStream >> children;
+
+```
+- NB a lot of formatting methods are more useful for output processing than input, this is covered later.
+
+
+#### Key Reading
+- *Programming*:
+  - Chapter 6 is an extended deep dive on approaching handling input by building a command line calculator, implementing a custom `Token` class for tokenization. A very different approach to the UoL module, worth following through.
+  - Chapters 10 and 11 are also deep dives into I/O. Sections particularly relevant are:
+    - Section 10.6, *I/O error handling* (pp 354 - 358)
+    - Section 10.7, *Reading a single value* (pp 358 - 363)
+    - Sections 10.9, 10.10, and 10.11, *User-defined input operators*, *A standard input loop*, and *Reading a structured file* (pp 365 - 376)
+    - Section 11.1, *Regularity and Irregularity* (p. 380)
+    - Sections 11.4 - 11.7, *String Streams*, *Line-oriented input*, *Character classificaitons*, *Using nonstandard separators*
+- *Primer*: Section 17.5.1 and 17.4.2, *Formatted and unformatted Input/Output operations* (pp 753 - 763) (includes stuff on formatting output not relevant here)
+
+#### Supplementary Reading
+- *C++*:
+  - Section 38.4.1, *Input Operations* (pp 1081 - 1084)
+  - Section 38.6, *Buffering* (pp 1100 - 1105)
+- *Primer*: Section 8.3, *String Streams* (pp 321 - 323)
+- *Programming*:
+  - Section B.7.3, *Input Operations* (p. 1172)
+  - Section B.8.1, *Character Classification* (p. 1175)
+
+#### Core Guidelines
+- [Use character level input only when necessary](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rio-low)
+- [Always handle ill-formed input](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rio-validate)
+
+#### CPP Reference
+- [`>>` Operator](https://en.cppreference.com/w/cpp/io/basic_istream/operator_gtgt)
+- [getline() Template](https://en.cppreference.com/w/cpp/string/basic_string/getline)
+- [ASCII Chart](https://en.cppreference.com/w/cpp/language/ascii)
+
+### Exception Handling
+#### Points to Remember
+- An **exception** is a run-time anomaly, such as losing a database connection or receiving bad input, that is outside the normal functioning of a program. Managing exceptions is one of the hardest parts of program design.
+- **Exception handling** allows separately developed parts of a program to communicate about and handle problems that occur at run time, separating problem detection from detection resolution.
+- This is valuable, because the detecting part might not be best placed to decide how to resolve the situation.
+- There are three main building blocks in C++ for exception handling:
+  - **`throw` expressions** which the detecting part uses to signal that it encountered a problem. A `throw` **raises** an exception.
+  - **`try` blocks** which the handling part uses to deal with an exception. Also referred to as **exception handlers**. They consist of the `try` keyword followed by one or more `catch` clauses.
+  - A set of **exception classes** that hare used to pass information about what happened from a `throw` to an associated `catch`.
+- Error handling in general is a huge topic. On when to use exceptions and when to use other tools, see *Tour*, p. 39.
+- It is also strongly linked to safe resource management, see the discussion of *RAII (Resource Acquisition Is Initialization)* in *Tour*, p. 72.
+#### Throwing an Exception
+
+- When a function detects a problem it *throws* or *raises* an exception using the [`throw` keyword](https://en.cppreference.com/w/cpp/language/throw), followed by an expression. The type of the expression determines what kind of exception is thrown. For example:
+
+```C++
+if(varA != varB)
+  throw runtime_error("Your variables don't match!");
+else
+  //all is fine, normal logic
+```
+- When a `throw` is executed, any statements following the `throw` are not executed, instead control is transferred to a matching `catch` block (if any). The catch might be local to the same function or a direct or indirect caller. So think of `throw` as like a `return` statement.
+- After an exception has been thrown, the current function is suspended and the search for a matching catch clause by **unwinding** the execution stack, looking up the chain of nested function calls until a `catch` clause for the exception is found.
+- If a matching `catch` is found, that `catch` is entered and the program executes the code inside. It then continues execution immediately after the last `catch` clause associated with that try block.
+- If no matching `catch` is found the program calls the library `terminate` function, and excecution is stopped. Precise behaviour of `terminate` is system-dependent.
+- Because normal execution is halted immediately an exception is thrown:
+  - Functions along the chain may be prematurely exited
+  - Objects are automatically destroyed during stack unwinding
+  - Where objects have a destructor, those are executed automatically
+  - If thrown during a constructor, the object will be destroyed
+  - If thrown during the creation of a container (eg vector), the container will be destroyed.
+  - This is why we use constructors to allocate resources rather than doing it manually, to ensure proper destruction.
+- Programs that properly clean up during exception handling and avoid resource leaks etc are called **exception safe**.
+- Sometimes a single `catch` might not completely handle an exception, it can **re-throw** the exception by using the `throw` keyword with no following expression: `throw;`it can modify the exception object (by reference) before the re-throw.
+
+#### Catching an Exception
+- The general form of a [try/catch block](https://en.cppreference.com/w/cpp/language/try_catch) is:
+
+```C++
+try {
+  //program logic
+  //NB varibles declared here are inaccessible within catch blocks
+} catch (exception-declaration) {
+  //handler-statements
+} catch (exception-declaration) {
+  //handler-statements
+} //program continues...
+```
+
+- The **exception declaration** in a catch clause looks like a function parameter list with exactly one parameter, the type of the declaration determines what kinds of exceptions the handler can catch.
+- Ordinarily a catch takes an exception type by reference.
+- The catch that is found, going up the execution stack and through the list of catch blocks at each level, is the first one that matches the exception at all.
+- So generally write specialized catch blocks first, before more general ones.
+- You can catch all exceptions as follows: `catch (...) {//handle anything}`. Any `catch` statements following this in a block will never be matched. Often used to do some tidying and then rethrow.
+
+#### Exception Classes
+
+- The C++ library defines several classes it uses to report problems that can be used in our programs. Several key ones are defined in the `<stdexcept>` header.
+- These include `runtime_error`, `range_error`, `invalid_argument`, see *Primer*, p. 197 for full list.
+- Library exception classes have only a few operations, you can create, copy and assign objects of any of the types.
+- Most of the exception types *must* be initialized from a string containing more info. IE `runtime_error()` would error, no default initializer, but `runtime_error("my error message")` is OK.
+- The exception types define a single operation named `what`, that takes no arguments and returns a C-string with info on the exception thrown. Often the intializer string if applicable. eg:
+
+```C++
+catch (runtime_error& e) {
+  cout << e.what() << '\n';
+}
+```
+- It is possible to define your own exception types, freestanding or inheriting from the standard library types. For discussion and examples see *Primer*, pp 782 - 784.
+#### Key Reading
+
+- *Primer*:
+  - Section 5.6, *Try Blocks and Exception Handling* (pp 193 - 198)
+  - Section 18.1, *Exception Handling* (pp 772 - 785)
+- *Programming*:
+  - Section 5.5, *Run-time errors* (pp 140 - 146)
+  - Section 5.6, *Exceptions* (pp 146 - 154)
+
+#### Supplementary Reading
+- *Tour*:
+  - Section 3.5, *Error Handling* (pp 35 - 40)
+- *C++*: Chapter 13, *Exception Handling* (pp 343 - 387).
+  - Very deep dive, see especially:
+    - Section 13.5, *Throwing and Catching Exceptions*, pp 363 - 374
+    - *Advice*, p. 387
+    - *Traditional Error Handling*, pp 345 - 346
+    - *Exception Guarantees*, pp 353 - 354
+#### Core Guidelines
+- [Error Handling](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-errors)
+- [Throw an exception to indicate a function cannot complete its task](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Re-throw)
+- [Design error handling around *invariants*](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Re-design-invariants)
+- [Use RAII to avoid resource leaks](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Re-raii)
+- [Properly order your catch clauses](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Re_catch)
+
+#### CPP Reference
+- [Exceptions overview](https://en.cppreference.com/w/cpp/language/exceptions)
+- [Exception types](https://en.cppreference.com/w/cpp/error/exception)
+- [`throw` expression](https://en.cppreference.com/w/cpp/language/throw)
+- [`try` block](https://en.cppreference.com/w/cpp/language/try_catch)
