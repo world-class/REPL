@@ -7,6 +7,7 @@
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
+    * [Complementary learning](#complementary-learning)
     * [On REPL](#on-repl)
     * [Notes](#notes)
     * [Syllabus](#syllabus)
@@ -45,6 +46,10 @@ Coursework only (Type II)
 
 
 # Resources
+
+## Complementary learning
+
+- [Binary Data Representation](http://web.cecs.pdx.edu/~harry/videos-binary/) - Prof. Harry H. Porter III, Ph.D., Portland State University.
 
 ## On REPL
 
