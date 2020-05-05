@@ -13,16 +13,16 @@ data science.
 
 ### Topics covered
 
-- Introduction and development environment
-- Working with different types of data
-- Correlation and regression
-- Distributions and significance
-- Processing text data
-- Decision making based on data analysis: from correlation to causation
-- Introduction to data visualisation
-- Time-series data visualisation
-- Scientific data visualisation
-- Case studies: different contexts for data analysis
+* Introduction and development environment
+* Working with different types of data
+* Correlation and regression
+* Distributions and significance
+* Processing text data
+* Decision making based on data analysis: from correlation to causation
+* Introduction to data visualisation
+* Time-series data visualisation
+* Scientific data visualisation
+* Case studies: different contexts for data analysis
 
 ### Assessment
 

@@ -14,16 +14,16 @@ contemporary graphical software for different applications.
 
 ### Topics covered
 
-- Overview of 3D Graphics and mathematics for graphics
-- 3D Models and Transforms
-- Physics simulation
-- Keyframe Animation
-- Character Animation
-- Rendering and the Graphics Pipeline
-- Lighting, Materials and Texturing
-- Shader Programming
-- Vertex Shaders
-- Fragment Shaders
+* Overview of 3D Graphics and mathematics for graphics
+* 3D Models and Transforms
+* Physics simulation
+* Keyframe Animation
+* Character Animation
+* Rendering and the Graphics Pipeline
+* Lighting, Materials and Texturing
+* Shader Programming
+* Vertex Shaders
+* Fragment Shaders
 
 ### Assessment
 

@@ -15,16 +15,16 @@ the perspective of different populations.
 
 ### Topics covered
 
-- History of HCI.
-- Usability and Principles of design.
-- User-centred design techniques.
-- Evaluation of interaction design.
-- Evaluation of interaction design part 2
-- Designing for different users.
-- Design case studies.
-- Design case studies part 2
-- Tools and techniques that support interaction development.
-- Current trends in interaction design and HCI.
+* History of HCI.
+* Usability and Principles of design.
+* User-centred design techniques.
+* Evaluation of interaction design.
+* Evaluation of interaction design part 2
+* Designing for different users.
+* Design case studies.
+* Design case studies part 2
+* Tools and techniques that support interaction development.
+* Current trends in interaction design and HCI.
 
 ### Assessment
 

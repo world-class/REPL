@@ -12,15 +12,15 @@ expect when you do it yourself.
 
 ## Table of Contents
 
-- [Applying to the University of London Bachelors of Computer Science degree (UoL)](#applying-to-the-university-of-london-bachelors-of-computer-science-degree-uol)
-  - [Table of Contents](#table-of-contents)
-  - [Administrative Information: Admissions Process and Requirements](#administrative-information-admissions-process-and-requirements)
-    - [English Requirements for Non-English Speaking Countries](#english-requirements-for-non-english-speaking-countries)
-    - [Documents and Statement to Prepare for Application](#documents-and-statement-to-prepare-for-application)
-  - [Application Process](#application-process)
-  - [Recognition of Prior Learning (RPL) Application](#recognition-of-prior-learning-rpl-application)
-  - [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
-  - [Additional Resources](#additional-resources)
+* [Applying to the University of London Bachelors of Computer Science degree (UoL)](#applying-to-the-university-of-london-bachelors-of-computer-science-degree-uol)
+  * [Table of Contents](#table-of-contents)
+  * [Administrative Information: Admissions Process and Requirements](#administrative-information-admissions-process-and-requirements)
+    * [English Requirements for Non-English Speaking Countries](#english-requirements-for-non-english-speaking-countries)
+    * [Documents and Statement to Prepare for Application](#documents-and-statement-to-prepare-for-application)
+  * [Application Process](#application-process)
+  * [Recognition of Prior Learning (RPL) Application](#recognition-of-prior-learning-rpl-application)
+  * [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
+  * [Additional Resources](#additional-resources)
 
 ## Administrative Information: Admissions Process and Requirements
 
@@ -155,7 +155,7 @@ RPL has taken a month, UoL admissions has taken longer than the 5 days they aim 
 
 ## Additional Resources
 
-- [UoL Facebook](https://www.facebook.com/LondonU/?ref=br_rs)
-- [UoL Twitter](https://twitter.com/LondonU)
-- [UoL Unofficial Students' Discord](https://discord.gg/zDpffJQ)
-- Do keep a look out for UoL's virtual open day if you're curious to learn more and speak to representatives for more information.
+* [UoL Facebook](https://www.facebook.com/LondonU/?ref=br_rs)
+* [UoL Twitter](https://twitter.com/LondonU)
+* [UoL Unofficial Students' Discord](https://discord.gg/zDpffJQ)
+* Do keep a look out for UoL's virtual open day if you're curious to learn more and speak to representatives for more information.

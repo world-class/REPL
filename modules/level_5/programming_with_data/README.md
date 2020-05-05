@@ -2,9 +2,10 @@
 
 # Table of contents
 
-- [Programming with Data](#programming-with-data)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
+* [Table of contents](#table-of-contents)
+* [Programming with Data](#programming-with-data)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
 
 ---
 
@@ -19,16 +20,16 @@ that is well-adapted to languages for these applications.
 
 # Topics covered
 
-- Setting up the programming environment
-- Control structures, functions and comprehensions
-- Data-driven programming
-- Visualising data
-- Descriptive statistics
-- Getting data
-- Processing data: cleaning, normalizing, and scaling
-- Classification with K-nearest neighbours
-- Bayes' theorem and naïve Bayes classification
-- Clustering
+* Setting up the programming environment
+* Control structures, functions and comprehensions
+* Data-driven programming
+* Visualising data
+* Descriptive statistics
+* Getting data
+* Processing data: cleaning, normalizing, and scaling
+* Classification with K-nearest neighbours
+* Bayes' theorem and naïve Bayes classification
+* Clustering
 
 # Assessment
 

@@ -16,16 +16,16 @@ application configuration and deployment.
 
 ### Topics covered
 
-- The web stack: clients, web servers and databases
-- Advanced features of HTML, CSS and Templates
-- Deploy a website
-- Basic databases and data schemas for a website
-- Build a CRUD/ RESTFul API
-- Build a CRUD/ RESTFul API pt 2
-- Build a websocket server
-- User authentication and security
-- Working with external APIs
-- Scalability
+* The web stack: clients, web servers and databases
+* Advanced features of HTML, CSS and Templates
+* Deploy a website
+* Basic databases and data schemas for a website
+* Build a CRUD/ RESTFul API
+* Build a CRUD/ RESTFul API pt 2
+* Build a websocket server
+* User authentication and security
+* Working with external APIs
+* Scalability
 
 ### Assessment
 

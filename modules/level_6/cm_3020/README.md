@@ -12,16 +12,16 @@ problems such as game playing and decision making.
 
 ### Topics covered
 
-- Historical overview of Artificial Intelligence.
-- Intelligent agents and environments (Part 1)
-- Intelligent agents and environments (Part 2)
-- Problem solving
-- Knowledge representation, ontologies
-- Uncertain knowledge and reasoning under uncertainty.
-- Games and optimal decisions in games (Part 1)
-- Games and optimal decisions in games (Part 2)
-- Robotics
-- Advanced Topics in AI
+* Historical overview of Artificial Intelligence.
+* Intelligent agents and environments (Part 1)
+* Intelligent agents and environments (Part 2)
+* Problem solving
+* Knowledge representation, ontologies
+* Uncertain knowledge and reasoning under uncertainty.
+* Games and optimal decisions in games (Part 1)
+* Games and optimal decisions in games (Part 2)
+* Robotics
+* Advanced Topics in AI
 
 ### Assessment
 

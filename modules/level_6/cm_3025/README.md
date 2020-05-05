@@ -17,16 +17,16 @@ building social VR experiences with interactive virtual characters.
 
 ### Topics covered
 
-- Introduction to Virtual Reality: History of VR, VR Hardware and applications
-- Presence: the three illusions of VR
-- 3D graphics for VR
-- Immersive Sound for VR
-- Interaction Design in VR
-- Navigation
-- Object Interaction and physics
-- Virtual Characters
-- Social VR
-- Developing a VR project
+* Introduction to Virtual Reality: History of VR, VR Hardware and applications
+* Presence: the three illusions of VR
+* 3D graphics for VR
+* Immersive Sound for VR
+* Interaction Design in VR
+* Navigation
+* Object Interaction and physics
+* Virtual Characters
+* Social VR
+* Developing a VR project
 
 ### Assessment
 

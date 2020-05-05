@@ -1,17 +1,16 @@
 [Go back to the main page](../../../README.md)
 
 # Table of contents
-<!-- vim-markdown-toc GFM -->
 
+* [Table of contents](#table-of-contents)
 * [Databases, Networks and the Web](#databases-networks-and-the-web)
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
-    * [Notes](#notes)
-    * [Websites](#websites)
-    * [Syllabus](#syllabus)
+  * [Notes](#notes)
+  * [Websites](#websites)
+  * [Syllabus](#syllabus)
 
-<!-- vim-markdown-toc -->
 ---
 
 # Databases, Networks and the Web
@@ -28,16 +27,16 @@ communication.
 
 # Topics covered
 
-- Networking concepts
-- Building Simple socket clients and servers
-- Building an HTTP server
-- Generating web pages from data using templates
-- Relational Databases
-- Querying a database
-- Representing data in a database
-- Representing data in a database pt 2
-- Revision of HTML and CSS
-- Building a dynamic website
+* Networking concepts
+* Building Simple socket clients and servers
+* Building an HTTP server
+* Generating web pages from data using templates
+* Relational Databases
+* Querying a database
+* Representing data in a database
+* Representing data in a database pt 2
+* Revision of HTML and CSS
+* Building a dynamic website
 
 # Assessment
 
@@ -47,14 +46,13 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Notes
 
-- [student_notes/arjun_muralidharan/CM2040_DNW_Summary.pdf](../../../notes/level_5/databases-networks-and-the-web/student_notes/arjun_muralidharan/CM2040_DNW_Summary.pdf)
-- [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/databases-networks-and-the-web/student_notes/felipe_balbi/notes.pdf)
+* [student_notes/arjun_muralidharan/CM2040_DNW_Summary.pdf](../../../notes/level_5/databases-networks-and-the-web/student_notes/arjun_muralidharan/CM2040_DNW_Summary.pdf)
+* [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/databases-networks-and-the-web/student_notes/felipe_balbi/notes.pdf)
 
 ## Websites
 
-- [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/)
-
+* [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/)
 
 ## Syllabus
 
-- [Syllabus PDF (April 2020)](./DNW-Syllabus.pdf)
+* [Syllabus PDF (April 2020)](./DNW-Syllabus.pdf)

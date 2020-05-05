@@ -12,15 +12,15 @@ that work with live camera input.
 
 ### Topics covered
 
-- Capturing representing and processing audio signals
-- LTI systems and impulse responses
-- Frequency domain representations
-- Extracting features from signals
-- Speech recognition
-- Capturing, representing and processing camera input
-- Computer vision: movement detection
-- Computer vision: face detection
-- Compressing signals
+* Capturing representing and processing audio signals
+* LTI systems and impulse responses
+* Frequency domain representations
+* Extracting features from signals
+* Speech recognition
+* Capturing, representing and processing camera input
+* Computer vision: movement detection
+* Computer vision: face detection
+* Compressing signals
 
 ### Assessment
 
