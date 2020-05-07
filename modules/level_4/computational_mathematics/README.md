@@ -55,6 +55,9 @@ One two hour unseen written examination and coursework (Type I)
 * [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-3_Lecture.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-3_Lecture.pdf)
 * [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-3_Reading.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-3_Reading.pdf)
 * [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-4_Lecture.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-4_Lecture.pdf)
+* [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-5_Lecture.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-5_Lecture.pdf)
+* [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-5_Reading.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-5_Reading.pdf)
+* [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-6_Lecture.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-6_Lecture.pdf)
 
 ### Numerical Mathematics (earlier iteration of the module)
 
