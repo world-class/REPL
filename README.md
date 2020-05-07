@@ -280,7 +280,7 @@ following modules.</p>
 <tr>
 <td><a href="modules/level_6/cm_3005">Data Science</a></td>
 <td><strong>CM3005</strong></td>
-<td>No</td>
+<td>Yes</td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3010">Databases and Advanced Data Techniques</a></td>
