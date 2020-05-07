@@ -35,6 +35,7 @@
 # Artificial intelligence
 
 * [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai) - _"Artificial Intelligence podcast (AI podcast) is a series of conversations about technology, science, and the human condition hosted by Lex Fridman."_
+* [Brain Inspired](https://braininspired.co/podcast/) - _"Where neuroscience and artificial intelligence converge."_
 
 # Computer science
 
