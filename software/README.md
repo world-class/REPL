@@ -240,6 +240,7 @@
 * :star: [List of free graphics software](https://en.wikipedia.org/wiki/Category:Free_graphics_software)
 * Graphic art & Office suite
   * :star: [Calligra](https://www.calligra.org)
+  * :star: [SoftOrbits](https://www.softorbits.com)
   * :cloud: :star: [draw.io](https://www.draw.io) (Linux, macOS, Windows, Browser, ChromeOS) - _"Create flow charts, process diagrams, org charts, UML diagrams, ER models, network diagrams, and much more."_ (from [draw.io](https://www.draw.io))
 
 ### IDE (Integrated Development Environment)
