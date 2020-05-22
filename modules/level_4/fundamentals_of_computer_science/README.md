@@ -47,6 +47,7 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Complementary learning
 
+* Highly recommended for week 7 onwards: [lectures](https://web.cs.ucdavis.edu/~rogaway/classes/120/spring14/) and [videos](https://www.cs.ucdavis.edu/~rogaway/classes/120/fall12/lectures.html) from Prof. Michael Harrison.
 * [Context-free grammar tool](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/tools/cfg/)
 * [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html)
 * [Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
