@@ -319,8 +319,9 @@
 ## C&#43;&#43;
 
 * Beginner
-  * [C++ Object Oriented Programming Video Tutorial](https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq)
+  * [C++ Object Oriented Programming Video Tutorial](https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq) - Playlist by LearningLad
   * [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) [4h01m] - freeCodeCamp.org
+  * [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Playlist by The Cherno
 
 ## JavaScript
 

@@ -2,12 +2,12 @@
 
 # Table of contents
 
-* [Table of contents](#table-of-contents)
 * [Object-Oriented Programming](#object-oriented-programming)
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
   * [Complementary learning](#complementary-learning)
+    * [C&#43;&#43;](#c)
   * [On REPL](#on-repl)
   * [Notes](#notes)
   * [Syllabus](#syllabus)
@@ -48,6 +48,9 @@ Coursework only (Type II)
 ## Complementary learning
 
 * [Binary Data Representation](http://web.cecs.pdx.edu/~harry/videos-binary/) - Prof. Harry H. Porter III, Ph.D., Portland State University.
+
+### C&#43;&#43;
+  * [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Playlist by The Cherno
 
 ## On REPL
 
