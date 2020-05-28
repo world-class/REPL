@@ -153,6 +153,7 @@
 * [CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I) - CS50
 * [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) - Traversy Media
 * [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) (playlist) - Corey Schafer
+* [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) - freeCodeCamp.org
 * [GitHub Basics Tutorial - How to Use GitHub](https://www.youtube.com/watch?v=x0EYpi38Yp4) - freeCodeCamp.org
 
 # Graphic design

@@ -36,6 +36,14 @@ REPL Team
 
 ## Before getting started
 
+### How to use Git/GitHub?
+
+Here are a couple of places where you will find useful resources:
+
+* https://github.com/world-class/REPL/blob/master/websites/README.md#git--github
+* https://github.com/world-class/REPL/blob/master/youtube/README.md#git--github
+* https://github.com/world-class/REPL/tree/master/online_courses/free#git--github
+
 ### Cloning faster
 
 #### A tiny bit of background on the structure of this repo
