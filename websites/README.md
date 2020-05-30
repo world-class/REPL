@@ -362,8 +362,8 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 ## App monitoring
 
-* :heavy*dollar_sign: [Datadog](https://www.datadoghq.com) - *"Modern monitoring & analytics. See inside any stack, any app, at any scale, anywhere."\_
-* :heavy*dollar_sign: [Dynatrace](https://www.dynatrace.com/solutions/application-monitoring) - *"Dynatrace application monitoring provides all performance metrics in real time and detects and diagnoses problems automatically."\_
+* :heavy_dollar_sign: [Datadog](https://www.datadoghq.com) - *"Modern monitoring & analytics. See inside any stack, any app, at any scale, anywhere."\_
+* :heavy_dollar_sign: [Dynatrace](https://www.dynatrace.com/solutions/application-monitoring) - *"Dynatrace application monitoring provides all performance metrics in real time and detects and diagnoses problems automatically."\_
 * [Uptime Robot](https://uptimerobot.com) - _"Downtime Happens. Get Notified! 50 Monitors, Checked Every 5 Minutes, Totally Free!"_
 
 ## Basics
