@@ -386,8 +386,8 @@
 
 ## Support & Operations
 
-* :black_square_button: [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) *"The program will introduce you to troubleshooting, customer service, networking, operating systems, system administration and security."\_
-* [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) *"Automate tasks by writing Python scripts. Use Git and GitHub for version control. Manage IT resources at scale, both for physical machines and virtual machines in the cloud. Analyze real-world IT problems and implement the appropriate strategies to solve those problems."\_
+* :black_square_button: [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) _"The program will introduce you to troubleshooting, customer service, networking, operating systems, system administration and security."_
+* [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) _"Automate tasks by writing Python scripts. Use Git and GitHub for version control. Manage IT resources at scale, both for physical machines and virtual machines in the cloud. Analyze real-world IT problems and implement the appropriate strategies to solve those problems."_
 
 ## Web development
 
