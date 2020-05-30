@@ -491,8 +491,9 @@
 See also [Graphics software](#graphics-software).
 
 * [Adobe XD](https://www.adobe.com/products/xd.html) - _"Wireframe, design, prototype, present, and share amazing experiences for web, mobile, voice, and more — all in one app. XD is made for designers, creative teams, and organizations that need to design at scale. It’s everything you need to work more efficiently, collaborate effortlessly, and create and manage your design system."_
-* :heavy*dollar_sign: [Balsamiq](https://balsamiq.com) - *"With Balsamiq Wireframes, anyone can design great user interfaces."\_
-* :cloud: [Figma](https://www.figma.com) - _"A better way to design. Design, prototype, and gather feedback all in one place."_ **(free for individuals, with limitations)**
+* :heavy*dollar_sign: [Balsamiq](https://balsamiq.com) - _"With Balsamiq Wireframes, anyone can design great user interfaces."_
+* [Figma](https://www.figma.com) - _"A better way to design. Design, prototype, and gather feedback all in one place."_ **(free for individuals, with limitations)**
+* [Whimsical](https://whimsical.com) - _"Communicate visually at the speed of thought. Flowcharts, Wireframes, Sticky Notes, Mind Maps."_ **(free for individuals, with limitations)**
 
 ### Version control system
 
