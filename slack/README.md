@@ -4,19 +4,19 @@
 
 # Table of contents
 
-* [Slack](#slack)
-* [Table of contents](#table-of-contents)
-  * [Resources](#resources)
-    * [Channels](#channels)
-      * [Fun channels](#fun-channels)
-      * [Help and resources](#help-and-resources)
-      * [Modules level 4](#modules-level-4)
-      * [Modules level 5](#modules-level-5)
-      * [Specialisms](#specialisms)
-    * [How to use Slack](#how-to-use-slack)
-  * [For developers & contributors](#for-developers--contributors)
-    * [Slack Onboarding](#slack-onboarding)
-      * [Slack Onboarding Workflow ('Slack Tutor')](#slack-onboarding-workflow-slack-tutor)
+* [Resources](#resources)
+  * [Channels](#channels)
+    * [All cohorts](#all-cohorts)
+    * [Fun channels](#fun-channels)
+    * [Help and resources](#help-and-resources)
+    * [Modules level 4](#modules-level-4)
+    * [Modules level 5](#modules-level-5)
+    * [Modules level 6](#modules-level-6)
+    * [Specialisms](#specialisms)
+  * [How to use Slack](#how-to-use-slack)
+* [For developers & contributors](#for-developers--contributors)
+  * [Slack Onboarding](#slack-onboarding)
+    * [Slack Onboarding Workflow ('Slack Tutor')](#slack-onboarding-workflow-slack-tutor)
 
 ## Resources
 
@@ -24,20 +24,31 @@
 
 Don't forget to check out the right channels on Slack that will be best suited to help you!
 
+#### All cohorts
+
+There is a channel available for each new cohort:
+
+- `firstcohort` (private) - `april2019batcharchive` (archive)
+- `october2019batch`
+- `april2020batch`
+- ...
+
 #### Fun channels
 
-| Channel          | Purpose                                                                                                                                     |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| `#hackathons`    | Organise coding challenges                                                                                                                  |
-| `#hacking`       | Ethical hacking / general InfoSec stuff                                                                                                     |
-| `#introductions` | Introduce yourself to your new course mates                                                                                                 |
-| `#journal-club`  | Read and discuss research papers                                                                                                            |
-| `#memes`         | Share all the dank memes                                                                                                                    |
-| `#music`         | Off topic discussion about music                                                                                                            |
-| `#pets`          | For a bit of furry, feathery or scaly relief                                                                                                |
-| `#photography`   | Share your favorite photos and view those from others                                                                                       |
-| `#random`        | A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels |
-| `#uol_game-jam`  | Group for organising game jams                                                                                                              |
+| Channel            | Purpose                                                                                                                                     |
+| ----------------   | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| `#hackathons`      | Organise coding challenges                                                                                                                  |
+| `#hacking`         | Ethical hacking / general InfoSec stuff                                                                                                     |
+| `#introductions`   | Introduce yourself to your new course mates                                                                                                 |
+| `#journal-club`    | Read and discuss research papers                                                                                                            |
+| `#memes`           | Share all the dank memes                                                                                                                    |
+| `#music`           | Off topic discussion about music                                                                                                            |
+| `#pets`            | For a bit of furry, feathery or scaly relief                                                                                                |
+| `#photography`     | Share your favorite photos and view those from others                                                                                       |
+| `#polyglots`       | If you are into learning languages other than programming ones                                                                              |
+| `#random`          | A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels |
+| `#today-i-learned` | Share briefly what you learned today                                                                                                        |
+| `#uol_game-jam`    | Group for organising game jams                                                                                                              |
 
 #### Help and resources
 
@@ -48,12 +59,13 @@ Don't forget to check out the right channels on Slack that will be best suited t
 | `#bookworm`                   | What the great minds of this world are reading                                                                                                                                                                                                            |
 | `#bugs`                       | When you see a bug, report it here so we can all collectively flag it and speed up the process of cleaning up the course content                                                                                                                          |
 | `#channel-discovery`          | Find great new channels related to our degree                                                                                                                                                                                                             |
-| `#cs-professionals`           | Gathering for professionals from computer science & engineering industry                                                                                                                                                                                  |
+| `#cs-professionals`           | Gathering for professionals from computer science & engineering industry                                                                                                                                                                                                                                                                                                     |
 | `#entrepreneurs`              | A channel for entrepreneurs or wannabe entrepreneurs to collaborate and help each other                                                                                                                                                                   |
 | `#free-stuff`                 | Free stuff to share with others. How have you used your student card etc?                                                                                                                                                                                 |
 | `#functional`                 | Since functional programming is becoming kind of a mandatory skill in many companies and since it is not easy to be good at it, maybe we want to share thoughts, links, ideas, know-how, blogs, presentations, designs, patterns etc.                     |
 | `#general`                    | This channel is for workspace-wide communication and announcements. All members are in this channel.                                                                                                                                                      |
 | `#job_opportunities`          | To share IT job opportunities                                                                                                                                                                                                                             |
+| `#latex`                      | Share examples and ask questions about the LaTeX typesetting system                                                                                                                                                                                       |
 | `#linux`                      | A channel for Linux related discussions                                                                                                                                                                                                                   |
 | `#live-sessions`              | Study in live sessions with your peers, making the most of our collective intelligence                                                                                                                                                                    |
 | `#maths`                      | To share interesting math problems                                                                                                                                                                                                                        |
@@ -63,12 +75,14 @@ Don't forget to check out the right channels on Slack that will be best suited t
 | `#open_source_collaborations` | For UoL students to collaborate together on projects they may want to use for portfolios or building future businesses                                                                                                                                    |
 | `#pair-programming`           | Find partners to work with on programming problems                                                                                                                                                                                                        |
 | `#podcasts`                   | Listen your way to success while being entertained                                                                                                                                                                                                        |
+| `#repl`                       | Shaping the future of the REPL with a flow of ideas                                                                                                                                                                                                                                                                                                     |
 | `#resources`                  | Post useful learning resources here                                                                                                                                                                                                                       |
-| `#rpl-hcw-google-it`          | For discussing Google IT professional Certificate                                                                                                                                                                                                         |
 | `#reviewexchange`             | For those that need a peer review to review each other                                                                                                                                                                                                    |
+| `#rpl-hcw-google-it`          | For discussing Google IT professional Certificate                                                                                                                                                                                                         |
 | `#studytips_and_tools`        | Share study tips, methods, apps that might help others                                                                                                                                                                                                    |
 | `#teachyourselfcs`            | Discussions related to the roadmap provided by teachyourselfcs.com, Find Resources on https://teachyourselfcs-uol.btofficiel.now.sh                                                                                                                       |
-| `#vent`                       | We know that sometimes, you need to let off steam. Instead of cluttering other channels, it makes more sense to have a dedicated channel to just venting                                                                                                  |
+| `#vent`                       | We know that sometimes, you need to let off steam. Instead of cluttering other channels, it makes more sense to have a dedicated channel to just venting                                                                                                                           |
+| `#webinars`                   | Automatic announcements for upcoming webinars                                                                                                                                                                                                                                      |
 
 All channels starting with `#asg` for **Accountable Study Groups**.
 
@@ -91,10 +105,20 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 | Channel                               | Module name                                                                                         |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| `#cm2005-object-oriented-programming` | [Object Oriented Programming](../modules/level_5/object_oriented_programming)                       |
+| `#cm2030-graphics-programming`        | [Graphics Programming](../modules/level_5/graphics_programming)                                     |
 | `#cm2035-algos-data-ii`               | [Algorithms and data structures II](../modules/level_5/algorithms_and_data_structures_ii/README.md) |
 | `#cm2040-databases-networks-web`      | [Databases, Networks and the Web](../modules/level_5/databases_networks_and_the_web)                |
-| `#cm2030-graphics-programming`        | [Graphics Programming](../modules/level_5/graphics_programming)                                     |
-| `#cm2005-object-oriented-programming` | [Object Oriented Programming](../modules/level_5/object_oriented_programming)                       |
+
+#### Modules level 6
+
+| Channel                                        | Module name                                                                                         |
+| -------------------------------------          | --------------------------------------------------------------------------------------------------- |
+| `#cm3005-data-science`                         | [Data Science](../modules/level_6/cm_3005)                                                          |
+| `#cm3015-machine-learning-and-neural-networks` | [Machine Learning and Neural Networks](../modules/level_6/cm_3015)                                  |
+| `#cm3020-artificial-intelligence`              | [Artificial Intelligence](../modules/level_6/cm_3020)                                               |
+| `#cm3035-adv-web-dev`                          | [Advanced Web Development](../modules/level_6/cm_3035)                                              |
+| `#cm3055-interaction-design`                   | [Interaction Design](../modules/level_6/cm_3055)                                                    |
 
 #### Specialisms
 
