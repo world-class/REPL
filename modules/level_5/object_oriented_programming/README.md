@@ -6,6 +6,7 @@
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
+  * [Class diagram of starter code](#class-diagram-of-starter-code)
   * [Complementary learning](#complementary-learning)
     * [C&#43;&#43;](#c)
   * [On REPL](#on-repl)
@@ -44,6 +45,10 @@ documentation.
 Coursework only (Type II)
 
 # Resources
+
+## Class diagram of starter code
+
+![class diagram of starter code](./resources/class_diagram_starter_code.png)
 
 ## Complementary learning
 
