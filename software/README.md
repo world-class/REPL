@@ -459,6 +459,10 @@
 * [Snipping Tool](https://support.microsoft.com/en-us/help/13776/windows-10-use-snipping-tool-to-capture-screenshots) (Windows)
 * :star: [Spectacle (KDE)](https://kde.org/applications/utilities/org.kde.spectacle) (Linux)
 
+### Source code explorers
+
+* :star: [Sourcetrail](https://www.sourcetrail.com) (Windows, macOS, Linux) - _"Free and open-source cross-platform source explorer"_. Supports C, C++, Java and Python.
+
 ### System utilities
 
 * :star: [Redshift](http://jonls.dk/redshift) (Linux) - _Adjusts the color temperature of your screen according to your surroundings._

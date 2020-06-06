@@ -46,6 +46,8 @@ Coursework only (Type II)
 
 # Resources
 
+* :star: [Sourcetrail](https://www.sourcetrail.com) (Windows, macOS, Linux) - _"Free and open-source cross-platform source explorer"_. Supports C, C++, Java and Python.
+
 ## Class diagram of starter code
 
 ![class diagram of starter code](./resources/class_diagram_starter_code.png)
