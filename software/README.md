@@ -360,6 +360,7 @@
   * :star: [Evince](https://wiki.gnome.org/Apps/Evince) (GNOME)
   * :star: [Okular](https://okular.kde.org) (KDE)
   * :star: [CUPS](https://www.cups.org)
+  * :star: [Zathura](https://pwmt.org/projects/zathura/) (Linux) - Supports Vim keybindings.
 
 ### Presentation sharing
 
