@@ -2,19 +2,18 @@
 
 # Table of contents
 
-* [Table of contents](#table-of-contents)
 * [Discrete Mathematics](#discrete-mathematics)
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
   * [Additional reading](#additional-reading)
   * [Essential reading](#essential-reading)
+    * [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
   * [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
   * [Kinks to be aware of](#kinks-to-be-aware-of)
   * [Mathematical symbols](#mathematical-symbols)
   * [Notes](#notes)
   * [On REPL](#on-repl)
-  * [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
   * [Supplementary videos](#supplementary-videos)
   * [Syllabus](#syllabus)
   * [Weekly readings](#weekly-readings)
@@ -73,6 +72,13 @@ _"The essentials readings for this course will come from the following text book
 - **David Mackinson, Sets, Logic and Maths for Computing, Springer Verlag. 2012**
 
 _This course does not require you to read the whole book, you will be given specific readings for each topic from these texts are listed with direct links on the Readings page for each topic. You will also be asked to do some independent research from online sources or using the University of London digital library."_
+
+### Solutions to problems in the textbook Discrete Mathematics and its Applications
+
+* [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
+* [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
+
+
 
 ## Examples of past and current written exams
 
@@ -184,10 +190,6 @@ _This course does not require you to read the whole book, you will be given spec
   * [The Karnaugh Map - Rules of Simplification](https://www.youtube.com/watch?v=PA0kBrpHLM4) - Jonnie Palmer
   * [Transitive closure](https://www.youtube.com/watch?v=OO8Jfs9uZnc) - GVSUmath
 
-## Solutions to problems in the textbook Discrete Mathematics and its Applications
-
-* [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
-* [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
 
 ## Supplementary videos
 

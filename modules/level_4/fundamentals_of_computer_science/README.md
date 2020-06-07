@@ -1,11 +1,14 @@
 [Go back to the main page](../../../README.md)
 
+# Table of contents
+
 * [Fundamentals of Computer Science](#fundamentals-of-computer-science)
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Resources](#resources)
   * [Complementary learning](#complementary-learning)
   * [Essential reading](#essential-reading)
+    * [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
   * [Notes](#notes)
   * [Sample Paper with solutions](#sample-paper-with-solutions)
     * [March 2020](#march-2020)
@@ -13,6 +16,8 @@
   * [Syllabus](#syllabus)
   * [Weekly reading list](#weekly-reading-list)
   * [Supplementary Videos](#supplementary-videos)
+
+---
 
 # Fundamentals of Computer Science
 
@@ -62,6 +67,11 @@ _"Specific essential readings for each week from the following list are included
 * Dexter Kozen (2007). Automata and Computability, 1st. Springer
 * Merlin Forbes (2012). A Theoretical Introduction to Turing Machine, 1st. Learning Press
 * Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
+
+### Solutions to problems in the textbook Discrete Mathematics and its Applications
+
+* [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
+* [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
 
 ## Notes
 
