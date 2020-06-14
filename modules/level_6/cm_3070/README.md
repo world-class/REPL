@@ -18,16 +18,16 @@ pathway if appropriate.
 
 ### Topics covered
 
-* Project planning and management.
-* Project-associated risk management.
-* Project-specific research methodology and methods.
-* Aims and objectives of your project.
-* Project-specific literature review.
-* Project-specific software design.
-* Project-specific software development.
-* Project-specific software testing.
-* Evaluation of project results.
-* Project-specific academic writing.
+- Project planning and management.
+- Project-associated risk management.
+- Project-specific research methodology and methods.
+- Aims and objectives of your project.
+- Project-specific literature review.
+- Project-specific software design.
+- Project-specific software development.
+- Project-specific software testing.
+- Evaluation of project results.
+- Project-specific academic writing.
 
 ### Assessment
 

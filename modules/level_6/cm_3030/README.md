@@ -23,16 +23,16 @@ of the relevant theory.
 
 ### Topics covered
 
-* Introduction to game development, the games industry and game engines
-* Creating sprite based 2D
-* Scripting game interaction
-* 2D physics and collision
-* Game Design
-* Developing a Game project
-* State Machines
-* Pathfinding
-* Behaviour Trees
-* Recap and review
+- Introduction to game development, the games industry and game engines
+- Creating sprite based 2D
+- Scripting game interaction
+- 2D physics and collision
+- Game Design
+- Developing a Game project
+- State Machines
+- Pathfinding
+- Behaviour Trees
+- Recap and review
 
 ### Assessment
 

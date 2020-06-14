@@ -4,18 +4,18 @@
 
 # Table of contents
 
-* [Data Science](#data-science)
-* [Table of contents](#table-of-contents)
-* [_Data Science_ specialism modules](#data-science-specialism-modules)
-  * [Data Science](#data-science-1)
-  * [Databases and Advanced Data Techniques](#databases-and-advanced-data-techniques)
-  * [Machine Learning and Neural Networks](#machine-learning-and-neural-networks)
-  * [Advanced Web Development](#advanced-web-development)
-  * [Natural Language Processing](#natural-language-processing)
-* [Resources](#resources)
-  * [Jupyter](#jupyter)
-  * [Pandas](#pandas)
-  * [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
+- [Data Science](#data-science)
+- [Table of contents](#table-of-contents)
+- [_Data Science_ specialism modules](#data-science-specialism-modules)
+  - [Data Science](#data-science-1)
+  - [Databases and Advanced Data Techniques](#databases-and-advanced-data-techniques)
+  - [Machine Learning and Neural Networks](#machine-learning-and-neural-networks)
+  - [Advanced Web Development](#advanced-web-development)
+  - [Natural Language Processing](#natural-language-processing)
+- [Resources](#resources)
+  - [Jupyter](#jupyter)
+  - [Pandas](#pandas)
+  - [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
 
 ---
 
@@ -79,16 +79,16 @@ workflows.
 
 ## Jupyter
 
-* [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-* [Six easy ways to run your Jupyter Notebook in the cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
-* [Tutorial: Advanced Jupyter Notebooks](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
+- [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+- [Six easy ways to run your Jupyter Notebook in the cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
+- [Tutorial: Advanced Jupyter Notebooks](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 
 ## Pandas
 
-* [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro) - _"This series is about how to make effective use of pandas, a data analysis library for the Python programming language. It's targeted at an intermediate level: people who have some experience with pandas, but are looking to improve."_
-* [Official website](https://pandas.pydata.org/) - _"pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."_
+- [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro) - _"This series is about how to make effective use of pandas, a data analysis library for the Python programming language. It's targeted at an intermediate level: people who have some experience with pandas, but are looking to improve."_
+- [Official website](https://pandas.pydata.org/) - _"pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."_
 
 ## Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)
 
-* [Kaggle: Micro-Courses](https://www.kaggle.com/learn/overview) - _"Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."_
-* [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) - _"This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks."_
+- [Kaggle: Micro-Courses](https://www.kaggle.com/learn/overview) - _"Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."_
+- [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) - _"This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks."_

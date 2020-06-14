@@ -2,10 +2,10 @@
 
 # Table of contents
 
-* [Table of contents](#table-of-contents)
-* [Software Design and Development](#software-design-and-development)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
+- [Table of contents](#table-of-contents)
+- [Software Design and Development](#software-design-and-development)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
 
 ---
 
@@ -27,16 +27,16 @@ software versioning tools to manage a software project as it develops.
 
 # Topics covered
 
-* Language primer 1: variables and conditionals
-* Language primer 2: control flow
-* Language primer 3: functions
-* Version Control
-* Collaboration using version control
-* Module coupling and cohesion
-* Unit Testing
-* Test driven development
-* Defensive coding
-* Exception handling
+- Language primer 1: variables and conditionals
+- Language primer 2: control flow
+- Language primer 3: functions
+- Version Control
+- Collaboration using version control
+- Module coupling and cohesion
+- Unit Testing
+- Test driven development
+- Defensive coding
+- Exception handling
 
 # Assessment
 

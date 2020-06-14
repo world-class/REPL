@@ -17,16 +17,16 @@ physical devices.
 
 ### Topics covered
 
-* Electricity and circuits
-* Microcontrollers
-* Sensors
-* Physical Interaction Design
-* Physical Computing Projects
-* Motors and actuators
-* Communications protocols
-* Networked Devices
-* Bodily monitoring
-* Robots
+- Electricity and circuits
+- Microcontrollers
+- Sensors
+- Physical Interaction Design
+- Physical Computing Projects
+- Motors and actuators
+- Communications protocols
+- Networked Devices
+- Bodily monitoring
+- Robots
 
 ### Assessment
 

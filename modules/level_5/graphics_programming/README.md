@@ -2,13 +2,13 @@
 
 # Table of contents
 
-* [Table of contents](#table-of-contents)
-* [Graphics Programming](#graphics-programming)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-* [Resources](#resources)
-  * [Notes](#notes)
-  * [Syllabus](#syllabus)
+- [Table of contents](#table-of-contents)
+- [Graphics Programming](#graphics-programming)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Resources](#resources)
+  - [Notes](#notes)
+  - [Syllabus](#syllabus)
 
 ---
 
@@ -23,16 +23,16 @@ basics of working with simulated physics and 3D graphics.
 
 # Topics covered
 
-* Introduction to graphics
-* Coordinate transformations
-* Number generators: noise/sine
-* Images, pixels, colors
-* Image processing
-* Computer Vision: introduction
-* Computer Vision: advanced
-* Simulating physical systems
-* 3D graphics
-* Recap and review
+- Introduction to graphics
+- Coordinate transformations
+- Number generators: noise/sine
+- Images, pixels, colors
+- Image processing
+- Computer Vision: introduction
+- Computer Vision: advanced
+- Simulating physical systems
+- 3D graphics
+- Recap and review
 
 # Assessment
 
@@ -42,8 +42,8 @@ Coursework only (Type II)
 
 ## Notes
 
-* [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/graphics_programming/student_notes/felipe_balbi/notes.pdf)
+- [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/graphics_programming/student_notes/felipe_balbi/notes.pdf)
 
 ## Syllabus
 
-* [Syllabus PDF (April 2020)](./GP-Syllabus-.pdf)
+- [Syllabus PDF (April 2020)](./GP-Syllabus-.pdf)

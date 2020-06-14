@@ -2,10 +2,10 @@
 
 # Table of contents
 
-* [Table of contents](#table-of-contents)
-* [Agile Software Projects](#agile-software-projects)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
+- [Table of contents](#table-of-contents)
+- [Agile Software Projects](#agile-software-projects)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
 
 ---
 
@@ -28,16 +28,16 @@ version control tools.
 
 # Topics covered
 
-* Project management & team working
-* Requirements gathering & specification
-* Market & solutions research
-* User centred design & prototyping
-* Project proposal
-* Agile software development methodologies
-* Test driven software development
-* Software validation & user testing
-* Professional practices
-* Software documentation
+- Project management & team working
+- Requirements gathering & specification
+- Market & solutions research
+- User centred design & prototyping
+- Project proposal
+- Agile software development methodologies
+- Test driven software development
+- Software validation & user testing
+- Professional practices
+- Software documentation
 
 # Assessment
 

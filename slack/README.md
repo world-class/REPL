@@ -4,21 +4,21 @@
 
 # Table of contents
 
-* [Slack](#slack)
-* [Table of contents](#table-of-contents)
-  * [Resources](#resources)
-    * [Channels](#channels)
-      * [All cohorts](#all-cohorts)
-      * [Fun channels](#fun-channels)
-      * [Help and resources](#help-and-resources)
-      * [Modules level 4](#modules-level-4)
-      * [Modules level 5](#modules-level-5)
-      * [Modules level 6](#modules-level-6)
-      * [Specialisms](#specialisms)
-    * [How to use Slack](#how-to-use-slack)
-  * [For developers & contributors](#for-developers--contributors)
-    * [Slack Onboarding](#slack-onboarding)
-      * [Slack Onboarding Workflow ('Slack Tutor')](#slack-onboarding-workflow-slack-tutor)
+- [Slack](#slack)
+- [Table of contents](#table-of-contents)
+  - [Resources](#resources)
+    - [Channels](#channels)
+      - [All cohorts](#all-cohorts)
+      - [Fun channels](#fun-channels)
+      - [Help and resources](#help-and-resources)
+      - [Modules level 4](#modules-level-4)
+      - [Modules level 5](#modules-level-5)
+      - [Modules level 6](#modules-level-6)
+      - [Specialisms](#specialisms)
+    - [How to use Slack](#how-to-use-slack)
+  - [For developers & contributors](#for-developers--contributors)
+    - [Slack Onboarding](#slack-onboarding)
+      - [Slack Onboarding Workflow ('Slack Tutor')](#slack-onboarding-workflow-slack-tutor)
 
 ## Resources
 

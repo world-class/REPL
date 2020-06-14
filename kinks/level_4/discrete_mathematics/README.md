@@ -2,15 +2,15 @@
 
 # Table of contents
 
-* [Table of contents](#table-of-contents)
-* [Discrete Mathematics - Reported problems](#discrete-mathematics---reported-problems)
-  * [Week 10](#week-10)
-    * [5.212 Domino logic gates simulation](#5212-domino-logic-gates-simulation)
-      * [Firefox browser](#firefox-browser)
-  * [Additional resources](#additional-resources)
-    * [Rosen, K.H. Discrete mathematics and its applications. (New York: McGraw-Hill, 2012) 7th edition [ISBN 978-0073383095]](#rosen-kh-discrete-mathematics-and-its-applications-new-york-mcgraw-hill-2012-7th-edition-isbn-978-0073383095)
-      * [Page 46](#page-46)
-      * [Page 656](#page-656)
+- [Table of contents](#table-of-contents)
+- [Discrete Mathematics - Reported problems](#discrete-mathematics---reported-problems)
+  - [Week 10](#week-10)
+    - [5.212 Domino logic gates simulation](#5212-domino-logic-gates-simulation)
+      - [Firefox browser](#firefox-browser)
+  - [Additional resources](#additional-resources)
+    - [Rosen, K.H. Discrete mathematics and its applications. (New York: McGraw-Hill, 2012) 7th edition [ISBN 978-0073383095]](#rosen-kh-discrete-mathematics-and-its-applications-new-york-mcgraw-hill-2012-7th-edition-isbn-978-0073383095)
+      - [Page 46](#page-46)
+      - [Page 656](#page-656)
 
 # Discrete Mathematics - Reported problems
 

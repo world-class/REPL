@@ -38,21 +38,23 @@ report it.</strong></p>
 <br />
 
 # Most used resources
-* [Kinks to be aware of in the different modules](kinks)
-* [Notes from students, professors and more](https://github.com/world-class/REPL/tree/master/notes) (opens directly on GitHub).
-* [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
-* [Websites to visit](websites)
-* [YouTube videos](youtube)
+
+- [Kinks to be aware of in the different modules](kinks)
+- [Notes from students, professors and more](https://github.com/world-class/REPL/tree/master/notes) (opens directly on GitHub).
+- [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
+- [Websites to visit](websites)
+- [YouTube videos](youtube)
 
 # Other useful resources
-* [Applying to UoL: Guide and FAQs about the process](applying_to_uol)
-* [Books recommended by students in this degree](books)
-* [Free software](software)
-* [Job opportunities](job_opportunities)
-* Online courses: [free resources](online_courses/free), [paid resources](online_courses/paid)
-* [Online study options](after_uol) (Master's, PhD, certificates, etc.)
-* [Podcasts](podcasts)
-* [Showcase of student-built applications](showcase)
+
+- [Applying to UoL: Guide and FAQs about the process](applying_to_uol)
+- [Books recommended by students in this degree](books)
+- [Free software](software)
+- [Job opportunities](job_opportunities)
+- Online courses: [free resources](online_courses/free), [paid resources](online_courses/paid)
+- [Online study options](after_uol) (Master's, PhD, certificates, etc.)
+- [Podcasts](podcasts)
+- [Showcase of student-built applications](showcase)
 
 <br />
 
@@ -534,6 +536,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

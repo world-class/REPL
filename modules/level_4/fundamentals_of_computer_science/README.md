@@ -2,20 +2,20 @@
 
 # Table of contents
 
-* [Fundamentals of Computer Science](#fundamentals-of-computer-science)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-* [Resources](#resources)
-  * [Complementary learning](#complementary-learning)
-  * [Essential reading](#essential-reading)
-    * [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
-  * [Notes](#notes)
-  * [Sample Paper with solutions](#sample-paper-with-solutions)
-    * [March 2020](#march-2020)
-  * [Study guide](#study-guide)
-  * [Syllabus](#syllabus)
-  * [Weekly reading list](#weekly-reading-list)
-  * [Supplementary Videos](#supplementary-videos)
+- [Fundamentals of Computer Science](#fundamentals-of-computer-science)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Resources](#resources)
+  - [Complementary learning](#complementary-learning)
+  - [Essential reading](#essential-reading)
+    - [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
+  - [Notes](#notes)
+  - [Sample Paper with solutions](#sample-paper-with-solutions)
+    - [March 2020](#march-2020)
+  - [Study guide](#study-guide)
+  - [Syllabus](#syllabus)
+  - [Weekly reading list](#weekly-reading-list)
+  - [Supplementary Videos](#supplementary-videos)
 
 ---
 
@@ -33,16 +33,16 @@ systems.
 
 # Topics covered
 
-* Boolean logic
-* Algorithms
-* Searching and sorting algorithms
-* Theory of Computation and complexity
-* Turing machines and universal machines
-* Basic combinatorial principles
-* Proof techniques
-* Finite automata
-* Regular languages
-* Context-free grammar
+- Boolean logic
+- Algorithms
+- Searching and sorting algorithms
+- Theory of Computation and complexity
+- Turing machines and universal machines
+- Basic combinatorial principles
+- Proof techniques
+- Finite automata
+- Regular languages
+- Context-free grammar
 
 # Assessment
 
@@ -52,60 +52,60 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Complementary learning
 
-* Highly recommended for week 7 onwards: [lectures](https://web.cs.ucdavis.edu/~rogaway/classes/120/spring14/) and [videos](https://www.cs.ucdavis.edu/~rogaway/classes/120/fall12/lectures.html) from Prof. Michael Harrison.
-* [Context-free grammar tool](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/tools/cfg/)
-* [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html)
-* [Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
+- Highly recommended for week 7 onwards: [lectures](https://web.cs.ucdavis.edu/~rogaway/classes/120/spring14/) and [videos](https://www.cs.ucdavis.edu/~rogaway/classes/120/fall12/lectures.html) from Prof. Michael Harrison.
+- [Context-free grammar tool](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/tools/cfg/)
+- [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html)
+- [Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
 
 ## Essential reading
 
 _"Specific essential readings for each week from the following list are included in the Readings page for each week:_"
 
-* Kenneth H. Rosen (2011). Discrete Mathematics and its Applications, 7th. McGraw-Hill
-* :key: Michael Sipser (2012). Introduction to the theory of computation, 3rd. Cengage Learning
-* :key: John Hopcroft et al. (2013). Introduction to Automata Theory, Languages and Computation, Pearson
-* Dexter Kozen (2007). Automata and Computability, 1st. Springer
-* Merlin Forbes (2012). A Theoretical Introduction to Turing Machine, 1st. Learning Press
-* Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
+- Kenneth H. Rosen (2011). Discrete Mathematics and its Applications, 7th. McGraw-Hill
+- :key: Michael Sipser (2012). Introduction to the theory of computation, 3rd. Cengage Learning
+- :key: John Hopcroft et al. (2013). Introduction to Automata Theory, Languages and Computation, Pearson
+- Dexter Kozen (2007). Automata and Computability, 1st. Springer
+- Merlin Forbes (2012). A Theoretical Introduction to Turing Machine, 1st. Learning Press
+- Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
 
 ### Solutions to problems in the textbook Discrete Mathematics and its Applications
 
-* [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
-* [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
+- [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
+- [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
 
 ## Notes
 
-* [students_notes/arjun_muralidharan/CM1025_FCS.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/arjun_muralidharan/CM1025_FCS.pdf)
-* [students_notes/felipe_balbi/notes.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/felipe_balbi/notes.pdf)
-* [students_notes/katherine_lambert/KL-1-12.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/katherine_lambert/KL-1-12.pdf)
+- [students_notes/arjun_muralidharan/CM1025_FCS.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/arjun_muralidharan/CM1025_FCS.pdf)
+- [students_notes/felipe_balbi/notes.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/felipe_balbi/notes.pdf)
+- [students_notes/katherine_lambert/KL-1-12.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/katherine_lambert/KL-1-12.pdf)
 
 ## Sample Paper with solutions
 
 ### March 2020
 
-* [FCS sample paper](./resources/FCS_Mock_exam_Mar_2020.pdf)
-* [FCS sample paper solutions](https://docs.google.com/document/d/1Pb86mf6FsSjkWS4qbh6B05EISP3KTbkQL46MZxvQ9qk/edit)
+- [FCS sample paper](./resources/FCS_Mock_exam_Mar_2020.pdf)
+- [FCS sample paper solutions](https://docs.google.com/document/d/1Pb86mf6FsSjkWS4qbh6B05EISP3KTbkQL46MZxvQ9qk/edit)
 
 ## Study guide
 
-* [Resources compiled by Hassan Sarhan](https://github.com/h-sarhan/FCS-study-guide).
+- [Resources compiled by Hassan Sarhan](https://github.com/h-sarhan/FCS-study-guide).
 
 ## Syllabus
 
-* [Syllabus PDF (October 2019)](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)
+- [Syllabus PDF (October 2019)](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)
 
 ## Weekly reading list
 
-* [Weekly reading list PDF](./resources/FCS_reading_list.pdf)
+- [Weekly reading list PDF](./resources/FCS_reading_list.pdf)
 
 ## Supplementary Videos
 
 Following are supplementary videos for Theory of computation part of the module (week 7-14) for week 1-6 refer NM/DM material and for week 15-20 refer ADS1 material.
 
-* [Basics: Proofs](https://www.youtube.com/playlist?list=PLgKTLlHQn951DaIxphYta6OcAnTL77t4b) (YouTube playlist)
-* [Mathematical Thinking - Keith Devlin](https://www.youtube.com/playlist?list=PL_onPhFCkVQiZgE9U539_QmKLJV_0YvlQ) (YouTube playlist)
-* [Portland State university - YouTube - Harry Porter - "Theory of Computation" (Uses Sipser book and paper+sharpie for teaching)](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz) (YouTube playlist)
-* [Pumping lemma (for regular languages)](https://www.youtube.com/watch?v=Ty9tpikilAo) - Neso Academy (YouTube video)
-* [Pumping lemma for Regular](https://www.youtube.com/watch?v=g4e2RElzCSQ) - Didem Yalcin (YouTube video)
-* [Stanford - Lagunita - Jeff Ullman - "Automata theory" (uses Hopcroft - Ullman book and slideshow based lectures)](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
-* [UC Davis - YouTube - Dan Gusfield - "Theory of Computation" (Uses Sipser book and blackboard style lectures)](https://www.youtube.com/watch?v=GP21wU6R0-o&list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt) (YouTube playlist)
+- [Basics: Proofs](https://www.youtube.com/playlist?list=PLgKTLlHQn951DaIxphYta6OcAnTL77t4b) (YouTube playlist)
+- [Mathematical Thinking - Keith Devlin](https://www.youtube.com/playlist?list=PL_onPhFCkVQiZgE9U539_QmKLJV_0YvlQ) (YouTube playlist)
+- [Portland State university - YouTube - Harry Porter - "Theory of Computation" (Uses Sipser book and paper+sharpie for teaching)](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz) (YouTube playlist)
+- [Pumping lemma (for regular languages)](https://www.youtube.com/watch?v=Ty9tpikilAo) - Neso Academy (YouTube video)
+- [Pumping lemma for Regular](https://www.youtube.com/watch?v=g4e2RElzCSQ) - Didem Yalcin (YouTube video)
+- [Stanford - Lagunita - Jeff Ullman - "Automata theory" (uses Hopcroft - Ullman book and slideshow based lectures)](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
+- [UC Davis - YouTube - Dan Gusfield - "Theory of Computation" (Uses Sipser book and blackboard style lectures)](https://www.youtube.com/watch?v=GP21wU6R0-o&list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt) (YouTube playlist)

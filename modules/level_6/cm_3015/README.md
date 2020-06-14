@@ -13,16 +13,16 @@ rapidly, and you will learn how to verify and evaluate the results.
 
 ### Topics covered
 
-* Regression and classification
-* Features and distances
-* Supervised clustering
-* Evaluation: accuracy, precision, recall and cross validation
-* Dimensional reduction: principal component analysis
-* Matrix completion
-* Unsupervised clustering
-* Multi-Layer Perceptrons and back progagation
-* Network optimisers
-* Deep and recurrent networks
+- Regression and classification
+- Features and distances
+- Supervised clustering
+- Evaluation: accuracy, precision, recall and cross validation
+- Dimensional reduction: principal component analysis
+- Matrix completion
+- Unsupervised clustering
+- Multi-Layer Perceptrons and back progagation
+- Network optimisers
+- Deep and recurrent networks
 
 ### Assessment
 

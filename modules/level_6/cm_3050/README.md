@@ -15,16 +15,16 @@ on developing functioning applications.
 
 ### Topics covered
 
-* The mobile app ecosystem
-* Mobile user interface design
-* Programming user interfaces
-* Advanced user interface elements
-* Developing a mobile app project
-* Data sources
-* Integrating Cloud and web services
-* Sensor programming
-* Advanced APIs
-* Deployment
+- The mobile app ecosystem
+- Mobile user interface design
+- Programming user interfaces
+- Advanced user interface elements
+- Developing a mobile app project
+- Data sources
+- Integrating Cloud and web services
+- Sensor programming
+- Advanced APIs
+- Deployment
 
 ### Assessment
 

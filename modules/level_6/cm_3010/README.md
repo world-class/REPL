@@ -12,16 +12,16 @@ video data, and the challenges of working with this kind of data.
 
 ### Topics covered
 
-* Open data sources: different data formats
-* Gathering and cleaning data
-* The ethics of working with data
-* SQL: advanced data representation
-* SQL: advanced queries and linking
-* NoSQL and document stores
-* NoSQL and data pipelines
-* Speeding up queries with indexes
-* Audio and video data
-* Data security
+- Open data sources: different data formats
+- Gathering and cleaning data
+- The ethics of working with data
+- SQL: advanced data representation
+- SQL: advanced queries and linking
+- NoSQL and document stores
+- NoSQL and data pipelines
+- Speeding up queries with indexes
+- Audio and video data
+- Data security
 
 ### Assessment
 

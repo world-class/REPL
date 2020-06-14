@@ -1,23 +1,23 @@
 [Go back to the main page](../../../README.md)
 
-* [List of free deep learning ebooks](#list-of-free-deep-learning-ebooks)
-* [List of deep learning courses](#list-of-deep-learning-courses)
-* [Modules in the specialism](#modules-in-the-specialism)
-  * [Databases and Advanced Data Techniques](#databases-and-advanced-data-techniques)
-  * [Machine Learning and Neural Networks](#machine-learning-and-neural-networks)
-  * [Artificial Intelligence](#artificial-intelligence)
-  * [Intelligent Signal Processing](#intelligent-signal-processing)
-  * [Natural Language Processing](#natural-language-processing)
+- [List of free deep learning ebooks](#list-of-free-deep-learning-ebooks)
+- [List of deep learning courses](#list-of-deep-learning-courses)
+- [Modules in the specialism](#modules-in-the-specialism)
+  - [Databases and Advanced Data Techniques](#databases-and-advanced-data-techniques)
+  - [Machine Learning and Neural Networks](#machine-learning-and-neural-networks)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Intelligent Signal Processing](#intelligent-signal-processing)
+  - [Natural Language Processing](#natural-language-processing)
 
 _Machine Learning and Artificial Intelligence_ specialism modules
 
 ## List of free deep learning ebooks
 
-* [Best Deep Learning Books](https://blog.floydhub.com/best-deep-learning-books-updated-for-2019/#deep-learning), by Alessio Gozzoli (updated March 1<sup>st</sup>, 2019)
+- [Best Deep Learning Books](https://blog.floydhub.com/best-deep-learning-books-updated-for-2019/#deep-learning), by Alessio Gozzoli (updated March 1<sup>st</sup>, 2019)
 
 ## List of deep learning courses
 
-* [Best Deep Learning Courses](https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019/), by Alessio Gozzoli (updated March 8<sup>th</sup>, 2019)
+- [Best Deep Learning Courses](https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019/), by Alessio Gozzoli (updated March 8<sup>th</sup>, 2019)
 
 ## Modules in the specialism
 

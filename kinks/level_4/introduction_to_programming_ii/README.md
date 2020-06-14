@@ -2,11 +2,11 @@
 
 # Table of contents
 
-* [Table of contents](#table-of-contents)
-* [Introduction to programming II - Reported problems](#introduction-to-programming-ii---reported-problems)
-  * [Case studies](#case-studies)
-    * [Data visualizer](#data-visualizer)
-      * [4.103](#4103)
+- [Table of contents](#table-of-contents)
+- [Introduction to programming II - Reported problems](#introduction-to-programming-ii---reported-problems)
+  - [Case studies](#case-studies)
+    - [Data visualizer](#data-visualizer)
+      - [4.103](#4103)
 
 # Introduction to programming II - Reported problems
 

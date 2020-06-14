@@ -1231,7 +1231,7 @@ r = ac2->rate(); //through a pointer
 
 - `const` member functions may not change the state of the object on which they are called.
 - We should make member functions const by default ([core guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rconst-fct)).
-- The effect of a `const` declaration is to change the implicit `this` pointer to a const version of the object (See *Primer*, p. 258).
+- The effect of a `const` declaration is to change the implicit `this` pointer to a const version of the object (See _Primer_, p. 258).
 - The `const` keyword goes in the class declaration after the parameter list. It must also be listed in the function definition. The const becomes part of the function type.
 - A const member function can be invoked for both const and non-const objects, whereas a non-const member function can only be invoked for a non-const object.
 - An example of use:
@@ -1257,6 +1257,7 @@ int Date::year() const //ok
     return y;
 }
 ```
+
 #### `friend` functions
 
 - A function that is not a member of a class can be granted access to all members through a `friend` declaration within the class definition.
@@ -1280,33 +1281,42 @@ class Matrix {
 ```
 
 <!-- omit in toc -->
+
 #### Key Reading
 
 _On `static` members_:
+
 - _Primer_, section 7.6, _`static` Class Members_, pp 300 - 304.
 
-*On `const` members*:
-- *C++*, section 16.2.9.1 *Constant Member Functions*, p. 461.
-_On Friends_:
+_On `const` members_:
+
+- _C++_, section 16.2.9.1 _Constant Member Functions_, p. 461.
+  _On Friends_:
 - _Primer_, sections 7.2.1, _Friends_, pp 269 - 271, and 7.3.4, _Friendship Revisited_, pp 279 - 282.
 
 <!-- omit in toc -->
+
 #### Supplementary Reading
 
 _On static members_:
+
 - _C++_, section 16.2.12, _`static` Members_, pp 467 - 468.
 
-*On `const` members*:
-- *Primer*, p. 258
+_On `const` members_:
+
+- _Primer_, p. 258
 
 _On Friends_:
+
 - _Programming_, section A.12.1.3 _Friends_, p. 1111.
 
 <!-- omit in toc -->
+
 #### Core Guidelines
 
 - [Make member functions `const` by default](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rconst-fct)
 <!-- omit in toc -->
+
 #### CPP Reference
 
 - [static members](https://en.cppreference.com/w/cpp/language/static)
@@ -1316,6 +1326,7 @@ _On Friends_:
 ### Operator Overloading
 
 <!-- omit in toc -->
+
 #### Points to Remember
 
 - You can define almost all C++ operators for class or enumeration operands. This is often referred to as _operator overloading_.
@@ -1369,15 +1380,18 @@ ostream &operator<<(ostream &os, const Sales_data &item) {
 - Sometimes the input operator might need to do additional validation (like checking a value is in a range), if that validation fails the operator can set the `failbit` of the stream to indicate failure.
 - For outlines of other common operators and their use see _Primer_, pp 561 - 572.
 <!-- omit in toc -->
+
 #### Key Reading
 
 - _Primer_, Chapter 14, _Overloaded Operations and Conversions_, p. 552ff
 - _C++_, Chapter 18, _Operator Overloading_, p. 527ff
 <!-- omit in toc -->
+
 #### Supplementary Reading
 
 - _Programming_, section 9.6, _Operator Overloading_, pp 321 -323.
 <!-- omit in toc -->
+
 #### Core Guidelines
 
 - [Overloading Operators](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#SS-overload)
@@ -1386,6 +1400,7 @@ ostream &operator<<(ostream &os, const Sales_data &item) {
 - [Avoid implicit conversion operators](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Ro-conversion)
 - [Define overloaded operators in the namespace of their operands](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Ro-namespace)
 <!-- omit in toc -->
+
 #### CPP Reference
 
 - [Operator Overloading](https://en.cppreference.com/w/cpp/language/operators)

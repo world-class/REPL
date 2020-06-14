@@ -15,16 +15,16 @@ implement NLP workflows.
 
 ### Topics covered
 
-* History of NLP.
-* Information retrieval and curation in NLP.
-* Curated corpora and raw data sources.
-* Formal grammars.
-* Rule based NLP.
-* Statistical NLP.
-* NER (Named Entity Recognition).
-* Readers, stemmers, taggers and parsers
-* Software packages for NLP
-* Applications of NLP
+- History of NLP.
+- Information retrieval and curation in NLP.
+- Curated corpora and raw data sources.
+- Formal grammars.
+- Rule based NLP.
+- Statistical NLP.
+- NER (Named Entity Recognition).
+- Readers, stemmers, taggers and parsers
+- Software packages for NLP
+- Applications of NLP
 
 ### Assessment
 

@@ -2,10 +2,10 @@
 
 # Table of contents
 
-* [Table of contents](#table-of-contents)
-* [Computer Security](#computer-security)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
+- [Table of contents](#table-of-contents)
+- [Computer Security](#computer-security)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
 
 ---
 
@@ -20,16 +20,16 @@ mathematics underlying the protocols by programming small examples.
 
 # Topics covered
 
-* Security threats
-* Social Issues in Computer Security
-* Access Control and Authentication
-* Security Models
-* Operating System Security
-* Network security
-* Cryptography
-* Cryptographic protocols and key management
-* Public Key Cryptography
-* Blockchain protocols
+- Security threats
+- Social Issues in Computer Security
+- Access Control and Authentication
+- Security Models
+- Operating System Security
+- Network security
+- Cryptography
+- Cryptographic protocols and key management
+- Public Key Cryptography
+- Blockchain protocols
 
 # Assessment
 
