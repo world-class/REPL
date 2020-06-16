@@ -407,7 +407,7 @@ relevant topic for the final project.</p>
 <li><a href="./uol_documents/events_due_diligence_privacy_notice.pdf">Events Due Diligence Privacy Notice</a></li>
 <li><a href="./uol_documents/gdpr_rights_guide_students.pdf">GDPR Rights guide - students</a></li>
 <li><a href="./uol_documents/guidelines_for_examinations_2018_19.pdf">Guidelines for Examinations 2018–2019</a></li>
-<li><a href="./uol_documents/progregs_computer_science_2019_2020.pdf">Programme Regulations 2019–2020</a></li>
+<li><a href="./uol_documents/progregs-computer-science-2020-21.pdf">Programme Regulations 2020–2021</a></li>
 <li><a href="./uol_documents/progspec_computer_science_2019_2020.pdf">Programme specification, Computer Science 2019-2020</a></li>
 <li><a href="./uol_documents/computer_science_prospectus_2019_20.pdf">Prospectus, Computer Science 2019-2020</a></li>
 <li><a href="./uol_documents/online_library_academic_search_quick_start.pdf">Quick Start Guide - The Online Library</a></li>
