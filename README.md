@@ -10,7 +10,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 <details>
 <summary>Good luck in your journey!</summary>
 
-<p>As the first cohort of students enrolling in this ~100% online
+<p>As the first cohorts of students enrolling in this ~100% online
 programme, it is in our interest to cooperate in order to maximize our
 chances of celebrating all together when we graduate.</p>
 
@@ -55,6 +55,7 @@ report it.</strong></p>
 - [Online study options](after_uol) (Master's, PhD, certificates, etc.)
 - [Podcasts](podcasts)
 - [Showcase of student-built applications](showcase)
+- SubReddit: [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/)
 
 <br />
 
@@ -481,6 +482,7 @@ relevant topic for the final project.</p>
 
 <ul>
 <li>Discord server: <a href="https://discord.gg/zDpffJQ">Invitation link</a></li>
+<li>SubReddit: <a href="https://www.reddit.com/r/UniversityOfLondonCS/">r/UniversityOfLondonCS</a></li>
 <li><a href="https://londoncs.slack.com/">Slack workspace</a></li>
 <li><a href="https://zoom.us/">Zoom</a> (video conferencing used on Coursera)</li>
 </ul>
