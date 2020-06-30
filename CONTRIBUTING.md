@@ -1,18 +1,21 @@
-# How to contribute to REPL
+# How to contribute to the REPL
 
-REPL is a volunteer effort. We encourage you to pitch in and join the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/)!
+REPL is a volunteer effort and we warmly welcome first time Git/GitHub users! We encourage you to pitch in and join the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/)!
+
+**For a primer on how to use Git & GitHub**, please see the section [How to use Git/GitHub](#how-to-use-gitgithub) below.
 
 Thanks! :heart: :heart: :heart:
 
-REPL Team
+The REPL Team
 
 ---
 
-# Table of contents
+## Table of contents
 
-- [How to contribute to REPL](#how-to-contribute-to-repl)
-- [Table of contents](#table-of-contents)
+- [How to contribute to the REPL](#how-to-contribute-to-the-repl)
+  - [Table of contents](#table-of-contents)
   - [Before getting started](#before-getting-started)
+    - [How to use Git/GitHub](#how-to-use-gitgithub)
     - [Cloning faster](#cloning-faster)
       - [A tiny bit of background on the structure of this repo](#a-tiny-bit-of-background-on-the-structure-of-this-repo)
       - [How to actually clone faster](#how-to-actually-clone-faster)
@@ -21,10 +24,10 @@ REPL Team
     - [A few words](#a-few-words)
   - [Code of Conduct](#code-of-conduct)
   - [I don't want to read this whole thing I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
-  - [How Can I Contribute?](#how-can-i-contribute)
+  - [How Can I Contribute](#how-can-i-contribute)
     - [Reporting Issues](#reporting-issues)
       - [Before Submitting An Issue](#before-submitting-an-issue)
-      - [How Do I Submit A (Good) Issue?](#how-do-i-submit-a-good-issue)
+      - [How Do I Submit A (Good) Issue](#how-do-i-submit-a-good-issue)
     - [Suggesting Enhancements](#suggesting-enhancements)
       - [Before Submitting An Enhancement Suggestion](#before-submitting-an-enhancement-suggestion)
       - [How Do I Submit A (Good) Enhancement Suggestion?](#how-do-i-submit-a-good-enhancement-suggestion)
@@ -36,10 +39,11 @@ REPL Team
 
 ## Before getting started
 
-### How to use Git/GitHub?
+### How to use Git/GitHub
 
 Here are a couple of places where you will find useful resources:
 
+- [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 - https://github.com/world-class/REPL/blob/master/websites/README.md#git--github
 - https://github.com/world-class/REPL/blob/master/youtube/README.md#git--github
 - https://github.com/world-class/REPL/tree/master/online_courses/free#git--github
@@ -105,7 +109,7 @@ If chat is more your speed, you can join the REPL Slack team:
 - Even though Slack is a chat service, sometimes it takes several hours for community members to respond &mdash; please be patient!
 - Use the `#repl` channel for general questions or discussion about REPL.
 
-## How Can I Contribute?
+## How Can I Contribute
 
 ### Reporting Issues
 
@@ -119,7 +123,7 @@ Before creating bug reports, please check [this list](#before-submitting-an-issu
 
 - **Perform a [search](https://github.com/search?q=+is%3Aissue+user%3AREPL)** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
 
-#### How Do I Submit A (Good) Issue?
+#### How Do I Submit A (Good) Issue
 
 Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). Create an issue and provide the following information.
 
