@@ -9,6 +9,7 @@
 - [List of required reading](#list-of-required-reading)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
+  - [Mock exam](#mock-exam)
   - [Notes](#notes)
   - [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
   - [Syllabus](#syllabus)
@@ -104,6 +105,10 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
   - [Asymptotic Notation Recurrences Substitution Master Method](https://www.youtube.com/watch?v=whjt_N9uYFI) - MIT OpenCourseWare
   - [Introduction to algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (playlist) - Abdul Bari
   - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
+
+## Mock exam
+
+- [Mock exam, 2020](./CM2035-ADS2_MOCK_Exam.pdf)
 
 ## Notes
 
