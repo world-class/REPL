@@ -70,6 +70,7 @@
       - [Beginner friendly](#beginner-friendly-1)
       - [More advanced](#more-advanced)
     - [Screenshot tools](#screenshot-tools)
+    - [Source code explorers](#source-code-explorers)
     - [System utilities](#system-utilities)
     - [Text editors](#text-editors)
       - [Beginner friendly](#beginner-friendly-2)
@@ -151,7 +152,7 @@
 
 #### Production
 
-- :heavy*dollar_sign: [REAPER](https://www.reaper.fm) **(60 days free trial, US\$60 for personal license)** (Windows, macOS, Linux\*) - *"REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset."\_ (\* experimental)
+- :heavy_dollar_sign: [REAPER](https://www.reaper.fm) **(60 days free trial, US\$60 for personal license)** (Windows, macOS, Linux\*) - _"REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset."_ (\* experimental)
 
 #### Recording & Editing
 
@@ -187,7 +188,7 @@
 
 ### Cloud IDE
 
-- :heavy*dollar_sign: :cloud: [Codeanywhere](https://codeanywhere.com) - *"Share and collaborate on your code in real time. Whether you want to pair program, or just get some help from a friend. Codeanywhere makes it easy."\_
+- :heavy_dollar_sign: :cloud: [Codeanywhere](https://codeanywhere.com) - _"Share and collaborate on your code in real time. Whether you want to pair program, or just get some help from a friend. Codeanywhere makes it easy."_
 
 ### Code snippets savers
 
@@ -370,7 +371,7 @@
 
 #### All-in-one organization
 
-- :heavy*dollar_sign: [Notion](https://www.notion.so) ([Personal plan free for students](https://www.notion.so/students)) (Windows, macOS, Android, iOS, web) - **Free version currently limited to 1000 block storage and 5MB upload limit.** - *"Write, plan, collaborate, and get organized. Notion is all you need — in one tool."\_
+- :heavy_dollar_sign: [Notion](https://www.notion.so) ([Personal plan free for students](https://www.notion.so/students)) (Windows, macOS, Android, iOS, web) - **Free version currently limited to 1000 block storage and 5MB upload limit.** - _"Write, plan, collaborate, and get organized. Notion is all you need — in one tool."_
 
 #### Conversations with teams
 
@@ -380,7 +381,7 @@
 
 #### Emails
 
-- :heavy*dollar_sign: [Front](https://frontapp.com) - *"Front is the first inbox for teams. Organize all your conversations in one place, route them to the right people, and get more done as a team."\_
+- :heavy_dollar_sign: [Front](https://frontapp.com) - _"Front is the first inbox for teams. Organize all your conversations in one place, route them to the right people, and get more done as a team."_
 
 #### Habit tracker
 
@@ -496,7 +497,7 @@
 See also [Graphics software](#graphics-software).
 
 - [Adobe XD](https://www.adobe.com/products/xd.html) - _"Wireframe, design, prototype, present, and share amazing experiences for web, mobile, voice, and more — all in one app. XD is made for designers, creative teams, and organizations that need to design at scale. It’s everything you need to work more efficiently, collaborate effortlessly, and create and manage your design system."_
-- :heavy*dollar_sign: [Balsamiq](https://balsamiq.com) - *"With Balsamiq Wireframes, anyone can design great user interfaces."\_
+- :heavy_dollar_sign: [Balsamiq](https://balsamiq.com) - _"With Balsamiq Wireframes, anyone can design great user interfaces."_
 - [Figma](https://www.figma.com) - _"A better way to design. Design, prototype, and gather feedback all in one place."_ **(free for individuals, with limitations)**
 - [Whimsical](https://whimsical.com) - _"Communicate visually at the speed of thought. Flowcharts, Wireframes, Sticky Notes, Mind Maps."_ **(free for individuals, with limitations)**
 

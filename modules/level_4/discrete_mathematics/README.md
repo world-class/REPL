@@ -2,6 +2,7 @@
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Discrete Mathematics](#discrete-mathematics)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -121,8 +122,8 @@ _This course does not require you to read the whole book, you will be given spec
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-18_9.2_Equivalence&Order.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-18_9.2_Equivalence&Order.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-19_10.1_TheBasics-Reading.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-19_10.1_TheBasics-Reading.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-19_10.1_TheBasics.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-19_10.1_TheBasics.pdf)
-- [students*notes/sukhjit_mann/Discrete_Maths_Week-1_01* A.\_Sets.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-1_01_A._Sets.pdf)
-- [students*notes/sukhjit_mann/Discrete_Maths_Week-1_01* A.\_Sets_Reading_2.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-1_01_A._Sets_Reading_2.pdf)
+- [students_notes/sukhjit_mann/Discrete_Maths_Week-1_01* A._Sets.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-1_01_A._Sets.pdf)
+- [students_notes/sukhjit_mann/Discrete_Maths_Week-1_01* A._Sets_Reading_2.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-1_01_A._Sets_Reading_2.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-20_10.2_Further_techniques-Reading.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-20_10.2_Further_techniques-Reading.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-20_10.2_Further_techniques.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-20_10.2_Further_techniques.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-2_1.2_Set_Representation_Manipulation-Reading.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-2_1.2_Set_Representation_Manipulation-Reading.pdf)
