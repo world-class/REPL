@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="width: 100%; height: auto;"/>
+<img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/world-class/REPL/compare) ![GitHub](https://img.shields.io/github/license/world-class/REPL?style=flat-square)
 
