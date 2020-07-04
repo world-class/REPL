@@ -121,7 +121,6 @@
 - [Front End Happy Hour](https://player.fm/series/front-end-happy-hour-131187) - _"A podcast featuring panelists of engineers from Netflix, Evernote & LinkedIn talking over drinks about all things Front End development."_
 - [Full Stack Radio](https://player.fm/series/series-1401837) - _"A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration."_
 - [Syntax.fm](https://syntax.fm/) - _"Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences."_
-- [The Versioning Show](https://www.sitepoint.com/versioning-show/) - _"The Versioning Show discusses the industry of the web from development to design, with some of the people making it happen today, and planning where it's headed in the next version."_
 
 # Science
 
