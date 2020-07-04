@@ -560,7 +560,9 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 ## Learning
 
+- [Frontend Masters](https://frontendmasters.com/)
 - [Intro to Web Dev v2](https://btholt.github.io/intro-to-web-dev-v2/).
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ## Tools
 

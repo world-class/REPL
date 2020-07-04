@@ -377,6 +377,7 @@
 
 - [Web Development Tutorial For Beginners](https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G) (playlist) - LearnCode.academy
 - [Learn HTML/CSS](https://www.youtube.com/watch?v=iHZWS61Vyxk&list=PLMvLDJ7usmZDSg1z0X--3qz38IHjdieXR) (playlist) - Neil Rowe
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 ### CSS
 
