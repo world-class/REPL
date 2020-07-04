@@ -7,6 +7,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Resources](#resources)
+  - [Awesome learning resources](#awesome-learning-resources)
   - [Essential reading](#essential-reading)
   - [Games](#games)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
@@ -49,6 +50,10 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 Coursework only (Type III)
 
 # Resources
+
+## Awesome learning resources
+
+- [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - GitHub awesome list. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Essential reading
 
