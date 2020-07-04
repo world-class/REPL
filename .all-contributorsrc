@@ -166,7 +166,9 @@
       "contributions": [
         "code",
         "doc",
-        "maintenance"
+        "maintenance",
+        "review",
+        "test"
       ]
     },
     {
