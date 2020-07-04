@@ -166,8 +166,7 @@
       "contributions": [
         "code",
         "doc",
-        "maintenance",
-        "review"
+        "maintenance"
       ]
     },
     {
@@ -246,6 +245,7 @@
     }
   ],
   "contributorsPerLine": 4,
+  "contributorsSortAlphabetically": true,
   "projectName": "REPL",
   "projectOwner": "world-class",
   "repoType": "github",
