@@ -310,7 +310,18 @@ This section is dedicated to all the general questions that are answered well in
 
 ### When are the exams/When does the semester start/What is the registration deadline
 
-- Tentative important dates: [https://www.coursera.org/learn/london-cs-orientation/supplement/8w7so/important-dates](https://www.coursera.org/learn/london-cs-orientation/supplement/8w7so/important-dates)
+- Tentative important dates for enrolled students: [https://www.coursera.org/learn/london-cs-orientation/supplement/8w7so/important-dates](https://www.coursera.org/learn/london-cs-orientation/supplement/8w7so/important-dates)
+- A general idea for prospective students:
+  - October 2020 session
+    - Registration opens 29 June 2020
+    - Registration closes 21 September 2020
+    - Course starts 12 October 2020
+    - Examinations March 2021
+  - April 2021 session
+    - Registration opens 21 December 2020
+    - Registration closes 15 March 2021
+    - Course starts April 2021
+    - Examinations September 2021
 
 ### What week are we on
 
