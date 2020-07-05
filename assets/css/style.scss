@@ -1,13 +1,47 @@
 ---
 ---
+
 // Reference:
 
 // original code: https://github.com/pages-themes/slate/blob/master/_sass/rouge-github.scss
 // Customization style: https://github.com/pages-themes/slate#stylesheet
 
-
-@import "{{ site.theme }}";
+@import '{{ site.theme }}';
 
 .inner {
   max-width: 1024px;
+}
+
+*:focus {
+  outline: none;
+}
+
+p {
+  margin: 15px 0 20px 0;
+}
+
+summary {
+  color: #000000;
+  font-size: 1.2rem;
+}
+
+summary:hover {
+  color: #0086b3;
+  cursor: pointer;
+}
+
+details {
+  background-color: #0086b31f;
+  border: 2px solid black;
+  padding: 1em;
+  margin: 1.25em 0 1.25em 0;
+}
+
+details:hover {
+  background-color: #0086b30f;
+  border: 2px solid #0086b3;
+}
+
+table {
+  width: 100%;
 }
