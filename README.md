@@ -308,7 +308,7 @@ following modules.</p>
 <tr>
 <td><a href="modules/level_6/cm_3015">Machine Learning and Neural Networks</a></td>
 <td><strong>CM3015</strong></td>
-<td><strong>Yes</strong></td>
+<td>No</td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3050">Mobile Development</a></td>
