@@ -94,7 +94,7 @@ _"Specific essential readings for each week from the following list are included
 
 ## Syllabus
 
-- [Syllabus PDF (October 2019)](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)
+- [Syllabus PDF (March 2020)](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)
 
 ## Weekly reading list
 
