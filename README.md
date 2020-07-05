@@ -37,11 +37,10 @@ report it.</strong></p>
 
 <br />
 
-# Most used resources
+# Most used resources (most to least)
 
-- [Kinks to be aware of in the different modules](kinks)
 - [Notes from students, professors and more](https://github.com/world-class/REPL/tree/master/notes) (opens directly on GitHub).
-- [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
+- [Modules](https://github.com/world-class/REPL/tree/master/modules) (opens directly on GitHub).
 - [Websites to visit](websites)
 - [YouTube videos](youtube)
 
@@ -49,17 +48,21 @@ report it.</strong></p>
 
 - [Applying to UoL: Guide and FAQs about the process](applying_to_uol)
 - [Books recommended by students in this degree](books)
+- [Discord server](https://discord.gg/zDpffJQ) - Especially for prospective students
 - [Free software](software)
 - [Job opportunities](job_opportunities)
+- [Kinks to be aware of in the different modules](kinks)
 - Online courses: [free resources](online_courses/free), [paid resources](online_courses/paid)
 - [Online study options](after_uol) (Master's, PhD, certificates, etc.)
 - [Podcasts](podcasts)
 - [Showcase of student-built applications](showcase)
+- [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
 - SubReddit: [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/)
+- [University of London documents](https://github.com/world-class/REPL/tree/master/uol_documents). - See them all at a glance. (Opens directly on GitHub.)
 
 <br />
 
-## How to ask for help?
+## How to ask for help
 
 <details>
 <summary><strong>Reaching out to tutors and SRMs</strong></summary>
@@ -110,7 +113,7 @@ report it.</strong></p>
 </li>
 </ul>
 
-  </details>
+</details>
 <br />
 
 ## Modules in the curriculum
@@ -368,16 +371,6 @@ relevant topic for the final project.</p>
 
 ## Calendar due dates and events
 
-<!-- <details>
-<summary><strong>Google Calendar</strong></summary>
-
-<ul>
-<li>Find out what, when and where things are happening with this <a href="https://calendar.google.com/calendar/embed?src=i8bo48kc5tnudmnn669v4m1vhs%40group.calendar.google.com">Google Calendar</a>.</li>
-<li><strong>If you have a Google account</strong>, you can follow <a href="https://calendar.google.com/calendar/r?cid=aThibzQ4a2M1dG51ZG1ubjY2OXY0bTF2aHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">this link</a> instead.</li>
-</ul>
-
-  </details> -->
-
 <details>
 <summary><strong>See what's the current week</strong></summary>
 
@@ -447,7 +440,7 @@ relevant topic for the final project.</p>
 </li>
 </ul>
 
-  </details>
+</details>
 <br />
 
 ## Stay in touch
@@ -544,9 +537,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
+Contributions of any kind welcome!
 
 ---
 
