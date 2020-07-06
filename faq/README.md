@@ -74,6 +74,7 @@
   - [Grades & Results](#grades--results)
     - [My peer-reviewed work isn't graded yet, what can I do](#my-peer-reviewed-work-isnt-graded-yet-what-can-i-do)
     - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
+    - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
   - [Graduation & Beyond](#graduation--beyond)
     - [How is this degree going to tie in or transfer over to the new MSc Data Science from UoL and the soon to come MSc Machine Learning on Coursera](#how-is-this-degree-going-to-tie-in-or-transfer-over-to-the-new-msc-data-science-from-uol-and-the-soon-to-come-msc-machine-learning-on-coursera)
     - [Is there no honours in the UK? Do we qualify for a masters straight after Bsc](#is-there-no-honours-in-the-uk-do-we-qualify-for-a-masters-straight-after-bsc)
@@ -417,6 +418,11 @@ This section is dedicated to all the general questions that are answered well in
 ### How do you assign grades? Grading on a Curve or absolute grading
 
 - Information about the grading policy can be found within the BSc Computer Science Orientation Course. Please see the below \* [https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy](https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy).
+
+### What are the deadlines to complete summative quizzes
+
+- You can find **soft** deadlines in the **Grades** section of each module on Coursera. Those are _advised_ deadlines and give you a good idea of what progress you should have been making and how you should roughly be pacing yourself.
+- You have until the submission deadline for the mid-term of each module to submit summative quizzes: this is the **hard** deadline in case you miss the **soft** ones. You will still be able to submit summative quizzes after the mid-term, but they won't count towards your final grade. Please take into consideration the timezone information on the submission page for the mid-term as any work — or summative quizzes due before the mid-term — will be awarded zero marks if you submit after the **hard** deadline, even if it's on the same day.
 
 ---
 
