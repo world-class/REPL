@@ -41,6 +41,7 @@ report it.</strong></p>
 
 - [Notes from students, professors and more](https://github.com/world-class/REPL/tree/master/notes) (opens directly on GitHub).
 - [Modules](https://github.com/world-class/REPL/tree/master/modules) (opens directly on GitHub).
+- [Documents and webpages of interest](uol_links) (only from the University of London)
 - [Websites to visit](websites)
 - [YouTube videos](youtube)
 
@@ -58,7 +59,7 @@ report it.</strong></p>
 - [Showcase of student-built applications](showcase)
 - [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
 - SubReddit: [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/)
-- [University of London documents](https://github.com/world-class/REPL/tree/master/uol_documents). - See them all at a glance. (Opens directly on GitHub.)
+- [University of London documents](https://github.com/world-class/REPL/tree/master/uol_links). - See them all at a glance. (Opens directly on GitHub.)
 
 <br />
 
@@ -388,59 +389,6 @@ relevant topic for the final project.</p>
 </ul>
 
   </details>
-<br />
-
-## Documents and resources provided publicly by the University of London
-
-<details>
-<summary><strong>Documents</strong></summary>
-
-<ul>
-<li><a href="https://london.ac.uk/about-us/how-university-run/policies/vle-code-conduct">Code of conduct</a></li>
-<li><a href="./uol_documents/data_protection_policy.pdf">Data protection policy</a></li>
-<li><a href="./uol_documents/events_due_diligence_privacy_notice.pdf">Events Due Diligence Privacy Notice</a></li>
-<li><a href="./uol_documents/gdpr_rights_guide_students.pdf">GDPR Rights guide - students</a></li>
-<li><a href="./uol_documents/guidelines_for_examinations_2018_19.pdf">Guidelines for Examinations 2018–2019</a></li>
-<li><a href="./uol_documents/progregs-computer-science-2020-21.pdf">Programme Regulations 2020–2021</a></li>
-<li><a href="./uol_documents/progspec-computer-science-2020-21.pdf">Programme specification, Computer Science 2020-2021</a></li>
-<li><a href="./uol_documents/computer-science-prospectus-2020.pdf">Prospectus, Computer Science 2020</a></li>
-<li><a href="./uol_documents/online_library_academic_search_quick_start.pdf">Quick Start Guide - The Online Library</a></li>
-<li><a href="./uol_documents/student_terms_and_conditions.pdf">Student Terms and Conditions 2019-2020</a></li>
-<li><a href="./uol_documents/student_privacy_notice_uol_april_2018_final.pdf">Student privacy notice</a></li>
-<li><a href="./uol_documents/welcome_webinar_questions_and_answers_september_24_2019.pdf">Welcome webinar Q&amp;A, September 24, 2019</a></li>
-</ul>
-
-  </details>
-
-<details>
-<summary><strong>Webpages of interest</strong></summary>
-
-<ul>
-<li>Exams<ul>
-<li><a href="https://london.ac.uk/current-students/examinations">Examinations</a></li>
-<li><a href="https://london.ac.uk/applications/how-it-works/how-assessment-works">How assessment works</a></li>
-</ul>
-</li>
-<li><a href="https://london.ac.uk/applications/funding-your-study">Funding your study</a></li>
-<li><a href="https://london.ac.uk/courses/computer-science">Main page of the BSc Computer Science</a><ul>
-<li><a href="https://london.ac.uk/computer-science-structure">Structure of the degree</a></li>
-</ul>
-</li>
-<li><a href="https://onlinelibrary.london.ac.uk/">Online library</a></li>
-<li><a href="https://my.london.ac.uk/">Portal</a></li>
-<li>Specialisms<ul>
-<li><a href="https://london.ac.uk/courses/computer-science-data-science">Data Science</a></li>
-<li><a href="https://london.ac.uk/courses/computer-science-games">Games Development</a></li>
-<li><a href="https://london.ac.uk/courses/computer-science-machine-learning-and-ai">Machine Learning and Artificial Intelligence</a></li>
-<li><a href="https://london.ac.uk/courses/bsc-computer-science-physical-computing">Physical Computing and the Internet of things</a></li>
-<li><a href="https://london.ac.uk/courses/computer-science-user-experience">User Experience</a></li>
-<li><a href="https://london.ac.uk/courses/computer-science-virtual-reality">Virtual Reality</a></li>
-<li><a href="https://london.ac.uk/courses/computer-science-web-and-mobile-development">Web and Mobile Development</a></li>
-</ul>
-</li>
-</ul>
-
-</details>
 <br />
 
 ## Stay in touch
