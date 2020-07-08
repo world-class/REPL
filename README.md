@@ -403,7 +403,7 @@ relevant topic for the final project.</p>
 <li><a href="./uol_documents/guidelines_for_examinations_2018_19.pdf">Guidelines for Examinations 2018–2019</a></li>
 <li><a href="./uol_documents/progregs-computer-science-2020-21.pdf">Programme Regulations 2020–2021</a></li>
 <li><a href="./uol_documents/progspec_computer_science_2019_2020.pdf">Programme specification, Computer Science 2019-2020</a></li>
-<li><a href="./uol_documents/computer_science_prospectus_2019_20.pdf">Prospectus, Computer Science 2019-2020</a></li>
+<li><a href="./uol_documents/computer-science-prospectus-2020.pdf">Prospectus, Computer Science 2019-2020</a></li>
 <li><a href="./uol_documents/online_library_academic_search_quick_start.pdf">Quick Start Guide - The Online Library</a></li>
 <li><a href="./uol_documents/student_terms_and_conditions.pdf">Student Terms and Conditions 2019-2020</a></li>
 <li><a href="./uol_documents/student_privacy_notice_uol_april_2018_final.pdf">Student privacy notice</a></li>
