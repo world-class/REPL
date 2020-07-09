@@ -244,6 +244,18 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ShenZhouHong",
+      "name": "Shen Zhou Hong",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6318461?v=4",
+      "profile": "http://shen.hong.io",
+      "contributions": [
+        "blog",
+        "content",
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 4,
