@@ -449,6 +449,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 ## Git / GitHub
 
+- [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - _"Interactive Git Cheatsheet, categorizing commands based on what they affect."_
 - [Git Immersion](http://gitimmersion.com) - _"A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."_
 - [Learn Git Branching](https://learngitbranching.js.org) - _"An interactive Git visualization tool to educate and challenge!"_
 - [Pro Git Book](https://git-scm.com/book/en/v2) - _"The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com."_
