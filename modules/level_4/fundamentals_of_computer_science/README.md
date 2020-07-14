@@ -9,7 +9,9 @@
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
   - [Essential reading](#essential-reading)
-    - [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
+    - [Textbooks solutions](#textbooks-solutions)
+      - [Discrete Mathematics and its Applications](#discrete-mathematics-and-its-applications)
+      - [Introduction to Automata Theory, Languages, and Computation](#introduction-to-automata-theory-languages-and-computation)
   - [Notes](#notes)
   - [Sample Paper with solutions](#sample-paper-with-solutions)
     - [March 2020](#march-2020)
@@ -70,10 +72,15 @@ _"Specific essential readings for each week from the following list are included
 - Merlin Forbes (2012). A Theoretical Introduction to Turing Machine, 1st. Learning Press
 - Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
 
-### Solutions to problems in the textbook Discrete Mathematics and its Applications
+### Textbooks solutions
+#### Discrete Mathematics and its Applications
 
 - [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
 - [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
+
+#### Introduction to Automata Theory, Languages, and Computation
+
+- [Solutions to Selected Exercises - stanford.edu](http://infolab.stanford.edu/~ullman/ialcsols/sols.html)
 
 ## Notes
 
