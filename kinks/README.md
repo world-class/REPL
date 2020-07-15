@@ -18,6 +18,8 @@
 - [Numerical Mathematics](../kinks/level_4/numerical_mathematics/README.md)
 - [Web Development](../kinks/level_4/web_development/README.md)
 
+As a great complimentary resource, don't forget to check out the `#bugs` channel on Slack.
+
 # Note to future students
 
 The information contained in this "kinks" section may not reflect the current state of the modules. Problems are being reported mainly by students from the first cohort to enroll in each of those modules and those problems may be fixed later down the road once the first batch of students is no longer part of those modules.

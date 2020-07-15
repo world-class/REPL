@@ -49,7 +49,7 @@ report it.</strong></p>
 
 - [Applying to UoL: Guide and FAQs about the process](applying_to_uol)
 - [Books recommended by students in this degree](books)
-- [Discord server](https://discord.gg/zDpffJQ) - Especially for prospective students
+- [Discord server](https://discord.gg/zDpffJQ) - Especially great for prospective students
 - [Free software](software)
 - [Job opportunities](job_opportunities)
 - [Kinks to be aware of in the different modules](kinks)
