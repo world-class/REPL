@@ -97,6 +97,7 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
     - [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
 
 - Youtube
+  - [Alejandra Beghelli's channel](https://www.youtube.com/channel/UCJWZNQIKS9V5R3Wn42PMIIw/) - **Instructor for this module**.
   - [Algorithm Design and Analysis](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5) (playlist) - UC Davis
   - [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://www.youtube.com/playlist?list=PLUl4u3cNGP63d33STUUBfZUpzFCVR5-PV) (playlist) - MIT OpenCourseWare - _"[...] summarizing the prerequisite complexity theory and featuring two examples of hardness proofs in games."_
   - [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY) - freeCodeCamp.org
