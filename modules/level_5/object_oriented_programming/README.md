@@ -55,6 +55,7 @@ Coursework only (Type II)
 ## Complementary learning
 
 - [Binary Data Representation](http://web.cecs.pdx.edu/~harry/videos-binary/) - Prof. Harry H. Porter III, Ph.D., Portland State University.
+- [Software Design Principles](http://principles-wiki.net/start) - Principles Wiki.
 
 ### C&#43;&#43;
 
