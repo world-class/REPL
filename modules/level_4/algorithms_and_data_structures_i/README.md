@@ -85,6 +85,10 @@ One two hour unseen written examination and coursework (Type I)
 - [Algorithms lecture 9 -- Quick sort algorithm](https://www.youtube.com/watch?v=3DV8GO9g7B4) - Gate Lectures by Ravindrababu Ravula
 - [2.8.1 QuickSort Algorithm](https://www.youtube.com/watch?v=7h1s2SojIRw) - Abdul Bari
 
+#### `quickSort` & `mergeSort` algorithms MIT
+ 
+- [3. Insertion Sort, Merge Sort](https://youtu.be/Kg4bqzAqRBM) - MIT 6.006 Introduction to Algorithms, Fall 2011
+
 ### Computational complexity & P vs NP
 
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - bigocheatsheet.com
