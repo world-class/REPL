@@ -256,6 +256,15 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "AlexeiaW",
+      "name": "Alexeia",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8192490?v=4",
+      "profile": "http://alexeia.digital",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
