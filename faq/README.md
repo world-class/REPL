@@ -76,6 +76,7 @@
     - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
     - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
   - [Graduation & Beyond](#graduation--beyond)
+    - [Is this programme accredited](#is-this-programme-accredited)
     - [How is this degree going to tie in or transfer over to the new MSc Data Science from UoL and the soon to come MSc Machine Learning on Coursera](#how-is-this-degree-going-to-tie-in-or-transfer-over-to-the-new-msc-data-science-from-uol-and-the-soon-to-come-msc-machine-learning-on-coursera)
     - [Is there no honours in the UK? Do we qualify for a masters straight after Bsc](#is-there-no-honours-in-the-uk-do-we-qualify-for-a-masters-straight-after-bsc)
     - [Will there be difference in the diploma if we finish the degree online and on campus](#will-there-be-difference-in-the-diploma-if-we-finish-the-degree-online-and-on-campus)
@@ -427,6 +428,10 @@ This section is dedicated to all the general questions that are answered well in
 ---
 
 ## Graduation & Beyond
+
+### Is this programme accredited
+
+- _Summary: Yes, the University of London and this degree in particular are accredited_. See [this article on Reddit at r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/comments/hzumke/everything_you_want_to_know_about_the/) for details.
 
 ### How is this degree going to tie in or transfer over to the new MSc Data Science from UoL and the soon to come MSc Machine Learning on Coursera
 
