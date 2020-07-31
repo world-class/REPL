@@ -58,6 +58,7 @@ One two hour unseen written examination and coursework (Type I)
 - Highly recommended for week 7 onwards: [lectures](https://web.cs.ucdavis.edu/~rogaway/classes/120/spring14/) and [videos](https://www.cs.ucdavis.edu/~rogaway/classes/120/fall12/lectures.html) from Prof. Michael Harrison.
 - [Context-free grammar tool](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/tools/cfg/)
 - [Context-Free Grammar with Daniel Shiffman](https://shiffman.net/a2z/cfg/) - A fun way to understand CFG with real-world examples and programming.
+- [Great Ideas in Theoretical Computer Science](https://www.youtube.com/watch?v=khyrgbiz20o&list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - Complementary topics, including proofs, deductive systems, logic, finite automata, Turing, time complexity, graph algorithms, etc.
 - [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html)
 - [Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
 
