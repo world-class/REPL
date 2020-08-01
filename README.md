@@ -482,6 +482,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.sashavarlamov.com"><img src="https://avatars0.githubusercontent.com/u/10859025?v=4" width="100px;" alt=""/><br /><sub><b>Sasha Varlamov</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=svarlamov" title="Documentation">📖</a></td>
     <td align="center"><a href="http://shen.hong.io"><img src="https://avatars3.githubusercontent.com/u/6318461?v=4" width="100px;" alt=""/><br /><sub><b>Shen Zhou Hong</b></sub></a><br /><a href="#blog-ShenZhouHong" title="Blogposts">📝</a> <a href="#content-ShenZhouHong" title="Content">🖋</a> <a href="https://github.com/world-class/REPL/commits?author=ShenZhouHong" title="Documentation">📖</a> <a href="#tutorial-ShenZhouHong" title="Tutorials">✅</a></td>
     <td align="center"><a href="http://alexeia.digital"><img src="https://avatars1.githubusercontent.com/u/8192490?v=4" width="100px;" alt=""/><br /><sub><b>Alexeia</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=AlexeiaW" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/jacktgriffiths"><img src="https://avatars2.githubusercontent.com/u/22191055?v=4" width="100px;" alt=""/><br /><sub><b>Jack Griffiths</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=jacktgriffiths" title="Documentation">📖</a></td>
   </tr>
 </table>
 
