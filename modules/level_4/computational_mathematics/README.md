@@ -7,6 +7,7 @@
 - [Topics previously covered (numerical mathematics)](#topics-previously-covered-numerical-mathematics)
 - [Assessment](#assessment)
 - [Resources](#resources)
+  - [Reading List](#reading-list)
   - [Notes](#notes)
     - [Numerical Mathematics (earlier iteration of the module)](#numerical-mathematics-earlier-iteration-of-the-module)
   - [Syllabus](#syllabus)
