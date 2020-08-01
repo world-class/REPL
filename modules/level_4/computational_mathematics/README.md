@@ -47,6 +47,10 @@ One two hour unseen written examination and coursework (Type I)
 
 # Resources
 
+## Reading List
+
+- [Computational Mathematics Weekly Reading List PDF (April 2020)](./resources/cm_weekly_reading_list.pdf)
+
 ## Notes
 
 - [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-1_Lecture.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-1_Lecture.pdf)
