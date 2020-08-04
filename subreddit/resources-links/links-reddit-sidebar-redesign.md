@@ -1,4 +1,5 @@
 ## Information on UoL's BSc Computer Science 🇬🇧
+
 Collection of links 🔗 and PDFs 📄 about the University of London's Bachelor's of Science in Computer Science degree programme.
 
 [**BSc Computer Science Programme Homepage**](https://london.ac.uk/courses/computer-science)
@@ -14,13 +15,14 @@ Admissions prospectus on the BSc Computer Science for interested students. A pol
 A high-level summary of the 22 modules and Final Project which makes up the Programme, seperated by Levels.
 
 [**Programme Regulations (2020-2021)**](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf)
-The 'Bible' of the BSc Computer Science degree. *If you will only read one document from this section, read this one.* Contains almost every detail about specific workings and regulations.
+The 'Bible' of the BSc Computer Science degree. _If you will only read one document from this section, read this one._ Contains almost every detail about specific workings and regulations.
 https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf
 
 [**Programme Specification (2020-2021)**](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2020-21.pdf)
 A broad outline and overview of the structure and content of the degree, entry level qualifications, and learning outcomes.
 
 ## About the University of London 🇬🇧
+
 Links 🔗 and PDFs 📄 about the University of London in general, as well as resources for students.
 
 [**University of London Website**](https://london.ac.uk/)
@@ -30,7 +32,7 @@ The official website of the University of London. Did you know that the Universi
 Admissions prospectus about the University of London in general. A polished, informative summary for the prospective student.
 
 [**General Regulations**](https://london.ac.uk/sites/default/files/regulations/progregs-general-2020-2021.pdf)
-Handbook of rules and regulations governing the University of London *If you will only read one document from this section, read this one.* Contains almost every detail about specific workings and systems of the University of London.
+Handbook of rules and regulations governing the University of London _If you will only read one document from this section, read this one._ Contains almost every detail about specific workings and systems of the University of London.
 
 [**Student's Guide**](https://my.london.ac.uk/documents/10197/2676152/Student+Guide/07f72f0b-fd7d-cc23-603f-db6c31bfa5e2)
 Guide for current students of the University of London. Includes information like how to get funding, online libraries, and support networks
@@ -46,6 +48,7 @@ Important legal contract which covers the consumer rights and legal protections 
 Tuition for the University of London is dependant on your 'Country Band'. Band A countries pay £400 GBP per module, while Band B countries pay £600 GBP per module.
 
 ## Student-Run Resources and Community
+
 Links to various student-made resources and community portal
 
 [**Resources Enriching Learners Perennially (Student Hub)**](https://world-class.github.io/REPL/)
@@ -60,8 +63,8 @@ Various FAQs and guides to the different modules
 [**Slack Channel Guide**](https://world-class.github.io/REPL/slack/)
 An overview of the vibrant Slack community, and the various channels that are available.
 
-
 ## Login Portals for Currently Enrolled Students
+
 Links to various login portals for currently enrolled students. Valid account credentials at the University of London is required for access.
 
 [**University of London Student Portal**](https://my.london.ac.uk/)

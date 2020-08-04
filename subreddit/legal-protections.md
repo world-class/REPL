@@ -4,41 +4,43 @@ Hello /r/UniversityOfLondonCS!
 
 With the start of the next academic cohort approaching, there's been a lot more interest in the University of London's Online Bachelor's in Computer Science. I've been meeting a lot of prospective students in [our Discord Server](https://discord.gg/GhRFG5X), and many people are curious on whether or not this programme will work for them. An online programme like this one is fundamentally different from a traditional on-campus experience, and whether or not it is 'better' or 'worse' depends a lot on the individual student's personal situation and aptitude.
 
-*Hence, it's perfectly okay if you enroll, and realise later on that this programme or style of learning is not suitable for your particular situation.*
+_Hence, it's perfectly okay if you enroll, and realise later on that this programme or style of learning is not suitable for your particular situation._
 
-As a distance-learning student you are entitled to certain rights and legal protections, **including a right to a full refund within 14 days of access to classes**. These rights are outlined in the [Student Terms and Conditions document](https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf
-), which is a legally binding contract under UK Law.
+As a distance-learning student you are entitled to certain rights and legal protections, **including a right to a full refund within 14 days of access to classes**. These rights are outlined in the [Student Terms and Conditions document](https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf), which is a legally binding contract under UK Law.
 
-Now, I cannot advise on the actual minutiae of the contract as I am not a lawyer, and *this post is not legal advice*. However, I wrote this guide specifically to highlight these protections, so that any (prospective or current) students are aware of what they are entitled to. I am specifically going to quote verbatim the relevant sections from the Student Terms and Conditions, and link to their respective section and page numbers:
+Now, I cannot advise on the actual minutiae of the contract as I am not a lawyer, and _this post is not legal advice_. However, I wrote this guide specifically to highlight these protections, so that any (prospective or current) students are aware of what they are entitled to. I am specifically going to quote verbatim the relevant sections from the Student Terms and Conditions, and link to their respective section and page numbers:
 
 ---
 
 ## Refund and Withdrawl
->**Section 16.1:** As you are entering into this Contract remotely (i.e. there has been no face-to-face contact between us and you at the time you register with us) you may cancel this Contract by the later of
->
->	(a) 14 days after the date when you pay your Registration Fee or
->
->	(b) 14 days after the date you are first given access to Programme materials on the Virtual Learning Environment ("the Cancellation Period").
 
->**Section 16.3:** If you have made any payment, or any payment has been made on your behalf under this Contract before the Cancellation Date, excluding payment of the Application Fee, then we will provide you with a full refund as soon as reasonably possible but in any event:
+> **Section 16.1:** As you are entering into this Contract remotely (i.e. there has been no face-to-face contact between us and you at the time you register with us) you may cancel this Contract by the later of
 >
->	(a) within 14 days of the Cancellation Date; or
+>     (a) 14 days after the date when you pay your Registration Fee or
 >
->	(b) within 14 days of the University receiving returned physical materials or receiving satisfactory evidence that the materials have been returned, whichever is earlier.
+>     (b) 14 days after the date you are first given access to Programme materials on the Virtual Learning Environment ("the Cancellation Period").
+
+> **Section 16.3:** If you have made any payment, or any payment has been made on your behalf under this Contract before the Cancellation Date, excluding payment of the Application Fee, then we will provide you with a full refund as soon as reasonably possible but in any event:
+>
+>     (a) within 14 days of the Cancellation Date; or
+>
+>     (b) within 14 days of the University receiving returned physical materials or receiving satisfactory evidence that the materials have been returned, whichever is earlier.
 
 **Source:** Section 16 (page 12) of the Student Terms and Conditions
 https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf
 
 ## In Event of Significant Changes in the Programme after Enrolment
->	**Section 8.1.2:** In circumstances where it is necessary to make a material change to your Programme (likely to have a significant impact on your studies as reasonably determined by us), we will consult with you before final decisions are made and consider your concerns. We will assess these against the needs of the wider student body. If you are unhappy with the material change(s) to your Programme, you may cancel the Contract and withdraw from the Programme without incurring any further liability for Programme Fees and we may refund your Programme Fees paid to date.
+
+>     **Section 8.1.2:** In circumstances where it is necessary to make a material change to your Programme (likely to have a significant impact on your studies as reasonably determined by us), we will consult with you before final decisions are made and consider your concerns. We will assess these against the needs of the wider student body. If you are unhappy with the material change(s) to your Programme, you may cancel the Contract and withdraw from the Programme without incurring any further liability for Programme Fees and we may refund your Programme Fees paid to date.
 
 **Source:** Section 8.1.2 (page 8) of the Student Terms and Conditions
 https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf
 
 ## In Event of Programme Cancellation
->	**Section 8.2:** If we discontinue your Programme because of matters beyond our control and we are unable to complete delivery of the Programme, we will inform you as soon as is reasonably possible. In such circumstances we will endeavor to offer the Programme for a period of up to 5 years from such notification or until the last student has completed their studies, if this is sooner.
+
+>     **Section 8.2:** If we discontinue your Programme because of matters beyond our control and we are unable to complete delivery of the Programme, we will inform you as soon as is reasonably possible. In such circumstances we will endeavor to offer the Programme for a period of up to 5 years from such notification or until the last student has completed their studies, if this is sooner.
 >
->	If, following such notice, we are unable to offer the Programme for a period of up to 5 years or until the last student has completed their studies, if this is sooner, then we will use all reasonable efforts to transfer you to a suitable alternative University programme for which you are qualified. If we are unable to provide a suitable alternative programme, or if you are unhappy with the recommended alternative programme, you may cancel the Contract and withdraw from the Programme without incurring any further liability forProgramme Fees and we may refund Programme Fees paid to date.
+>     If, following such notice, we are unable to offer the Programme for a period of up to 5 years or until the last student has completed their studies, if this is sooner, then we will use all reasonable efforts to transfer you to a suitable alternative University programme for which you are qualified. If we are unable to provide a suitable alternative programme, or if you are unhappy with the recommended alternative programme, you may cancel the Contract and withdraw from the Programme without incurring any further liability forProgramme Fees and we may refund Programme Fees paid to date.
 
 **Source:** Section 8.2 (page 8) of the Student Terms and Conditions
 https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf
@@ -57,6 +59,6 @@ The latter two protections (involving programme changes and cancellations) seem 
 
 ## Sources and Further Reading
 
-* https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf
+- https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf
 
-* https://london.ac.uk/sites/default/files/governance/refund-and-compensation-policy-uolw-2019.pdf
+- https://london.ac.uk/sites/default/files/governance/refund-and-compensation-policy-uolw-2019.pdf

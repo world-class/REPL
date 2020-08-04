@@ -18,7 +18,7 @@ A high-level summary of the 22 modules and Final Project which makes up the Prog
 :link: https://london.ac.uk/computer-science-structure
 
 **Programme Regulations (2020-2021)**
-The 'Bible' of the BSc Computer Science degree. *If you will only read one document from this section, read this one.* Contains almost every detail about specific workings and regulations.
+The 'Bible' of the BSc Computer Science degree. _If you will only read one document from this section, read this one._ Contains almost every detail about specific workings and regulations.
 :page_facing_up: https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf
 
 **Programme Specification (2020-2021)**
@@ -37,7 +37,7 @@ Admissions prospectus about the University of London in general. A polished, inf
 :page_facing_up: https://london.ac.uk/sites/default/files/prospectuses/GIP-2020.pdf
 
 **General Regulations**
-Handbook of rules and regulations governing the University of London *If you will only read one document from this section, read this one.* Contains almost every detail about specific workings and systems of the University of London.
+Handbook of rules and regulations governing the University of London _If you will only read one document from this section, read this one._ Contains almost every detail about specific workings and systems of the University of London.
 :page_facing_up: https://london.ac.uk/sites/default/files/regulations/progregs-general-2020-2021.pdf
 
 **Student's Guide**
@@ -55,7 +55,7 @@ Important legal contract which covers the consumer rights and legal protections 
 :page_facing_up: https://my.london.ac.uk/documents/10197/2926462/examcentres-northamerica.pdf/da80d4a8-00db-053c-283a-0757f88b5e85
 
 **Table of Country Bands (for Tuition)**
-Tuition for the University of London is dependant on your 'Country Band'. *As of August 2020, Band A countries pay £420 GBP per module, while Band B countries pay £630 GBP per module.*
+Tuition for the University of London is dependant on your 'Country Band'. _As of August 2020, Band A countries pay £420 GBP per module, while Band B countries pay £630 GBP per module._
 :page_facing_up: https://london.ac.uk/sites/default/files/leaflets/country-bands.pdf
 
 :flag_gb: **Recognition of Prior Learning** :flag_gb:
@@ -74,7 +74,6 @@ Yes, this is the correct one. Complete this in order to apply for an RPL to bypa
 **Applying for a Recognition of Prior Learning: Or How to Save £400 to £600 GBP**
 A student post which explains what RPLs are, and walks you through the process of getting a RPL via Coursera's Google IT Cert.
 :link: https://www.reddit.com/r/UniversityOfLondonCS/comments/hhjr2r/applying_for_a_recognition_of_prior_learning_rpl/
-
 
 :passport_control:**Login Portals for Currently Enrolled Students** :passport_control:
 Links to various login portals for currently enrolled students. Valid account credentials at the University of London is required for access.
@@ -112,7 +111,6 @@ Various FAQs and guides to the different modules
 **Slack Channel Guide**
 An overview of the vibrant Slack community, and the various channels that are available.
 :link: https://world-class.github.io/REPL/slack/
-
 
 :100: **Useful posts from /r/UniversityOfLondonCS** :100:
 Links to various student-made resources and community portal
