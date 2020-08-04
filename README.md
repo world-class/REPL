@@ -58,7 +58,8 @@ report it.</strong></p>
 - [Podcasts](podcasts)
 - [Showcase of student-built applications](showcase)
 - [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
-- SubReddit: [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/)
+- Subreddit: [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/)
+- [Subreddit Articles: ](subreddit): A series of in-depth, informative articles by /u/Yangchenghu, originally posted on Reddit. (Opens directly on GitHub)
 - [University of London documents](https://github.com/world-class/REPL/tree/master/uol_links). - See them all at a glance. (Opens directly on GitHub.)
 
 <br />
