@@ -74,6 +74,7 @@ _"Specific essential readings for each week from the following list are included
 - Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
 
 ### Textbooks solutions
+
 #### Discrete Mathematics and its Applications
 
 - [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
@@ -93,8 +94,9 @@ _"Specific essential readings for each week from the following list are included
 
 ### March 2020
 
-- [FCS sample paper](./resources/FCS_Mock_exam_Mar_2020.pdf)
+- [FCS sample paper (mock)](./resources/FCS_Mock_exam_Mar_2020.pdf)
 - [FCS sample paper solutions](https://docs.google.com/document/d/1Pb86mf6FsSjkWS4qbh6B05EISP3KTbkQL46MZxvQ9qk/edit)
+- [FCS past exam March 2020](./resources/CM1025_Exam_Questions_March_2020.pdf)
 
 ## Study guide
 
