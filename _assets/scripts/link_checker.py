@@ -31,7 +31,7 @@ def extract_links(excluded_websites: list) -> list:
     """Extract links from all .md files recursively from the current
     repository."""
     cmd = (
-        'cat ../../**/*.md | grep -Eo "(http|https)://[a-zA'
+        'cat ../../**/*.md | grep -Eo "(http|https)://[+a-zA'
         '-Z0-9./?=_~-]*" | sort | uniq > links.txt'
     )
     subprocess.run(cmd, shell=True)
