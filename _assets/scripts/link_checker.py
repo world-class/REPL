@@ -11,8 +11,6 @@ import time
 
 # Third-party imports
 import requests
-from pydub import AudioSegment
-from pydub.playback import play
 
 FILE_NAME = "dead.txt"  # Will appear if it contains dead links
 HEADERS = {
@@ -140,8 +138,3 @@ if __name__ == "__main__":
 
     # Scan through the file that contains dead links. If empty, delete it.
     check_all_ok(FILE_NAME)
-
-    # Play a nice little sound when the script is done and shows ugly output
-    # for the file being played
-    song = AudioSegment.from_wav("./sounds/done.wav")
-    play(song)
