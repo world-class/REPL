@@ -15,6 +15,7 @@
       - [Small queries regarding a module](#small-queries-regarding-a-module)
     - [Is there a simple repository of all knowledge generated regarding this program](#is-there-a-simple-repository-of-all-knowledge-generated-regarding-this-program)
     - [How to access the library](#how-to-access-the-library)
+    - [What is my student email address](#what-is-my-student-email-address)
     - [When can we expect our ISIC cards](#when-can-we-expect-our-isic-cards)
     - [What kind of materials will university deliver to us](#what-kind-of-materials-will-university-deliver-to-us)
     - [Do we get a dedicated student advisor, as it is customary in other countries (for example the US)](#do-we-get-a-dedicated-student-advisor-as-it-is-customary-in-other-countries-for-example-the-us)
@@ -31,7 +32,7 @@
   - [Modules & Progression](#modules--progression)
     - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
     - [How can I drop/withdraw from module](#how-can-i-dropwithdraw-from-module)
-    - [What is the maximum number of modules that one can select per semester](#what-is-the-maximum-number-of-modules-that-one-can-select-per-semester)
+    - [What is the maximum number of modules that one can select per semester and what if I fail one module](#what-is-the-maximum-number-of-modules-that-one-can-select-per-semester-and-what-if-i-fail-one-module)
     - [Where can I see a syllabus of all available modules](#where-can-i-see-a-syllabus-of-all-available-modules)
     - [How can I progress to level 5 modules](#how-can-i-progress-to-level-5-modules)
     - [Which math topics should I review before taking Numerical Math as to feel comfortable during the course](#which-math-topics-should-i-review-before-taking-numerical-math-as-to-feel-comfortable-during-the-course)
@@ -39,6 +40,7 @@
     - [Would on-campus be at the usual UK tuition fee rate](#would-on-campus-be-at-the-usual-uk-tuition-fee-rate)
     - [Can we register 3 modules + project in last semester](#can-we-register-3-modules--project-in-last-semester)
     - [Do you recommend taking four modules at a time if they are available](#do-you-recommend-taking-four-modules-at-a-time-if-they-are-available)
+    - [Does each module in Level 4 courses actually take 7 hours per week per module, I have some programming experience](#does-each-module-in-level-4-courses-actually-take-7-hours-per-week-per-module-i-have-some-programming-experience)
     - [Can a BSc CS student take more than 22 modules (excluding the final project)](#can-a-bsc-cs-student-take-more-than-22-modules-excluding-the-final-project)
   - [Programme Regulations](#programme-regulations)
     - [How much do I need to pass module X](#how-much-do-i-need-to-pass-module-x)
@@ -126,6 +128,10 @@
 ### How to access the library
 
 - [https://www.coursera.org/learn/london-cs-orientation/supplement/Umu9M/student-resources](https://www.coursera.org/learn/london-cs-orientation/supplement/Umu9M/student-resources)
+
+### What is my student email address
+
+- It's of the form `short_student_name_with_numbers@student.london.ac.uk`. You access it [from a Google account](http://mail.google.com/a/student.london.ac.uk).
 
 ### When can we expect our ISIC cards
 
@@ -222,7 +228,7 @@ If you have any specific queries about something you have created which you are 
 
 - You will have 14 days from the beginning of your course (the day your modules become available on the platform) to withdraw a module or transfer it to a later study session. After 14 days, any fees paid to the University will not be refunded unless there are mitigating circumstances which we will consider on submission of the relevant evidence. Please see [terms and conditions](https://london.ac.uk/applicationshow-apply/terms-and-conditions) for further information.
 
-### What is the maximum number of modules that one can select per semester
+### What is the maximum number of modules that one can select per semester and what if I fail one module
 
 - The maximum number of modules you can register for in any one session is five (or three plus the final project). This can be a combination of new modules and resits (with a maximum of four new modules), or resits only.
 - For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf).
@@ -234,8 +240,8 @@ If you have any specific queries about something you have created which you are 
 ### How can I progress to level 5 modules
 
 - To progress to Level 5 modules, you must have:
-  - completed at least 45 credits at Level 4, including Introduction to Programming I and either Discrete or Numerical Mathematics
-  - made an attempt at a further 45 credits at Level 4, including both Introduction to Programming II and the remaining Level 4 maths module
+  - completed at least 45 credits at Level 4, including Introduction to Programming I and either Discrete or Numerical Mathematics;
+  - made an attempt at a further 45 credits at Level 4, including both Introduction to Programming II and the remaining Level 4 maths module;
   - registered for any Level 4 modules not yet attempted alongside your Level 5 modules.
 
 ### Which math topics should I review before taking Numerical Math as to feel comfortable during the course
@@ -260,6 +266,12 @@ If you have any specific queries about something you have created which you are 
 ### Do you recommend taking four modules at a time if they are available
 
 - Unfortunately, it is not for us to recommend, as it very much depends on your current circumstances. It is important to think about how much time you can give to your studies, as you should allow 6-10 study hours per week for a module.
+
+### Does each module in Level 4 courses actually take 7 hours per week per module, I have some programming experience
+
+- No. It really depends on what you already know and the course you take. Introduction to Programming will probably be a breeze for you, maybe web development too. You could spend half as much and still be good to go (3.5 hours / week / module). However, it really depends how well you want to understand the topics, you could also spend twice as much if you want to go in depth, although the academic level is not very high if you stick to the basic requirements.
+
+- It's a good idea to allow more time for theoretical modules especially if you don't have experience with the content compared to the practical ones which are more about programming assignments. It's hard to tell. Many students work full-time and are fine with 3 modules per semester. Some have more experience and work full-time while doing 4 modules, but that can be too much for many who are less experienced.
 
 ### Can a BSc CS student take more than 22 modules (excluding the final project)
 
