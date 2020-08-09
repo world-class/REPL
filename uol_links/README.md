@@ -19,7 +19,7 @@
 - [Data protection policy](./data_protection_policy.pdf)
 - [Events Due Diligence Privacy Notice](./events_due_diligence_privacy_notice.pdf)
 - [GDPR Rights guide - students](./gdpr_rights_guide_students.pdf)
-- [Guidelines for Examinations 2018–2019](./guidelines_for_examinations_2018_19.pdf)
+- [Guidelines for Examinations 2018–2019](./guidelines-for-examinations-2019-20.pdf)
 - [Online Library - Quick Start Guide](./online_library_academic_search_quick_start.pdf)
 - [Programme Regulations 2020–2021](./progregs-computer-science-2020-21.pdf)
 - [Programme specification, Computer Science 2020-2021](./progspec-computer-science-2020-21.pdf)
