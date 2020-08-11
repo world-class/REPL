@@ -56,6 +56,7 @@
     - [What week are we on](#what-week-are-we-on)
     - [How do I setup calendar sync on Coursera](#how-do-i-setup-calendar-sync-on-coursera)
     - [I don't want to miss important announcements, what to do](#i-dont-want-to-miss-important-announcements-what-to-do)
+    - [How long are vacations between semesters](#how-long-are-vacations-between-semesters)
   - [Exams](#exams)
     - [Will you be expanding test centers The closest one to me is rather far away](#will-you-be-expanding-test-centers-the-closest-one-to-me-is-rather-far-away)
     - [If we sit the exam outside the UK, in a local examination centre, then it is done via British council, isn't it](#if-we-sit-the-exam-outside-the-uk-in-a-local-examination-centre-then-it-is-done-via-british-council-isnt-it)
@@ -348,6 +349,13 @@ This section is dedicated to all the general questions that are answered well in
 ### I don't want to miss important announcements, what to do
 
 - Make sure you have a filter in your email for UoL emails. Also subscribe to [#official-communications](https://londoncs.slack.com/archives/CM4KKHUCB) on Slack.
+
+### How long are vacations between semesters
+
+- **About 1 month**, give or take, with the possibility of smaller breaks in between if you manage your time well (it's up to you).
+- **Semester 1:** April 8 2019 to September ~13 2019 (the deadline was extended for a module so you could have been done earlier). **Break:** 25 days.
+- **Semester 2:** October 7 2019 to March 9 2020. **Break:** 41 days.
+- **Semester 3:** April 19 2020 to September ~23 2020 (it depends on the exams you take, but roughly ending a week earlier than that with the theory). Etc.
 
 ---
 
