@@ -81,12 +81,14 @@
   - [Kotlin](#kotlin)
   - [Markdown](#markdown)
   - [Python](#python-1)
+    - [Hosting](#hosting)
   - [Questions and answers](#questions-and-answers)
   - [Regular expressions (regex)](#regular-expressions-regex)
   - [SQL](#sql)
   - [TypeScript](#typescript)
 - [Startups](#startups)
 - [Technology](#technology)
+- [Terminal / Command-line interface](#terminal--command-line-interface)
 - [Typing faster](#typing-faster)
 - [Variety](#variety)
 - [Web](#web)
@@ -191,6 +193,7 @@
 # Hacking
 
 - :star: [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - _"A collection of awesome lists for hackers, pentesters & security researchers."_
+- [Hacksplaining](https://www.hacksplaining.com/) - _"Hacksplaining: Learn to hack."_
 - [Hacker Tools](https://hacker-tools.github.io) - _"Learn to make the most of the tools that hackers have been using for decades."_
 
 # LaTeX
@@ -296,6 +299,7 @@
 
 # Music (ideal for programming)
 
+- [Brainaural](https://brainaural.com) - _"What Are Brainwaves? Does Entrainement Work? Find out for yourself! Now with free audio file download."_
 - [Music For Programming](http://musicforprogramming.net) - Play programming music right from your web browser in an IDE-like interface.
 - [Rainy Mood](https://rainymood.com) (noise generator) - _"Helps you to focus, relax, and sleep. [...] The internet's most popular rain experience."_
 
@@ -453,6 +457,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Git Immersion](http://gitimmersion.com) - _"A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."_
 - [Learn Git Branching](https://learngitbranching.js.org) - _"An interactive Git visualization tool to educate and challenge!"_
 - [Pro Git Book](https://git-scm.com/book/en/v2) - _"The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com."_
+- [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/) - _"Have you thought about contributing to an open source project, but you're too confused (or intimidated) by the process to even try? I've been there too!"_
 - [Try GitHub](http://try.github.io) - _Resources to learn Git: Handbook, cheat sheets, git commands in the browser, etc._
 
 ## iOS
@@ -488,6 +493,10 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the basic syntax of Python, some standard libraries and the Django framework that is used to build web applications."_.
 - [Quantitative Economics with Python](https://lectures.quantecon.org/py) - Great reference for scientific libraries, working with data, advanced Python concepts, dynamic programming.
 
+### Hosting
+
+- [Python Anywhere](https://www.pythonanywhere.com/) - _"Host, run, and code Python in the cloud!"_
+
 ## Questions and answers
 
 - [Stack Overflow](https://stackoverflow.com) - _"Stack Overflow is a question and answer site for professional and enthusiast programmers."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Stack_Overflow)
@@ -514,9 +523,14 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 - [Version Museum](https://www.versionmuseum.com) - _"Version Museum showcases the visual history of popular websites, operating systems, applications, and games that have shaped our lives. Much like walking through a real-life museum, this site focuses on the design changes of historic versions of technology, rather than just the written history behind it."_
 
+# Terminal / Command-line interface
+
+- [Asciinema](https://asciinema.org) - _"Record and share your terminal sessions, the right way."_
+
 # Typing faster
 
 - [10FastFingers](https://10fastfingers.com) - _"Test & Improve your Typing Speed with our free Typing Games."_
+- [Keybr](https://keybr.com) - _"Typing Lessons. Take typing speed test, practice your touch typing skills, learn to type faster and with fewer errors with this free online typing tutor."_
 - [Typing.io](https://typing.io) - _"Typing.io is a typing tutor/trainer for programmers. Typing.io's lessons are based on open source code, allow you to practice typing the key sequences that appear in real code."_
 
 # Variety
@@ -571,4 +585,5 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Color Hunt](https://colorhunt.co) - _"Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes."_
 - [Coolors](https://coolors.co) - _"The super fast color schemes generator! Create, save and share perfect palettes in seconds!"_
 - [HTML Color Codes](https://htmlcolorcodes.com) - _"Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names."_
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - _"Lighthouse is an open-source, automated tool for improving the quality of web pages."_
 - [Real Favicon Generator](https://realfavicongenerator.net) - _"Favicon Generator. For real."_
