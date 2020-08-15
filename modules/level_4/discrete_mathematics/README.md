@@ -8,6 +8,7 @@
 - [Assessment](#assessment)
 - [Resources](#resources)
   - [Additional reading](#additional-reading)
+  - [Complementary learning](#complementary-learning)
   - [Essential reading](#essential-reading)
     - [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
   - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
@@ -64,6 +65,10 @@ One two hour unseen written examination and coursework (Type I)
 - TrevTutor.com:
   - [Set theory, Logic, Counting, Proof techniques, relations and functions, number theory & formal language, with exams & solutions](https://trevtutor.com/discretemath/discretemath1/).
   - [Counting & probability, generating functions & recurrence relations, graph theory, with exams & solutions](https://trevtutor.com/discretemath/discrete-math-2/).
+
+## Complementary learning
+
+- [Saylor Academy](https://learn.saylor.org/course/index.php?categoryid=13) - _"Explore the real-world applications of mathematics through algebra, calculus, statistics, and geometry. You can earn a free certificate of completion for any of these online Mathematics courses, or use many of them to earn credit in leading college programs."_
 
 ## Essential reading
 
@@ -122,8 +127,8 @@ _This course does not require you to read the whole book, you will be given spec
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-18_9.2_Equivalence&Order.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-18_9.2_Equivalence&Order.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-19_10.1_TheBasics-Reading.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-19_10.1_TheBasics-Reading.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-19_10.1_TheBasics.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-19_10.1_TheBasics.pdf)
-- [students_notes/sukhjit_mann/Discrete_Maths_Week-1_01* A._Sets.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-1_01_A._Sets.pdf)
-- [students_notes/sukhjit_mann/Discrete_Maths_Week-1_01* A._Sets_Reading_2.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-1_01_A._Sets_Reading_2.pdf)
+- [students_notes/sukhjit_mann/Discrete_Maths_Week-1_01\* A.\_Sets.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-1_01_A._Sets.pdf)
+- [students_notes/sukhjit_mann/Discrete_Maths_Week-1_01\* A.\_Sets_Reading_2.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-1_01_A._Sets_Reading_2.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-20_10.2_Further_techniques-Reading.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-20_10.2_Further_techniques-Reading.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-20_10.2_Further_techniques.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-20_10.2_Further_techniques.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-2_1.2_Set_Representation_Manipulation-Reading.pdf](../../../notes/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-2_1.2_Set_Representation_Manipulation-Reading.pdf)

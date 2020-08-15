@@ -7,6 +7,7 @@
 - [Topics previously covered (numerical mathematics)](#topics-previously-covered-numerical-mathematics)
 - [Assessment](#assessment)
 - [Resources](#resources)
+  - [Complementary learning](#complementary-learning)
   - [Reading List](#reading-list)
   - [Notes](#notes)
     - [Numerical Mathematics (earlier iteration of the module)](#numerical-mathematics-earlier-iteration-of-the-module)
@@ -47,6 +48,10 @@ graphing and linear algebra.
 One two hour unseen written examination and coursework (Type I)
 
 # Resources
+
+## Complementary learning
+
+- [Saylor Academy](https://learn.saylor.org/course/index.php?categoryid=13) - _"Explore the real-world applications of mathematics through algebra, calculus, statistics, and geometry. You can earn a free certificate of completion for any of these online Mathematics courses, or use many of them to earn credit in leading college programs."_
 
 ## Reading List
 

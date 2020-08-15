@@ -50,6 +50,7 @@
     - [Calculus](#calculus)
     - [Linear algebra](#linear-algebra)
     - [Probability and statistics](#probability-and-statistics)
+    - [Various topics](#various-topics-1)
   - [Mobile development](#mobile-development)
   - [Psychology & Health](#psychology--health)
   - [Support & Operations](#support--operations)
@@ -227,6 +228,7 @@
 ### Various Topics
 
 - [MIT OpenCourseWare](https://ocw.mit.edu) - _"MIT OpenCourseWare makes the materials used in the teaching of almost all of MIT's subjects available on the Web, free of charge. With more than 2,400 courses available, OCW is delivering on the promise of open sharing of knowledge."_
+- [Saylor Academy](https://learn.saylor.org/course/index.php?categoryid=9) - _"Learn the basics of in-demand skills like programming, information technology, software engineering, systems architecture and management, and networking. You can earn a free certificate of completion for any of these online Computer Science courses, or use many of them to earn credit in leading computer science, information technology, and cybersecurity college programs. "_
 
 ## Cybersecurity
 
@@ -374,6 +376,10 @@
 - [Fat Chance: Probability from the Ground Up](https://online-learning.harvard.edu/course/fat-chance-probability-ground) - edX. Offered by Harvard University. _"Increase your quantitative reasoning skills through a deeper understanding of probability and statistics."_
 - [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data-0) - edX. Offered by MIT.
 
+### Various topics
+
+- [Saylor Academy](https://learn.saylor.org/course/index.php?categoryid=13) - _"Explore the real-world applications of mathematics through algebra, calculus, statistics, and geometry. You can earn a free certificate of completion for any of these online Mathematics courses, or use many of them to earn credit in leading college programs."_
+
 ## Mobile development
 
 - [CS50's Mobile App Development with React Native](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps) - HarvardX. _"Learn about mobile app development with React Native, a popular framework maintained by Facebook that enables cross-platform native apps using JavaScript without Java or Swift."_
@@ -386,8 +392,8 @@
 
 ## Support & Operations
 
-- :black_square_button: [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) _"The program will introduce you to troubleshooting, customer service, networking, operating systems, system administration and security."_
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) _"Automate tasks by writing Python scripts. Use Git and GitHub for version control. Manage IT resources at scale, both for physical machines and virtual machines in the cloud. Analyze real-world IT problems and implement the appropriate strategies to solve those problems."_
+- :black*square_button: [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) *"The program will introduce you to troubleshooting, customer service, networking, operating systems, system administration and security."\_
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) - Coursera. (free to audit, :heavy*dollar_sign: paid certification) *"Automate tasks by writing Python scripts. Use Git and GitHub for version control. Manage IT resources at scale, both for physical machines and virtual machines in the cloud. Analyze real-world IT problems and implement the appropriate strategies to solve those problems."\_
 
 ## Web development
 
