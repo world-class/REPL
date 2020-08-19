@@ -10,6 +10,7 @@
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
   - [Mock exam](#mock-exam)
+    - [Solutions shared by students](#solutions-shared-by-students)
   - [Notes](#notes)
   - [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
   - [Syllabus](#syllabus)
@@ -110,6 +111,10 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
 ## Mock exam
 
 - [Mock exam, 2020](./CM2035-ADS2_MOCK_Exam.pdf)
+
+### Solutions shared by students
+
+- Solutions to the mock exam are available in this [Google Sheets document](https://docs.google.com/spreadsheets/d/1llp2ReT4yWXPnoM9vuJM5FtCZdSKhgbwe0CUsbUTVJA/edit?usp=sharing).
 
 ## Notes
 
