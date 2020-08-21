@@ -6,6 +6,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Resources](#resources)
+  - [Linux setup guide for OOP projects](#linux-setup-guide-for-oop-projects)
   - [Class diagram of starter code](#class-diagram-of-starter-code)
   - [Complementary learning](#complementary-learning)
     - [C&#43;&#43;](#c)
@@ -47,6 +48,10 @@ Coursework only (Type II)
 # Resources
 
 - :star: [Sourcetrail](https://www.sourcetrail.com) (Windows, macOS, Linux) - _"Free and open-source cross-platform source explorer"_. Supports C, C++, Java and Python.
+
+## Linux setup guide for OOP projects
+
+Refer [Linux setup guide](./resources/linux_guide.md)
 
 ## Class diagram of starter code
 
