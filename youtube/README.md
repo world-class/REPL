@@ -152,6 +152,7 @@
 # Git / GitHub
 
 - [CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I) - CS50
+- [MIT Missing semester (Version Control) - Git data model](https://missing.csail.mit.edu/2020/version-control) - MIT
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) - Traversy Media
 - [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) (playlist) - Corey Schafer
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) - freeCodeCamp.org
