@@ -96,6 +96,7 @@ One two hour unseen written examination and coursework (Type I)
 - [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-19_Reading_1.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-19_Reading_1.pdf)
 - [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-19_Reading_2.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-19_Reading_2.pdf)
 - [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-20_Lecture.pdf](../../../notes/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-20_Lecture.pdf)
+
 ### Numerical Mathematics (earlier iteration of the module)
 
 - [students_notes/arjun_muralidharan/CM1015_NM.pdf](../../../notes/level_4/numerical_mathematics/students_notes/arjun_muralidharan/CM1015_NM.pdf)
