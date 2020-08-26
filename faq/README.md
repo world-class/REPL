@@ -110,6 +110,7 @@
 
 - The [programme's official website](https://london.ac.uk/courses/computer-science).
 - The [programme's page on Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london).
+- The [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/) subreddit and the [discord server](https://discord.gg/zDpffJQ) where actual students answer questions.
 
 ### How long do I have to wait to receive the student email and student card
 
