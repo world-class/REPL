@@ -6,6 +6,12 @@
 
 - [Frequently Asked Questions](#frequently-asked-questions)
   - [Table of contents](#table-of-contents)
+  - [Before getting started](#before-getting-started)
+    - [Where can I go to get a better overview of this programme](#where-can-i-go-to-get-a-better-overview-of-this-programme)
+    - [How long do I have to wait to receive the student email and student card](#how-long-do-i-have-to-wait-to-receive-the-student-email-and-student-card)
+    - [What is my username to log in to the student's portal at my.london.ac.uk](#what-is-my-username-to-log-in-to-the-students-portal-at-mylondonacuk)
+    - [Who has enrolled in this degree so far](#who-has-enrolled-in-this-degree-so-far)
+    - [When and how I can get access to the student slack workspace](#when-and-how-i-can-get-access-to-the-student-slack-workspace)
   - [General topics](#general-topics)
     - [I need help! Whom should I ask](#i-need-help-whom-should-i-ask)
       - [Module-specific inquiries](#module-specific-inquiries)
@@ -97,6 +103,33 @@
     - [Where's the best place to read about Dr. Yee-King's research with computer music](#wheres-the-best-place-to-read-about-dr-yee-kings-research-with-computer-music)
 
 ---
+
+## Before getting started
+
+### Where can I go to get a better overview of this programme
+
+- The [programme's official website](https://london.ac.uk/courses/computer-science).
+- The [programme's page on Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london).
+
+### How long do I have to wait to receive the student email and student card
+
+- Expect a delay of approximately 4 to 6 weeks before you get access. You will receive an email to activate your ISIC virtual student card.
+
+### What is my username to log in to the student's portal at my.london.ac.uk
+
+- Your username is the same as your student email address: `USERNAME@student.london.ac.uk`.
+
+### Who has enrolled in this degree so far
+
+- According to Coursera, this is the class profile:
+  - Average age of 31
+  - 82% male; 18% female
+  - 67% of applicants had less than a Bachelor degree; 22% had a Bachelor degree and 11% more than a Bachelor degree
+  - Students from 87 countries
+
+### When and how I can get access to the student slack workspace
+
+- When your first semester is about to start, you will receive an email from the university inviting you to join.
 
 ## General topics
 
