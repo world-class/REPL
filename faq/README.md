@@ -257,7 +257,7 @@ If you have any specific queries about something you have created which you are 
   2. you are still within your maximum period of registration;
   3. you have not failed at the final attempt, a module that is core on the degree to which you wish to transfer;
   4. you have not passed more than one Level 6 module which does not fit on the degree to which you wish to transfer;
-  5. you are not yet eligible for the BSc award upon which you are currently registered. For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf).
+  5. you are not yet eligible for the BSc award upon which you are currently registered. For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf).
 
 ### How can I drop/withdraw from module
 
@@ -266,7 +266,7 @@ If you have any specific queries about something you have created which you are 
 ### What is the maximum number of modules that one can select per semester and what if I fail one module
 
 - The maximum number of modules you can register for in any one session is five (or three plus the final project). This can be a combination of new modules and resits (with a maximum of four new modules), or resits only.
-- For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf).
+- For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf).
 
 ### Where can I see a syllabus of all available modules
 
@@ -319,7 +319,7 @@ If you have any specific queries about something you have created which you are 
 
 ## Programme Regulations
 
-This section is dedicated to all the general questions that are answered well in the program regulations. Please read [the program regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf). :book:
+This section is dedicated to all the general questions that are answered well in the program regulations. Please read [the program regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf). :book:
 
 ### How much do I need to pass module X
 
