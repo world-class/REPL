@@ -7,6 +7,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Resources](#resources)
+  - [Module specification](#module-specification)
   - [Notes](#notes)
   - [Syllabus](#syllabus)
 
@@ -39,6 +40,10 @@ basics of working with simulated physics and 3D graphics.
 Coursework only (Type II)
 
 # Resources
+
+## Module specification
+
+- [GP-Module-Spec.pdf](./GP-Module-Spec.pdf)
 
 ## Notes
 

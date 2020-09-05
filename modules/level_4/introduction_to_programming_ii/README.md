@@ -13,6 +13,7 @@
   - [Essential reading](#essential-reading)
   - [Getting started with HTML](#getting-started-with-html)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
+  - [Module specification](#module-specification)
   - [Notes](#notes)
   - [Syllabus](#syllabus)
 
@@ -71,6 +72,10 @@ _"There is no required textbook for this course. Listed below are some books to 
 ## Kinks to be aware of
 
 - [List of reported errors and bugs with the module](../../../kinks/level_4/introduction_to_programming_ii/).
+
+## Module specification
+
+- [ITP2-Module-Spec.pdf](./resources/ITP2-Module-Spec.pdf)
 
 ## Notes
 

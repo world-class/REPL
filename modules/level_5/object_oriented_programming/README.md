@@ -2,6 +2,7 @@
 
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Object-Oriented Programming](#object-oriented-programming)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -10,8 +11,9 @@
   - [Class diagram of starter code](#class-diagram-of-starter-code)
   - [Complementary learning](#complementary-learning)
     - [C&#43;&#43;](#c)
-  - [On REPL](#on-repl)
+  - [Module specification](#module-specification)
   - [Notes](#notes)
+  - [On REPL](#on-repl)
   - [Syllabus](#syllabus)
 - [IDE warning](#ide-warning)
 
@@ -66,15 +68,19 @@ Refer [Linux setup guide](./resources/linux_guide.md)
 
 - [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Playlist by The Cherno
 
-## On REPL
+## Module specification
 
-- [YouTube](../../../youtube/README.md).
-  - [C++](../../../youtube/README.md#c-2).
+- [OOP-Module-Spec.pdf](./OOP-Module-Spec.pdf)
 
 ## Notes
 
 - [student_notes/alex_f/notes.md](../../../notes/level_5/object-oriented-programming/student_notes/alex_f/notes.md)
 - [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/object-oriented-programming/student_notes/felipe_balbi/notes.pdf)
+
+## On REPL
+
+- [YouTube](../../../youtube/README.md).
+  - [C++](../../../youtube/README.md#c-2).
 
 ## Syllabus
 

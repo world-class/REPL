@@ -6,6 +6,8 @@
 - [Programming with Data](#programming-with-data)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Resources](#resources)
+  - [Module specification](#module-specification)
 
 ---
 
@@ -34,3 +36,9 @@ that is well-adapted to languages for these applications.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Resources
+
+## Module specification
+
+- [PwD-Module-Spec.pdf](./PwD-Module-Spec.pdf)

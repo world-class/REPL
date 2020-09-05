@@ -6,6 +6,8 @@
 - [Agile Software Projects](#agile-software-projects)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Resources](#resources)
+  - [Modules specification](#modules-specification)
 
 ---
 
@@ -42,3 +44,9 @@ version control tools.
 # Assessment
 
 Coursework only (Type III)
+
+# Resources
+
+## Modules specification
+
+- [ASP-Module-Spec.pdf](./ASP-Module-Spec.pdf)
