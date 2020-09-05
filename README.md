@@ -205,7 +205,7 @@ report it.</strong></p>
 <td><a href="modules/level_5/agile_software_projects">Agile Software Projects</a></td>
 <td><strong>CM2020</strong></td>
 <td>No</td>
-<td></td>
+<td><code>#cm2020-agile-software-projects</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_5/algorithms_and_data_structures_ii">Algorithms and Data Structures II</a></td>
@@ -217,7 +217,7 @@ report it.</strong></p>
 <td><a href="modules/level_5/computer_security">Computer Security</a></td>
 <td><strong>CM2025</strong></td>
 <td><strong>Yes</strong></td>
-<td></td>
+<td><code>#cm2025-computer-security</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_5/databases_networks_and_the_web">Databases, Networks and the Web</a></td>
@@ -241,13 +241,13 @@ report it.</strong></p>
 <td><a href="modules/level_5/programming_with_data">Programming with Data</a></td>
 <td><strong>CM2015</strong></td>
 <td><strong>Yes</strong></td>
-<td></td>
+<td><code>#cm2015-programming-with-data</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_5/software_design_and_development">Software Design and Development</a></td>
 <td><strong>CM2010</strong></td>
 <td><strong>Yes</strong></td>
-<td></td>
+<td><code>#cm2010-software-design-development</code></td>
 </tr>
 </tbody>
 </table>

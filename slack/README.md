@@ -106,13 +106,17 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 | `#cm1035-algos-data-i`       | [Algorithms and data structures I](../modules/level_4/algorithms_and_data_structures_i/README.md) |
 | `#cm1040-web-dev`            | [Web development](../modules/level_4/web_development/README.md)                                   |
 
-\* This module can be skipped with RPL (Recognition of Prior Learning). See the channel `#rpl-hcw-google-it`.
+\* This module can be skipped with RPL (Recognition of Prior Learning). See the channel `#rpl-hcw-google-it` and the [FAQ here](../faq#recognition-of-prior-learning-rpl).
 
 #### Modules level 5
 
 | Channel                               | Module name                                                                                         |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | `#cm2005-object-oriented-programming` | [Object Oriented Programming](../modules/level_5/object_oriented_programming)                       |
+| `#cm2010-software-design-development` | [Software Design and Development](../modules/level_5/software_design_and_development)               |
+| `#cm2015-programming-with-data`       | [Programming with Data](../modules/level_5/programming_with_data)                                   |
+| `#cm2020-agile-software-projects`     | [Agile Software Projects](../modules/level_5/agile_software_projects)                               |
+| `#cm2025-computer-security`           | [Computer Security](../modules/level_5/computer_security)                                           |
 | `#cm2030-graphics-programming`        | [Graphics Programming](../modules/level_5/graphics_programming)                                     |
 | `#cm2035-algos-data-ii`               | [Algorithms and data structures II](../modules/level_5/algorithms_and_data_structures_ii/README.md) |
 | `#cm2040-databases-networks-web`      | [Databases, Networks and the Web](../modules/level_5/databases_networks_and_the_web)                |
