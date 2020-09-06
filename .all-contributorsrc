@@ -101,7 +101,8 @@
       "contributions": [
         "doc",
         "content",
-        "review"
+        "review",
+        "a11y"
       ]
     },
     {
