@@ -42,4 +42,4 @@ One two hour unseen written examination and coursework (Type I)
 ## Module specification
 
 - [PwD-Module-Spec.pdf](./PwD-Module-Spec.pdf)
-- [Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle](https://www.kaggle.com/learn/overview)
+- [Learn Python, Data Viz, Pandas & More on Kaggle](https://www.kaggle.com/learn/overview)
