@@ -7,6 +7,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Resources](#resources)
+  - [Complementary learning](#complementary-learning)
   - [Module specification](#module-specification)
 
 ---
@@ -39,7 +40,10 @@ One two hour unseen written examination and coursework (Type I)
 
 # Resources
 
+## Complementary learning
+
+- [Learn Python, Data Viz, Pandas & More on Kaggle](https://www.kaggle.com/learn/overview)
+
 ## Module specification
 
 - [PwD-Module-Spec.pdf](./PwD-Module-Spec.pdf)
-- [Learn Python, Data Viz, Pandas & More on Kaggle](https://www.kaggle.com/learn/overview)
