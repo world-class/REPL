@@ -12,6 +12,7 @@
     - [Algorithms](#algorithms)
       - [`mergeSort` algorithm](#mergesort-algorithm)
       - [`quickSort` algorithm](#quicksort-algorithm)
+      - [`quickSort` & `mergeSort` algorithms MIT](#quicksort--mergesort-algorithms-mit)
     - [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
   - [Essential reading](#essential-reading)
   - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
@@ -63,6 +64,7 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - _edX platform, by UC San Diego_
 - [Data Structures Fundamentals](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS201x+1T2019/course) - _edX platform, by UC San Diego_
+- [Easy Theory](https://www.youtube.com/c/EasyTheory/playlists) - _"This is a channel about making Computer Science theory as easy as possible."_ Relevant for this course as well as [Fundamentals of Computer Science](../fundamentals_of_computer_science/README.md).
 
 ### Visualizations
 

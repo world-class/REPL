@@ -95,6 +95,7 @@
 
 - [CrashCourse Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) (playlist) - CrashCourse
 - [Computerphile](https://www.youtube.com/user/Computerphile/) (channel) - _"Videos all about computers and computer stuff. Sister channel of Numberphile."_
+- [Easy Theory](https://www.youtube.com/c/EasyTheory/playlists) - _"This is a channel about making Computer Science theory as easy as possible."_ Relevant for [Fundamentals of Computer Science](../modules/level_4/fundamentals_of_computer_science/README.md) as well as [Algorithms and Data Structures I](../modules/level_4/algorithms_and_data_structures_i/README.md).
 - [UC Berkeley CS10 Beauty and Joy of Computing Fa10 (1080p HD)](https://www.youtube.com/playlist?list=PLECBD29A17AAF6EF9) (playlist) - Dan Garcia
 
 ## Algorithms
