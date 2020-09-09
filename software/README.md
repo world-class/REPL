@@ -509,7 +509,7 @@ See also [Graphics software](#graphics-software).
 
 ### Video communication
 
-- [Appear.in](https://appear.in) - _"Easy video meetings for your business."_
+- [WhereBy (formerly Appear.in](https://whereby.com) - _"Simple video meetings. With no app or installs required, and the same meeting link every time, Whereby gives you the freedom to work from anywhere."_
 - [Facebook Live](https://live.fb.com) - _"A fun, powerful way to connect with your followers and create new ones along the way._"
 - [Google Hangouts](http://www.google.com/hangouts) - _"Google Hangouts is a communication platform developed by Google which includes messaging, video chat, and VOIP features."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Hangouts)
 - [Skype](https://www.skype.com) - _"[...] specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches via the Internet. Skype also provides instant messaging services. Users may transmit text, video, audio and images. Skype allows video conference calls."_ [(from Wikipedia)](https://en.wikipedia.org/wiki/Skype)
