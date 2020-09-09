@@ -41,7 +41,7 @@
     - [What is the maximum number of modules that one can select per semester and what if I fail one module](#what-is-the-maximum-number-of-modules-that-one-can-select-per-semester-and-what-if-i-fail-one-module)
     - [Where can I see a syllabus of all available modules](#where-can-i-see-a-syllabus-of-all-available-modules)
     - [How can I progress to level 5 modules](#how-can-i-progress-to-level-5-modules)
-    - [Which math topics should I review before taking Numerical Math as to feel comfortable during the course](#which-math-topics-should-i-review-before-taking-numerical-math-as-to-feel-comfortable-during-the-course)
+    - [Which math topics should I review before taking Computational Mathematics as to feel comfortable during the course](#which-math-topics-should-i-review-before-taking-computational-mathematics-as-to-feel-comfortable-during-the-course)
     - [Can I at some point in the future switch to on campus and continue my degree](#can-i-at-some-point-in-the-future-switch-to-on-campus-and-continue-my-degree)
     - [Would on-campus be at the usual UK tuition fee rate](#would-on-campus-be-at-the-usual-uk-tuition-fee-rate)
     - [Can we register 3 modules + project in last semester](#can-we-register-3-modules--project-in-last-semester)
@@ -68,7 +68,7 @@
     - [If we sit the exam outside the UK, in a local examination centre, then it is done via British council, isn't it](#if-we-sit-the-exam-outside-the-uk-in-a-local-examination-centre-then-it-is-done-via-british-council-isnt-it)
     - [How many exams will be there per semester for a module](#how-many-exams-will-be-there-per-semester-for-a-module)
     - [Do online learners need to take assessments at specific locations? If so is this only final assessments](#do-online-learners-need-to-take-assessments-at-specific-locations-if-so-is-this-only-final-assessments)
-    - [Can you please describe a written examination for Numerical Math or Discreet Math? Is it usually a test or teachers check hand written answers](#can-you-please-describe-a-written-examination-for-numerical-math-or-discreet-math-is-it-usually-a-test-or-teachers-check-hand-written-answers)
+    - [Can you please describe a written examination for Computational Math or Discrete Math? Is it usually a test or teachers check hand written answers](#can-you-please-describe-a-written-examination-for-computational-math-or-discrete-math-is-it-usually-a-test-or-teachers-check-hand-written-answers)
     - [Have you considered using ProctorU as a distributed exam solution It seems to have a fair amount of adoption among MOOC providers](#have-you-considered-using-proctoru-as-a-distributed-exam-solution-it-seems-to-have-a-fair-amount-of-adoption-among-mooc-providers)
   - [Technical questions](#technical-questions)
     - [Which are the programming languages we will come across through the course](#which-are-the-programming-languages-we-will-come-across-through-the-course)
@@ -243,7 +243,7 @@ If you have any specific queries about something you have created which you are 
 
 ### For performance-based admission, can I take more than two module this session
 
-- If you are entering any of the programmes via the Performance Based Admissions route, you are permitted to register for two modules only; Introduction to Programming I and either Numerical or Discrete Mathematics, depending on module availability.
+- If you are entering any of the programmes via the Performance Based Admissions route, you are permitted to register for two modules only; Introduction to Programming I and either Computational or Discrete Mathematics, depending on module availability.
 
 ---
 
@@ -275,11 +275,11 @@ If you have any specific queries about something you have created which you are 
 ### How can I progress to level 5 modules
 
 - To progress to Level 5 modules, you must have:
-  - completed at least 45 credits at Level 4, including Introduction to Programming I and either Discrete or Numerical Mathematics;
+  - completed at least 45 credits at Level 4, including Introduction to Programming I and either Discrete or Computational Mathematics;
   - made an attempt at a further 45 credits at Level 4, including both Introduction to Programming II and the remaining Level 4 maths module;
   - registered for any Level 4 modules not yet attempted alongside your Level 5 modules.
 
-### Which math topics should I review before taking Numerical Math as to feel comfortable during the course
+### Which math topics should I review before taking Computational Mathematics as to feel comfortable during the course
 
 - I would recommend reviewing a UK A-Level Maths textbook.
 
@@ -414,7 +414,7 @@ This section is dedicated to all the general questions that are answered well in
 - The University has 400 approved examination centres worldwide, so you don't need to travel to London to sit your exams. These centres charge a fee for hosting the exam. The fees are set by the exam centre so may vary by country and venue.
 - Therefore, I would recommend that you check the fees with the exam centre directly. Please see the following link which provides a full list of available examination centres and their contact details: [http://bit.ly/2At85Fu](http://bit.ly/2At85Fu).
 
-### Can you please describe a written examination for Numerical Math or Discreet Math? Is it usually a test or teachers check hand written answers
+### Can you please describe a written examination for Computational Math or Discrete Math? Is it usually a test or teachers check hand written answers
 
 - Students are required to sit for a written examination at a local examination centre. It will then go through a rigorous marking process before students receive their marks.
 
