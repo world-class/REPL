@@ -284,6 +284,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "baoc75",
+      "name": "Chi Bao",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8294297?v=4",
+      "profile": "https://lop67.tk",
+      "contributions": [
+        "doc",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 4,
