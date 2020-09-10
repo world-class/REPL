@@ -294,6 +294,15 @@
         "doc",
         "bug"
       ]
+    },
+    {
+      "login": "osmancalisir",
+      "name": "Osman CALISIR",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28446823?v=4",
+      "profile": "http://calisir@harvardiana.com",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 4,
