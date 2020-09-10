@@ -489,6 +489,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://anujkarn.com.np"><img src="https://avatars1.githubusercontent.com/u/36754338?v=4" width="100px;" alt=""/><br /><sub><b>Anuj Karn</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=anujkarn002" title="Documentation">📖</a></td>
     <td align="center"><a href="https://lop67.tk"><img src="https://avatars3.githubusercontent.com/u/8294297?v=4" width="100px;" alt=""/><br /><sub><b>Chi Bao</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=baoc75" title="Documentation">📖</a> <a href="https://github.com/world-class/REPL/issues?q=author%3Abaoc75" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://calisir@harvardiana.com"><img src="https://avatars3.githubusercontent.com/u/28446823?v=4" width="100px;" alt=""/><br /><sub><b>Osman CALISIR</b></sub></a><br /><a href="https://github.com/world-class/REPL/issues?q=author%3Aosmancalisir" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
