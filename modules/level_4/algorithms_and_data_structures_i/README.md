@@ -138,4 +138,4 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## Syllabus
 
-- [Syllabus PDF (October 2019)](./resources/Syllabus_Algorithms_and_Data_Structures_1_CM1035.pdf)
+- [Syllabus PDF (September 2020)](./resources/Syllabus_Algorithms_and_Data_Structures_1_CM1035.pdf)
