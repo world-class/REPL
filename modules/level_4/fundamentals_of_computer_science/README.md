@@ -61,6 +61,7 @@ One two hour unseen written examination and coursework (Type I)
 - [Context-Free Grammar with Daniel Shiffman](https://shiffman.net/a2z/cfg/) - A fun way to understand CFG with real-world examples and programming.
 - [Easy Theory](https://www.youtube.com/c/EasyTheory/playlists) - _"This is a channel about making Computer Science theory as easy as possible."_ Relevant for this course as well as [Algorithms and Data Structures I](../algorithms_and_data_structures_i/README.md).
 - [Great Ideas in Theoretical Computer Science](https://www.youtube.com/watch?v=khyrgbiz20o&list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - Complementary topics, including proofs, deductive systems, logic, finite automata, Turing, time complexity, graph algorithms, etc.
+- [Guide to Negating Formulas](http://web.stanford.edu/class/archive/cs/cs103/cs103.1182/notes/Guide%20to%20Negating%20Formulas.pdf) (propositional logic) - stanford.edu
 - [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html)
 - [Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
 
