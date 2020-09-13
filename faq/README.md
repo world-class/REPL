@@ -386,10 +386,10 @@ This section is dedicated to all the general questions that are answered well in
 
 ### How long are vacations between semesters
 
-- **About 1 month**, give or take, with the possibility of smaller breaks in between if you manage your time well (it's up to you).
+- **About 3-4 weeks**, give or take, with the possibility of smaller breaks in between if you manage your time well (it's up to you).
 - **Semester 1:** April 8 2019 to September ~13 2019 (the deadline was extended for a module so you could have been done earlier). **Break:** 25 days.
 - **Semester 2:** October 7 2019 to March 9 2020. **Break:** 41 days.
-- **Semester 3:** April 19 2020 to September ~23 2020 (it depends on the exams you take, but roughly ending a week earlier than that with the theory). Etc.
+- **Semester 3:** April 19 2020 to September ~23 2020 (it depends on the exams you take, but roughly ending a week earlier than that with the theory). **Break:** 19 days, till October 12 (we started a week later due to the pandemic). Etc.
 
 ---
 
