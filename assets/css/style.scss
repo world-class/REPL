@@ -1,0 +1,111 @@
+---
+---
+
+// Reference:
+
+// original code: https://github.com/pages-themes/slate/blob/master/_sass/rouge-github.scss
+// Customization style: https://github.com/pages-themes/slate#stylesheet
+
+@import '{{ site.theme }}';
+
+body {
+  color: #241f20;
+  font-family: Arial, sans-serif, 'Myriad Pro', Calibri, Helvetica;
+}
+
+.inner {
+  max-width: 1024px;
+}
+
+*:focus {
+  outline: none;
+}
+
+a {
+  text-decoration: underline;
+  color: #0053a6;
+}
+
+p {
+  margin: 15px 0 20px 0;
+}
+
+summary {
+  color: #000000;
+  font-size: 1.2rem;
+  margin-bottom: 1em;
+}
+
+summary:hover {
+  cursor: pointer;
+}
+
+details {
+  background-color: #f3f0ec;
+  padding: 1em;
+  margin: 1.25em 0 1.25em 0;
+}
+
+table {
+  width: 100%;
+}
+
+div#header_wrap {
+  background: #0053a6;
+}
+
+#forkme_banner {
+  background: url(../images/blacktocat.png) #e22f24 no-repeat 95% 50%;
+  text-decoration: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+#main_content_wrap {
+  background: #ffffff;
+  border: none;
+}
+
+#project_title {
+  text-shadow: none;
+}
+
+#project_tagline {
+  font-weight: bold;
+  text-shadow: none;
+}
+
+th {
+  font-family: Arial, sans-serif, 'Lucida Grande', 'Helvetica Neue', Helvetica;
+  padding: 10px;
+  background: #0055a6;
+  font-weight: bold;
+}
+
+td {
+  background-color: white;
+}
+
+code {
+  box-shadow: 0 0 10px #0055a630;
+}
+
+#footer_wrap {
+  background: #262626;
+}
+
+img.emoji {
+  margin: 0;
+  padding: 0;
+}
+
+blockquote {
+  border-left: 6px solid #0053a6;
+}
+
+.highlight {
+  background: none;
+}
+
+pre {
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+}
