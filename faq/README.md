@@ -38,6 +38,7 @@
   - [Performance-Based Admission](#performance-based-admission)
     - [For performance-based admission, can I take more than two module this session](#for-performance-based-admission-can-i-take-more-than-two-module-this-session)
   - [Modules & Progression](#modules--progression)
+    - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
     - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
     - [How can I drop/withdraw from module](#how-can-i-dropwithdraw-from-module)
     - [What is the maximum number of modules that one can select per semester and what if I fail one module](#what-is-the-maximum-number-of-modules-that-one-can-select-per-semester-and-what-if-i-fail-one-module)
@@ -258,6 +259,11 @@ If you have any specific queries about something you have created which you are 
 ---
 
 ## Modules & Progression
+
+### Can I still access the modules I have taken once the semester is over
+
+- Note that certain quizzes, especially summative ones, become locked and you cannot even see the questions anymore. Other than that, lectures and other pages remain accessible.
+- On the [main page of the programme on Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/), once the grades are released, the courses will move to the `Summary` tab rather than staying in the `In Progress` tab.
 
 ### Can a student switch pathways as the course goes on
 
