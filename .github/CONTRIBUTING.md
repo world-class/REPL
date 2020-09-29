@@ -15,22 +15,18 @@ The REPL Team
 - [How to contribute to the REPL](#how-to-contribute-to-the-repl)
   - [Table of contents](#table-of-contents)
   - [Before getting started](#before-getting-started)
+    - [I don't want to read this whole thing I just have a question](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
+    - [A few initial words](#a-few-initial-words)
     - [How to use Git/GitHub](#how-to-use-gitgithub)
-    - [Cloning faster](#cloning-faster)
-      - [A tiny bit of background on the structure of this repo](#a-tiny-bit-of-background-on-the-structure-of-this-repo)
-      - [How to actually clone faster](#how-to-actually-clone-faster)
-        - [Preferred way](#preferred-way)
-        - [Other option](#other-option)
-    - [A few words](#a-few-words)
+    - [What contributions are accepted](#what-contributions-are-accepted)
   - [Code of Conduct](#code-of-conduct)
-  - [I don't want to read this whole thing I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
   - [How Can I Contribute](#how-can-i-contribute)
     - [Reporting Issues](#reporting-issues)
       - [Before Submitting An Issue](#before-submitting-an-issue)
       - [How Do I Submit A (Good) Issue](#how-do-i-submit-a-good-issue)
     - [Suggesting Enhancements](#suggesting-enhancements)
       - [Before Submitting An Enhancement Suggestion](#before-submitting-an-enhancement-suggestion)
-      - [How Do I Submit A (Good) Enhancement Suggestion?](#how-do-i-submit-a-good-enhancement-suggestion)
+      - [How Do I Submit A (Good) Enhancement Suggestion](#how-do-i-submit-a-good-enhancement-suggestion)
     - [Your First Contribution](#your-first-contribution)
     - [Pull Requests](#pull-requests)
   - [Style Guides](#style-guides)
@@ -38,6 +34,24 @@ The REPL Team
     - [Documentation Style Guide](#documentation-style-guide)
 
 ## Before getting started
+
+### I don't want to read this whole thing I just have a question
+
+> **Note:** Please don't file an issue to ask a question – unless there's really an issue with what is found in the REPL. You'll get faster results by using the resources below.
+
+We have [an official FAQ](./FAQ/) with helpful advice if you have questions.
+
+If chat is more your speed, you can join the REPL Slack team:
+
+- Join the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/).
+- Even though Slack is a chat service, sometimes it takes several hours for community members to respond &mdash; please be patient!
+- Use the `#repl` channel for general questions or discussion about REPL.
+
+### A few initial words
+
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+
+The following is a set of guidelines for contributing to REPL, which is hosted in the [World Class Organization](https://github.com/world-class) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 ### How to use Git/GitHub
 
@@ -48,66 +62,16 @@ Here are a couple of places where you will find useful resources:
 - https://github.com/world-class/REPL/blob/master/youtube/README.md#git--github
 - https://github.com/world-class/REPL/tree/master/online_courses/free#git--github
 
-### Cloning faster
+### What contributions are accepted
 
-#### A tiny bit of background on the structure of this repo
-
-At the time of this writing, cloning this repository means having to download less than ~200 MB of data. This is getting _a bit_ heavy, but this should still be very much acceptable for most users given the following constraints:
-
-- Those who end up contributing probably want most of the files anyways. What's heavy are a bunch of students notes and UoL PDFs. Adding to this, all modules are compulsory up to level 6 (therefore they are eventually useful to all students who wish to complete this degree), so we'll have figured something out by then. Modules at level 6 do not even exist right now :wink:.
-- We are trying to keep things simple so that students who are new to Git and GitHub can get some practice with forking, cloning, creating branches, submitting pull requests, etc. There are better ways to deal with large binary files, but still internet connections are fast enough these days to watch HD videos which will consume much more bandwidth than this repo, which is basically a one-time thing only.
-- By storing everything in one single repo for now, students are able to `pull` changes on their machine very easily without having to worry about missing something. From time to time, a script is executed to compress PDF files (which are the main culprits for the growing size of the repo), so that helps in a reasonable way too.
-
-#### How to actually clone faster
-
-If you already know [how to clone from the command line](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository), you'll be somewhat familiar with the following alternative (if not, you are highly encouraged to learn how to proceed as knowing Git will prove very useful to any computer science student). Without going into much details, here's what you can do to reduce the size of your clone by keeping revisions to the latest version of each file only. Your best bet should be to use `git clone --depth 1` for now.
-
-##### Preferred way
-
-If you use HTTPS (simpler way):
-
-    git clone -–depth 1 "https://github.com/world-class/REPL.git"
-
-If you use SSH (needs to be configured on GitHub):
-
-    git clone -–depth 1 "git@github.com:world-class/REPL.git"
-
-##### Other option
-
-You can also make sure to keep references only to the `master` branch to save some additional space if more branches get created. Again, use either HTTPS or SSH depending on your setup.
-
-> **Note:** Because this repo usually contains only the `master` branch, this method won't get you far in this particular instance.
-
-With HTTPS:
-
-    git clone https://github.com/world-class/REPL.git --branch master --single-branch REPL
-
-With SSH:
-
-    git clone git@github.com:world-class/REPL.git --branch master --single-branch REPL
-
-### A few words
-
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
-
-The following is a set of guidelines for contributing to REPL, which is hosted in the [World Class
-Organization](https://github.com/world-class) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+- For a general overview of what could be done, see the section [How Can I Contribute](#how-can-i-contribute) below.
+- **No binary files** (PDFs, images, etc.) or generally **anything above 100 KB** in size should be committed directly to this repository. If you would like to reference a large file in your contribution, please send an additional contribution to either the [notes](https://github.com/world-class/notes) or [binary-assets](https://github.com/world-class/binary-assets) repositories so we can keep this one as light as a feather.
+- Improvements to any existing page are welcome. For something more substantial than a few additions or fixing a typo (such as creating a new section or something above, say, 500 words), please [open a new issue](https://github.com/world-class/REPL/issues/new/choose) to discuss it or reach out on Slack in the `#repl` channel so we can be more efficient and respectful of everyone's time.
+- Besides the above points, anything you think would be useful to at least a handful students in this programme will be a strong candidate for being merged into the REPL _as long as it doesn't break any rules set by the university in any of their publicly available documents and isn't ethically dubious_ :wink:.
 
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the [REPL Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to the project team in the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/).
-
-## I don't want to read this whole thing I just have a question!!!
-
-> **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
-
-We have [an official FAQ](./FAQ/) with helpful advice if you have questions.
-
-If chat is more your speed, you can join the REPL Slack team:
-
-- Join the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/).
-- Even though Slack is a chat service, sometimes it takes several hours for community members to respond &mdash; please be patient!
-- Use the `#repl` channel for general questions or discussion about REPL.
 
 ## How Can I Contribute
 
@@ -144,7 +108,7 @@ This section guides you through submitting an enhancement suggestion for REPL, i
 
 - **Perform a [search](https://github.com/world-class/REPL/issues?q=is%3Aissue)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
-#### How Do I Submit A (Good) Enhancement Suggestion?
+#### How Do I Submit A (Good) Enhancement Suggestion
 
 Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). Create an issue and provide the following information:
 
@@ -191,4 +155,4 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 ---
 
-_Those guidelines are adapted from [Ruby on Rails](https://github.com/rails/rails/blob/master/CONTRIBUTING.md) and [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) projects._
+_Those guidelines are adapted from the [Ruby on Rails](https://github.com/rails/rails/blob/master/CONTRIBUTING.md) and [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) projects._
