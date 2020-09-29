@@ -55,11 +55,8 @@
     - [How much do I need to pass module X](#how-much-do-i-need-to-pass-module-x)
     - [I am taking module X, what type is it? Does it have a written exam](#i-am-taking-module-x-what-type-is-it-does-it-have-a-written-exam)
     - [What do we learn in module X? Do we ever study X](#what-do-we-learn-in-module-x-do-we-ever-study-x)
-    - [What are the registration and progression rules](#what-are-the-registration-and-progression-rules)
-    - [I am a PBA (Performance-Based Admission) student, what does that mean](#i-am-a-pba-performance-based-admission-student-what-does-that-mean)
-    - [What is RPL](#what-is-rpl)
     - [What specializations are available](#what-specializations-are-available)
-    - [What happens when I defer an assessment](#what-happens-when-i-defer-an-assessment)
+    - [More questions that can be answered by reading the programme regulations](#more-questions-that-can-be-answered-by-reading-the-programme-regulations)
   - [Important Dates, Deadlines & Events](#important-dates-deadlines--events)
     - [When are the exams/When does the semester start/What is the registration deadline](#when-are-the-examswhen-does-the-semester-startwhat-is-the-registration-deadline)
     - [What week are we on](#what-week-are-we-on)
@@ -335,11 +332,11 @@ If you have any specific queries about something you have created which you are 
 
 ## Programme Regulations
 
-This section is dedicated to all the general questions that are answered well in the program regulations. Please read [the program regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf). :book:
+This (intentionally short!) section is dedicated to the general questions that are answered well in the programme regulations. **It is no substitute for reading [the programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf) in details**. :book:
 
 ### How much do I need to pass module X
 
-- See section 4.3.
+- The pass mark for any element of assessment is 40%.
 
 ### I am taking module X, what type is it? Does it have a written exam
 
@@ -349,25 +346,16 @@ This section is dedicated to all the general questions that are answered well in
 
 - See Appendix B.
 
-### What are the registration and progression rules
-
-- See Section 5.6 — 5.7.
-
-### I am a PBA (Performance-Based Admission) student, what does that mean
-
-- See Section 5.1 — 5.5.
-
-### What is RPL
-
-- Recognition of Prior Learning. See Section 3.
-
 ### What specializations are available
 
 - See Appendix A.
 
-### What happens when I defer an assessment
+### More questions that can be answered by reading the programme regulations
 
-- See Section 4.32 — 4.37.
+- What are the registration and progression rules?
+- I am a PBA (Performance-Based Admission) student, what does that mean?
+- What is RPL?
+- What happens when I defer an assessment?
 
 ---
 
