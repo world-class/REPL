@@ -112,11 +112,13 @@
 
 - [2.7.2. Merge Sort Algorithm](https://www.youtube.com/watch?v=mB5HXBb_HY8) - Abdul Bari
 - [Algorithm lecture 8 -- Merge sort algorithm, analysis and problems](https://www.youtube.com/watch?v=sfmaf4QpVTw) - Gate Lectures by Ravindrababu Ravula
+- [Visualization of Mergesort vs Quicksort](https://www.youtube.com/watch?v=es2T6KY45cA) - UdiProd
 
 ### `quickSort` algorithm
 
 - [Algorithms lecture 9 -- Quick sort algorithm](https://www.youtube.com/watch?v=3DV8GO9g7B4) - Gate Lectures by Ravindrababu Ravula
 - [2.8.1 QuickSort Algorithm](https://www.youtube.com/watch?v=7h1s2SojIRw) - Abdul Bari
+- [Visualization of Quicksort (HD)](https://www.youtube.com/watch?v=aXXWXz5rF64) - UdiProd
 
 ## Compilers
 
