@@ -510,11 +510,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://calisir@harvardiana.com"><img src="https://avatars3.githubusercontent.com/u/28446823?v=4" width="100px;" alt=""/><br /><sub><b>Osman CALISIR</b></sub></a><br /><a href="https://github.com/world-class/REPL/issues?q=author%3Aosmancalisir" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://b.toenobu.name/"><img src="https://avatars1.githubusercontent.com/u/1487300?v=4" width="100px;" alt=""/><br /><sub><b>toenobu</b></sub></a><br /><a href="#financial-toenobu" title="Financial">💵</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Z80-dreams"><img src="https://avatars0.githubusercontent.com/u/52473290?v=4" width="100px;" alt=""/><br /><sub><b>Z80-dreams</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=Z80-dreams" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
