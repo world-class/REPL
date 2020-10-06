@@ -112,6 +112,7 @@ _This course does not require you to read the whole book, you will be given spec
 - [professors_notes/Lecture_notes_Yale_Lovasz_Vesztergombi.pdf](https://github.com/world-class/notes/tree/master/level_4/discrete_mathematics/professors_notes/Lecture_notes_Yale_Lovasz_Vesztergombi.pdf)
 - [students_notes/arjun_muralidharan/CM1020_DM.pdf](https://github.com/world-class/notes/tree/master/level_4/discrete_mathematics/students_notes/arjun_muralidharan/CM1020_DM.pdf)
 - [students_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_4/discrete_mathematics/students_notes/felipe_balbi/notes.pdf)
+- [students_notes/osman_calisir/CM1020_Discrete_Mathematics.pdf](https://github.com/world-class/binary-assets/blob/master/modules/cm1020_dm/students_notes/osman_calisir/CM1020_Discrete_Mathematics.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-10_5.2_Applications-Reading.pdf](https://github.com/world-class/notes/tree/master/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-10_5.2_Applications-Reading.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-10_5.2_Applications.pdf](https://github.com/world-class/notes/tree/master/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-10_5.2_Applications.pdf)
 - [students_notes/sukhjit_mann/Discrete_Maths_Week-11_6.1_Math_Induction-Reading.pdf](https://github.com/world-class/notes/tree/master/level_4/discrete_mathematics/students_notes/sukhjit_mann/Discrete_Maths_Week-11_6.1_Math_Induction-Reading.pdf)
