@@ -431,9 +431,10 @@ relevant topic for the final project.</p>
 
 <ul>
 <li><a href="https://london.ac.uk/contact-us">Contact page</a></li>
-<li><a href="https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&amp;category=UOL">General enquiries</a> (← For non-students. Students should ask in <strong><a href="https://my.london.ac.uk/">the portal</a></strong> instead.)</li>
-<li>Reach out by phone: <code>+44 (0)20 7862 8000</code> (general), <code>+44 (0)20 7862 5766</code> (specific to this degree), <code>+44 (0)20 7862 8368</code> (fees office).</li>
-<li><a href="https://london.kb.help/">Student Advice Center</a></li>
+<li><a href="https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&amp;category=UOL">General enquiries for <strong>non-students</strong></a>.
+<li><a href="https://my.london.ac.uk/">General enquiries <strong>for students</strong></a>: Click <em>"Ask a question"</em> in <a href="https://my.london.ac.uk/">the portal</a> or, equivalently, write to <a href = "mailto: BScCS-support@london.ac.uk">BScCS-support@london.ac.uk</a>.</li>
+<li>Reach out by phone (<strong>service not available during COVID-19</strong>): <code>+44 (0)20 7862 8000</code> (general), <code>+44 (0)20 7862 5766</code> (specific to this degree), <code>+44 (0)20 7862 8368</code> (fees office).</li>
+<li><a href="https://london.kb.help/">Student Advice Center</a>: knowledge base for frequently asked questions.</li>
 </ul>
 
   </details>
