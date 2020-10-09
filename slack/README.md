@@ -30,9 +30,10 @@ Don't forget to check out the right channels on Slack that will be best suited t
 
 There is a channel available for each new cohort:
 
-- `firstcohort` (private) - `april2019batcharchive` (archive)
+- `firstcohort` (private) - `april2019batcharchive` (archived)
 - `october2019batch`
 - `april2020batch`
+- `october2020batch`
 - ...
 
 #### Fun channels
@@ -62,7 +63,9 @@ There is a channel available for each new cohort:
 | `#askpreviouscohorts`         | Asking previous cohorts questions related to the programme                                                                                                                                                                                                |
 | `#bookworm`                   | What the great minds of this world are reading                                                                                                                                                                                                            |
 | `#bugs`                       | When you see a bug, report it here so we can all collectively flag it and speed up the process of cleaning up the course content                                                                                                                          |
+| `#calculus-by-spivak`         | Study group dedicated to Spivak's Calculus, 4th Edition                                                                                                                                                                                                   |
 | `#channel-discovery`          | Find great new channels related to our degree                                                                                                                                                                                                             |
+| `#cloud-computing`            | This is a channel for enthusiasts of GCP, AWS and Azure                                                                                                                                                                                                   |
 | `#cs-professionals`           | Gathering for professionals from computer science & engineering industry                                                                                                                                                                                  |
 | `#entrepreneurs`              | A channel for entrepreneurs or wannabe entrepreneurs to collaborate and help each other                                                                                                                                                                   |
 | `#free-stuff`                 | Free stuff to share with others. How have you used your student card etc?                                                                                                                                                                                 |
