@@ -208,6 +208,7 @@
 - [CIS 191: Linux and Unix - University of Pennsylvania](https://www.cis.upenn.edu/~cis191/index.html) - _"This half-credit course provides a thorough introduction to Unix and Linux. Topics will range from critical basic skills such as examining and editing files, compiling programs and writing shell scripts, to higher level topics such as the architecture of Unix and its programming model."_
 - [Distrowatch](https://distrowatch.com) - _"DistroWatch is a website which provides news, distribution pages hit rankings, and other general information about various Linux distributions as well as other free software/open source Unix-like operating systems."_ ([from Wikipedia](https://en.wikipedia.org/wiki/DistroWatch))
 - [Linux.com - What is Linux?](https://www.linux.com/what-is-linux/) - _"Here is all the information you need to get up to speed on the Linux platform."_
+- [Linux Upskill challenge](https://linuxupskillchallenge.com/) - _"1 month long challenge with daily guided lessons to learn the skills required to sysadmin a remote Linux server from the commandline"_
 
 # Mathematics
 
