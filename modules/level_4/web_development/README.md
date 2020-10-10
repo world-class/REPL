@@ -52,7 +52,7 @@ Coursework only (Type III)
 
 # Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1040_WD.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1040_WD-Module-Spec.pdf)
 
 # Syllabus
 

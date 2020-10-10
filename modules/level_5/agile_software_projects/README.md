@@ -54,7 +54,7 @@ Coursework only (Type III)
 
 # Syllabus
 
-- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2020_ASP-Module-Spec.pdf)
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2020_ASP.pdf)
 
 # Resources
 
