@@ -65,5 +65,6 @@ Coursework only (Type III)
 ## Textbooks listed for this module
 
 - J. Preece, Y. Rogers and H. Sharp (2011), Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons
+  - [Website companion to the textbook](http://www.id-book.com/)
 - D. Norman, 2013, The Design of Everyday Things, MIT Press
 - Rob Cole and Edward Scotcher. Brilliant Agile Project Management. Pearson 2016
