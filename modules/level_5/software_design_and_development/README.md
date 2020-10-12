@@ -46,3 +46,7 @@ One two hour unseen written examination and coursework (Type I)
 # Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2010_SDD-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus (October 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2010_SDD.pdf)
