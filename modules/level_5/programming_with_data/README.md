@@ -2,14 +2,20 @@
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
-- [Programming with Data](#programming-with-data)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [Complementary learning](#complementary-learning)
+* [Table of contents](#table-of-contents)
+* [Programming with Data](#programming-with-data)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Module specification](#module-specification)
+* [Syllabus](#syllabus)
+* [Resources](#resources)
+  * [Complementary learning](#complementary-learning)
+    * [Data Science](#data-science)
+    * [Python](#python)
+      * [Libraries](#libraries)
+        * [Matplotlib](#matplotlib)
+        * [Numpy](#numpy)
+        * [Pandas](#pandas)
 
 ---
 
@@ -51,5 +57,29 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Complementary learning
 
+### Data Science
+
 - [Foundations of Data Science: K-Means Clustering in Python](https://www.coursera.org/learn/data-science-k-means-clustering-python) - Coursera, by Dr Matthew Yee-King +3 more instructors.
-- [Learn Python, Data Viz, Pandas & More on Kaggle](https://www.kaggle.com/learn/overview)
+
+### Python
+
+- [Courses (free)](https://github.com/world-class/REPL/tree/master/online_courses/free#python) - REPL
+- [Learn Python, Data Viz, Pandas & More on Kaggle](https://www.kaggle.com/learn/overview) - Kaggle
+- [Official Python documentation](https://docs.python.org/3/)
+- [Videos](https://github.com/world-class/REPL/tree/master/youtube#python) - REPL/YouTube
+- Websites: [references](https://github.com/world-class/REPL/tree/master/websites#python-1) - [working with data](https://github.com/world-class/REPL/tree/master/websites#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn) - REPL
+
+#### Libraries
+
+##### Matplotlib
+
+- [Matplotlib](https://matplotlib.org/) - _"Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python."_
+
+##### Numpy
+
+- [NumPy](https://numpy.org/) - _"The fundamental package for scientific computing with Python."_
+
+##### Pandas
+
+- [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html) - pydata.org
+- [Vincent D. Warmerdam | PyData Eindhoven 2019](https://www.youtube.com/watch?v=yXGCKqo5cEY) - YouTube
