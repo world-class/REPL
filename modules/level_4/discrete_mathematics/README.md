@@ -83,10 +83,12 @@ One two hour unseen written examination and coursework (Type I)
 
 _"The essentials readings for this course will come from the following text book, which is available in the University of London digital library:_
 
-- **Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Edition**
+- **Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Global Edition**
 - **David Mackinson, Sets, Logic and Maths for Computing, Springer Verlag. 2012**
 
 _This course does not require you to read the whole book, you will be given specific readings for each topic from these texts are listed with direct links on the Readings page for each topic. You will also be asked to do some independent research from online sources or using the University of London digital library."_
+
+  - [Weekly Readings and Exercises for Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Global Edition](https://github.com/world-class/binary-assets/blob/master/modules/cm1020_dm/DM%20weekly%20reading%2C%207E%20global%20edition.pdf).
 
 ### Solutions to problems in the textbook Discrete Mathematics and its Applications
 
