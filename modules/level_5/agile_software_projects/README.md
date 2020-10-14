@@ -60,6 +60,7 @@ Coursework only (Type III)
 
 ## Complementary learning
 
+- [Dark Patterns](https://darkpatterns.org/) - _"Dark Patterns are tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something."_
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
 ## Textbooks listed for this module
