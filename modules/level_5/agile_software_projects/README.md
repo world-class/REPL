@@ -2,15 +2,16 @@
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
-- [Agile Software Projects](#agile-software-projects)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [Complementary learning](#complementary-learning)
-  - [Textbooks listed for this module](#textbooks-listed-for-this-module)
+* [Table of contents](#table-of-contents)
+* [Agile Software Projects](#agile-software-projects)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Module specification](#module-specification)
+* [Syllabus](#syllabus)
+* [Resources](#resources)
+  * [Complementary learning](#complementary-learning)
+  * [Textbooks listed for this module](#textbooks-listed-for-this-module)
+    * [Further reading recommended in Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons](#further-reading-recommended-in-interaction-design-beyond-human-computer-interaction-john-wiley--sons)
 
 ---
 
@@ -69,3 +70,11 @@ Coursework only (Type III)
   - [Website companion to the textbook](http://www.id-book.com/)
 - D. Norman, 2013, The Design of Everyday Things, MIT Press
 - Rob Cole and Edward Scotcher. Brilliant Agile Project Management. Pearson 2016
+
+### Further reading recommended in Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons
+
+- COOPER, A., REIMANN, R., CRONIN, D. AND NOESSEL, C. (2014) **About Face: The Essentials of Interaction Design (4th ed.). John Wiley & Sons Inc**. _"This fourth edition of About Face provides an updated overview of what is involved in interaction design, and it is written in a personable style that appeals to practitioners and students alike."_
+- GARRETT, J. J. (2010) **The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd ed.). New Riders Press**. _"This is the second edition of the popular coffee- table introductory book to interaction design. It focuses on how to ask the right questions when designing for a user experience. It emphasizes the importance of understanding how products work on the outside, that is, when a person comes into contact with those products and tries to work with them. It also considers a business perspective."_
+- LIDWELL, W., HOLDEN, K. AND BUTLER, J. (2010) **Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions and Teach Through Design. Rockport Publishers, Inc**. _"This book presents classic design principles such as consistency, accessibility, and visibility in addition to some lesser-known ones, such as constancy, chunking, and symmetry. They are alphabetically ordered (for easy reference) with a diversity of examples to illustrate how they work and can be used."_
+- NORMAN, D.A. (2013) **The Design of Everyday Things: Revised and Expanded Edition. MIT Press**. _"This book was first published in 1988 and became an international best seller, introducing the world of technology to the importance of design and psychology. It covers the design of everyday things, such as refrigerators and thermostats, providing much food for thought in relation to how to design interfaces. This latest edition is comprehensively revised showing how principles from psychology apply to a diversity of old and new technologies. The book is highly accessible with many illustrative examples."_
+- SAFFER, D. (2014) **Microinteractions: Designing with Details. O’Reilly**. _"This highly accessible book provides many examples of the small things in interaction design that make a big difference between a pleasant experience and a nightmare one. Dan Saffer describes how to design them to be efficient, understandable, and enjoyable user actions. He goes into detail about their structure and the different kinds, including many examples with lots of illustrations. The book is a joy to dip into and enables you to understand right away why and how it is important to get the micro-interactions right."_
