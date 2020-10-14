@@ -16,6 +16,7 @@
         * [Matplotlib](#matplotlib)
         * [Numpy](#numpy)
         * [Pandas](#pandas)
+  * [:heart: Notes](#heart-notes)
 
 ---
 
@@ -83,3 +84,7 @@ One two hour unseen written examination and coursework (Type I)
 
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html) - pydata.org
 - [Vincent D. Warmerdam | PyData Eindhoven 2019](https://www.youtube.com/watch?v=yXGCKqo5cEY) - YouTube
+
+## :heart: Notes
+
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/programming-with-data/).

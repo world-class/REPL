@@ -83,4 +83,4 @@ _"There is no required textbook for this course. Listed below are some books to 
 
 ## :heart: Notes
 
-- [students_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_4/introduction_to_programming_ii/students_notes/felipe_balbi/notes.pdf)
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/introduction_to_programming_ii).

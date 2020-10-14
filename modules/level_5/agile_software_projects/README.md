@@ -10,6 +10,7 @@
 * [Syllabus](#syllabus)
 * [Resources](#resources)
   * [Complementary learning](#complementary-learning)
+  * [:heart: Notes](#heart-notes)
   * [Textbooks listed for this module](#textbooks-listed-for-this-module)
     * [Further reading recommended in Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons](#further-reading-recommended-in-interaction-design-beyond-human-computer-interaction-john-wiley--sons)
 
@@ -63,6 +64,10 @@ Coursework only (Type III)
 
 - [Dark Patterns](https://darkpatterns.org/) - _"Dark Patterns are tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something."_
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+
+## :heart: Notes
+
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/agile-software-projects).
 
 ## Textbooks listed for this module
 

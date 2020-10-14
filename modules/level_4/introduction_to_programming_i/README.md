@@ -80,7 +80,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ## :heart: Notes
 
-- [students_notes/sukhjit_mann/week-1_Intro_to_p5.pdf](https://github.com/world-class/notes/tree/master/level_4/introduction_to_programming_i/students_notes/sukhjit_mann/week-1_Intro_to_p5.pdf)
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/introduction_to_programming_i).
 
 ## On REPL (see relevant sections)
 

@@ -129,8 +129,7 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## :heart: Notes
 
-- [students_notes/arjun_muralidharan/CM1035_ADS.pdf](https://github.com/world-class/notes/tree/master/level_4/algorithms_and_data_structures_i/students_notes/arjun_muralidharan/CM1035_ADS.pdf)
-- [students_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_4/algorithms_and_data_structures_i/students_notes/felipe_balbi/notes.pdf)
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/algorithms_and_data_structures_i).
 
 ## On REPL
 

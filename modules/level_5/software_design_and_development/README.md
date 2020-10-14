@@ -2,11 +2,14 @@
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
-- [Software Design and Development](#software-design-and-development)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
+* [Table of contents](#table-of-contents)
+* [Software Design and Development](#software-design-and-development)
+* [Topics covered](#topics-covered)
+* [Assessment](#assessment)
+* [Module specification](#module-specification)
+* [Syllabus](#syllabus)
+* [Resources](#resources)
+  * [:heart: Notes](#heart-notes)
 
 ---
 
@@ -50,3 +53,9 @@ One two hour unseen written examination and coursework (Type I)
 # Syllabus
 
 - [Syllabus (October 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2010_SDD.pdf)
+
+# Resources
+
+## :heart: Notes
+
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/software-design-and-development).

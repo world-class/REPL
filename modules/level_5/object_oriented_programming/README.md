@@ -78,8 +78,7 @@ Refer [Linux setup guide](https://github.com/world-class/binary-assets/blob/mast
 
 ## :heart: Notes
 
-- [student_notes/alex_f/notes.md](https://github.com/world-class/notes/tree/master/level_5/object-oriented-programming/student_notes/alex_f/notes.md)
-- [student_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_5/object-oriented-programming/student_notes/felipe_balbi/notes.pdf)
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/object-oriented-programming).
 
 ## On REPL
 
