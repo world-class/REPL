@@ -7,6 +7,7 @@
 * [Topics covered](#topics-covered)
 * [Assessment](#assessment)
 * [Module specification](#module-specification)
+* [Syllabus](#syllabus)
 * [Resources](#resources)
   * [:heart: Notes](#heart-notes)
 
@@ -41,6 +42,10 @@ One two hour unseen written examination and coursework (Type I)
 # Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2025_CS-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (October 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2025_CS.pdf)
 
 # Resources
 
