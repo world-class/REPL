@@ -14,7 +14,7 @@
     - [Textbooks solutions](#textbooks-solutions)
       - [Discrete Mathematics and its Applications](#discrete-mathematics-and-its-applications)
       - [Introduction to Automata Theory, Languages, and Computation](#introduction-to-automata-theory-languages-and-computation)
-  - [Notes](#notes)
+  - [:heart: Notes](#heart-notes)
   - [Sample Paper with solutions](#sample-paper-with-solutions)
     - [March 2020](#march-2020)
   - [Study guide](#study-guide)
@@ -77,11 +77,11 @@ One two hour unseen written examination and coursework (Type I)
 
 _"Specific essential readings for each week from the following list are included in the Readings page for each week:_"
 
-- Kenneth H. Rosen (2011). Discrete Mathematics and its Applications, 7th. McGraw-Hill
-- :key: Michael Sipser (2012). Introduction to the theory of computation, 3rd. Cengage Learning
-- :key: John Hopcroft et al. (2013). Introduction to Automata Theory, Languages and Computation, Pearson
+- :1st_place_medal: Kenneth H. Rosen (2011). Discrete Mathematics and its Applications, 7th. McGraw-Hill
+- :1st_place_medal: Michael Sipser (2012). Introduction to the theory of computation, 3rd. Cengage Learning
+- :1st_place_medal: John Hopcroft et al. (2013). Introduction to Automata Theory, Languages and Computation, Pearson
+- :2nd_place_medal: Merlin Forbes (2012). A Theoretical Introduction to Turing Machine, 1st. Learning Press
 - Dexter Kozen (2007). Automata and Computability, 1st. Springer
-- Merlin Forbes (2012). A Theoretical Introduction to Turing Machine, 1st. Learning Press
 - Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
 
 ### Textbooks solutions
@@ -95,7 +95,7 @@ _"Specific essential readings for each week from the following list are included
 
 - [Solutions to Selected Exercises - stanford.edu](http://infolab.stanford.edu/~ullman/ialcsols/sols.html)
 
-## Notes
+## :heart: Notes
 
 - [students_notes/arjun_muralidharan/CM1025_FCS.pdf](https://github.com/world-class/notes/tree/master/level_4/fundamentals_of_computer_science/students_notes/arjun_muralidharan/CM1025_FCS.pdf)
 - [students_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_4/fundamentals_of_computer_science/students_notes/felipe_balbi/notes.pdf)

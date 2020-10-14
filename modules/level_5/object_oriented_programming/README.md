@@ -13,7 +13,7 @@
   - [Class diagram of starter code](#class-diagram-of-starter-code)
   - [Complementary learning](#complementary-learning)
     - [C&#43;&#43;](#c)
-  - [Notes](#notes)
+  - [:heart: Notes](#heart-notes)
   - [On REPL](#on-repl)
 - [IDE warning](#ide-warning)
 
@@ -76,7 +76,7 @@ Refer [Linux setup guide](https://github.com/world-class/binary-assets/blob/mast
 
 - [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Playlist by The Cherno
 
-## Notes
+## :heart: Notes
 
 - [student_notes/alex_f/notes.md](https://github.com/world-class/notes/tree/master/level_5/object-oriented-programming/student_notes/alex_f/notes.md)
 - [student_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_5/object-oriented-programming/student_notes/felipe_balbi/notes.pdf)

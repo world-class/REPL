@@ -79,19 +79,19 @@ A student post which explains what RPLs are, and walks you through the process o
 Links to various login portals for currently enrolled students. Valid account credentials at the University of London is required for access.
 
 **University of London Student Portal**
-:closed_lock_with_key: https://my.london.ac.uk/
+:lock: https://my.london.ac.uk/
 
 **Virtual Learning Environment (Coursera)**
-:closed_lock_with_key: https://www.coursera.org/?authMode=login&authProvider=london
+:lock: https://www.coursera.org/?authMode=login&authProvider=london
 
 **University of London Student Email**
-:closed_lock_with_key: http://mail.google.com/a/student.london.ac.uk
+:lock: http://mail.google.com/a/student.london.ac.uk
 
 **Online Library and Databases**
-:closed_lock_with_key: http://onlinelibrary.london.ac.uk/
+:lock: http://onlinelibrary.london.ac.uk/
 
 **Student Slack Workspace**
-:closed_lock_with_key: https://londoncs.slack.com/
+:lock: https://londoncs.slack.com/
 
 :bookmark: **Student-Run Resources and Community** :bookmark:
 Links to various student-made resources and community portal

@@ -29,6 +29,19 @@ report it.</strong></p>
 
 </details>
 
+## Emojis: Their meaning in the REPL
+
+| Emoji               | Meaning                                                                                                                                                                                                       |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :heart:             | This is a highly valuable resource (always a bit subjective).                                                                                                                                                 |
+| :1st_place_medal:   | Deemed **essential** (such as a textbook used for a specific module).                                                                                                                                         |
+| :2nd_place_medal:   | Deemed **very important** (such as a textbook used for a specific module).                                                                                                                                    |
+| :3rd_place_medal:   | Deemed **noteworthy** (again, such as a textbook used for a specific module).                                                                                                                                 |
+| :lock:              | Restricted access with accompanying explanation: maybe you need to access the [Slack workspace](http://londoncs.slack.com/), maybe you need to log in to [the student portal](https://my.london.ac.uk/), etc. |
+| :star:              | This is about [open source software](https://opensource.com/resources/what-open-source).                                                                                                                      |
+| :cloud:             | A software that is used online (runs in the cloud).                                                                                                                                                           |
+| :heavy_dollar_sign: | Indicates a resource that costs money to acquire and/or to use.                                                                                                                                               |
+
 ---
 
 <br />

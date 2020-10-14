@@ -15,7 +15,7 @@
   - [Essential reading](#essential-reading)
   - [Getting started with HTML](#getting-started-with-html)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Notes](#notes)
+  - [:heart: Notes](#heart-notes)
 
 # Introduction to Programming II
 
@@ -81,6 +81,6 @@ _"There is no required textbook for this course. Listed below are some books to 
 
 - [List of reported errors and bugs with the module](../../../kinks/level_4/introduction_to_programming_ii/).
 
-## Notes
+## :heart: Notes
 
 - [students_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_4/introduction_to_programming_ii/students_notes/felipe_balbi/notes.pdf)

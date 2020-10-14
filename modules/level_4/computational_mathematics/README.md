@@ -11,7 +11,7 @@
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
   - [Reading List](#reading-list)
-  - [Notes](#notes)
+  - [:heart: Notes](#heart-notes)
     - [Numerical Mathematics (earlier iteration of the module)](#numerical-mathematics-earlier-iteration-of-the-module)
 
 ---
@@ -64,7 +64,7 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Computational Mathematics Weekly Reading List PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/cm1015_cm/cm_weekly_reading_list.pdf)
 
-## Notes
+## :heart: Notes
 
 - [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-1_Lecture.pdf](https://github.com/world-class/notes/tree/master/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-1_Lecture.pdf)
 - [students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-1_Reading.pdf](https://github.com/world-class/notes/tree/master/level_4/computational_mathematics/students_notes/sukhjit_mann/CM1015_Comp-Maths_Week-1_Reading.pdf)

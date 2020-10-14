@@ -11,7 +11,7 @@
 - [Resources](#resources)
   - [Essential reading](#essential-reading)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Notes](#notes)
+  - [:heart: Notes](#heart-notes)
 
 ---
 
@@ -67,7 +67,7 @@ _You will also be asked to do some independent research from online sources or u
 
 - [List of reported errors and bugs with the module](../../../kinks/level_4/how_computers_work/).
 
-## Notes
+## :heart: Notes
 
 - [students_notes/peter_houlihan/Notes 1-7.pdf](https://github.com/world-class/notes/tree/master/level_4/how_computers_work/students_notes/peter_houlihan/Notes_1-7.pdf)
 - [students_notes/sukhjit_mann/How_Comps_Work_Week_10_10.1-Reading.pdf](https://github.com/world-class/notes/tree/master/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_10_10.1-Reading.pdf)

@@ -37,7 +37,7 @@
 
 ## Finding opportunities
 
-- :star: [A curated list of awesome remote jobs and resources](https://github.com/lukasz-madon/awesome-remote-job) - Articles, videos, books, job boards, interviewing, companies with "remote DNA" and much more.
+- :heart: [A curated list of awesome remote jobs and resources](https://github.com/lukasz-madon/awesome-remote-job) - Articles, videos, books, job boards, interviewing, companies with "remote DNA" and much more.
 - [50 remote tech companies hiring now for remote jobs](https://www.diygenius.com/remote-jobs/) (Updated: April 3<sup>rd</sup>, 2020)
 - [Dynamite Jobs](https://dynamitejobs.co/)
 - [Remote only](https://remoteonly.org/)

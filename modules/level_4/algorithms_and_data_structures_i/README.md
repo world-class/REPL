@@ -19,7 +19,7 @@
   - [Essential reading](#essential-reading)
   - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Notes](#notes)
+  - [:heart: Notes](#heart-notes)
   - [On REPL](#on-repl)
   - [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
 
@@ -127,7 +127,7 @@ _There will also be discussion prompts asking you to do some independent researc
 
 - [List of reported errors and bugs with the module](../../../kinks/level_4/algorithms_and_data_structures_i/).
 
-## Notes
+## :heart: Notes
 
 - [students_notes/arjun_muralidharan/CM1035_ADS.pdf](https://github.com/world-class/notes/tree/master/level_4/algorithms_and_data_structures_i/students_notes/arjun_muralidharan/CM1035_ADS.pdf)
 - [students_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_4/algorithms_and_data_structures_i/students_notes/felipe_balbi/notes.pdf)

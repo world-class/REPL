@@ -9,7 +9,7 @@
 - [Module specification](#module-specification)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
-  - [Notes](#notes)
+  - [:heart: Notes](#heart-notes)
   - [Websites](#websites)
 
 ---
@@ -53,7 +53,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Resources
 
-## Notes
+## :heart: Notes
 
 - [student_notes/arjun_muralidharan/CM2040_DNW_Summary.pdf](https://github.com/world-class/notes/tree/master/level_5/databases-networks-and-the-web/student_notes/arjun_muralidharan/CM2040_DNW_Summary.pdf)
 - [student_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_5/databases-networks-and-the-web/student_notes/felipe_balbi/notes.pdf)
