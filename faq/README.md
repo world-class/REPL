@@ -64,6 +64,7 @@
     - [I don't want to miss important announcements, what to do](#i-dont-want-to-miss-important-announcements-what-to-do)
     - [How long are vacations between semesters](#how-long-are-vacations-between-semesters)
   - [Exams](#exams)
+    - [Can you provide examples of acceptable calculators, and examples of unacceptable calculators](#can-you-provide-examples-of-acceptable-calculators-and-examples-of-unacceptable-calculators)
     - [Will you be expanding test centers The closest one to me is rather far away](#will-you-be-expanding-test-centers-the-closest-one-to-me-is-rather-far-away)
     - [If we sit the exam outside the UK, in a local examination centre, then it is done via British council, isn't it](#if-we-sit-the-exam-outside-the-uk-in-a-local-examination-centre-then-it-is-done-via-british-council-isnt-it)
     - [How many exams will be there per semester for a module](#how-many-exams-will-be-there-per-semester-for-a-module)
@@ -134,7 +135,7 @@
 
 - You will receive an email a few business days (sometimes more) after your successful registration as a student once your payment has been made.
 - **Your first step** should be to complete the **Orientation course** on Coursera – otherwise you won't be able to start your modules. Make sure you have selected _University of London_ for your modules on Coursera (see screenshot below) to display the course and then you can access it from [the home page](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home) of this programme on Coursera or [directly from this link](https://www.coursera.org/learn/london-cs-orientation).
-    ![coursera UoL selection](https://raw.githubusercontent.com/world-class/binary-assets/master/images/faq/coursera_uol_selection_2020-09-13.png)
+  ![coursera UoL selection](https://raw.githubusercontent.com/world-class/binary-assets/master/images/faq/coursera_uol_selection_2020-09-13.png)
 
 #### When and how I can get access to the student slack workspace
 
@@ -398,6 +399,22 @@ This (intentionally short!) section is dedicated to the general questions that a
 ---
 
 ## Exams
+
+### Can you provide examples of acceptable calculators, and examples of unacceptable calculators
+
+**Acceptable:**
+
+- Casio FX-83GTX Scientific Calculator
+- Casio FX-991EX Engineering/Scientific Calculator
+- Sharp SH-ELW531TGWH Scientific Calculator
+- Sharp EL531WH Scientific Calculator
+
+**Unacceptable:**
+
+- Casio Graphics Calculator FX-9750GII (because it can plot graphs)
+- Casio CLASSPAD330-B-EH Graphical Calculator (because it can plot graphs and can do differentiation)
+- Sharp EL 9450 Calculator (because it can plot graphs)
+- Sharp SH-EL9950G BX EN Graphing Calculator (because it can plot graphs)
 
 ### Will you be expanding test centers The closest one to me is rather far away
 
