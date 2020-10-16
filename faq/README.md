@@ -21,6 +21,7 @@
       - [Private matters and other types of academic inquiries](#private-matters-and-other-types-of-academic-inquiries)
       - [Technical issues on Coursera](#technical-issues-on-coursera)
       - [Small queries regarding a module](#small-queries-regarding-a-module)
+    - [What should I do to stay on top of things and receive important updates and notifications](#what-should-i-do-to-stay-on-top-of-things-and-receive-important-updates-and-notifications)
     - [Is there a simple repository of all knowledge generated regarding this program](#is-there-a-simple-repository-of-all-knowledge-generated-regarding-this-program)
     - [How to access the library](#how-to-access-the-library)
     - [What is my student email address](#what-is-my-student-email-address)
@@ -49,6 +50,7 @@
     - [Would on-campus be at the usual UK tuition fee rate](#would-on-campus-be-at-the-usual-uk-tuition-fee-rate)
     - [Can we register 3 modules + project in last semester](#can-we-register-3-modules--project-in-last-semester)
     - [Do you recommend taking four modules at a time if they are available](#do-you-recommend-taking-four-modules-at-a-time-if-they-are-available)
+    - [What are the officially suggested study hours for this programme](#what-are-the-officially-suggested-study-hours-for-this-programme)
     - [Does each module in Level 4 courses actually take 7 hours per week per module, I have some programming experience](#does-each-module-in-level-4-courses-actually-take-7-hours-per-week-per-module-i-have-some-programming-experience)
     - [Can a BSc CS student take more than 22 modules (excluding the final project)](#can-a-bsc-cs-student-take-more-than-22-modules-excluding-the-final-project)
   - [Programme Regulations](#programme-regulations)
@@ -164,6 +166,12 @@
 #### Small queries regarding a module
 
 - You can also ask in module specific Slack channel. Be sure to thank the person who helps you :smile:
+
+### What should I do to stay on top of things and receive important updates and notifications
+
+- Subscribe to the **Reach Out** forum on Coursera to receive important emails about general updates in the programme. You will find it in the [Orientation Course](https://www.coursera.org/learn/london-cs-orientation/home/welcome). You can also subscribe to the **Tutor Group** forum to get academic help.
+- Use the [Slack workspace](http://londoncs.slack.com/) to find information about all your modules. [Check out this page](../slack/README.md) for a list of useful resources you'll find on Slack as well as how to use it (e.g, pinned items, channels, replying in threads, searching for information, etc.).
+- Sync your calendar with Coursera and make sure you know what's the current week number for the ongoing semester. You can find more about this [on this page](../README.md#calendar-due-dates-and-events).
 
 ### Is there a simple repository of all knowledge generated regarding this program
 
@@ -315,6 +323,10 @@ If you have any specific queries about something you have created which you are 
 ### Do you recommend taking four modules at a time if they are available
 
 - Unfortunately, it is not for us to recommend, as it very much depends on your current circumstances. It is important to think about how much time you can give to your studies, as you should allow 6-10 study hours per week for a module.
+
+### What are the officially suggested study hours for this programme
+
+- _"You should allow, on average, the equivalent of 6-8 hours of study each week per module."_
 
 ### Does each module in Level 4 courses actually take 7 hours per week per module, I have some programming experience
 
