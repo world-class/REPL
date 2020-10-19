@@ -9,6 +9,7 @@
 - [Module specification](#module-specification)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
+  - [Complementary learning](#complementary-learning)
   - [:heart: Notes](#heart-notes)
 
 ---
@@ -48,6 +49,10 @@ Coursework only (Type II)
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2030_GP.pdf)
 
 # Resources
+
+## Complementary learning
+
+- [Collision Detection](https://github.com/jeffThompson/CollisionDetection) - Uses [Processing](https://github.com/processing-js/processing-js) (deprecated), which is similar to but not the same as [p5js](https://p5js.org). _"This book explains the algorithms behind [...] collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects."_.
 
 ## :heart: Notes
 
