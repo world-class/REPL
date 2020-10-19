@@ -94,6 +94,8 @@
     - [Will there be difference in the diploma if we finish the degree online and on campus](#will-there-be-difference-in-the-diploma-if-we-finish-the-degree-online-and-on-campus)
     - [Do usually students come to London to get their diplomas once they have graduated from UoL or are they being posted to graduates](#do-usually-students-come-to-london-to-get-their-diplomas-once-they-have-graduated-from-uol-or-are-they-being-posted-to-graduates)
   - [Coursera](#coursera)
+    - [General topics](#general-topics-1)
+      - [Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera](#is-there-a-way-to-remove-old-courses-from-the-in-progress-tab-on-the-home-page-of-the-programme-on-coursera)
     - [Modules involving mathematics](#modules-involving-mathematics)
       - [Why am I seeing weird symbols in the questions from the quizzes](#why-am-i-seeing-weird-symbols-in-the-questions-from-the-quizzes)
   - [Slack Community](#slack-community)
@@ -542,11 +544,18 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ## Coursera
 
+### General topics
+
+#### Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera
+
+- No. The "Orientation module" is always there because it contains updated information that's still relevant. As for past modules you may have completed, they will disappear once the university has taken care of all the grading necessary after a while.
+- Instead of accessing the home page listing all your current modules, students recommend bookmarking the links to the module. You can also make use of *"custom search engines"* and *"bookmark keywords"* on all major web browsers: simply search for those features if you're interested.
+
 ### Modules involving mathematics
 
 #### Why am I seeing weird symbols in the questions from the quizzes
 
-For instance, for a question about predicate logic, you might see something like `p \(\lor \neg \)q` as part of the question. This is a mathematical expression that has not been rendered properly and/or not rendered yet. **Solution:** Refresh the page to see the proper notation appear, i.e. `p V ¬q` in this example.
+-For instance, for a question about predicate logic, you might see something like `p \(\lor \neg \)q` as part of the question. This is a mathematical expression that has not been rendered properly and/or not rendered yet. **Solution:** Refresh the page to see the proper notation appear, i.e. `p V ¬q` in this example.
 
 ---
 
