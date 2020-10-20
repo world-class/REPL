@@ -526,6 +526,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Z80-dreams"><img src="https://avatars0.githubusercontent.com/u/52473290?v=4" width="100px;" alt=""/><br /><sub><b>Z80-dreams</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=Z80-dreams" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://muhozi.com"><img src="https://avatars3.githubusercontent.com/u/5815755?v=4" width="100px;" alt=""/><br /><sub><b>Emery Muhozi</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=muhozi" title="Documentation">📖</a></td>
   </tr>
 </table>
 
