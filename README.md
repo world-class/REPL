@@ -70,7 +70,6 @@ report it.</strong></p>
 - [Online study options](after_uol) (Master's, PhD, certificates, etc.)
 - [Podcasts](podcasts)
 - [Showcase of student-built applications](showcase)
-  - [Grades calculator](https://github.com/sglavoie/grades_calculator)
 - [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
 - Subreddit: [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/)
   - [Subreddit Articles](subreddit): A series of in-depth, informative articles by /u/Yangchenghu, originally posted on Reddit. (Opens directly on GitHub)
