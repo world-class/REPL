@@ -2,21 +2,22 @@
 
 # Table of contents
 
-* [Table of contents](#table-of-contents)
-* [Programming with Data](#programming-with-data)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-* [Module specification](#module-specification)
-* [Syllabus](#syllabus)
-* [Resources](#resources)
-  * [Complementary learning](#complementary-learning)
-    * [Data Science](#data-science)
-    * [Python](#python)
-      * [Libraries](#libraries)
-        * [Matplotlib](#matplotlib)
-        * [Numpy](#numpy)
-        * [Pandas](#pandas)
-  * [:heart: Notes](#heart-notes)
+- [Table of contents](#table-of-contents)
+- [Programming with Data](#programming-with-data)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [Complementary learning](#complementary-learning)
+    - [Data Science](#data-science)
+    - [Python](#python)
+      - [Sentiment analysis](#sentiment-analysis)
+      - [Libraries](#libraries)
+        - [Matplotlib](#matplotlib)
+        - [Numpy](#numpy)
+        - [Pandas](#pandas)
+  - [:heart: Notes](#heart-notes)
 
 ---
 
@@ -69,6 +70,11 @@ One two hour unseen written examination and coursework (Type I)
 - [Official Python documentation](https://docs.python.org/3/)
 - [Videos](https://github.com/world-class/REPL/tree/master/youtube#python) - REPL/YouTube
 - Websites: [references](https://github.com/world-class/REPL/tree/master/websites#python-1) - [working with data](https://github.com/world-class/REPL/tree/master/websites#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn) - REPL
+
+#### Sentiment analysis
+
+- [Example using NLTK for preprocessing text](https://colab.research.google.com/github/gal-a/blog/blob/master/docs/notebooks/nlp/nltk_preprocess.ipynb)
+- [Sentiment Analysis with NLTK](https://www.kaggle.com/kakiac/sentiment-analysis-with-nltk)
 
 #### Libraries
 
