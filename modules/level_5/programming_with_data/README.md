@@ -68,6 +68,7 @@ One two hour unseen written examination and coursework (Type I)
 - [Courses (free)](https://github.com/world-class/REPL/tree/master/online_courses/free#python) - REPL
 - [Learn Python, Data Viz, Pandas & More on Kaggle](https://www.kaggle.com/learn/overview) - Kaggle
 - [Official Python documentation](https://docs.python.org/3/)
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Videos](https://github.com/world-class/REPL/tree/master/youtube#python) - REPL/YouTube
 - Websites: [references](https://github.com/world-class/REPL/tree/master/websites#python-1) - [working with data](https://github.com/world-class/REPL/tree/master/websites#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn) - REPL
 
@@ -88,7 +89,10 @@ One two hour unseen written examination and coursework (Type I)
 
 ##### Pandas
 
+- :3rd_place_medal: [Pandas Tutorial Playlist - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - YouTube
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html) - pydata.org
+- [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015](https://www.youtube.com/watch?v=5JnMutdy6Fw)
+- [Learn Pandas](https://www.kaggle.com/learn/pandas) - Kaggle
 - [Vincent D. Warmerdam | PyData Eindhoven 2019](https://www.youtube.com/watch?v=yXGCKqo5cEY) - YouTube
 
 ## :heart: Notes
