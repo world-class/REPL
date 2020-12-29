@@ -47,6 +47,7 @@ The following list goes beyond the essential/required reading that is part of th
 
 # Free Open Textbooks
 
+- [Electronic References - Colin S. Gordon](https://csgordon.github.io/books.html) - _"[...] a loosely-categorized collection of links to CS textbooks in a variety of areas that are freely available online."_
 - [Open Textbook Library](https://open.umn.edu/opentextbooks) - _"Make a difference in your students' lives with free, openly-licensed textbooks."_
 - [OpenStax](https://openstax.org/) - _"Peer-reviewed. Openly licensed. 100% free."_
 
