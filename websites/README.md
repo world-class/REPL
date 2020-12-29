@@ -6,6 +6,7 @@
 - [Awesome lists about all kinds of interesting topics](#awesome-lists-about-all-kinds-of-interesting-topics)
 - [Artificial intelligence](#artificial-intelligence)
   - [Machine learning](#machine-learning)
+- [Books](#books)
 - [Career](#career)
   - [Advice](#advice)
   - [Resume building](#resume-building)
@@ -57,11 +58,11 @@
 - [Programming](#programming)
   - [App monitoring](#app-monitoring)
   - [Basics](#basics)
-  - [Books](#books)
+  - [Books](#books-1)
   - [Coding challenges](#coding-challenges)
   - [Documentation](#documentation)
   - [Interview preparation](#interview-preparation)
-    - [Books](#books-1)
+    - [Books](#books-2)
     - [Facebook](#facebook)
     - [Google](#google)
     - [Microsoft](#microsoft)
@@ -112,6 +113,10 @@
 - [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) - _"Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more."_
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google. - _"Google's fast-paced, practical introduction to machine learning."_
 - [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning) - University of Oxford
+
+# Books
+
+- Have a look at [../books/README.md](../books/README.md): quite a few of those books are available for free online and pretty much all of them can be bought physically and/or digitally.
 
 # Career
 
