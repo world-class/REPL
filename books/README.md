@@ -10,6 +10,7 @@ The following list goes beyond the essential/required reading that is part of th
   - [Algorithms](#algorithms)
 - [Data Science](#data-science)
 - [Free Open Textbooks](#free-open-textbooks)
+- [Interviews](#interviews)
 - [Learning](#learning)
 - [Mathematics](#mathematics)
   - [Calculus](#calculus)
@@ -51,6 +52,10 @@ The following list goes beyond the essential/required reading that is part of th
 - [Open Textbook Library](https://open.umn.edu/opentextbooks) - _"Make a difference in your students' lives with free, openly-licensed textbooks."_
 - [OpenStax](https://openstax.org/) - _"Peer-reviewed. Openly licensed. 100% free."_
 
+# Interviews
+
+- [Cracking the Coding Interview](http://www.crackingthecodinginterview.com), by Gayle Laakmann McDowell.
+
 # Learning
 
 - [Make It Stick: The Science of Successful Learning](https://www.goodreads.com/book/show/18770267-make-it-stick) - _"To most of us, learning something "the hard way" implies wasted time and effort. Good teaching, we believe, should be creatively tailored to the different learning styles of students and should use strategies that make learning easier. Make It Stick turns fashionable ideas like these on their head. Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners."_
@@ -87,6 +92,8 @@ The following list goes beyond the essential/required reading that is part of th
 - [Introductory Business Statistics](https://openstax.org/details/books/introductory-business-statistics) - _"Introductory Business Statistics is designed to meet the scope and sequence requirements of the one-semester statistics course for business, economics, and related majors. Core statistical concepts and skills have been augmented with practical business examples, scenarios, and exercises. The result is a meaningful understanding of the discipline, which will serve students in their business careers and real-world experiences."_
 
 # Programming
+
+- [Programming Notes for Professionals books](https://books.goalkicker.com/) - Wide range of relevant topics (algorithms, C++, CSS, Git, HTML5, JavaScript, LaTeX, Linux, Python, SQL, etc.). _"Books are updated weekly."_
 
 ## Assembly
 
