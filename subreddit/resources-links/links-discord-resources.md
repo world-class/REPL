@@ -140,6 +140,10 @@ A VERY detailed and source-heavy document with many links, detailing the accredi
 A student post which explains what RPLs are, and walks you through the process of getting a RPL via Coursera's Google IT Cert.
 :link: https://www.reddit.com/r/UniversityOfLondonCS/comments/hhjr2r/applying_for_a_recognition_of_prior_learning_rpl/
 
+**Guide to Module Prerequisites & Progression: How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule**
+An explanation of the University of London's progression rules and prerequisites, as well as a suggested schedule for new students.
+:link: https://www.reddit.com/r/UniversityOfLondonCS/comments/kp5mb0/guide_to_module_prerequisites_progression_how_to/
+
 **Be sure to check out /r/UniversityOfLondonCS - the Official Unofficial student subreddit of this programme**
 Although we are primarily for students and prospies in the University of London's Computer Science programme, there are also students from other UoL distance-learning programmes as well. All are welcome in this environment!
 
