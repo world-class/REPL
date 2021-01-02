@@ -1,4 +1,4 @@
-:flag_gb: **Information on UoL's BSc Computer Science** :flag_gb:
+:gb: **Information on UoL's BSc Computer Science** :gb:
 Collection of links :link: and PDFs :page_facing_up: about the University of London's Bachelor's of Science in Computer Science degree programme.
 
 **BSc Computer Science Programme Homepage**
@@ -25,7 +25,7 @@ The 'Bible' of the BSc Computer Science degree. _If you will only read one docum
 A broad outline and overview of the structure and content of the degree, entry level qualifications, and learning outcomes.
 :page_facing_up: https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2020-21.pdf
 
-:flag_gb: **About the University of London** :flag_gb:
+:gb: **About the University of London** :gb:
 Links :link: and PDFs :page_facing_up: about the University of London in general, as well as resources for students.
 
 **University of London Website**
@@ -58,7 +58,7 @@ Important legal contract which covers the consumer rights and legal protections 
 Tuition for the University of London is dependant on your 'Country Band'. _As of August 2020, Band A countries pay £420 GBP per module, while Band B countries pay £630 GBP per module._
 :page_facing_up: https://london.ac.uk/sites/default/files/leaflets/country-bands.pdf
 
-:flag_gb: **Recognition of Prior Learning** :flag_gb:
+:gb: **Recognition of Prior Learning** :gb:
 **About Recognitions of Prior Learning**
 General information on Recognition of Prior learning at the University of London
 :link: https://london.ac.uk/applications/how-apply/recognition-prior-learning
@@ -148,3 +148,4 @@ An explanation of the University of London's progression rules and prerequisites
 Although we are primarily for students and prospies in the University of London's Computer Science programme, there are also students from other UoL distance-learning programmes as well. All are welcome in this environment!
 
 :globe_with_meridians: **https://www.reddit.com/r/UniversityOfLondonCS/** :globe_with_meridians:
+
