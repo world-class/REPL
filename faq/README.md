@@ -31,7 +31,10 @@
     - [If we produce something during our studies, who "owns" it](#if-we-produce-something-during-our-studies-who-owns-it)
     - [Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course](#are-there-opportunities-for-students-to-gain-some-form-of-work-experience-in-the-industry-or-even-undergo-internships-during-the-course)
     - [I feel I need to vent, where can I go](#i-feel-i-need-to-vent-where-can-i-go)
+  - [Legal concerns](#legal-concerns)
+    - [What are the legal protections for the distance-learning student](#what-are-the-legal-protections-for-the-distance-learning-student)
   - [Recognition of Prior Learning (RPL)](#recognition-of-prior-learning-rpl)
+    - [How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate](#how-to-apply-for-a-recognition-of-prior-learning-rpl-with-the-google-it-support-professional-certificate)
     - [Is RPL time limited](#is-rpl-time-limited)
     - [What can be accepted as RPL](#what-can-be-accepted-as-rpl)
     - [Can we still apply RPL for Google IT Support course anytime during this semester or next](#can-we-still-apply-rpl-for-google-it-support-course-anytime-during-this-semester-or-next)
@@ -39,6 +42,7 @@
   - [Performance-Based Admission](#performance-based-admission)
     - [For performance-based admission, can I take more than two module this session](#for-performance-based-admission-can-i-take-more-than-two-module-this-session)
   - [Modules & Progression](#modules--progression)
+    - [How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule](#how-to-avoid-being-progression-blocked-due-to-missing-prerequisites-and-a-suggested-module-schedule)
     - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
     - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
     - [How can I drop/withdraw from module](#how-can-i-dropwithdraw-from-module)
@@ -84,7 +88,9 @@
     - [Have Level 5 and 6 Modules been quality assured](#have-level-5-and-6-modules-been-quality-assured)
     - [If you're restructuring the program to adhere to accreditation standards, will that disrupt the current modules or impending modules](#if-youre-restructuring-the-program-to-adhere-to-accreditation-standards-will-that-disrupt-the-current-modules-or-impending-modules)
   - [Grades & Results](#grades--results)
+    - [How does the grading work and what's the assessment structure of this degree](#how-does-the-grading-work-and-whats-the-assessment-structure-of-this-degree)
     - [My peer-reviewed work isn't graded yet, what can I do](#my-peer-reviewed-work-isnt-graded-yet-what-can-i-do)
+    - [Do I have to complete all the formative as well as the summative assessments on Coursera](#do-i-have-to-complete-all-the-formative-as-well-as-the-summative-assessments-on-coursera)
     - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
     - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
   - [Graduation & Beyond](#graduation--beyond)
@@ -124,6 +130,8 @@
   - 82% male; 18% female
   - 67% of applicants had less than a Bachelor degree; 22% had a Bachelor degree and 11% more than a Bachelor degree
   - Students from 87 countries
+- [Student Interview with David C. of Australia](../subreddit/interview-david-c.md).
+- [Thoughts on University of London's Bachelor's in Computer Science](../subreddit/uol-review.md), by @ShenZhouHong.
 
 ### Getting access to the programme
 
@@ -227,7 +235,19 @@ If you have any specific queries about something you have created which you are 
 
 ---
 
+## Legal concerns
+
+### What are the legal protections for the distance-learning student
+
+- See [this article in the Subreddit section of the REPL](../subreddit/legal-protections.md) for details.
+
+---
+
 ## Recognition of Prior Learning (RPL)
+
+### How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate
+
+- See [this article in the Subreddit section of the REPL](../subreddit/rpl-guide.md) for details.
 
 ### Is RPL time limited
 
@@ -267,6 +287,10 @@ If you have any specific queries about something you have created which you are 
 ---
 
 ## Modules & Progression
+
+### How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule
+
+- See [this article in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
 
 ### Can I still access the modules I have taken once the semester is over
 
@@ -501,9 +525,17 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ## Grades & Results
 
+### How does the grading work and what's the assessment structure of this degree
+
+- See [the Grades Guide in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
+
 ### My peer-reviewed work isn't graded yet, what can I do
 
 - Ask in the Slack channel [#reviewexchange](https://londoncs.slack.com/archives/CJXHM0RTQ).
+
+### Do I have to complete all the formative as well as the summative assessments on Coursera
+
+- No, but you will learn more if you work hard. See [this article in the Subreddit section of the REPL](../subreddit/formative-summative.md) for details.
 
 ### How do you assign grades? Grading on a Curve or absolute grading
 
@@ -520,7 +552,7 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ### Is this programme accredited
 
-- _Summary: Yes, the University of London and this degree in particular are accredited_. See [this article on Reddit at r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/comments/hzumke/everything_you_want_to_know_about_the/) for details.
+- _Summary: Yes, the University of London and this degree in particular are accredited_. See [this article in the Subreddit section of the REPL](../subreddit/accreditation.md) for details.
 
 ### How is this degree going to tie in or transfer over to the new MSc Data Science from UoL and the soon to come MSc Machine Learning on Coursera
 
@@ -549,7 +581,7 @@ This (intentionally short!) section is dedicated to the general questions that a
 #### Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera
 
 - No. The "Orientation module" is always there because it contains updated information that's still relevant. As for past modules you may have completed, they will disappear once the university has taken care of all the grading necessary after a while.
-- Instead of accessing the home page listing all your current modules, students recommend bookmarking the links to the module. You can also make use of *"custom search engines"* and *"bookmark keywords"* on all major web browsers: simply search for those features if you're interested.
+- Instead of accessing the home page listing all your current modules, students recommend bookmarking the links to the module. You can also make use of _"custom search engines"_ and _"bookmark keywords"_ on all major web browsers: simply search for those features if you're interested.
 
 ### Modules involving mathematics
 
