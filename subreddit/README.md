@@ -23,6 +23,7 @@ Note: this index is copied from `./resources-links/links-reddit-sticky.md`, with
 - [**Everything You Want to Know about the Institutional Accreditation of the University of London et al**](accreditation.md): A VERY detailed and source-heavy document with many links, detailing the accreditation of the course programme.
 - [**Applying for a Recognition of Prior Learning: Or How to Save £400 to £600 GBP**](rpl-guide.md): A student post which explains what RPLs are, and walks you through the process of getting a RPL via Coursera's Google IT Cert.
 - [**Interview with David C.**](interview-david-c.md) An interview with a student on their experiences in the programme
+- [**Guide to Module Prerequisites & Progression: How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule**](progression.md): An explanation of the University of London's progression rules and prerequisites, as well as a suggested schedule for new students.
 
 ## About resources-links
 
