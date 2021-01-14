@@ -1,6 +1,6 @@
 # Links, Resources, and FAQs for the University of London Bachelor's of Science in Computer Science Programme
 
-**Updated as of 2021-01-02 (January 2rd, 2021)**
+**Updated as of 2021-01-14 (January 14th, 2021)**
 
 Hello /r/UniversityOfLondonCS,
 
@@ -81,7 +81,7 @@ Here is a collection of useful, in-depth guides, tutorials, and walkthroughs pub
 * [**Everything You Want to Know about the Institutional Accreditation of the University of London et al**](https://www.reddit.com/r/UniversityOfLondonCS/comments/hzumke/everything_you_want_to_know_about_the/): A VERY detailed and source-heavy document with many links, detailing the accreditation of the course programme.
 * [**Applying for a Recognition of Prior Learning: Or How to Save £400 to £600 GBP**](https://www.reddit.com/r/UniversityOfLondonCS/comments/hhjr2r/applying_for_a_recognition_of_prior_learning_rpl/): A student post which explains what RPLs are, and walks you through the process of getting a RPL via Coursera's Google IT Cert.
 * [**Guide to Module Prerequisites & Progression: How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule**](https://www.reddit.com/r/UniversityOfLondonCS/comments/kp5mb0/guide_to_module_prerequisites_progression_how_to/): An explanation of the University of London's progression rules and prerequisites, as well as a suggested schedule for new students.
-
+* [**How Much Does this Degree Cost? A FAQ and Guide to the Tuition of the University of London's BSc in Computer Science**](https://www.reddit.com/r/UniversityOfLondonCS/comments/kx21jp/how_much_does_this_degree_cost_a_faq_and_guide_to/): A FAQ and Guide to the fees schedule, with example calculations, as well as links to all the official sources concerning tuition.
 
 [**Be sure to check out /r/UniversityOfLondonCS - the Official Unofficial student subreddit of this programme**](https://www.reddit.com/r/UniversityOfLondonCS/). Although we are primarily for students and prospies in the University of London's Computer Science programme, there are also students from other UoL distance-learning programmes as well. All are welcome in this environment!
 
