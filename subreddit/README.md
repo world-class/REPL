@@ -24,7 +24,7 @@ Note: this index is copied from `./resources-links/links-reddit-sticky.md`, with
 - [**Applying for a Recognition of Prior Learning: Or How to Save £400 to £600 GBP**](rpl-guide.md): A student post which explains what RPLs are, and walks you through the process of getting a RPL via Coursera's Google IT Cert.
 - [**Interview with David C.**](interview-david-c.md) An interview with a student on their experiences in the programme
 - [**Guide to Module Prerequisites & Progression: How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule**](progression.md): An explanation of the University of London's progression rules and prerequisites, as well as a suggested schedule for new students.
-* [**How Much Does this Degree Cost? A FAQ and Guide to the Tuition of the University of London's BSc in Computer Science**](fees-guide.md): A FAQ and Guide to the fees schedule, with example calculations, as well as links to all the official sources concerning tuition.
+- [**How Much Does this Degree Cost? A FAQ and Guide to the Tuition of the University of London's BSc in Computer Science**](fees-guide.md): A FAQ and Guide to the fees schedule, with example calculations, as well as links to all the official sources concerning tuition.
 ## About resources-links
 
 The `links-reddit-sticky.md` is the main document of useful resources and links.
