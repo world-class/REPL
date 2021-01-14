@@ -144,8 +144,11 @@ A student post which explains what RPLs are, and walks you through the process o
 An explanation of the University of London's progression rules and prerequisites, as well as a suggested schedule for new students.
 :link: https://www.reddit.com/r/UniversityOfLondonCS/comments/kp5mb0/guide_to_module_prerequisites_progression_how_to/
 
+**How Much Does this Degree Cost? A FAQ and Guide to the Tuition of the University of London's BSc in Computer Science**
+A FAQ and Guide to the fees schedule, with example calculations, as well as links to all the official sources concerning tuition.
+:link: https://www.reddit.com/r/UniversityOfLondonCS/comments/kx21jp/how_much_does_this_degree_cost_a_faq_and_guide_to/
+
 **Be sure to check out /r/UniversityOfLondonCS - the Official Unofficial student subreddit of this programme**
 Although we are primarily for students and prospies in the University of London's Computer Science programme, there are also students from other UoL distance-learning programmes as well. All are welcome in this environment!
 
 :globe_with_meridians: **https://www.reddit.com/r/UniversityOfLondonCS/** :globe_with_meridians:
-
