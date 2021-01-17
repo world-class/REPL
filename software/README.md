@@ -490,6 +490,7 @@
 
 ### Touch typing
 
+- [Keybr.com](https://www.keybr.com) - Type fast solo or in multiplayer mode.
 - [Typing.com](https://www.typing.com) - Learn to type for free without looking at your keyboard.
 
 ### UX/UI design
