@@ -76,6 +76,7 @@
       - [Beginner friendly](#beginner-friendly-2)
     - [Time trackers](#time-trackers)
     - [Touch typing](#touch-typing)
+    - [UML diagrams](#uml-diagrams)
     - [UX/UI design](#uxui-design)
     - [Version control system](#version-control-system)
     - [Video communication](#video-communication)
@@ -493,6 +494,10 @@
 - [Keybr.com](https://www.keybr.com) - Type fast solo or in multiplayer mode.
 - [Typing.com](https://www.typing.com) - Learn to type for free without looking at your keyboard.
 
+### UML diagrams
+
+- [Mermaid.js](https://mermaid-js.github.io) - _"Mermaid lets you represent diagrams using text and code. This simplifies maintianing complex diagrams. It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically."_
+- [PlantUML](https://plantuml.com) - _"Generate UML diagram from textual description."_
 ### UX/UI design
 
 See also [Graphics software](#graphics-software).
