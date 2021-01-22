@@ -1,10 +1,13 @@
 # Guide to Module Prerequisites & Progression: How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule
+
+**Updated Jan 22nd 2021: Added special consideration for PBA students**
+
 Hello there, /r/UniversityofLondonCS!
 
 We've recently had posts and comments with questions regarding the progression within this degree programme, especially from new applicants. I decided to write this post as a general guide to progression within the programme, explain the prerequisites for advancement from FHEQ Level 4 to Level 5, as well as present a suggested module schedule.
 
 ## How does progression work within this degree programme?
-The University of London's Bachelor's of Science in Computer Science is composed of [22 modules plus a Final Project](https://london.ac.uk/computer-science-structure) (For more information regarding the degree's structure, [see my other guide](grades-guide.md)). These 22 modules are all worth 15 credits each, and are divided into three levels: There are FHEQ Level 4 modules, FHEQ Level 5 modules, and FHEQ Level 6 modules.
+The University of London's Bachelor's of Science in Computer Science is composed of [22 modules plus a Final Project](https://london.ac.uk/computer-science-structure) (For more information regarding the degree's structure, [see my other guide](https://www.reddit.com/r/UniversityOfLondonCS/comments/hgbcc8/beginners_guide_to_grades_projects_exams_and/)). These 22 modules are all worth 15 credits each, and are divided into three levels: There are FHEQ Level 4 modules, FHEQ Level 5 modules, and FHEQ Level 6 modules.
 
 Each Level is more advanced than the previous Level, hence there are *progression rules* which govern when a student may register for Level 5 and Level 6 modules. As this guide is intended for applicants and new students, we will only discuss the progression requirements of Level 5 modules:
 
@@ -68,6 +71,14 @@ As you can see in the above example, the student who became 'progression-blocked
 
 Essentially, the *gatekeeping* modules in Level 4 are your maths (CM/DM) and programming (Intro to Prog I, Intro to Prog II) modules, as they are the only ones specifically listed in the progression section of the programme regulations. As long as you make sure to take your maths and programming modules one right after the other, you may register for your remaining Level 4 modules in whatever order you wish, without fear of becoming 'progression-blocked'
 
+## Are there any special considerations for PBA Students
+
+As an important additional note: For Performance-Based Admissions students who intend to study four modules per term every term after their first term, it is important that you [apply for an Recognition of Prior Learning \(RPL\) via the Google IT Prof. Cert. in order to bypass the How Computers Work \(HCW\) module](rpl-guide.md) on your first term. **Otherwise, PBA students will risk becoming progression blocked when registering for their third term, due to not passing 45 credits yet.**
+
+This consideration **only** applies to PBA students who intend to take 4 modules per term after their first term. If you only intend to take 3 modules per term after your first term, you will be fine.
+
+If this sounds a little confusing right now, check out the recommended 'schedule' for PBA students taking 4 modules per term below.
+
 ## What is your recommended 'schedule' of modules to take which will avoid 'progression-blocking'?
 
 You really don't need a schedule to not be progression-blocked, as long as you complete your maths and programming modules right after each other. However for those who are worried, the following schedules will guarantee progression from Level 4 to Level 5.
@@ -107,6 +118,26 @@ You really don't need a schedule to not be progression-blocked, as long as you c
 ### 3rd Term
 * *[No longer at risk of being 'progression-blocked']*
 
+### Recommended schedule for PBA student w/ 4 modules per term after 1st term
+
+**1st Term**
+
+* **Intro to Prog I**
+* **CM/DM (whichever is offered)**
+* [**Coursera's Google IT Prof. Cert. for RPL to bypass HCW**](rpl-guide.md)
+
+*PBA Students can only take 2 modules in their first term*
+
+**2nd Term**
+
+* **Intro to Prog II**
+* **CM/DM (whichever is offered)**
+* *[Any Level 4 module]*
+* *[Any Level 4 module]*
+
+### 3rd Term
+* *[No longer at risk of being 'progression-blocked']*
+
 ## What about progression from Level 5 to Level 6? Or from Level 6 to Final Project?
 There is are separate sets of progression requirements which govern further progression into the degree programme. These rules can be found in the [Programme Regulations, Sections 5.6 and 5.8 (pages 12-13)](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf).
 
@@ -124,4 +155,4 @@ You may run into issues. You could potentially avoid being severely delayed [if 
 
 Thank you all for reading this guide to progression requirements within the University of London's BSc of Computer Science! If you have any questions, feel free to join us at the unofficial Discord server ([invitation link](https://discord.gg/GhRFG5X))!
 
-Likewise, be sure to check out the resources available to you in the [FAQ page](README.md)!
+Likewise, be sure to check out the resources available to you in the [FAQ page](https://www.reddit.com/r/UniversityOfLondonCS/comments/hnfctt/links_resources_and_faqs_for_the_university_of/)!
