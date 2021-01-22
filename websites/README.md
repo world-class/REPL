@@ -9,6 +9,7 @@
 - [Books](#books)
 - [Career](#career)
   - [Advice](#advice)
+  - [Reaching the next level](#reaching-the-next-level)
   - [Resume building](#resume-building)
 - [Computer science](#computer-science)
   - [Algorithms](#algorithms)
@@ -124,6 +125,10 @@
 
 - [TopResume](https://www.topresume.com/career-advice). _"Job-search tips and expert advice to help you get ahead in your career."_
 
+## Reaching the next level
+
+- [Senior Mindset series](https://seniormindset.com/) - _"Get a series of curated essays on the mindset of a senior software engineer. What it takes to get there, what should you do when you're there, how to change the way you think."_
+- [Stories of reaching Staff-plus engineering roles - StaffEng](https://staffeng.com/) - _"The StaffEng project aims to collect the stories of folks who are operating in Staff, Principal or Distinguished Engineer roles."_
 ## Resume building
 
 - [Kickresume](https://www.kickresume.com) - _" We help students take first steps towards a successful career. Kickresume Premium is now free for all students. Verify your student status with ISIC, ITIC or EURO>26."_
