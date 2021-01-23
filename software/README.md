@@ -210,7 +210,7 @@
 
 ### Data storage & syncronization
 
-- :cloud: [Dropbox](https://www.dropbox.com) (Windows, macOS, Linux) - **2GB Free**. _"Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Dropbox_%28service%29)
+- :cloud: [Dropbox](https://www.dropbox.com) (Windows, macOS, Linux) - **2GB Free**. _"Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Dropbox_%28service%29))
 - :cloud: [Google Drive](https://www.google.com/drive) (Windows, macOS, officially) - **15GB Free**. _"Google Drive is a file storage and synchronization service developed by Google. [...] Google Drive allows users to store files on their servers, synchronize files across devices, and share files."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Drive))
 - :cloud: [pCloud](https://www.pcloud.com) (Windows, macOS, Linux) - **10GB Free**. _"pCloud is the secure cloud storage, where you can store, share and work on all your files. You can access them on any device, anywhere you go!"_
 - :star: [Syncthing](https://syncthing.net) - (Windows, macOS, Linux, FreeBSD, Solaris, OpenBSD) - _"Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers and replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the internet."_
@@ -320,7 +320,7 @@
 ##### Beginner-friendly
 
 - :star: [Fedora](https://getfedora.org/en/workstation) - A more developer centric distribution based on Red Hat Enterprise Linux (RHEL) ecosystem.
-- :star: [Linux Mint](https://linuxmint.com) - _"Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.""_ ([from Wikipedia](https://en.wikipedia.org/wiki/Linux_Mint)
+- :star: [Linux Mint](https://linuxmint.com) - _"Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a modern, elegant and comfortable operating system which is both powerful and easy to use."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Linux_Mint))
 - :star: [Ubuntu](https://www.ubuntu.com/download/desktop) - A beginner-friendly distribution based on Debian.
 
 ### Password managers
@@ -397,7 +397,7 @@
 
 - :cloud: [Evernote](https://evernote.com) - _"Evernote is a mobile app designed for note taking, organizing, task lists, and archiving._" ([from Wikipedia](https://en.wikipedia.org/wiki/Evernote))
 - :star: [Joplin](https://github.com/laurent22/joplin) (Windows, Linux, macOS, Android, iOS) - _"Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks."_ (from [Joplin Github](https://github.com/laurent22/joplin))
-- [OneNote](https://www.onenote.com) (Windows, macOS, Android, iOS, web) - _"Microsoft OneNote is a program for free-form information gathering and multi-user collaboration. It gathers users' notes, drawings, screen clippings and audio commentaries. Notes can be shared with other OneNote users over the Internet or a network."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Microsoft_OneNote)
+- [OneNote](https://www.onenote.com) (Windows, macOS, Android, iOS, web) - _"Microsoft OneNote is a program for free-form information gathering and multi-user collaboration. It gathers users' notes, drawings, screen clippings and audio commentaries. Notes can be shared with other OneNote users over the Internet or a network."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Microsoft_OneNote))
 - :star: :cloud: [Simplenote](https://simplenote.com) (Windows, macOS, Linux, Android, iOS, web) - _The simplest way to keep notes. Light, clean, and free._
 - [Typora](https://www.typora.io) (Windows, macOS, Linux) - _"Typora is a minimal markdown editor, providing new ways for reading and writing markdown. It is currently in beta. Typora is commercial software (not open source), but is free during beta."_
 - [Vimwiki](https://github.com/vimwiki/vimwiki) (Windows, macOS, Linux) - _"VimWiki is a personal wiki for Vim -- a number of linked text files that have their own syntax highlighting. With VimWiki you can: organize notes and ideas; manage to-do lists; write documentation; maintain a diary; export everything to HTML."_
@@ -409,7 +409,7 @@
 - :cloud: [ClickUp](https://clickup.com) - _The productivity platform. Create. Plan. Organize. Everything._
 - :cloud: [Google Keep](https://keep.google.com) - _Keep offers a variety of tools for taking notes, including text, lists, images, and audio._
 - :cloud: [meistertask](https://www.meistertask.com) - _The most intuitive project and task management tool on the web._
-- :cloud: [Pearltrees](https://www.pearltrees.com) - _"Pearltrees refers to itself as "a place for your interests". Functionally the product is a visual and collaborative curation tool that allows users to organize, explore and share any URL they find online as well as to upload personal photos, files and notes."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Pearltrees)
+- :cloud: [Pearltrees](https://www.pearltrees.com) - _"Pearltrees refers to itself as "a place for your interests". Functionally the product is a visual and collaborative curation tool that allows users to organize, explore and share any URL they find online as well as to upload personal photos, files and notes."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Pearltrees))
 - :cloud: [Pocket](https://getpocket.com) - _"Pocket, previously known as Read It Later, is an application and web service for managing a reading list of articles from the Internet."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Pocket_%28service%29))
 - :cloud: [TickTick](https://ticktick.com) - _Capture ideas, organize to-dos, and make the most of your life._
 - :star: [Todo.txt](http://todotxt.org) - (_operating system agnostic_, Android, iOS, CLI) _"If you have a file called todo.txt on your computer right now, you're in the right place. So many power users try dozens of complicated todo list software applications, only to go right back to their trusty todo.txt file."_
@@ -517,10 +517,10 @@ See also [Graphics software](#graphics-software).
 
 - [WhereBy (formerly Appear.in](https://whereby.com) - _"Simple video meetings. With no app or installs required, and the same meeting link every time, Whereby gives you the freedom to work from anywhere."_
 - [Facebook Live](https://live.fb.com) - _"A fun, powerful way to connect with your followers and create new ones along the way._"
-- [Google Hangouts](http://www.google.com/hangouts) - _"Google Hangouts is a communication platform developed by Google which includes messaging, video chat, and VOIP features."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Hangouts)
-- [Skype](https://www.skype.com) - _"[...] specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches via the Internet. Skype also provides instant messaging services. Users may transmit text, video, audio and images. Skype allows video conference calls."_ [(from Wikipedia)](https://en.wikipedia.org/wiki/Skype)
+- [Google Hangouts](http://www.google.com/hangouts) - _"Google Hangouts is a communication platform developed by Google which includes messaging, video chat, and VOIP features."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Google_Hangouts))
+- [Skype](https://www.skype.com) - _"[...] specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches via the Internet. Skype also provides instant messaging services. Users may transmit text, video, audio and images. Skype allows video conference calls."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Skype))
 - [Slack calls](https://slack.com) - _"With Slack Calls, you can make a voice or video call with any member of your workspace."_
-- [Zoom](https://zoom.us) - _"[...] remote conferencing services using cloud computing. Zoom offers communications software that combines video conferencing, online meetings, chat, and mobile collaboration."_ [(from Wikipedia)](https://en.wikipedia.org/wiki/Zoom_Video_Communications)
+- [Zoom](https://zoom.us) - _"[...] remote conferencing services using cloud computing. Zoom offers communications software that combines video conferencing, online meetings, chat, and mobile collaboration."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Zoom_Video_Communications))
 
 ### Video conversion
 
