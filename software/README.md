@@ -413,7 +413,7 @@
 - :cloud: [Pocket](https://getpocket.com) - _"Pocket, previously known as Read It Later, is an application and web service for managing a reading list of articles from the Internet."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Pocket_%28service%29))
 - :cloud: [TickTick](https://ticktick.com) - _Capture ideas, organize to-dos, and make the most of your life._
 - :star: [Todo.txt](http://todotxt.org) - (_operating system agnostic_, Android, iOS, CLI) _"If you have a file called todo.txt on your computer right now, you're in the right place. So many power users try dozens of complicated todo list software applications, only to go right back to their trusty todo.txt file."_
-- :cloud: [Todoist](https://todoist.com) - _Todoist lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind along the way._
+- :cloud: [Todoist](https://todoist.com) (see also [todoist-linux](https://github.com/KryDos/todoist-linux)) - _Todoist lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind along the way._
 - :cloud: [Trello](https://trello.com/en) - _Trello's boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way._
 - :cloud: [Wunderlist](https://www.wunderlist.com) - _"Whether you’re planning a holiday, sharing a shopping list with a partner or managing multiple work projects, Wunderlist is here to help you tick off all your personal and professional to-dos."_
 
