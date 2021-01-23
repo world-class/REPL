@@ -446,6 +446,7 @@
 - [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=en) (Android)
 - :star: [GNOME Screenshots](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en) (Linux)
 - [Go Record: Screen Recorder](https://itunes.apple.com/us/app/go-record-screen-recorder/id1345200849) (iOS)
+- :star: [Peek](https://github.com/phw/peek) (Linux)
 - [Screencast o matic](https://screencast-o-matic.com/screen-recorder) (Windows, macOS, Chromebook)
 - :star: [Simple Screen Recorder](https://www.maartenbaert.be/simplescreenrecorder) (Linux)
 
