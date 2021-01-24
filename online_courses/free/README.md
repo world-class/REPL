@@ -100,10 +100,10 @@
 
 - [Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model) - Coursera. Duke University.
 - [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice) - Coursera. Offered by [deeplearning.ai](https://www.deeplearning.ai/). Includes:
-  - [Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
-  - [Course 2: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
-  - [Course 3: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
-  - [Course 4: Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+  - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+  - Convolutional Neural Networks in TensorFlow
+  - Natural Language Processing in TensorFlow
+  - Sequences, Time Series and Prediction
 
 #### Complementary topics
 
@@ -241,7 +241,7 @@
 - [Arizona State University: Data Systems](https://www.coursera.org/specializations/data-systems) - Coursera Specialization
 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) - DataCamp.
 - [Python for Data Science](https://www.edx.org/course/python-for-data-science-2) - edX. Offered by UCSanDiego.
-- [University of California, San Diego: Data Science](https://www.edx.org/micromasters/data-science) - edX MicroMaster
+- [University of California, San Diego: Data Science](https://www.edx.org/micromasters/uc-san-diegox-data-science) - edX MicroMaster
 
 ### Data analysis
 
@@ -299,13 +299,7 @@
 
 #### Cloud computing
 
-- [Architecting with Google Cloud Platform en Español Specialization](https://www.coursera.org/specializations/gcp-architecture-es) - Coursera. Includes:
-  - [Google Cloud Platform Fundamentals: Core Infrastructure en Español](https://www.coursera.org/learn/gcp-fundamentals-es?specialization=gcp-architecture-es)
-  - [Essential Cloud Infrastructure: Foundation en Español](https://www.coursera.org/learn/gcp-infrastructure-foundation-es?specialization=gcp-architecture-es)
-  - [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es?specialization=gcp-architecture-es)
-  - [Elastic Cloud Infrastructure: Scaling and Automation en Español](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es?specialization=gcp-architecture-es)
-  - [Elastic Cloud Infrastructure: Containers and Services en Español](https://www.coursera.org/learn/gcp-infrastructure-containers-services-es)
-  - [Reliable Cloud Infrastructure: Design and Process en Español](https://www.coursera.org/learn/cloud-infrastructure-design-process-es)
+- [Architecting with Google Cloud Platform en Español Specialization](https://www.coursera.org/specializations/gcp-architecture-es) - Coursera.
 
 #### Programming
 
@@ -313,11 +307,7 @@
 
 #### Web development
 
-- [Full Stack Web Development en Español Specialization](https://www.coursera.org/specializations/fullstack-web-development-espanol) - Coursera. Includes:
-  - [Diseñando páginas web con Bootstrap 4](https://www.coursera.org/learn/disenando-paginas-bootstrap4)
-  - [Desarrollo de páginas con Angular](https://www.coursera.org/learn/desarrollar-paginas-web-con-angular)
-  - [Desarrollo de Aplicaciones Mobile Multiplataforma con Nativescript, Angular y Redux](https://www.coursera.org/learn/aplicaciones-mobile-multiplataforma-nativescript-angular-redux)
-  - [Desarrollo del lado servidor: NodeJS, Express y MongoDB](https://www.coursera.org/learn/desarrollo-lado-servidor-nodejs-express-mongodb)
+- [Full Stack Web Development en Español Specialization](https://www.coursera.org/specializations/fullstack-web-development-espanol) - Coursera.
 
 ## Game development
 
@@ -350,9 +340,9 @@
 
 - [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - Coursera. _"Learn how to think the way mathematicians do – a powerful cognitive process developed over thousands of years."_
 - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) - Coursera. Includes:
-  - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
-  - [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
-  - [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)
+  - Linear Algebra
+  - Multivariate Calculus
+  - PCA
 - [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) - Coursera. _"By the end, you will be able to apply the basics of the number theory to encrypt and decrypt messages, and to break the code if one applies RSA carelessly. You will even pass a cryptographic quest!"_
 
 ### Calculus

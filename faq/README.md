@@ -595,13 +595,13 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ### What are the basics on how to use Slack
 
-- [Available shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)
-- [How to format your messages](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
+- [Available shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)
+- [How to format your messages](https://slack.com/help/articles/202288908-Format-your-messages)
 - [How to share snippets of code](https://slack.com/slack-tips/share-code-snippets) (JavaScript, HTML, CSS, Python, C++, etc.)
 - [How to use pinned items](https://slack.com/intl/en-mx/help/articles/205239997-Pin-messages) (important info in each channel)
 - [How to search effectively](https://slack.com/intl/en-mx/help/articles/202528808-Search-in-Slack) (filtering by channel, user, date, file types, etc.)
 - [How to find channels](https://slackhq.com/introducing-channel-search-for-slack)
-- [Slack help center](https://get.slack.help/hc/en-us) for anything else
+- [Slack help center](https://slack.com/help) for anything else
 
 ### How do I reply to a specific user using threads
 

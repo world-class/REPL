@@ -352,7 +352,6 @@
 
 - :star: Firefox, Google Chrome, :star: Chromium - Built-in viewer (Windows, macOS, Linux)
 - [Foxit Reader](https://www.foxitsoftware.com/pdf-reader) (Windows, macOS, Linux)
-- [PDF Reader – PDF Viewer & Epub, Ebook reader](https://play.google.com/store/apps/details?id=com.officetool.pdfreader2018.pdfviewer) (Android)
 - [PDF Viewer Pro](https://itunes.apple.com/us/app/pdf-viewer-pro-by-pspdfkit/id1120099014) (iOS)
 - As secondary feature
   - :star: [GIMP](https://www.gimp.org) (Windows, macOS, Linux)
@@ -415,7 +414,6 @@
 - :star: [Todo.txt](http://todotxt.org) - (_operating system agnostic_, Android, iOS, CLI) _"If you have a file called todo.txt on your computer right now, you're in the right place. So many power users try dozens of complicated todo list software applications, only to go right back to their trusty todo.txt file."_
 - :cloud: [Todoist](https://todoist.com) (see also [todoist-linux](https://github.com/KryDos/todoist-linux)) - _Todoist lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind along the way._
 - :cloud: [Trello](https://trello.com/en) - _Trello's boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way._
-- :cloud: [Wunderlist](https://www.wunderlist.com) - _"Whether you’re planning a holiday, sharing a shopping list with a partner or managing multiple work projects, Wunderlist is here to help you tick off all your personal and professional to-dos."_
 
 #### Writing assistant
 
@@ -457,7 +455,7 @@
 
 ### Screenshot tools
 
-- :star: [Flameshot](https://flameshot.js.org) (Linux)
+- :star: [Flameshot](https://flameshot.org/) (Linux)
 - :star: [GNOME Screenshots](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en) (Linux)
 - [Screenshot](https://support.apple.com/en-us/HT201361) (macOS)
 - [Snipping Tool](https://support.microsoft.com/en-us/help/13776/windows-10-use-snipping-tool-to-capture-screenshots) (Windows)

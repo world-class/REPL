@@ -1,6 +1,6 @@
 [Go back to the main page](../README.md)
 
-The following list goes beyond the essential/required reading that is part of this degree. The essential reading for each module, if available, can be found by visiting the relevant page in this repository from the [list of modules](../modules/).
+The following list goes beyond the essential/required reading that is part of this degree. The essential reading for each module, if available, can be found by visiting the relevant page in this repository from the [list of modules](https://github.com/world-class/REPL/tree/master/modules) (opens on GitHub).
 
 # Table of contents
 

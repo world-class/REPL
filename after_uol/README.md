@@ -21,7 +21,7 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 ## Doctor of Computer Science
 
 - [Colorado Technical University](https://www.coloradotech.edu/degrees/doctorates/computer-science)
-- [Columbia University](https://cvn.columbia.edu/program/columbia-university-computer-science-doctorate-degree-des-doctor-engineering)
+- [Columbia University](https://www.cs.columbia.edu/des/)
 - [Northcentral University](https://www.ncu.edu/programs-degrees/doctoral/doctor-philosophy-computer-science)
 
 ## Master's Degree
@@ -31,7 +31,6 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 - [Columbia University](https://cvn.columbia.edu/program/columbia-university-computer-science-masters-degree-masters-science)
 - [DePaul University](https://www.cdm.depaul.edu/academics/Pages/MSInComputerScience.aspx)
 - [Georgia Tech](https://www.cc.gatech.edu/future/masters/mscs/program) - Udacity
-- [Illinois Institute of Technology](https://science.iit.edu/computer-science/programs/graduate/graduate-program-resources/comparison-master-science-and)
 - [Indiana University](https://www.edx.org/masters/online-master-in-it-management-indiana-university) (IT Management) - edX
 - [Penn Engineering](https://www.coursera.org/degrees/mcit-penn) (Computer and Information Technology) - Coursera
 - [Stanford University](https://online.stanford.edu/programs/computer-science-ms-degree)

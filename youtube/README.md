@@ -100,7 +100,7 @@
 
 ## Algorithms
 
-- [Alejandra Beghelli's channel](https://www.youtube.com/channel/UCJWZNQIKS9V5R3Wn42PMIIw/) - **Instructor for [Algorithms and Data Structures II](../REPL/modules/level_5/algorithms_and_data_structures_ii/)**.
+- [Alejandra Beghelli's channel](https://www.youtube.com/channel/UCJWZNQIKS9V5R3Wn42PMIIw/) - **Instructor for [Algorithms and Data Structures II](../modules/level_5/algorithms_and_data_structures_ii/)**.
 - [Algorithm Design and Analysis](https://www.youtube.com/playlist?list=PL6EF0274BD849A7D5) (playlist) - UC Davis
 - [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://www.youtube.com/playlist?list=PLUl4u3cNGP63d33STUUBfZUpzFCVR5-PV) (playlist) - MIT OpenCourseWare - _"[...] summarizing the prerequisite complexity theory and featuring two examples of hardness proofs in games."_
 - [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY) - freeCodeCamp.org

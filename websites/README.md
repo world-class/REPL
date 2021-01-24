@@ -359,7 +359,6 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Imgbox](https://imgbox.com) - _"Hotlinking, super blazing fast, 10MB maximum file size, simple interface, unlimited storage space, unlimited storage time."_
 - [Imgur](https://imgur.com) - _"Imgur is an online image sharing community and image host founded by Alan Schaaf in 2009."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Imgur))
 - [Postimage](https://postimages.org) - _"Provides free image upload and hosting integration for forums. Free picture hosting and photo sharing for websites and blogs."_
-- [TinyPic](http://tinypic.com) - No sign up required. _"TinyPic is a photo and video sharing service, owned and operated by Photobucket.com, that allows users to upload, link and share, images and videos on the Internet. The idea is similar to URL shortening in which each uploaded image is given a relatively short internet address."_ ([from Wikipedia](https://en.wikipedia.org/wiki/TinyPic))
 
 ## Manage your privacy
 
@@ -425,10 +424,6 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 ### Google
 
 - [Interviewing at Google — JavaScript Assessment Questions](https://medium.com/javascript-in-plain-english/interviewing-at-google-javascript-assessment-questions-f9bf0c0df157) - Medium, Adi S.
-
-### Microsoft
-
-- [Interviewing at Microsoft— JavaScript Assessment Questions](https://medium.com/javascript-in-plain-english/microsoft-online-assessment-questions-js-f68ecdb6e927) - Medium, Adi S.
 
 ## Games
 

@@ -128,5 +128,5 @@ Interested? Feel free to ask me any questions in this thread. AMA! :)
 
 - /r/UniversityOfLondonCS - The Official Unofficial Subreddit! Most of the community is on the Official Student-only Slack, but feel free to ask us any questions here!
 - [REPL - The Unofficial Student-Run Website:](https://world-class.github.io/REPL/) This is the 'Student Bible'. It's made by the students of the course, and has a lot of tips and tricks for insiders, as well as lists of resources, and shared notes. For a inside view of how it's like being a student, check this out!
-- [Class Notes Repository:](https://github.com/world-class/REPL/tree/master/notes) A collection of student-contributed lecture notes. It's a good way to have a peak at how the day-to-day classes are like in terms of academics.
+- [Class Notes Repository:](https://github.com/world-class/notes) A collection of student-contributed lecture notes. It's a good way to have a peak at how the day-to-day classes are like in terms of academics.
 - [Featured Student: Combining Two Degrees: a Story of Plato and Programming:](https://london.ac.uk/news-and-opinion/student-blog/combining-two-degrees-a-story-plato-and-programming) The University of London blog showcased a founding-year student. It talks a bit about the sort of students that are enrolled.
