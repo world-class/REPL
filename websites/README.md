@@ -594,8 +594,10 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 ## Tools
 
+- [Closing Tag Checker for HTML5](https://www.aliciaramirez.com/closing-tags-checker/) - _"This script doesn't check for self closing tags."_ Works great for validating Markdown mixed with HTML too.
 - [Color Hunt](https://colorhunt.co) - _"Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes."_
 - [Coolors](https://coolors.co) - _"The super fast color schemes generator! Create, save and share perfect palettes in seconds!"_
 - [HTML Color Codes](https://htmlcolorcodes.com) - _"Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names."_
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - _"Lighthouse is an open-source, automated tool for improving the quality of web pages."_
+- [Nu HTML Checker](https://validator.w3.org/nu/) - _"This tool is an ongoing experiment in better HTML checking [...]"_
 - [Real Favicon Generator](https://realfavicongenerator.net) - _"Favicon Generator. For real."_
