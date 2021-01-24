@@ -420,7 +420,7 @@ relevant topic for the final project.</p>
 <li><em>&quot;Automatically sync all the deadlines and other related items from all active courses to your calendar.&quot;</em> Simply visit the <a href="https://www.coursera.org/account-settings">account settings</a> page on Coursera and click on the <strong>Calendar Sync</strong> tab to see options to sync with Google Calendar, Apple Calendar and others.</li>
 </ul>
 
-  </details>
+</details>
 <br />
 
 ## Stay in touch
@@ -436,7 +436,8 @@ relevant topic for the final project.</p>
 <li><a href="https://2020.goldsmiths.tech/">Hacksmiths</a> - <em>&quot;Hacksmiths is the student-run tech society at Goldsmiths. Our mission is to provide an opportunity for people in all departments and from all backgrounds the chance to learn about, and play with, technology.&quot;</em></li>
 </ul>
 
-  </details>
+</details>
+
 
 <details>
 <summary><strong>Contacting UoL</strong></summary>
@@ -444,12 +445,12 @@ relevant topic for the final project.</p>
 <ul>
 <li><a href="https://london.ac.uk/contact-us">Contact page</a></li>
 <li><a href="https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&amp;category=UOL">General enquiries for <strong>non-students</strong></a>.
-<li><a href="https://my.london.ac.uk/">General enquiries <strong>for students</strong></a>: Click <em>"Ask a question"</em> in <a href="https://my.london.ac.uk/">the portal</a> or, equivalently, write to <a href = "mailto: BScCS-support@london.ac.uk">BScCS-support@london.ac.uk</a>.</li>
+<li><a href="https://my.london.ac.uk/">General enquiries <strong>for students</strong></a>: Click <em>"Ask a question"</em> in <a href="https://my.london.ac.uk/">the portal</a> or, equivalently, write to <a href = "mailto:BScCS-support@london.ac.uk">BScCS-support@london.ac.uk</a>.</li>
 <li>Reach out by phone (<strong>service not available during COVID-19</strong>): <code>+44 (0)20 7862 8000</code> (general), <code>+44 (0)20 7862 5766</code> (specific to this degree), <code>+44 (0)20 7862 8368</code> (fees office).</li>
 <li><a href="https://london.kb.help/">Student Advice Center</a>: knowledge base for frequently asked questions.</li>
 </ul>
 
-  </details>
+</details>
 
 <details>
 <summary><strong>Contacting other students in this programme</strong></summary>
@@ -460,10 +461,10 @@ relevant topic for the final project.</p>
 <li><a href="https://londoncs.slack.com/">Slack workspace</a></li>
 <li><a href="https://zoom.us/">Zoom</a> (video conferencing used on Coursera)</li>
 </ul>
-<p>More software options for video conferencing on <a href="/software">this page</a>.</p>
+<p>More software options for video conferencing on <a href="./software">this page</a>.</p>
 
 </details>
-<br />
+<br /><br />
 
 ---
 
