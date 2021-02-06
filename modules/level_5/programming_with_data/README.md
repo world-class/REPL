@@ -6,6 +6,8 @@
 - [Programming with Data](#programming-with-data)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Mock exam](#mock-exam)
+- [Module overview](#module-overview)
 - [Module specification](#module-specification)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
@@ -46,6 +48,14 @@ that is well-adapted to languages for these applications.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Mock exam
+
+[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2015_pwd).
+
+# Module overview
+
+[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2015_pwd).
 
 # Module specification
 
