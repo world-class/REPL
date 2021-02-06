@@ -6,6 +6,7 @@
 - [Databases, Networks and the Web](#databases-networks-and-the-web)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Mock exam](#mock-exam)
 - [Module specification](#module-specification)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
@@ -42,6 +43,10 @@ communication.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Mock exam
+
+[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2040_dnw).
 
 # Module specification
 
