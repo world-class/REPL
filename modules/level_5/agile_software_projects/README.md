@@ -2,17 +2,18 @@
 
 # Table of contents
 
-* [Table of contents](#table-of-contents)
-* [Agile Software Projects](#agile-software-projects)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-* [Module specification](#module-specification)
-* [Syllabus](#syllabus)
-* [Resources](#resources)
-  * [Complementary learning](#complementary-learning)
-  * [:heart: Notes](#heart-notes)
-  * [Textbooks listed for this module](#textbooks-listed-for-this-module)
-    * [Further reading recommended in Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons](#further-reading-recommended-in-interaction-design-beyond-human-computer-interaction-john-wiley--sons)
+- [Table of contents](#table-of-contents)
+- [Agile Software Projects](#agile-software-projects)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Final deliverables instructions (coursework 2)](#final-deliverables-instructions-coursework-2)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [Complementary learning](#complementary-learning)
+  - [:heart: Notes](#heart-notes)
+  - [Textbooks listed for this module](#textbooks-listed-for-this-module)
+    - [Further reading recommended in Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons](#further-reading-recommended-in-interaction-design-beyond-human-computer-interaction-john-wiley--sons)
 
 ---
 
@@ -49,6 +50,10 @@ version control tools.
 # Assessment
 
 Coursework only (Type III)
+
+# Final deliverables instructions (coursework 2)
+
+- [Final deliverables instructions (February 2021)](https://github.com/world-class/binary-assets/blob/master/modules/cm2020_asp/cm2020_asp_final_deliverables_instructions.pdf)
 
 # Module specification
 
