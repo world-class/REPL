@@ -1,6 +1,14 @@
 [Go back to the main page](../../../README.md)
 
-## Mobile Development (CM3050)
+# Table of contents
+
+- [Table of contents](#table-of-contents)
+- [Mobile Development (CM3050)](#mobile-development-cm3050)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Resources](#resources)
+
+# Mobile Development (CM3050)
 
 This module aims to give you the fundamental understanding and skills
 needed to develop mobile applications. By studying this module, you will
@@ -13,7 +21,7 @@ how to work with various sensors available on mobile devices using
 built-in APIs. The style of the modules will be practical, with a focus
 on developing functioning applications.
 
-### Topics covered
+## Topics covered
 
 - The mobile app ecosystem
 - Mobile user interface design
@@ -26,6 +34,10 @@ on developing functioning applications.
 - Advanced APIs
 - Deployment
 
-### Assessment
+## Assessment
 
 Coursework only (Type III)
+
+## Resources
+
+- [Lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)](https://cs193p.sites.stanford.edu/)
