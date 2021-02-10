@@ -303,79 +303,79 @@ following modules.</p>
 </thead>
 <tbody>
 <tr>
-<td><a href="modules/level_6/cm_3045">3D Graphics and Animation</a></td>
+<td><a href="modules/level_6/cm_3045_3d_graphics_animation">3D Graphics and Animation</a></td>
 <td><strong>CM3045</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3045-3d-graphics-animation</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3035">Advanced Web Development</a></td>
+<td><a href="modules/level_6/cm_3035_advanced_web_development">Advanced Web Development</a></td>
 <td><strong>CM3035</strong></td>
 <td>No</td>
 <td><code>#cm3035-adv-web-dev</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3020">Artificial Intelligence</a></td>
+<td><a href="modules/level_6/cm_3020_artificial_intelligence">Artificial Intelligence</a></td>
 <td><strong>CM3020</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3020-artificial-intelligence</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3005">Data Science</a></td>
+<td><a href="modules/level_6/cm_3005_data_science">Data Science</a></td>
 <td><strong>CM3005</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3005-data-science</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3010">Databases and Advanced Data Techniques</a></td>
+<td><a href="modules/level_6/cm_3010_databases_advanced_data_techniques">Databases and Advanced Data Techniques</a></td>
 <td><strong>CM3010</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3010-databases-advanced-data-techniques</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3030">Games Development</a></td>
+<td><a href="modules/level_6/cm_3030_games_development">Games Development</a></td>
 <td><strong>CM3030</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3030-games-development</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3065">Intelligent Signal Processing</a></td>
+<td><a href="modules/level_6/cm_3065_intelligent_signal_processing">Intelligent Signal Processing</a></td>
 <td><strong>CM3065</strong></td>
 <td>No</td>
 <td><code>#cm3065-intelligent-signal-processing</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3055">Interaction Design</a></td>
+<td><a href="modules/level_6/cm_3055_interaction_design">Interaction Design</a></td>
 <td><strong>CM3055</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3055-interaction-design</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3015">Machine Learning and Neural Networks</a></td>
+<td><a href="modules/level_6/cm_3015_machine_learning_neural_networks">Machine Learning and Neural Networks</a></td>
 <td><strong>CM3015</strong></td>
 <td>No</td>
 <td><code>#cm3015-machine-learning-and-neural-networks</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3050">Mobile Development</a></td>
+<td><a href="modules/level_6/cm_3050_mobile_development">Mobile Development</a></td>
 <td><strong>CM3050</strong></td>
 <td>No</td>
 <td><code>#cm3050-mobile-development</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3060">Natural Language Processing</a></td>
+<td><a href="modules/level_6/cm_3060_natural_language_processing">Natural Language Processing</a></td>
 <td><strong>CM3060</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3060-natural-language-processing</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3040">Physical Computing and Internet of Things</a></td>
+<td><a href="modules/level_6/cm_3040_physical_computing_iot">Physical Computing and Internet of Things</a></td>
 <td><strong>CM3040</strong></td>
 <td>No</td>
 <td><code>#cm3040-physical-computing-internet-of-things</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_6/cm_3025">Virtual Reality</a></td>
+<td><a href="modules/level_6/cm_3025_virtual_reality">Virtual Reality</a></td>
 <td><strong>CM3025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3025-virtual-reality</code></td>
@@ -421,7 +421,7 @@ relevant topic for the final project.</p>
 </thead>
 <tbody>
 <tr>
-<td><a href="modules/level_6/final_project">Final Project</a></td>
+<td><a href="modules/level_6/cm_3070_final_project">Final Project</a></td>
 <td><strong>CM3070</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3070-final-project</code></td>
