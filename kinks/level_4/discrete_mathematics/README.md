@@ -10,7 +10,7 @@
 
 # Discrete Mathematics - Reported problems
 
-This page is about the [Discrete Mathematics module](../../../modules/level_4/discrete_mathematics/).
+This page is about the [Discrete Mathematics module](../../../modules/level_4/cm_1020_discrete_mathematics/).
 
 ## Week 10
 

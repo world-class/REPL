@@ -102,7 +102,7 @@ _This course does not require you to read the whole book, you will be given spec
 
 ## Kinks to be aware of
 
-- [List of reported errors and bugs with the module](../../../kinks/level_4/discrete_mathematics/).
+- [List of reported errors and bugs with the module](../../../kinks/level_4/cm_1020_discrete_mathematics/).
 
 ## Mathematical symbols
 

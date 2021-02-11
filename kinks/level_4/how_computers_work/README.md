@@ -14,7 +14,7 @@
 
 # How computers work - Reported problems
 
-This page is about the [How Computers Work module](../../../modules/level_4/how_computers_work/).
+This page is about the [How Computers Work module](../../../modules/level_4/cm_1030_how_computers_work/).
 
 ## Week 2
 

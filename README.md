@@ -104,7 +104,7 @@ report it.</strong></p>
 <li><a href="https://stackoverflow.com/help/how-to-ask">How to ask questions</a> - Stack Overflow</li>
 <li><a href="https://stackoverflow.com/help/minimal-reproducible-example">How to create a minimal, reproducible example</a> - Stack Overflow</li>
 <li><a href="https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/">Writing the perfect question</a> - Jon Skeet&#39;s coding blog</li>
-<li><a href="https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/uTcr6/code-philosophy-asking-for-help">Code philosophy, asking for help</a> - From <a href="modules/level_4/introduction_to_programming_i">Introduction to Programming I</a> module - :lock: <em>you need to be enrolled in this degree to view this lecture</em>.</li>
+<li><a href="https://www.coursera.org/learn/uol-introduction-to-programming-1/lecture/uTcr6/code-philosophy-asking-for-help">Code philosophy, asking for help</a> - From <a href="modules/level_4/cm_1005_introduction_to_programming_i">Introduction to Programming I</a> module - :lock: <em>you need to be enrolled in this degree to view this lecture</em>.</li>
 </ul>
 </li>
 <li>Debugging code<ul>
@@ -148,56 +148,56 @@ report it.</strong></p>
 </thead>
 <tbody>
 <tr>
-<td><a href="modules/level_4/algorithms_and_data_structures_i">Algorithms and Data Structures I</a></td>
+<td><a href="modules/level_4/cm_1035_algorithms_and_data_structures_i">Algorithms and Data Structures I</a></td>
 <td><strong>ADS1</strong></td>
 <td><strong>CM1035</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1035-algos-data-i</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/computational_mathematics">Computational Mathematics</a> *</td>
+<td><a href="modules/level_4/cm_1015_computational_mathematics">Computational Mathematics</a> *</td>
 <td><strong>CM</strong></td>
 <td><strong>CM1015</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1015-computational-math</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/discrete_mathematics">Discrete Mathematics</a></td>
+<td><a href="modules/level_4/cm_1020_discrete_mathematics">Discrete Mathematics</a></td>
 <td><strong>DM</strong></td>
 <td><strong>CM1020</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1020-discrete-math</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/fundamentals_of_computer_science">Fundamentals of Computer Science</a></td>
+<td><a href="modules/level_4/cm_1025_fundamentals_of_computer_science">Fundamentals of Computer Science</a></td>
 <td><strong>FCS</strong></td>
 <td><strong>CM1025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1025-fundamental-cs</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/how_computers_work">How Computers Work</a></td>
+<td><a href="modules/level_4/cm_1030_how_computers_work">How Computers Work</a></td>
 <td><strong>HCW</strong></td>
 <td><strong>CM1030</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1030-hcw</code> / <code>#rpl-google-it</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/introduction_to_programming_i">Introduction to Programming I</a></td>
+<td><a href="modules/level_4/cm_1005_introduction_to_programming_i">Introduction to Programming I</a></td>
 <td><strong>ITP1</strong></td>
 <td><strong>CM1005</strong></td>
 <td>No</td>
 <td><code>#cm1005-intro-prog-i</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/introduction_to_programming_ii">Introduction to Programming II</a></td>
+<td><a href="modules/level_4/cm_1010_introduction_to_programming_ii">Introduction to Programming II</a></td>
 <td><strong>ITP2</strong></td>
 <td><strong>CM1010</strong></td>
 <td>No</td>
 <td><code>#cm1010-intro-prog-ii</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/web_development">Web Development</a></td>
+<td><a href="modules/level_4/cm_1040_web_development">Web Development</a></td>
 <td><strong>WD</strong></td>
 <td><strong>CM1040</strong></td>
 <td>No</td>

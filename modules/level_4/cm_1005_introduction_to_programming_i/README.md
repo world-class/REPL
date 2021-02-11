@@ -76,7 +76,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ## Kinks to be aware of
 
-- [List of reported errors and bugs with the module](../../../kinks/level_4/introduction_to_programming_i/).
+- [List of reported errors and bugs with the module](../../../kinks/level_4/cm_1005_introduction_to_programming_i/).
 
 ## :heart: Notes
 

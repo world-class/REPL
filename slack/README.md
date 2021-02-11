@@ -100,14 +100,14 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 | Channel                      | Module name                                                                                       |
 | ---------------------------- | ------------------------------------------------------------------------------------------------- |
-| `#cm1005-intro-prog-i`       | [Introduction to programming I](../modules/level_4/introduction_to_programming_i/README.md)       |
-| `#cm1010-intro-prog-ii`      | [Introduction to programming II](../modules/level_4/introduction_to_programming_ii/README.md)     |
-| `#cm1015-computational-math` | [Computational mathematics](../modules/level_4/computational_mathematics/README.md)               |
-| `#cm1020-discrete-math`      | [Discrete mathematics](../modules/level_4/discrete_mathematics/README.md)                         |
-| `#cm1025-fundamental-cs`     | [Fundamentals of computer science](../modules/level_4/fundamentals_of_computer_science/README.md) |
-| `#cm1030-hcw` \*             | [How computers work](../modules/level_4/how_computers_work/README.md)                             |
-| `#cm1035-algos-data-i`       | [Algorithms and data structures I](../modules/level_4/algorithms_and_data_structures_i/README.md) |
-| `#cm1040-web-dev`            | [Web development](../modules/level_4/web_development/README.md)                                   |
+| `#cm1005-intro-prog-i`       | [Introduction to programming I](../modules/level_4/cm_1005_introduction_to_programming_i/README.md)       |
+| `#cm1010-intro-prog-ii`      | [Introduction to programming II](../modules/level_4/cm_1010_introduction_to_programming_ii/README.md)     |
+| `#cm1015-computational-math` | [Computational mathematics](../modules/level_4/cm_1015_computational_mathematics/README.md)               |
+| `#cm1020-discrete-math`      | [Discrete mathematics](../modules/level_4/cm_1020_discrete_mathematics/README.md)                         |
+| `#cm1025-fundamental-cs`     | [Fundamentals of computer science](../modules/level_4/cm_1025_fundamentals_of_computer_science/README.md) |
+| `#cm1030-hcw` \*             | [How computers work](../modules/level_4/cm_1030_how_computers_work/README.md)                             |
+| `#cm1035-algos-data-i`       | [Algorithms and data structures I](../modules/level_4/cm_1035_algorithms_and_data_structures_i/README.md) |
+| `#cm1040-web-dev`            | [Web development](../modules/level_4/cm_1040_web_development/README.md)                                   |
 
 \* This module can be skipped with RPL (Recognition of Prior Learning). See the channel `#rpl-hcw-google-it` and the [FAQ here](../faq#recognition-of-prior-learning-rpl).
 

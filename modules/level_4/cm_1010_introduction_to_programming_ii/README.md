@@ -79,7 +79,7 @@ _"There is no required textbook for this course. Listed below are some books to 
 
 ## Kinks to be aware of
 
-- [List of reported errors and bugs with the module](../../../kinks/level_4/introduction_to_programming_ii/).
+- [List of reported errors and bugs with the module](../../../kinks/level_4/cm_1010_introduction_to_programming_ii/).
 
 ## :heart: Notes
 
