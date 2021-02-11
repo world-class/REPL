@@ -224,56 +224,56 @@ report it.</strong></p>
 </thead>
 <tbody>
 <tr>
-<td><a href="modules/level_5/agile_software_projects">Agile Software Projects</a></td>
+<td><a href="modules/level_5/cm_2020_agile_software_projects">Agile Software Projects</a></td>
 <td><strong>ASP</strong></td>
 <td><strong>CM2020</strong></td>
 <td>No</td>
 <td><code>#cm2020-agile-software-projects</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/algorithms_and_data_structures_ii">Algorithms and Data Structures II</a></td>
+<td><a href="modules/level_5/cm_2035_algorithms_and_data_structures_ii">Algorithms and Data Structures II</a></td>
 <td><strong>ADS2</strong></td>
 <td><strong>CM2035</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2035-algos-data-ii</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/computer_security">Computer Security</a></td>
+<td><a href="modules/level_5/cm_2025_computer_security">Computer Security</a></td>
 <td><strong>CS</strong></td>
 <td><strong>CM2025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2025-computer-security</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/databases_networks_and_the_web">Databases, Networks and the Web</a></td>
+<td><a href="modules/level_5/cm_2040_databases_networks_and_the_web">Databases, Networks and the Web</a></td>
 <td><strong>DNW</strong></td>
 <td><strong>CM2040</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2040-databases-networks-web</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/graphics_programming">Graphics Programming</a></td>
+<td><a href="modules/level_5/cm_2030_graphics_programming">Graphics Programming</a></td>
 <td><strong>GP</strong></td>
 <td><strong>CM2030</strong></td>
 <td>No</td>
 <td><code>#cm2030-graphics-programming</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/object_oriented_programming">Object Oriented Programming</a></td>
+<td><a href="modules/level_5/cm_2005_object_oriented_programming">Object Oriented Programming</a></td>
 <td><strong>OOP</strong></td>
 <td><strong>CM2005</strong></td>
 <td>No</td>
 <td><code>#cm2005-object-oriented-programming</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/programming_with_data">Programming with Data</a></td>
+<td><a href="modules/level_5/cm_2015_programming_with_data">Programming with Data</a></td>
 <td><strong>PWD</strong></td>
 <td><strong>CM2015</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2015-programming-with-data</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_5/software_design_and_development">Software Design and Development</a></td>
+<td><a href="modules/level_5/cm_2010_software_design_and_development">Software Design and Development</a></td>
 <td><strong>SDD</strong></td>
 <td><strong>CM2010</strong></td>
 <td><strong>Yes</strong></td>

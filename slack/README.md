@@ -115,14 +115,14 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 | Channel                               | Module name                                                                                         |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| `#cm2005-object-oriented-programming` | [Object Oriented Programming](../modules/level_5/object_oriented_programming)                       |
-| `#cm2010-software-design-development` | [Software Design and Development](../modules/level_5/software_design_and_development)               |
-| `#cm2015-programming-with-data`       | [Programming with Data](../modules/level_5/programming_with_data)                                   |
-| `#cm2020-agile-software-projects`     | [Agile Software Projects](../modules/level_5/agile_software_projects)                               |
-| `#cm2025-computer-security`           | [Computer Security](../modules/level_5/computer_security)                                           |
-| `#cm2030-graphics-programming`        | [Graphics Programming](../modules/level_5/graphics_programming)                                     |
-| `#cm2035-algos-data-ii`               | [Algorithms and data structures II](../modules/level_5/algorithms_and_data_structures_ii/README.md) |
-| `#cm2040-databases-networks-web`      | [Databases, Networks and the Web](../modules/level_5/databases_networks_and_the_web)                |
+| `#cm2005-object-oriented-programming` | [Object Oriented Programming](../modules/level_5/cm_2005_object_oriented_programming)                       |
+| `#cm2010-software-design-development` | [Software Design and Development](../modules/level_5/cm_2010_software_design_and_development)               |
+| `#cm2015-programming-with-data`       | [Programming with Data](../modules/level_5/cm_2015_programming_with_data)                                   |
+| `#cm2020-agile-software-projects`     | [Agile Software Projects](../modules/level_5/cm_2020_agile_software_projects)                               |
+| `#cm2025-computer-security`           | [Computer Security](../modules/level_5/cm_2025_computer_security)                                           |
+| `#cm2030-graphics-programming`        | [Graphics Programming](../modules/level_5/cm_2030_graphics_programming)                                     |
+| `#cm2035-algos-data-ii`               | [Algorithms and data structures II](../modules/level_5/cm_2035_algorithms_and_data_structures_ii/README.md) |
+| `#cm2040-databases-networks-web`      | [Databases, Networks and the Web](../modules/level_5/cm_2040_databases_networks_and_the_web)                |
 
 #### Modules level 6
 
