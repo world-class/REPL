@@ -1,20 +1,29 @@
-name: Broken link check
-on: [push]
+name: Update current week in README
+
+on:
+  schedule:
+    # At 1am every Monday
+    - cron: '0 1 * * 1'
+  workflow_dispatch:
 
 jobs:
-  broken_link_checker_job:
+  update:
     runs-on: ubuntu-latest
-    name: Check for broken links
     steps:
-    - name: Check for broken links
-      id: link-report
-      uses: celinekurpershoek/link-checker@v1.0.1
+    - uses: actions/checkout@main
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
       with:
-        # Required:
-        url: 'https://world-class.github.io/REPL/'
-        # optional:
-        honorRobotExclusions: false
-        ignorePatterns: 'github,google'
-        recursiveLinks: false # Check all URLs on all reachable pages (could take a while)
-    - name: Get the result
-      run: echo "${{steps.link-report.outputs.result}}"
+        python-version: 3.8
+    - name: Update the current week
+      run: |
+        python assets/scripts/update_week.py
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit --allow-empty -m "README: Update current week" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.gh }}

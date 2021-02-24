@@ -46,6 +46,10 @@ report it.</strong></p>
 
 <br />
 
+# Current week
+
+- Week 20.
+
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
 <br />
