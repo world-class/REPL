@@ -115,7 +115,7 @@ report it.</strong></p>
 <li><a href="https://blog.hartleybrody.com/debugging-code-beginner/">10 Debugging Tips for Beginners: How to Troubleshoot and Fix Your Code Without Pulling Your Hair Out</a> - hartleybrody.com</li>
 <li><a href="https://flight-manual.atom.io/hacking-atom/sections/debugging/">How to debug code in Atom editor</a> - Atom.io</li>
 <li><a href="https://docs.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019">How to debug for absolute beginners in VS Code editor</a> - Microsoft.com</li>
-<li><a href="https://github.com/adobe/brackets/wiki/How-to-Use-Brackets">How to use Brackets editor</a> - Adobe, on GitHub</li>
+<li><a href="https://github.com/adobe/brackets/wiki/How-to-Use-Brackets">How to use Brackets editor</a> - Adobe, on GitHub (<strong>note</strong>: support for Brackets is ending on September 1, 2021. <a href="https://code.visualstudio.com/">VS Code</a> is a good alternative.)</li>
 </ul>
 </li>
 <li>Finding answers<ul>

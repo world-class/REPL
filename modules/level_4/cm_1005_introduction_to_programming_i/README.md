@@ -92,7 +92,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ### Tips & Tricks
 
-- Get familiar with finding precise coordinates in an image inside Brackets (text editor).
+- Get familiar with finding precise coordinates in an image inside Brackets (text editor) [**note**: support for Brackets is ending on September 1, 2021. [VS Code](https://code.visualstudio.com/) is a good alternative.].
 - Practice all basic drawing functions with `p5.js` in the [online editor](https://editor.p5js.org/) before attempting to solve crimes.
 - You have a maximum number of attempts for each case: go ahead when you are pretty confident you are on the right path on your first attempt. You will have to wait a certain amount of time (about 24 hours) before you can attempt to solve the crime again.
 
@@ -103,4 +103,5 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ## Text editor
 
-The recommended text editor for this module is [Brackets](http://brackets.io/). More options available on the [free software page](../../../software/).
+* The officially recommended text editor for this module is [Brackets](http://brackets.io/). More options available on the [free software page](../../../software/).
+* **Note**: support for Brackets is ending on September 1, 2021. [VS Code](https://code.visualstudio.com/) is a good alternative.
