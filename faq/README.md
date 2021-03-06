@@ -42,6 +42,9 @@
   - [Performance-Based Admission](#performance-based-admission)
     - [For performance-based admission, can I take more than two module this session](#for-performance-based-admission-can-i-take-more-than-two-module-this-session)
   - [Modules & Progression](#modules--progression)
+    - [Final Project](#final-project)
+      - [Can we register 3 modules plus the final project in the last semester](#can-we-register-3-modules-plus-the-final-project-in-the-last-semester)
+      - [Is the final project done in a team or individually](#is-the-final-project-done-in-a-team-or-individually)
     - [How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule](#how-to-avoid-being-progression-blocked-due-to-missing-prerequisites-and-a-suggested-module-schedule)
     - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
     - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
@@ -52,7 +55,6 @@
     - [Which math topics should I review before taking Computational Mathematics as to feel comfortable during the course](#which-math-topics-should-i-review-before-taking-computational-mathematics-as-to-feel-comfortable-during-the-course)
     - [Can I at some point in the future switch to on campus and continue my degree](#can-i-at-some-point-in-the-future-switch-to-on-campus-and-continue-my-degree)
     - [Would on-campus be at the usual UK tuition fee rate](#would-on-campus-be-at-the-usual-uk-tuition-fee-rate)
-    - [Can we register 3 modules + project in last semester](#can-we-register-3-modules--project-in-last-semester)
     - [Do you recommend taking four modules at a time if they are available](#do-you-recommend-taking-four-modules-at-a-time-if-they-are-available)
     - [What are the officially suggested study hours for this programme](#what-are-the-officially-suggested-study-hours-for-this-programme)
     - [Does each module in Level 4 courses actually take 7 hours per week per module, I have some programming experience](#does-each-module-in-level-4-courses-actually-take-7-hours-per-week-per-module-i-have-some-programming-experience)
@@ -288,6 +290,16 @@ If you have any specific queries about something you have created which you are 
 
 ## Modules & Progression
 
+### Final Project
+
+#### Can we register 3 modules plus the final project in the last semester
+
+- You are only able to study for a maximum of 60 credits per session, so this would not be possible. You would need to study for two modules and the final project.
+
+#### Is the final project done in a team or individually
+
+- This will consist of an **individual** project.
+
 ### How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule
 
 - See [this article in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
@@ -341,10 +353,6 @@ If you have any specific queries about something you have created which you are 
 
 - We would advise contacting Goldsmiths directly about this. Please see the below email address -
   <intcomp@gold.ac.uk>.
-
-### Can we register 3 modules + project in last semester
-
-- You are only able to study for a maximum of 60 credits per session, so this would not be possible. You would need to study for two modules and the final project.
 
 ### Do you recommend taking four modules at a time if they are available
 

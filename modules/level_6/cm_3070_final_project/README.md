@@ -32,3 +32,7 @@ pathway if appropriate.
 ### Assessment
 
 One two-hour unseen written examination and coursework
+
+### Notes
+
+- This will consist of an **individual** project.
