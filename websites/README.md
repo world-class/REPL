@@ -3,7 +3,7 @@
 # Websites
 
 - [Websites](#websites)
-- [Awesome lists about all kinds of interesting topics](#awesome-lists-about-all-kinds-of-interesting-topics)
+- [Starting point](#starting-point)
 - [Artificial intelligence](#artificial-intelligence)
   - [Machine learning](#machine-learning)
 - [Books](#books)
@@ -66,7 +66,6 @@
     - [Books](#books-2)
     - [Facebook](#facebook)
     - [Google](#google)
-    - [Microsoft](#microsoft)
   - [Games](#games)
     - [CSS](#css)
     - [JavaScript](#javascript)
@@ -103,17 +102,27 @@
   - [Learning](#learning)
   - [Tools](#tools)
 
-# [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme)
+---
+<br />
 
-- Ideal starting point. :sunglasses:
+# Starting point
+
+- [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - _"Curated list of resources for college students."_
+- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme)
+
+---
+<br />
 
 # Artificial intelligence
 
+- [Introduction to Robotics - CS223A, by Oussama Khatib](https://see.stanford.edu/Course/CS223A) - Stanford Engineering Everywhere
+
 ## Machine learning
 
-- [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) - _"Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more."_
+- [Machine Learning - CS229, by Andrew Ng](https://see.stanford.edu/Course/CS229) - Stanford Engineering Everywhere
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google. - _"Google's fast-paced, practical introduction to machine learning."_
 - [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning) - University of Oxford
+- [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) - _"Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more."_
 
 # Books
 
@@ -141,7 +150,9 @@
 - [Computer Science 61B, 001 - Fall 2014](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDVox3OKFhF4LxMHqpi2GS2) - UC Berkeley
 - [Four Semesters of Computer Science in Six Hours (part 2)](https://btholt.github.io/four-semesters-of-cs-part-two/) - Brian Holt.
 - [Four Semesters of Computer Science in Six Hours](https://btholt.github.io/four-semesters-of-cs/) - Brian Holt.
+- [MIT OpenCourseWare - Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
 - [Open Source Society University](https://github.com/ossu/computer-science) - _"The OSSU curriculum is a complete education in computer science using online materials."_
+- [Stanford Engineering Everywhere (SEE)](https://see.stanford.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) - _"Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career."_
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - _"Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools."_
 - [Understanding Computers and the Internet](http://computerscience1.tv/2011/spring) - Harvard Extension School. About hardware, Internet, multimedia, security, website development, programming.
