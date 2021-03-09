@@ -48,7 +48,7 @@ report it.</strong></p>
 
 # Current week
 
-- Week 22.
+- Week **22**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
