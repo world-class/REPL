@@ -41,6 +41,11 @@
     - [Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration](#does-a-possible-rpl-only-get-considered-if-it-is-from-another-university-or-could-the-content-syllabus-of-other-certifications-be-looked-at-for-possible-matchingconsideration)
   - [Performance-Based Admission](#performance-based-admission)
     - [For performance-based admission, can I take more than two module this session](#for-performance-based-admission-can-i-take-more-than-two-module-this-session)
+  - [Coursera](#coursera)
+    - [Do we still get access to the module resources once the module is complete](#do-we-still-get-access-to-the-module-resources-once-the-module-is-complete)
+    - [Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera](#is-there-a-way-to-remove-old-courses-from-the-in-progress-tab-on-the-home-page-of-the-programme-on-coursera)
+    - [Modules involving mathematics](#modules-involving-mathematics)
+      - [Why am I seeing weird symbols in the questions from the quizzes](#why-am-i-seeing-weird-symbols-in-the-questions-from-the-quizzes)
   - [Modules & Progression](#modules--progression)
     - [Final Project](#final-project)
       - [Can we register 3 modules plus the final project in the last semester](#can-we-register-3-modules-plus-the-final-project-in-the-last-semester)
@@ -101,11 +106,6 @@
     - [Is there no honours in the UK? Do we qualify for a masters straight after Bsc](#is-there-no-honours-in-the-uk-do-we-qualify-for-a-masters-straight-after-bsc)
     - [Will there be difference in the diploma if we finish the degree online and on campus](#will-there-be-difference-in-the-diploma-if-we-finish-the-degree-online-and-on-campus)
     - [Do usually students come to London to get their diplomas once they have graduated from UoL or are they being posted to graduates](#do-usually-students-come-to-london-to-get-their-diplomas-once-they-have-graduated-from-uol-or-are-they-being-posted-to-graduates)
-  - [Coursera](#coursera)
-    - [General topics](#general-topics-1)
-      - [Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera](#is-there-a-way-to-remove-old-courses-from-the-in-progress-tab-on-the-home-page-of-the-programme-on-coursera)
-    - [Modules involving mathematics](#modules-involving-mathematics)
-      - [Why am I seeing weird symbols in the questions from the quizzes](#why-am-i-seeing-weird-symbols-in-the-questions-from-the-quizzes)
   - [Slack Community](#slack-community)
     - [What are the basics on how to use Slack](#what-are-the-basics-on-how-to-use-slack)
     - [How do I reply to a specific user using threads](#how-do-i-reply-to-a-specific-user-using-threads)
@@ -285,6 +285,25 @@ If you have any specific queries about something you have created which you are 
 ### For performance-based admission, can I take more than two module this session
 
 - If you are entering any of the programmes via the Performance Based Admissions route, you are permitted to register for two modules only; Introduction to Programming I and either Computational or Discrete Mathematics, depending on module availability.
+
+---
+
+## Coursera
+
+### Do we still get access to the module resources once the module is complete
+
+- Yes. You will not be able to access graded coursework items to review past submissions, but you can still access the videos in each week of the **Overview**, the **Grades** page, your **Notes** if any, extra **Resources** if any as well as the **Discussion Forums**.
+
+### Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera
+
+- No. The "Orientation module" is always there because it contains updated information that's still relevant. As for past modules you may have completed, they will disappear once the university has taken care of all the grading necessary after a while.
+- Instead of accessing the home page listing all your current modules, students recommend bookmarking the links to the module. You can also make use of _"custom search engines"_ and _"bookmark keywords"_ on all major web browsers: simply search for those features if you're interested.
+
+### Modules involving mathematics
+
+#### Why am I seeing weird symbols in the questions from the quizzes
+
+-For instance, for a question about predicate logic, you might see something like `p \(\lor \neg \)q` as part of the question. This is a mathematical expression that has not been rendered properly and/or not rendered yet. **Solution:** Refresh the page to see the proper notation appear, i.e. `p V ¬q` in this example.
 
 ---
 
@@ -581,24 +600,6 @@ This (intentionally short!) section is dedicated to the general questions that a
 - When you graduate from the University of London, you receive two important documents: your Final Diploma; and, in most cases, a Diploma Supplement. Students will receive their diploma and transcript via post. When you complete your degree, you have the option of joining students from around the world at our graduation ceremony in London, which is held in March each year. For further information about your diploma please see: [https://london.ac.uk/applicationshow-it-works/your-certificate](https://london.ac.uk/applicationshow-it-works/your-certificate)
 
 ---
-
-## Coursera
-
-### General topics
-
-#### Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera
-
-- No. The "Orientation module" is always there because it contains updated information that's still relevant. As for past modules you may have completed, they will disappear once the university has taken care of all the grading necessary after a while.
-- Instead of accessing the home page listing all your current modules, students recommend bookmarking the links to the module. You can also make use of _"custom search engines"_ and _"bookmark keywords"_ on all major web browsers: simply search for those features if you're interested.
-
-### Modules involving mathematics
-
-#### Why am I seeing weird symbols in the questions from the quizzes
-
--For instance, for a question about predicate logic, you might see something like `p \(\lor \neg \)q` as part of the question. This is a mathematical expression that has not been rendered properly and/or not rendered yet. **Solution:** Refresh the page to see the proper notation appear, i.e. `p V ¬q` in this example.
-
----
-
 ## Slack Community
 
 ### What are the basics on how to use Slack
