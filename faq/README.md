@@ -31,8 +31,6 @@
     - [If we produce something during our studies, who "owns" it](#if-we-produce-something-during-our-studies-who-owns-it)
     - [Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course](#are-there-opportunities-for-students-to-gain-some-form-of-work-experience-in-the-industry-or-even-undergo-internships-during-the-course)
     - [I feel I need to vent, where can I go](#i-feel-i-need-to-vent-where-can-i-go)
-  - [Legal concerns](#legal-concerns)
-    - [What are the legal protections for the distance-learning student](#what-are-the-legal-protections-for-the-distance-learning-student)
   - [Recognition of Prior Learning (RPL)](#recognition-of-prior-learning-rpl)
     - [How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate](#how-to-apply-for-a-recognition-of-prior-learning-rpl-with-the-google-it-support-professional-certificate)
     - [Is RPL time limited](#is-rpl-time-limited)
@@ -84,6 +82,12 @@
     - [Do online learners need to take assessments at specific locations? If so is this only final assessments](#do-online-learners-need-to-take-assessments-at-specific-locations-if-so-is-this-only-final-assessments)
     - [Can you please describe a written examination for Computational Math or Discrete Math? Is it usually a test or teachers check hand written answers](#can-you-please-describe-a-written-examination-for-computational-math-or-discrete-math-is-it-usually-a-test-or-teachers-check-hand-written-answers)
     - [Have you considered using ProctorU as a distributed exam solution It seems to have a fair amount of adoption among MOOC providers](#have-you-considered-using-proctoru-as-a-distributed-exam-solution-it-seems-to-have-a-fair-amount-of-adoption-among-mooc-providers)
+  - [Grades & Results](#grades--results)
+    - [How does the grading work and what's the assessment structure of this degree](#how-does-the-grading-work-and-whats-the-assessment-structure-of-this-degree)
+    - [My peer-reviewed work isn't graded yet, what can I do](#my-peer-reviewed-work-isnt-graded-yet-what-can-i-do)
+    - [Do I have to complete all the formative as well as the summative assessments on Coursera](#do-i-have-to-complete-all-the-formative-as-well-as-the-summative-assessments-on-coursera)
+    - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
+    - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
   - [Technical questions](#technical-questions)
     - [Which are the programming languages we will come across through the course](#which-are-the-programming-languages-we-will-come-across-through-the-course)
     - [Will C# be taught in level 6, especially in VR module](#will-c-be-taught-in-level-6-especially-in-vr-module)
@@ -94,12 +98,6 @@
     - [Have the Level 6 Modules been produced and tested](#have-the-level-6-modules-been-produced-and-tested)
     - [Have Level 5 and 6 Modules been quality assured](#have-level-5-and-6-modules-been-quality-assured)
     - [If you're restructuring the program to adhere to accreditation standards, will that disrupt the current modules or impending modules](#if-youre-restructuring-the-program-to-adhere-to-accreditation-standards-will-that-disrupt-the-current-modules-or-impending-modules)
-  - [Grades & Results](#grades--results)
-    - [How does the grading work and what's the assessment structure of this degree](#how-does-the-grading-work-and-whats-the-assessment-structure-of-this-degree)
-    - [My peer-reviewed work isn't graded yet, what can I do](#my-peer-reviewed-work-isnt-graded-yet-what-can-i-do)
-    - [Do I have to complete all the formative as well as the summative assessments on Coursera](#do-i-have-to-complete-all-the-formative-as-well-as-the-summative-assessments-on-coursera)
-    - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
-    - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
   - [Graduation & Beyond](#graduation--beyond)
     - [Is this programme accredited](#is-this-programme-accredited)
     - [How is this degree going to tie in or transfer over to the new MSc Data Science from UoL and the soon to come MSc Machine Learning on Coursera](#how-is-this-degree-going-to-tie-in-or-transfer-over-to-the-new-msc-data-science-from-uol-and-the-soon-to-come-msc-machine-learning-on-coursera)
@@ -110,6 +108,8 @@
     - [What are the basics on how to use Slack](#what-are-the-basics-on-how-to-use-slack)
     - [How do I reply to a specific user using threads](#how-do-i-reply-to-a-specific-user-using-threads)
     - [I want to discuss off-topic things with other students, where should I go](#i-want-to-discuss-off-topic-things-with-other-students-where-should-i-go)
+  - [Legal concerns](#legal-concerns)
+    - [What are the legal protections for the distance-learning student](#what-are-the-legal-protections-for-the-distance-learning-student)
   - [Contributing to REPL](#contributing-to-repl)
     - [How can I contribute to this repository](#how-can-i-contribute-to-this-repository)
   - [Off-topic](#off-topic)
@@ -234,14 +234,6 @@ If you have any specific queries about something you have created which you are 
 
 - [https://my.london.ac.uk/group/student/talkcampus](https://my.london.ac.uk/group/student/talkcampus)
 - Visit the [#vent](https://londoncs.slack.com/archives/CJG51H2CS) channel on Slack.
-
----
-
-## Legal concerns
-
-### What are the legal protections for the distance-learning student
-
-- See [this article in the Subreddit section of the REPL](../subreddit/legal-protections.md) for details.
 
 ---
 
@@ -510,6 +502,31 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ---
 
+## Grades & Results
+
+### How does the grading work and what's the assessment structure of this degree
+
+- See [the Grades Guide in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
+
+### My peer-reviewed work isn't graded yet, what can I do
+
+- Ask in the Slack channel [#reviewexchange](https://londoncs.slack.com/archives/CJXHM0RTQ).
+
+### Do I have to complete all the formative as well as the summative assessments on Coursera
+
+- No, but you will learn more if you work hard. See [this article in the Subreddit section of the REPL](../subreddit/formative-summative.md) for details.
+
+### How do you assign grades? Grading on a Curve or absolute grading
+
+- Information about the grading policy can be found within the BSc Computer Science Orientation Course. Please see the below \* [https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy](https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy).
+
+### What are the deadlines to complete summative quizzes
+
+- You can find **soft** deadlines in the **Grades** section of each module on Coursera. Those are _advised_ deadlines and give you a good idea of what progress you should have been making and how you should roughly be pacing yourself.
+- You have until the submission deadline for the mid-term of each module to submit summative quizzes: this is the **hard** deadline in case you miss the **soft** ones. You will still be able to submit summative quizzes after the mid-term, but they won't count towards your final grade. Please take into consideration the timezone information on the submission page for the mid-term as any work — or summative quizzes due before the mid-term — will be awarded zero marks if you submit after the **hard** deadline, even if it's on the same day.
+
+---
+
 ## Technical questions
 
 ### Which are the programming languages we will come across through the course
@@ -550,31 +567,6 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ---
 
-## Grades & Results
-
-### How does the grading work and what's the assessment structure of this degree
-
-- See [the Grades Guide in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
-
-### My peer-reviewed work isn't graded yet, what can I do
-
-- Ask in the Slack channel [#reviewexchange](https://londoncs.slack.com/archives/CJXHM0RTQ).
-
-### Do I have to complete all the formative as well as the summative assessments on Coursera
-
-- No, but you will learn more if you work hard. See [this article in the Subreddit section of the REPL](../subreddit/formative-summative.md) for details.
-
-### How do you assign grades? Grading on a Curve or absolute grading
-
-- Information about the grading policy can be found within the BSc Computer Science Orientation Course. Please see the below \* [https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy](https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy).
-
-### What are the deadlines to complete summative quizzes
-
-- You can find **soft** deadlines in the **Grades** section of each module on Coursera. Those are _advised_ deadlines and give you a good idea of what progress you should have been making and how you should roughly be pacing yourself.
-- You have until the submission deadline for the mid-term of each module to submit summative quizzes: this is the **hard** deadline in case you miss the **soft** ones. You will still be able to submit summative quizzes after the mid-term, but they won't count towards your final grade. Please take into consideration the timezone information on the submission page for the mid-term as any work — or summative quizzes due before the mid-term — will be awarded zero marks if you submit after the **hard** deadline, even if it's on the same day.
-
----
-
 ## Graduation & Beyond
 
 ### Is this programme accredited
@@ -600,6 +592,7 @@ This (intentionally short!) section is dedicated to the general questions that a
 - When you graduate from the University of London, you receive two important documents: your Final Diploma; and, in most cases, a Diploma Supplement. Students will receive their diploma and transcript via post. When you complete your degree, you have the option of joining students from around the world at our graduation ceremony in London, which is held in March each year. For further information about your diploma please see: [https://london.ac.uk/applicationshow-it-works/your-certificate](https://london.ac.uk/applicationshow-it-works/your-certificate)
 
 ---
+
 ## Slack Community
 
 ### What are the basics on how to use Slack
@@ -622,6 +615,14 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ---
 
+## Legal concerns
+
+### What are the legal protections for the distance-learning student
+
+- See [this article in the Subreddit section of the REPL](../subreddit/legal-protections.md) for details.
+
+---
+
 ## Contributing to REPL
 
 ### How can I contribute to this repository
@@ -634,5 +635,5 @@ We're glad you asked! We have [contributing guidelines](https://github.com/world
 
 ### Where's the best place to read about Dr. Yee-King's research with computer music
 
-- On my website: [http://www.yeeking.net](http://www.yeeking.net)
-- And on my GS profile: [https://goldsmiths.academia.edu/MatthewYeeKing](https://goldsmiths.academia.edu/MatthewYeeKing)
+- On his website: [http://www.yeeking.net](http://www.yeeking.net)
+- And on his GS profile: [https://goldsmiths.academia.edu/MatthewYeeKing](https://goldsmiths.academia.edu/MatthewYeeKing)
