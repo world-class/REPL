@@ -53,6 +53,7 @@ Coursework only (Type II)
 ## Complementary learning
 
 - [Collision Detection](https://github.com/jeffThompson/CollisionDetection) - Uses [Processing](https://github.com/processing-js/processing-js) (deprecated), which is similar to but not the same as [p5js](https://p5js.org). _"This book explains the algorithms behind [...] collisions using basic shapes like circles, rectangles, and lines so you can implement them into your own projects."_.
+- [Image Processing in p5.js](https://idmnyu.github.io/p5.js-image/) - _"Basic setup, filters, layers, animation setup, blur, edge detection."_
 
 ## :heart: Notes
 
