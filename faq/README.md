@@ -93,7 +93,7 @@
     - [Do we get a choice of back/front end frameworks to use during the web modules](#do-we-get-a-choice-of-backfront-end-frameworks-to-use-during-the-web-modules)
     - [There are a lot of technologies involved in data science. Can you run through some of the ones that will be covered](#there-are-a-lot-of-technologies-involved-in-data-science-can-you-run-through-some-of-the-ones-that-will-be-covered)
     - [Have the Level 6 Modules been produced and tested](#have-the-level-6-modules-been-produced-and-tested)
-    - [Have Level 5 and 6 Modules been quality assured](#have-level-5-and-6-modules-been-quality-assured)
+    - [Have Level 5 and 6 modules been quality assured](#have-level-5-and-6-modules-been-quality-assured)
     - [If you're restructuring the program to adhere to accreditation standards, will that disrupt the current modules or impending modules](#if-youre-restructuring-the-program-to-adhere-to-accreditation-standards-will-that-disrupt-the-current-modules-or-impending-modules)
   - [Graduation & Beyond](#graduation--beyond)
     - [Is this programme accredited](#is-this-programme-accredited)
@@ -515,7 +515,7 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ### How do you assign grades? Grading on a Curve or absolute grading
 
-- Information about the grading policy can be found within the BSc Computer Science Orientation Course. Please see the below \* [https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy](https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy).
+- Information about the grading policy can be found within the BSc Computer Science Orientation Course. Please see [https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy](https://www.coursera.org/learn/london-cs-orientation/supplement/rZzTr/grading-policy).
 
 ### What are the deadlines to complete summative quizzes
 
@@ -531,7 +531,7 @@ This (intentionally short!) section is dedicated to the general questions that a
 | Programming language | Module(s) where used                                                                                                                                                                                       |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | C#                   | Virtual Reality                                                                                                                                                                                            |
-| C++                  | Algorithms and Data Structures II\*, Object-Oriented Programming, Software Design and Development\*                                                                                                          |
+| C++                  | Algorithms and Data Structures II\*, Object-Oriented Programming, Software Design and Development\*                                                                                                        |
 | JavaScript           | Intelligent Signal Processing, Introduction to Programming I, Introduction to Programming II, Algorithms and Data Structures I\*, Graphics Programming, Software Design and Development\*, Web Development |
 | Python               | Data Science, Databases and Advanced Data Techniques, Programming with Data, Software Design and Development\*                                                                                             |
 
@@ -543,13 +543,13 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ### There are a lot of technologies involved in data science. Can you run through some of the ones that will be covered
 
-- Python, numpy, scipy pandas, Jupyter notebooks, TensorFlow, data visualization tools.
+- Python, `numpy`, `scipy` `pandas`, Jupyter notebooks, `TensorFlow`, data visualization tools.
 
 ### Have the Level 6 Modules been produced and tested
 
-- One commenced production earlier this year. Others begin in October 2019, two more phases start in April and October 2020.
+- Production commenced in early 2019. New modules will keep being made available for the whole of 2021.
 
-### Have Level 5 and 6 Modules been quality assured
+### Have Level 5 and 6 modules been quality assured
 
 - The design of the whole programme has been through a QAA process to ensure it aligns with the UK HE benchmark for computing.
 
