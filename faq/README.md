@@ -124,11 +124,7 @@
 
 ### Who has enrolled in this degree so far
 
-- According to Coursera, this is the class profile:
-  - Average age of 31
-  - 82% male; 18% female
-  - 67% of applicants had less than a Bachelor degree; 22% had a Bachelor degree and 11% more than a Bachelor degree
-  - Students from 87 countries
+- Statistics keep updating: you can see the [class profile on Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/admissions) (it should be at the bottom of the page).
 - [Student Interview with David C. of Australia](../subreddit/interview-david-c.md).
 - [Thoughts on University of London's Bachelor's in Computer Science](../subreddit/uol-review.md), by @ShenZhouHong.
 
