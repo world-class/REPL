@@ -2,119 +2,116 @@
 
 # Frequently Asked Questions
 
-## Table of contents
+<!-- Using ### instead of ## as otherwise "## Table of contents" gets added to the TOC.
+See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-642388143 -->
 
-- [Frequently Asked Questions](#frequently-asked-questions)
-  - [Table of contents](#table-of-contents)
-  - [Before getting started](#before-getting-started)
-    - [Where can I go to get a better overview of this programme](#where-can-i-go-to-get-a-better-overview-of-this-programme)
-    - [Who has enrolled in this degree so far](#who-has-enrolled-in-this-degree-so-far)
-    - [Getting access to the programme](#getting-access-to-the-programme)
-      - [How long do I have to wait to receive the student email and student card](#how-long-do-i-have-to-wait-to-receive-the-student-email-and-student-card)
-      - [What is my username to log in to the student's portal at my.london.ac.uk](#what-is-my-username-to-log-in-to-the-students-portal-at-mylondonacuk)
-      - [When do I get access to the modules on Coursera](#when-do-i-get-access-to-the-modules-on-coursera)
-      - [When and how I can get access to the student slack workspace](#when-and-how-i-can-get-access-to-the-student-slack-workspace)
-  - [General topics](#general-topics)
-    - [I need help! Whom should I ask](#i-need-help-whom-should-i-ask)
-      - [Module-specific inquiries](#module-specific-inquiries)
-      - [Non-academic questions](#non-academic-questions)
-      - [Private matters and other types of academic inquiries](#private-matters-and-other-types-of-academic-inquiries)
-      - [Technical issues on Coursera](#technical-issues-on-coursera)
-      - [Small queries regarding a module](#small-queries-regarding-a-module)
-    - [What should I do to stay on top of things and receive important updates and notifications](#what-should-i-do-to-stay-on-top-of-things-and-receive-important-updates-and-notifications)
-    - [Is there a simple repository of all knowledge generated regarding this program](#is-there-a-simple-repository-of-all-knowledge-generated-regarding-this-program)
-    - [How to access the library](#how-to-access-the-library)
-    - [What is my student email address](#what-is-my-student-email-address)
-    - [When can we expect our ISIC cards](#when-can-we-expect-our-isic-cards)
-    - [What kind of materials will university deliver to us](#what-kind-of-materials-will-university-deliver-to-us)
-    - [Do we get a dedicated student advisor, as it is customary in other countries (for example the US)](#do-we-get-a-dedicated-student-advisor-as-it-is-customary-in-other-countries-for-example-the-us)
-    - [If we produce something during our studies, who "owns" it](#if-we-produce-something-during-our-studies-who-owns-it)
-    - [Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course](#are-there-opportunities-for-students-to-gain-some-form-of-work-experience-in-the-industry-or-even-undergo-internships-during-the-course)
-    - [I feel I need to vent, where can I go](#i-feel-i-need-to-vent-where-can-i-go)
-  - [Recognition of Prior Learning (RPL)](#recognition-of-prior-learning-rpl)
-    - [How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate](#how-to-apply-for-a-recognition-of-prior-learning-rpl-with-the-google-it-support-professional-certificate)
-    - [Is RPL time limited](#is-rpl-time-limited)
-    - [What can be accepted as RPL](#what-can-be-accepted-as-rpl)
-    - [Can we still apply RPL for Google IT Support course anytime during this semester or next](#can-we-still-apply-rpl-for-google-it-support-course-anytime-during-this-semester-or-next)
-    - [Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration](#does-a-possible-rpl-only-get-considered-if-it-is-from-another-university-or-could-the-content-syllabus-of-other-certifications-be-looked-at-for-possible-matchingconsideration)
-  - [Performance-Based Admission](#performance-based-admission)
-    - [For performance-based admission, can I take more than two module this session](#for-performance-based-admission-can-i-take-more-than-two-module-this-session)
-  - [Coursera](#coursera)
-    - [Do we still get access to the module resources once the module is complete](#do-we-still-get-access-to-the-module-resources-once-the-module-is-complete)
-    - [Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera](#is-there-a-way-to-remove-old-courses-from-the-in-progress-tab-on-the-home-page-of-the-programme-on-coursera)
-    - [Modules involving mathematics](#modules-involving-mathematics)
-      - [Why am I seeing weird symbols in the questions from the quizzes](#why-am-i-seeing-weird-symbols-in-the-questions-from-the-quizzes)
-  - [Modules & Progression](#modules--progression)
-    - [Final Project](#final-project)
-      - [Can we register 3 modules plus the final project in the last semester](#can-we-register-3-modules-plus-the-final-project-in-the-last-semester)
-      - [Is the final project done in a team or individually](#is-the-final-project-done-in-a-team-or-individually)
-    - [How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule](#how-to-avoid-being-progression-blocked-due-to-missing-prerequisites-and-a-suggested-module-schedule)
-    - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
-    - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
-    - [How can I drop/withdraw from module](#how-can-i-dropwithdraw-from-module)
-    - [What is the maximum number of modules that one can select per semester and what if I fail one module](#what-is-the-maximum-number-of-modules-that-one-can-select-per-semester-and-what-if-i-fail-one-module)
-    - [Where can I see a syllabus of all available modules](#where-can-i-see-a-syllabus-of-all-available-modules)
-    - [How can I progress to level 5 modules](#how-can-i-progress-to-level-5-modules)
-    - [Which math topics should I review before taking Computational Mathematics as to feel comfortable during the course](#which-math-topics-should-i-review-before-taking-computational-mathematics-as-to-feel-comfortable-during-the-course)
-    - [Can I at some point in the future switch to on campus and continue my degree](#can-i-at-some-point-in-the-future-switch-to-on-campus-and-continue-my-degree)
-    - [Would on-campus be at the usual UK tuition fee rate](#would-on-campus-be-at-the-usual-uk-tuition-fee-rate)
-    - [Do you recommend taking four modules at a time if they are available](#do-you-recommend-taking-four-modules-at-a-time-if-they-are-available)
-    - [What are the officially suggested study hours for this programme](#what-are-the-officially-suggested-study-hours-for-this-programme)
-    - [Does each module in Level 4 courses actually take 7 hours per week per module, I have some programming experience](#does-each-module-in-level-4-courses-actually-take-7-hours-per-week-per-module-i-have-some-programming-experience)
-    - [Can a BSc CS student take more than 22 modules (excluding the final project)](#can-a-bsc-cs-student-take-more-than-22-modules-excluding-the-final-project)
-  - [Programme Regulations](#programme-regulations)
-    - [How much do I need to pass module X](#how-much-do-i-need-to-pass-module-x)
-    - [I am taking module X, what type is it? Does it have a written exam](#i-am-taking-module-x-what-type-is-it-does-it-have-a-written-exam)
-    - [What do we learn in module X? Do we ever study X](#what-do-we-learn-in-module-x-do-we-ever-study-x)
-    - [What specializations are available](#what-specializations-are-available)
-    - [More questions that can be answered by reading the programme regulations](#more-questions-that-can-be-answered-by-reading-the-programme-regulations)
-  - [Important Dates, Deadlines & Events](#important-dates-deadlines--events)
-    - [When are the exams/When does the semester start/What is the registration deadline](#when-are-the-examswhen-does-the-semester-startwhat-is-the-registration-deadline)
-    - [What week are we on](#what-week-are-we-on)
-    - [How do I setup calendar sync on Coursera](#how-do-i-setup-calendar-sync-on-coursera)
-    - [I don't want to miss important announcements, what to do](#i-dont-want-to-miss-important-announcements-what-to-do)
-    - [How long are vacations between semesters](#how-long-are-vacations-between-semesters)
-  - [Exams](#exams)
-    - [Can you provide examples of acceptable calculators, and examples of unacceptable calculators](#can-you-provide-examples-of-acceptable-calculators-and-examples-of-unacceptable-calculators)
-    - [Will you be expanding test centers The closest one to me is rather far away](#will-you-be-expanding-test-centers-the-closest-one-to-me-is-rather-far-away)
-    - [If we sit the exam outside the UK, in a local examination centre, then it is done via British council, isn't it](#if-we-sit-the-exam-outside-the-uk-in-a-local-examination-centre-then-it-is-done-via-british-council-isnt-it)
-    - [How many exams will be there per semester for a module](#how-many-exams-will-be-there-per-semester-for-a-module)
-    - [Do online learners need to take assessments at specific locations? If so is this only final assessments](#do-online-learners-need-to-take-assessments-at-specific-locations-if-so-is-this-only-final-assessments)
-    - [Can you please describe a written examination for Computational Math or Discrete Math? Is it usually a test or teachers check hand written answers](#can-you-please-describe-a-written-examination-for-computational-math-or-discrete-math-is-it-usually-a-test-or-teachers-check-hand-written-answers)
-    - [Have you considered using ProctorU as a distributed exam solution It seems to have a fair amount of adoption among MOOC providers](#have-you-considered-using-proctoru-as-a-distributed-exam-solution-it-seems-to-have-a-fair-amount-of-adoption-among-mooc-providers)
-  - [Grades & Results](#grades--results)
-    - [How does the grading work and what's the assessment structure of this degree](#how-does-the-grading-work-and-whats-the-assessment-structure-of-this-degree)
-    - [My peer-reviewed work isn't graded yet, what can I do](#my-peer-reviewed-work-isnt-graded-yet-what-can-i-do)
-    - [Do I have to complete all the formative as well as the summative assessments on Coursera](#do-i-have-to-complete-all-the-formative-as-well-as-the-summative-assessments-on-coursera)
-    - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
-    - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
-  - [Technical questions](#technical-questions)
-    - [Which are the programming languages we will come across through the degree](#which-are-the-programming-languages-we-will-come-across-through-the-degree)
-    - [Do we get a choice of back/front end frameworks to use during the web modules](#do-we-get-a-choice-of-backfront-end-frameworks-to-use-during-the-web-modules)
-    - [There are a lot of technologies involved in data science. Can you run through some of the ones that will be covered](#there-are-a-lot-of-technologies-involved-in-data-science-can-you-run-through-some-of-the-ones-that-will-be-covered)
-    - [Have the Level 6 Modules been produced and tested](#have-the-level-6-modules-been-produced-and-tested)
-    - [Have Level 5 and 6 modules been quality assured](#have-level-5-and-6-modules-been-quality-assured)
-    - [If you're restructuring the program to adhere to accreditation standards, will that disrupt the current modules or impending modules](#if-youre-restructuring-the-program-to-adhere-to-accreditation-standards-will-that-disrupt-the-current-modules-or-impending-modules)
-  - [Graduation & Beyond](#graduation--beyond)
-    - [Is this programme accredited](#is-this-programme-accredited)
-    - [How is this degree going to tie in or transfer over to the new MSc Data Science from UoL and the soon to come MSc Machine Learning on Coursera](#how-is-this-degree-going-to-tie-in-or-transfer-over-to-the-new-msc-data-science-from-uol-and-the-soon-to-come-msc-machine-learning-on-coursera)
-    - [Is there no honours in the UK? Do we qualify for a masters straight after Bsc](#is-there-no-honours-in-the-uk-do-we-qualify-for-a-masters-straight-after-bsc)
-    - [Will there be difference in the diploma if we finish the degree online and on campus](#will-there-be-difference-in-the-diploma-if-we-finish-the-degree-online-and-on-campus)
-    - [Do usually students come to London to get their diplomas once they have graduated from UoL or are they being posted to graduates](#do-usually-students-come-to-london-to-get-their-diplomas-once-they-have-graduated-from-uol-or-are-they-being-posted-to-graduates)
-  - [Slack Community](#slack-community)
-    - [What are the basics on how to use Slack](#what-are-the-basics-on-how-to-use-slack)
+### Table of contents
+
+- [:zero: Not yet enrolled - before getting started](#zero-not-yet-enrolled---before-getting-started)
+  - [Where can I go to get a better overview of this programme](#where-can-i-go-to-get-a-better-overview-of-this-programme)
+  - [Who has enrolled in this degree so far](#who-has-enrolled-in-this-degree-so-far)
+- [:one: Just enrolled - First steps](#one-just-enrolled---first-steps)
+  - [Getting access to the programme](#getting-access-to-the-programme)
+    - [How long do I have to wait to receive the student email and student card](#how-long-do-i-have-to-wait-to-receive-the-student-email-and-student-card)
+    - [What is my username to log in to the student's portal at my.london.ac.uk](#what-is-my-username-to-log-in-to-the-students-portal-at-mylondonacuk)
+    - [When do I get access to the modules on Coursera](#when-do-i-get-access-to-the-modules-on-coursera)
+  - [:question: I need help! Whom should I ask](#question-i-need-help-whom-should-i-ask)
+    - [Module-specific inquiries](#module-specific-inquiries)
+    - [Non-academic questions](#non-academic-questions)
+    - [Private matters and other types of academic inquiries](#private-matters-and-other-types-of-academic-inquiries)
+    - [Technical issues on Coursera](#technical-issues-on-coursera)
+    - [Small queries regarding a module](#small-queries-regarding-a-module)
+  - [Slack community](#slack-community)
+    - [When and how I can get access to the student Slack workspace](#when-and-how-i-can-get-access-to-the-student-slack-workspace)
+    - [:exclamation: What are the basics on how to use Slack](#exclamation-what-are-the-basics-on-how-to-use-slack)
     - [How do I reply to a specific user using threads](#how-do-i-reply-to-a-specific-user-using-threads)
     - [I want to discuss off-topic things with other students, where should I go](#i-want-to-discuss-off-topic-things-with-other-students-where-should-i-go)
-  - [Legal concerns](#legal-concerns)
-    - [What are the legal protections for the distance-learning student](#what-are-the-legal-protections-for-the-distance-learning-student)
-  - [Contributing to REPL](#contributing-to-repl)
-    - [How can I contribute to this repository](#how-can-i-contribute-to-this-repository)
-  - [Off-topic](#off-topic)
-    - [Where's the best place to read about Dr. Yee-King's research with computer music](#wheres-the-best-place-to-read-about-dr-yee-kings-research-with-computer-music)
+  - [What should I do to stay on top of things and receive important updates and notifications](#what-should-i-do-to-stay-on-top-of-things-and-receive-important-updates-and-notifications)
+  - [Is there a simple repository of all knowledge generated regarding this program](#is-there-a-simple-repository-of-all-knowledge-generated-regarding-this-program)
+  - [How to access the library](#how-to-access-the-library)
+  - [What is my student email address](#what-is-my-student-email-address)
+  - [When can we expect our ISIC cards](#when-can-we-expect-our-isic-cards)
+  - [What kind of materials will the university deliver to us](#what-kind-of-materials-will-the-university-deliver-to-us)
+- [Modules and progression](#modules-and-progression)
+  - [How to avoid being 'progression-blocked' due to missing prerequisites, and a suggested module schedule](#how-to-avoid-being-progression-blocked-due-to-missing-prerequisites-and-a-suggested-module-schedule)
+  - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
+  - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
+  - [How can I drop/withdraw from module](#how-can-i-dropwithdraw-from-module)
+  - [What is the maximum number of modules that one can select per semester and what if I fail one module](#what-is-the-maximum-number-of-modules-that-one-can-select-per-semester-and-what-if-i-fail-one-module)
+  - [Where can I see a syllabus of all available modules](#where-can-i-see-a-syllabus-of-all-available-modules)
+  - [How can I progress to level 5 modules](#how-can-i-progress-to-level-5-modules)
+  - [Which math topics should I review before taking Computational Mathematics as to feel comfortable during the course](#which-math-topics-should-i-review-before-taking-computational-mathematics-as-to-feel-comfortable-during-the-course)
+  - [Can I at some point in the future switch to on campus and continue my degree](#can-i-at-some-point-in-the-future-switch-to-on-campus-and-continue-my-degree)
+  - [Would on-campus be at the usual UK tuition fee rate](#would-on-campus-be-at-the-usual-uk-tuition-fee-rate)
+  - [Do you recommend taking four modules at a time if they are available](#do-you-recommend-taking-four-modules-at-a-time-if-they-are-available)
+  - [What are the officially suggested study hours for this programme](#what-are-the-officially-suggested-study-hours-for-this-programme)
+  - [Does each module in Level 4 courses actually take 7 hours per week per module, I have some programming experience](#does-each-module-in-level-4-courses-actually-take-7-hours-per-week-per-module-i-have-some-programming-experience)
+  - [Can a BSc CS student take more than 22 modules (excluding the final project)](#can-a-bsc-cs-student-take-more-than-22-modules-excluding-the-final-project)
+  - [Final project](#final-project)
+    - [Can we register 3 modules plus the final project in the last semester](#can-we-register-3-modules-plus-the-final-project-in-the-last-semester)
+    - [Is the final project done in a team or individually](#is-the-final-project-done-in-a-team-or-individually)
+- [Coursera](#coursera)
+  - [Do we still get access to the module resources once the module is complete](#do-we-still-get-access-to-the-module-resources-once-the-module-is-complete)
+  - [Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera](#is-there-a-way-to-remove-old-courses-from-the-in-progress-tab-on-the-home-page-of-the-programme-on-coursera)
+  - [Modules involving mathematics](#modules-involving-mathematics)
+    - [Why am I seeing weird symbols in the questions from the quizzes](#why-am-i-seeing-weird-symbols-in-the-questions-from-the-quizzes)
+- [Programme regulations](#programme-regulations)
+- [Important dates, deadlines and events](#important-dates-deadlines-and-events)
+  - [When are the exams/When does the semester start/What is the registration deadline](#when-are-the-examswhen-does-the-semester-startwhat-is-the-registration-deadline)
+  - [What week are we on](#what-week-are-we-on)
+  - [How do I setup calendar sync on Coursera](#how-do-i-setup-calendar-sync-on-coursera)
+  - [I don't want to miss important announcements, what to do](#i-dont-want-to-miss-important-announcements-what-to-do)
+  - [How long are vacations between semesters](#how-long-are-vacations-between-semesters)
+- [Exams](#exams)
+  - [Can you provide examples of acceptable calculators, and examples of unacceptable calculators](#can-you-provide-examples-of-acceptable-calculators-and-examples-of-unacceptable-calculators)
+  - [Will you be expanding test centers The closest one to me is rather far away](#will-you-be-expanding-test-centers-the-closest-one-to-me-is-rather-far-away)
+  - [If we sit the exam outside the UK, in a local examination centre, then it is done via British council, isn't it](#if-we-sit-the-exam-outside-the-uk-in-a-local-examination-centre-then-it-is-done-via-british-council-isnt-it)
+  - [How many exams will be there per semester for a module](#how-many-exams-will-be-there-per-semester-for-a-module)
+  - [Do online learners need to take assessments at specific locations? If so is this only final assessments](#do-online-learners-need-to-take-assessments-at-specific-locations-if-so-is-this-only-final-assessments)
+  - [Can you please describe a written examination for Computational Math or Discrete Math? Is it usually a test or teachers check hand written answers](#can-you-please-describe-a-written-examination-for-computational-math-or-discrete-math-is-it-usually-a-test-or-teachers-check-hand-written-answers)
+  - [Have you considered using ProctorU as a distributed exam solution It seems to have a fair amount of adoption among MOOC providers](#have-you-considered-using-proctoru-as-a-distributed-exam-solution-it-seems-to-have-a-fair-amount-of-adoption-among-mooc-providers)
+- [Grades and results](#grades-and-results)
+  - [How does the grading work and what's the assessment structure of this degree](#how-does-the-grading-work-and-whats-the-assessment-structure-of-this-degree)
+  - [My peer-reviewed work isn't graded yet, what can I do](#my-peer-reviewed-work-isnt-graded-yet-what-can-i-do)
+  - [Do I have to complete all the formative as well as the summative assessments on Coursera](#do-i-have-to-complete-all-the-formative-as-well-as-the-summative-assessments-on-coursera)
+  - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
+  - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
+- [General topics](#general-topics)
+  - [Do we get a dedicated student advisor, as it is customary in other countries (for example the US)](#do-we-get-a-dedicated-student-advisor-as-it-is-customary-in-other-countries-for-example-the-us)
+  - [If we produce something during our studies, who "owns" it](#if-we-produce-something-during-our-studies-who-owns-it)
+  - [Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course](#are-there-opportunities-for-students-to-gain-some-form-of-work-experience-in-the-industry-or-even-undergo-internships-during-the-course)
+  - [I feel I need to vent, where can I go](#i-feel-i-need-to-vent-where-can-i-go)
+- [Recognition of Prior Learning (RPL)](#recognition-of-prior-learning-rpl)
+  - [How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate](#how-to-apply-for-a-recognition-of-prior-learning-rpl-with-the-google-it-support-professional-certificate)
+  - [Is RPL time limited](#is-rpl-time-limited)
+  - [What can be accepted as RPL](#what-can-be-accepted-as-rpl)
+  - [Can we still apply RPL for Google IT Support course anytime during this semester or next](#can-we-still-apply-rpl-for-google-it-support-course-anytime-during-this-semester-or-next)
+  - [Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration](#does-a-possible-rpl-only-get-considered-if-it-is-from-another-university-or-could-the-content-syllabus-of-other-certifications-be-looked-at-for-possible-matchingconsideration)
+- [Performance-based admission](#performance-based-admission)
+  - [For performance-based admission, can I take more than two module this session](#for-performance-based-admission-can-i-take-more-than-two-module-this-session)
+- [Technical questions](#technical-questions)
+  - [Which are the programming languages we will come across through the degree](#which-are-the-programming-languages-we-will-come-across-through-the-degree)
+  - [Do we get a choice of back/front end frameworks to use during the web modules](#do-we-get-a-choice-of-backfront-end-frameworks-to-use-during-the-web-modules)
+  - [There are a lot of technologies involved in data science. Can you run through some of the ones that will be covered](#there-are-a-lot-of-technologies-involved-in-data-science-can-you-run-through-some-of-the-ones-that-will-be-covered)
+  - [Have the Level 6 Modules been produced and tested](#have-the-level-6-modules-been-produced-and-tested)
+  - [Have Level 5 and 6 modules been quality assured](#have-level-5-and-6-modules-been-quality-assured)
+  - [If you're restructuring the program to adhere to accreditation standards, will that disrupt the current modules or impending modules](#if-youre-restructuring-the-program-to-adhere-to-accreditation-standards-will-that-disrupt-the-current-modules-or-impending-modules)
+- [Graduation and beyond](#graduation-and-beyond)
+  - [Is this programme accredited](#is-this-programme-accredited)
+  - [How is this degree going to tie in or transfer over to the new MSc Data Science from UoL and the soon to come MSc Machine Learning on Coursera](#how-is-this-degree-going-to-tie-in-or-transfer-over-to-the-new-msc-data-science-from-uol-and-the-soon-to-come-msc-machine-learning-on-coursera)
+  - [Is there no honours in the UK? Do we qualify for a masters straight after Bsc](#is-there-no-honours-in-the-uk-do-we-qualify-for-a-masters-straight-after-bsc)
+  - [Will there be difference in the diploma if we finish the degree online and on campus](#will-there-be-difference-in-the-diploma-if-we-finish-the-degree-online-and-on-campus)
+  - [Do usually students come to London to get their diplomas once they have graduated from UoL or are they being posted to graduates](#do-usually-students-come-to-london-to-get-their-diplomas-once-they-have-graduated-from-uol-or-are-they-being-posted-to-graduates)
+- [Legal concerns](#legal-concerns)
+  - [What are the legal protections for the distance-learning student](#what-are-the-legal-protections-for-the-distance-learning-student)
+- [Contributing to REPL](#contributing-to-repl)
+  - [How can I contribute to this repository](#how-can-i-contribute-to-this-repository)
+- [Off-topic](#off-topic)
+  - [Where's the best place to read about Dr. Yee-King's research with computer music](#wheres-the-best-place-to-read-about-dr-yee-kings-research-with-computer-music)
 
 ---
 
-## Before getting started
+## :zero: Not yet enrolled - before getting started
 
 ### Where can I go to get a better overview of this programme
 
@@ -127,6 +124,10 @@
 - Statistics keep updating: you can see the [class profile on Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/admissions) (it should be at the bottom of the page).
 - [Student Interview with David C. of Australia](../subreddit/interview-david-c.md).
 - [Thoughts on University of London's Bachelor's in Computer Science](../subreddit/uol-review.md), by @ShenZhouHong.
+
+---
+
+## :one: Just enrolled - First steps
 
 ### Getting access to the programme
 
@@ -144,13 +145,7 @@
 - **Your first step** should be to complete the **Orientation course** on Coursera – otherwise you won't be able to start your modules. Make sure you have selected _University of London_ for your modules on Coursera (see screenshot below) to display the course and then you can access it from [the home page](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home) of this programme on Coursera or [directly from this link](https://www.coursera.org/learn/london-cs-orientation).
   ![coursera UoL selection](https://raw.githubusercontent.com/world-class/binary-assets/master/images/faq/coursera_uol_selection_2020-09-13.png)
 
-#### When and how I can get access to the student slack workspace
-
-- When your first semester is about to start, you will receive an email from the university inviting you to join.
-
-## General topics
-
-### I need help! Whom should I ask
+### :question: I need help! Whom should I ask
 
 #### Module-specific inquiries
 
@@ -170,7 +165,31 @@
 
 #### Small queries regarding a module
 
-- You can also ask in module specific Slack channel. Be sure to thank the person who helps you :smile:
+- You can ask in module specific Slack channel. Be sure to thank the person who helps you :smile:
+
+### Slack community
+
+#### When and how I can get access to the student Slack workspace
+
+- When your first semester is about to start, you will receive an email from the university inviting you to join.
+
+#### :exclamation: What are the basics on how to use Slack
+
+- [Available shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)
+- [How to format your messages](https://slack.com/help/articles/202288908-Format-your-messages)
+- [How to share snippets of code](https://slack.com/slack-tips/share-code-snippets) (JavaScript, HTML, CSS, Python, C++, etc.)
+- [How to use pinned items](https://slack.com/intl/en-mx/help/articles/205239997-Pin-messages) (important info in each channel)
+- [How to search effectively](https://slack.com/intl/en-mx/help/articles/202528808-Search-in-Slack) (filtering by channel, user, date, file types, etc.)
+- [How to find channels](https://slackhq.com/introducing-channel-search-for-slack)
+- [Slack help center](https://slack.com/help) for anything else
+
+#### How do I reply to a specific user using threads
+
+- It's very important to use threads while communicating to keep chats organized. — [https://slack.com/intl/en-in/help/articles/115000769927-Use-threads-to-organise-discussions-](https://slack.com/intl/en-in/help/articles/115000769927-Use-threads-to-organise-discussions-)
+
+#### I want to discuss off-topic things with other students, where should I go
+
+- A list of Slack channels [can be found here](../slack/README.md).
 
 ### What should I do to stay on top of things and receive important updates and notifications
 
@@ -184,21 +203,22 @@
 
 ### How to access the library
 
-- [https://www.coursera.org/learn/london-cs-orientation/supplement/Umu9M/student-resources](https://www.coursera.org/learn/london-cs-orientation/supplement/Umu9M/student-resources)
+- See the page [https://www.coursera.org/learn/london-cs-orientation/supplement/Umu9M/student-resources](https://www.coursera.org/learn/london-cs-orientation/supplement/Umu9M/student-resources) as a logged in student.
 
 ### What is my student email address
 
-- It's of the form `short_student_name_with_numbers@student.london.ac.uk`. You access it [from a Google account](http://mail.google.com/a/student.london.ac.uk).
+- It's of the form `initials_with_numbers@student.london.ac.uk` (e.g. `ab123@student.london.ac.uk`). You access it [from a Google account](http://mail.google.com/a/student.london.ac.uk).
 
 ### When can we expect our ISIC cards
 
 - The email will come from <information@myisic.com>, so make sure you add this address to your email account so that it doesn’t go to your spam folder. If you do not receive an email, or you have any issues with your ISIC card, contact <virtual@myisic.com>. You can also log an enquiry in the ‘Ask a Question’ link in your student portal, in order for us to look into this further for you if necessary.
 
-### What kind of materials will university deliver to us
+**Note:** The ISIC card may not be offered in future semesters.
+
+### What kind of materials will the university deliver to us
 
 - When you register, we will give you access to your Student Portal. You can then access your
   University of London email account and two other key resources:
-
   - The Virtual Learning Environment (VLE). Here, you can access electronic copies of all printed study
     materials, resources including audio-visual, and forums to discuss course material and work
     collaboratively with others.
@@ -207,104 +227,11 @@
     interactive and engaging study materials including videos, quizzes and online games, so you can feel
     confident about your progress.
 
-### Do we get a dedicated student advisor, as it is customary in other countries (for example the US)
-
-- As a student of the University of London you will have access to academic support and feedback from London-based support teams. Your online tutor will introduce the modules, respond to academic queries, and provide guidance on assessments through the Online Tutor Forum. Your Student Relationship Managers are available to assist you with non-academic and administrative queries via the Reach Out Forum in the Orientation Module, and via the support email <BscCs-support@london.ac.uk>.
-
-### If we produce something during our studies, who "owns" it
-
-> In one UoL's correspondence it said that we would need to reach out to our professor if we wanted to monetize it. How would we go about that for this degree being online?
-
-The section of the University’s Intellectual Property Rights Policy that specifically addresses your question is Part E. Please see [https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf](https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf).
-
-If you have any specific queries about something you have created which you are interested in publishing, please contact us via the support email <BscCs-support@london.ac.uk> and we can look into this further for you.
-
-### Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course
-
-- I am afraid that this would not be provided by the University of London, however, we would not discourage students attempting to seek work experience on their own accord.
-
-### I feel I need to vent, where can I go
-
-- [https://my.london.ac.uk/group/student/talkcampus](https://my.london.ac.uk/group/student/talkcampus)
-- Visit the [#vent](https://londoncs.slack.com/archives/CJG51H2CS) channel on Slack.
-
 ---
 
-## Recognition of Prior Learning (RPL)
+## Modules and progression
 
-### How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate
-
-- See [this article in the Subreddit section of the REPL](../subreddit/rpl-guide.md) for details.
-
-### Is RPL time limited
-
-> For example, if I've taken an equivalent course at Uni 10 years back, is that still qualified?
-
-- Please note that the general regulations state the following regarding RPL: Your prior learning may
-  count towards a University of London qualification provided that:
-
-  a) the academic/professional requirements for the previous study can be verified by us;
-
-  b) the range, quality and currency of the previous study and/or of a previous qualification, and its coherence with the studies to be undertaken, is confirmed as appropriate;
-
-  c) **your prior learning was completed within the past five years, unless Programme Regulations indicate otherwise**.
-
-### What can be accepted as RPL
-
-- If you are registered on a full BSc programme, you may apply for recognition of prior learning for up to 120 credits at Level 4. We consider applications for recognition of prior learning (RPL) on the basis of studies successfully completed at an appropriate level. Further information regarding automatic and discretionary RPL for BSc Computer Science can be found on the website here: [https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
-
-### Can we still apply RPL for Google IT Support course anytime during this semester or next
-
-- Please be advised that it is recognized by the University of London as prior learning, giving students exemption from the module How Computers Work at level 4. The deadline to register for RPL for the October 2019 session was 26 August 2019. If you wish to apply for RPL for the April 2020 session, you will be able to do so from 16 December 2019.
-
-### Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration
-
-- For credit to be awarded for your prior learning, you must have completed a syllabus of similar level and depth as part of a previous qualification, normally within the previous five years.
-- You need to apply for any prior learning to be recognized and accredited. You can do this on the relevant section of the online application form.
-- If you have already submitted your application but now wish to request recognition of your prior learning, please contact us.
-
----
-
-## Performance-Based Admission
-
-### For performance-based admission, can I take more than two module this session
-
-- If you are entering any of the programmes via the Performance Based Admissions route, you are permitted to register for two modules only; Introduction to Programming I and either Computational or Discrete Mathematics, depending on module availability.
-
----
-
-## Coursera
-
-### Do we still get access to the module resources once the module is complete
-
-- Yes. You will not be able to access graded coursework items to review past submissions, but you can still access the videos in each week of the **Overview**, the **Grades** page, your **Notes** if any, extra **Resources** if any as well as the **Discussion Forums**.
-
-### Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera
-
-- No. The "Orientation module" is always there because it contains updated information that's still relevant. As for past modules you may have completed, they will disappear once the university has taken care of all the grading necessary after a while.
-- Instead of accessing the home page listing all your current modules, students recommend bookmarking the links to the module. You can also make use of _"custom search engines"_ and _"bookmark keywords"_ on all major web browsers: simply search for those features if you're interested.
-
-### Modules involving mathematics
-
-#### Why am I seeing weird symbols in the questions from the quizzes
-
--For instance, for a question about predicate logic, you might see something like `p \(\lor \neg \)q` as part of the question. This is a mathematical expression that has not been rendered properly and/or not rendered yet. **Solution:** Refresh the page to see the proper notation appear, i.e. `p V ¬q` in this example.
-
----
-
-## Modules & Progression
-
-### Final Project
-
-#### Can we register 3 modules plus the final project in the last semester
-
-- You are only able to study for a maximum of 60 credits per session, so this would not be possible. You would need to study for two modules and the final project.
-
-#### Is the final project done in a team or individually
-
-- This will consist of an **individual** project.
-
-### How to Avoid Being 'Progression-Blocked' due to Missing Prerequisites, and a Suggested Module Schedule
+### How to avoid being 'progression-blocked' due to missing prerequisites, and a suggested module schedule
 
 - See [this article in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
 
@@ -355,8 +282,7 @@ If you have any specific queries about something you have created which you are 
 
 ### Would on-campus be at the usual UK tuition fee rate
 
-- We would advise contacting Goldsmiths directly about this. Please see the below email address -
-  <intcomp@gold.ac.uk>.
+- We would advise contacting Goldsmiths directly about this. Please see this email address - <intcomp@gold.ac.uk>.
 
 ### Do you recommend taking four modules at a time if they are available
 
@@ -379,38 +305,55 @@ If you have any specific queries about something you have created which you are 
 - If you want to study additional modules via a separate institution or platform, this is up to you. However, we would urge you to consider the time commitment of studying these additional modules.
 - You will study over 22 weeks which means you should allow 6-10 study hours per week for a module.
 
+### Final project
+
+#### Can we register 3 modules plus the final project in the last semester
+
+- You are only able to study for a maximum of 60 credits per session, so this would not be possible. You would need to study for two modules and the final project.
+
+#### Is the final project done in a team or individually
+
+- This will consist of an **individual** project.
+
 ---
 
-## Programme Regulations
+## Coursera
 
-This (intentionally short!) section is dedicated to the general questions that are answered well in the programme regulations. **It is no substitute for reading [the programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf) in details**. :book:
+### Do we still get access to the module resources once the module is complete
 
-### How much do I need to pass module X
+- Yes. You will not be able to access graded coursework items to review past submissions, but you can still access the videos in each week of the **Overview**, the **Grades** page, your **Notes** if any, extra **Resources** if any as well as the **Discussion Forums**.
 
-- The pass mark for any element of assessment is 40%.
+### Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera
 
-### I am taking module X, what type is it? Does it have a written exam
+- No. The "Orientation module" is always there because it contains updated information that's still relevant. As for past modules you may have completed, they will disappear once the university has taken care of all the grading necessary after a while.
+- Instead of accessing the home page listing all your current modules, students recommend bookmarking the links to the module. You can also make use of _"custom search engines"_ and _"bookmark keywords"_ on all major web browsers: simply search for those features if you're interested.
 
-- See Appendix B.
+### Modules involving mathematics
 
-### What do we learn in module X? Do we ever study X
+#### Why am I seeing weird symbols in the questions from the quizzes
 
-- See Appendix B.
+- For instance, for a question about predicate logic, you might see something like `p \(\lor \neg \)q` as part of the question. This is a mathematical expression that has not been rendered properly and/or not rendered yet. **Solution:** Refresh the page to see the proper notation appear, i.e. `p V ¬q` in this example.
 
-### What specializations are available
+---
 
-- See Appendix A.
+## Programme regulations
 
-### More questions that can be answered by reading the programme regulations
+This (intentionally short!) section serves as a reminder to read [the programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf) in details :book:, which answers general questions well enough.
 
-- What are the registration and progression rules?
+Some of the questions that can be answered by reading the programme regulations:
+
+- How much do I need to pass module X? (**answer:** 40%)
 - I am a PBA (Performance-Based Admission) student, what does that mean?
-- What is RPL?
+- I am taking module X, what type is it? Does it have a written exam?
+- What are the registration and progression rules?
+- What do we learn in module X? Do we ever study X?
 - What happens when I defer an assessment?
+- What is RPL?
+- What specializations are available?
 
 ---
 
-## Important Dates, Deadlines & Events
+## Important dates, deadlines and events
 
 ### When are the exams/When does the semester start/What is the registration deadline
 
@@ -495,7 +438,7 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ---
 
-## Grades & Results
+## Grades and results
 
 ### How does the grading work and what's the assessment structure of this degree
 
@@ -517,6 +460,74 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 - You can find **soft** deadlines in the **Grades** section of each module on Coursera. Those are _advised_ deadlines and give you a good idea of what progress you should have been making and how you should roughly be pacing yourself.
 - You have until the submission deadline for the mid-term of each module to submit summative quizzes: this is the **hard** deadline in case you miss the **soft** ones. You will still be able to submit summative quizzes after the mid-term, but they won't count towards your final grade. Please take into consideration the timezone information on the submission page for the mid-term as any work — or summative quizzes due before the mid-term — will be awarded zero marks if you submit after the **hard** deadline, even if it's on the same day.
+
+---
+
+## General topics
+
+### Do we get a dedicated student advisor, as it is customary in other countries (for example the US)
+
+- As a student of the University of London you will have access to academic support and feedback from London-based support teams. Your online tutor will introduce the modules, respond to academic queries, and provide guidance on assessments through the Online Tutor Forum. Your Student Relationship Managers are available to assist you with non-academic and administrative queries via the Reach Out Forum in the Orientation Module, and via the support email <BscCs-support@london.ac.uk>.
+
+### If we produce something during our studies, who "owns" it
+
+> In one UoL's correspondence it said that we would need to reach out to our professor if we wanted to monetize it. How would we go about that for this degree being online?
+
+The section of the University’s Intellectual Property Rights Policy that specifically addresses your question is Part E. Please see [https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf](https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf).
+
+If you have any specific queries about something you have created which you are interested in publishing, please contact us via the support email <BscCs-support@london.ac.uk> and we can look into this further for you.
+
+### Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course
+
+- I am afraid that this would not be provided by the University of London, however, we would not discourage students attempting to seek work experience on their own accord.
+
+### I feel I need to vent, where can I go
+
+- [https://my.london.ac.uk/group/student/talkcampus](https://my.london.ac.uk/group/student/talkcampus)
+- Visit the [#vent](https://londoncs.slack.com/archives/CJG51H2CS) channel on Slack.
+
+---
+
+## Recognition of Prior Learning (RPL)
+
+### How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate
+
+- See [this article in the Subreddit section of the REPL](../subreddit/rpl-guide.md) for details.
+
+### Is RPL time limited
+
+> For example, if I've taken an equivalent course at Uni 10 years back, is that still qualified?
+
+- Please note that the general regulations state the following regarding RPL: Your prior learning may
+  count towards a University of London qualification provided that:
+
+  a) the academic/professional requirements for the previous study can be verified by us;
+
+  b) the range, quality and currency of the previous study and/or of a previous qualification, and its coherence with the studies to be undertaken, is confirmed as appropriate;
+
+  c) **your prior learning was completed within the past five years, unless Programme Regulations indicate otherwise**.
+
+### What can be accepted as RPL
+
+- If you are registered on a full BSc programme, you may apply for recognition of prior learning for up to 120 credits at Level 4. We consider applications for recognition of prior learning (RPL) on the basis of studies successfully completed at an appropriate level. Further information regarding automatic and discretionary RPL for BSc Computer Science can be found on the website here: [https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
+
+### Can we still apply RPL for Google IT Support course anytime during this semester or next
+
+- Please be advised that it is recognized by the University of London as prior learning, giving students exemption from the module How Computers Work at level 4. The deadline to register for RPL for the October 2019 session was 26 August 2019. If you wish to apply for RPL for the April 2020 session, you will be able to do so from 16 December 2019.
+
+### Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration
+
+- For credit to be awarded for your prior learning, you must have completed a syllabus of similar level and depth as part of a previous qualification, normally within the previous five years.
+- You need to apply for any prior learning to be recognized and accredited. You can do this on the relevant section of the online application form.
+- If you have already submitted your application but now wish to request recognition of your prior learning, please contact us.
+
+---
+
+## Performance-based admission
+
+### For performance-based admission, can I take more than two module this session
+
+- If you are entering any of the programmes via the Performance Based Admissions route, you are permitted to register for two modules only; Introduction to Programming I and either Computational or Discrete Mathematics, depending on module availability.
 
 ---
 
@@ -555,7 +566,7 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ---
 
-## Graduation & Beyond
+## Graduation and beyond
 
 ### Is this programme accredited
 
@@ -578,28 +589,6 @@ This (intentionally short!) section is dedicated to the general questions that a
 ### Do usually students come to London to get their diplomas once they have graduated from UoL or are they being posted to graduates
 
 - When you graduate from the University of London, you receive two important documents: your Final Diploma; and, in most cases, a Diploma Supplement. Students will receive their diploma and transcript via post. When you complete your degree, you have the option of joining students from around the world at our graduation ceremony in London, which is held in March each year. For further information about your diploma please see: [https://london.ac.uk/applicationshow-it-works/your-certificate](https://london.ac.uk/applicationshow-it-works/your-certificate)
-
----
-
-## Slack Community
-
-### What are the basics on how to use Slack
-
-- [Available shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)
-- [How to format your messages](https://slack.com/help/articles/202288908-Format-your-messages)
-- [How to share snippets of code](https://slack.com/slack-tips/share-code-snippets) (JavaScript, HTML, CSS, Python, C++, etc.)
-- [How to use pinned items](https://slack.com/intl/en-mx/help/articles/205239997-Pin-messages) (important info in each channel)
-- [How to search effectively](https://slack.com/intl/en-mx/help/articles/202528808-Search-in-Slack) (filtering by channel, user, date, file types, etc.)
-- [How to find channels](https://slackhq.com/introducing-channel-search-for-slack)
-- [Slack help center](https://slack.com/help) for anything else
-
-### How do I reply to a specific user using threads
-
-- It's very important to use threads while communicating to keep chats organized. — [https://slack.com/intl/en-in/help/articles/115000769927-Use-threads-to-organise-discussions-](https://slack.com/intl/en-in/help/articles/115000769927-Use-threads-to-organise-discussions-)
-
-### I want to discuss off-topic things with other students, where should I go
-
-- A list of Slack channels [can be found here](../slack/README.md).
 
 ---
 
