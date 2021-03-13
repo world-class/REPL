@@ -89,11 +89,8 @@
     - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
     - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
   - [Technical questions](#technical-questions)
-    - [Which are the programming languages we will come across through the course](#which-are-the-programming-languages-we-will-come-across-through-the-course)
-    - [Will C# be taught in level 6, especially in VR module](#will-c-be-taught-in-level-6-especially-in-vr-module)
-    - [Which programming language is used in learning Graphics programming](#which-programming-language-is-used-in-learning-graphics-programming)
+    - [Which are the programming languages we will come across through the degree](#which-are-the-programming-languages-we-will-come-across-through-the-degree)
     - [Do we get a choice of back/front end frameworks to use during the web modules](#do-we-get-a-choice-of-backfront-end-frameworks-to-use-during-the-web-modules)
-    - [Will Data Science field use Python](#will-data-science-field-use-python)
     - [There are a lot of technologies involved in data science. Can you run through some of the ones that will be covered](#there-are-a-lot-of-technologies-involved-in-data-science-can-you-run-through-some-of-the-ones-that-will-be-covered)
     - [Have the Level 6 Modules been produced and tested](#have-the-level-6-modules-been-produced-and-tested)
     - [Have Level 5 and 6 Modules been quality assured](#have-level-5-and-6-modules-been-quality-assured)
@@ -529,25 +526,20 @@ This (intentionally short!) section is dedicated to the general questions that a
 
 ## Technical questions
 
-### Which are the programming languages we will come across through the course
+### Which are the programming languages we will come across through the degree
 
-- JavaScript, C++, Python, C#.
+| Programming language | Module(s) where used                                                                                                                                                                                       |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| C#                   | Virtual Reality                                                                                                                                                                                            |
+| C++                  | Algorithms and Data Structures II\*, Object-Oriented Programming, Software Design and Development\*                                                                                                          |
+| JavaScript           | Intelligent Signal Processing, Introduction to Programming I, Introduction to Programming II, Algorithms and Data Structures I\*, Graphics Programming, Software Design and Development\*, Web Development |
+| Python               | Data Science, Databases and Advanced Data Techniques, Programming with Data, Software Design and Development\*                                                                                             |
 
-### Will C# be taught in level 6, especially in VR module
-
-- Yes. We use Unity, which uses C#.
-
-### Which programming language is used in learning Graphics programming
-
-- JavaScript.
+\* This is not a major focus in the course.
 
 ### Do we get a choice of back/front end frameworks to use during the web modules
 
 - No.
-
-### Will Data Science field use Python
-
-- Yes.
 
 ### There are a lot of technologies involved in data science. Can you run through some of the ones that will be covered
 
