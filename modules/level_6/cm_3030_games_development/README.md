@@ -36,4 +36,4 @@ of the relevant theory.
 
 ### Assessment
 
-One two-hour unseen written examination and coursework (Type I)
+**TBC:** One two-hour unseen written examination and coursework (Type I)
