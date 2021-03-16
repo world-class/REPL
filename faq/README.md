@@ -53,6 +53,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - [Coursera](#coursera)
   - [Do we still get access to the module resources once the module is complete](#do-we-still-get-access-to-the-module-resources-once-the-module-is-complete)
   - [Is there a way to remove old courses from the "In Progress" tab on the home page of the programme on Coursera](#is-there-a-way-to-remove-old-courses-from-the-in-progress-tab-on-the-home-page-of-the-programme-on-coursera)
+  - [Is Coursera down, why do I see an error page (404) when I try to access my module(s)](#is-coursera-down-why-do-i-see-an-error-page-404-when-i-try-to-access-my-modules)
   - [Modules involving mathematics](#modules-involving-mathematics)
     - [Why am I seeing weird symbols in the questions from the quizzes](#why-am-i-seeing-weird-symbols-in-the-questions-from-the-quizzes)
 - [Programme regulations](#programme-regulations)
@@ -327,6 +328,10 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 
 - No. The "Orientation module" is always there because it contains updated information that's still relevant. As for past modules you may have completed, they will disappear once the university has taken care of all the grading necessary after a while.
 - Instead of accessing the home page listing all your current modules, students recommend bookmarking the links to the module. You can also make use of _"custom search engines"_ and _"bookmark keywords"_ on all major web browsers: simply search for those features if you're interested.
+
+### Is Coursera down, why do I see an error page (404) when I try to access my module(s)
+
+- Your session has expired. Go to [coursera.org](https://www.coursera.org/) and log in again.
 
 ### Modules involving mathematics
 
