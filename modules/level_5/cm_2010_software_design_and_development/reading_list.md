@@ -1,0 +1,39 @@
+- 'ISO/IEC/IEEE International standard – Systems and software engineering – Vocabulary', ISO/IEC/IEEE 24765:2010(E) Dec 2010, pp.1–418. https://ieeexplore.ieee.org/document/5733835
+- R.E.D. Fairley, P. Bourque and J. Keppler 'The impact of SWEBOK Version 3 on software engineering education and training' in 2014 IEEE 27th Conference on Software Engineering Education and Training (CSEE&T). (Klagenfurt, Austria: IEEE, 2014). https://ieeexplore.ieee.org/document/6816804
+- R.S. Sangwan, P. Vercellone-Smith and P.A. Laplante 'Structural epochs in the complexity of software over time', IEEE Software 25(4) Jul-Aug 2008, pp.66–73. https://ieeexplore.ieee.org/document/4548410
+- T.J. McCabe 'A complexity measure', IEEE Transactions on Software Engineering SE-2(4) Dec 1976, pp.308–320. https://ieeexplore.ieee.org/document/1702388
+- Bouwers, Eric, Joost Visser, and Arie Van Deursen. "Criteria for the evaluation of implemented architectures." 2009 IEEE International Conference on Software Maintenance. IEEE, 2009.   https://ieeexplore.ieee.org/document/5306330
+- Koziolek, Heiko. "Sustainability evaluation of software architectures: a systematic review." Proceedings of the joint ACM SIGSOFT conference--QoSA and ACM SIGSOFT symposium--ISARCS on Quality of software architectures--QoSA and architecting critical systems--ISARCS. 2011.  https://dl.acm.org/doi/abs/10.1145/2000259.2000263
+- Martin, R.C.  'Professionalism and test-driven development', IEEE Software 24(3) 2007, pp.32–36. https://ieeexplore.ieee.org/document/4163026
+- https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4163008
+- Segura, S. and Z.Q. Zhou 'Metamorphic testing 20 years later: a  hands-on introduction', 2018 IEEE/ACM 40th International Conference on Software Engineering: Companion (ICSE-Companion) 2018, pp.538–539. https://ieeexplore.ieee.org/document/8449651
+- Borle, N., M. Feghhi, E. Stroulia, R. Grenier and A. Hindle 'Journal First] Analyzing the effects of test driven development in GitHub', 2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE) 2018, pp.1062–1062. https://ieeexplore.ieee.org/document/8453184
+- Holzmann, G.J. 'Assertive testing [reliable code]', IEEE Software 32(3) 2015, pp.12–15. https://ieeexplore.ieee.org/document/7093042
+- Clarke, L.A. and D.S. Rosenblum 'A historical perspective on runtime assertion checking in software development', SIGSOFT Software Engineering Notes 31(3) 2006, pp.25–37.  https://discovery.ucl.ac.uk/id/eprint/4991/
+- What are assertions? http://wiki.c2.com/?WhatAreAssertions
+- Classic paper:  Hoare, C.A.R 'Assertions: a personal perspective', IEEE Annals of the History of Computing 25(2) 2003, pp.14–25. https://ieeexplore.ieee.org/document/1203056
+- Ariane Rocket explosion:  Jazequel, J.-M. and B. Meyer, 'Design by contract: the lessons of Ariane', Computer 30(1) 1997, pp.129–30. https://ieeexplore.ieee.org/document/562936
+- Classic paper from 1975: Saltzer, J.H. and M. D. Schroeder 'The protection of information in computer systems', Proceedings of the IEEE 63(9) 1975, pp.1278–308. https://ieeexplore.ieee.org/document/1451869
+- David Wheeler's book is a great resource. It is Unix focused but applicable to all platforms: Wheeler, D.A. Secure programming for Linux and Unix HOWTO (1999). https://dwheeler.com/secure-programs/
+- For an analysis of software companies' approach to secure software, read Geer, D. 'Are companies actually using secure development life cycles?', Computer 43(6) 2010, pp.12–16. https://ieeexplore.ieee.org/document/5481927
+- Microsoft SDL practices https://www.microsoft.com/en-us/securityengineering/sdl/practices
+- Building Security in Maturity Model https://web.archive.org/web/20200831112350/https://www.bsimm.com/
+- Comprehensive, Lightweight Application Security Process (CLASP)/Open Source Foundation for Application Security (OWASP): Introduction to the CLASP process https://us-cert.cisa.gov/bsi/articles/best-practices/requirements-engineering/introduction-to-the-clasp-process
+- OWASP: Top 10 issues for web application security https://github.com/OWASP/www-project-top-ten/blob/master/index.md
+- Wong, W.E., R. Gao, Y. Li, R. Abreu and F. Wotawa 'A survey on software fault localization', IEEE Transactions on Software Engineering 42(8) 2016, pp. 707-740. https://ieeexplore.ieee.org/document/7390282
+- Gregory, S. 'The unplanned journey of a requirements engineer in industry: an introduction', IEEE Software 34(5) 2017, pp.16-19. https://ieeexplore.ieee.org/document/8048630
+- Mavin, A., P. Wilkinson, A. Harwood and M. Novak 'Easy Approach to Requirements Syntax (EARS)', 2009 17th IEEE International Requirements Engineering Conference (Atlanta, GA: IEEE, 2009), pp.317-322. https://ieeexplore.ieee.org/document/5328509
+- R. L. Glass 'An ancient (but still valid?) look at the classification of testing', IEEE Software 2(6) Nov-Dec 2008, pp.112-112. https://ieeexplore.ieee.org/document/4670725
+- R. L. Glass 'A classification system for testing, part 2', IEEE Software 26(1) Jan-Feb 2009, pp.104-104. https://ieeexplore.ieee.org/document/4721193
+- Chernak, Y. 'Validating and improving test-case effectiveness', IEEE Software 18(1) Jan-Feb 2001, pp.81-86. https://ieeexplore.ieee.org/document/903172
+- Zhao, Y., I. Borovikov, A. Beirami, J. Harder, J. Kolen, J. Pestrak, J. Pinto, R. Pourabolghasem, H. Chaput, M. Sardari et al. 'Winning isn’t everything: Training agents to playtest modern games', AAAI Workshop on Reinforcement Learning in Games 2019. https://web.archive.org/web/20201130170550/https://arxiv.org/pdf/1903.10545.pdf
+- Albaghajati, A.M. and M.A.K. Ahmed 'Video game automated testing approaches: an assessment framework', IEEE Transactions on Games. https://ieeexplore.ieee.org/abstract/document/9234724
+- Ferre, X., N. Juristo, H. Windl and L. Constantine 'Usability basics for software developers', IEEE Software 18(1) 2001, pp.22-29. https://ieeexplore.ieee.org/document/903160
+- Brooke, J. 'SUS: a retrospective', Journal of Usability Studies, 8(2) 2013.
+- Lewis, J.R., B.S. Utesh, D.E. Maher 'UMUX-LITE: when there's no time for the SUS', Proceedings of the SIGCHI Conference on Human Factors in Computing Systems 2013, pp.2099-2102.
+- Cherry, E. and C. Latulipe 'Quantifying the creativity support of digital tools through the creativity support index', ACM Transactions on Computer-Human Interaction 21 2014.
+- Molich, R. and J. Nielsen 'Improving a human-computer dialogue', Communications of the ACM 33(3) March 1990, pp.338–348.
+- AChecker 'Web accessibility checker' (2011). https://achecker.ca/checker/index.php
+- The Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 https://www.legislation.gov.uk/uksi/2018/952/contents/made
+- Rochkind, M.J. 'The source code control system', IEEE Transactions on Software Engineering SE-1(4) Dec. 1975, pp.364-370. https://ieeexplore.ieee.org/document/6312866
+
