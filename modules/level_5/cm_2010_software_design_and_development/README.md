@@ -47,7 +47,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Mock exam
 
-[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2010_sdd).
+[March 2021 mock exam](https://github.com/world-class/binary-assets/blob/master/modules/cm2010_sdd/cm2010_SDD_mock_exam.pdf).
 
 # Module specification
 
