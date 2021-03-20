@@ -331,6 +331,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dmytrokulak",
+      "name": "Dmytro Kulak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33861173?v=4",
+      "profile": "https://www.dmytrokulak.net",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
