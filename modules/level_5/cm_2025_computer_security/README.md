@@ -39,6 +39,10 @@ mathematics underlying the protocols by programming small examples.
 
 One two hour unseen written examination and coursework (Type I)
 
+# Mock exam
+
+[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2025_cs).
+
 # Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2025_CS-Module-Spec.pdf)
