@@ -145,6 +145,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - You will receive an email a few business days (sometimes more) after your successful registration as a student once your payment has been made.
 - **Your first step** should be to complete the **Orientation course** on Coursera – otherwise you won't be able to start your modules. Make sure you have selected _University of London_ for your modules on Coursera (see screenshot below) to display the course and then you can access it from [the home page](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home) of this programme on Coursera or [directly from this link](https://www.coursera.org/learn/london-cs-orientation).
   ![coursera UoL selection](https://raw.githubusercontent.com/world-class/binary-assets/master/images/faq/coursera_uol_selection_2020-09-13.png)
+- Even once you have completed the **Orientation course**, you will get access to the modules **once the start date of the semester has been published** – check the home page of the student portal at https://my.london.ac.uk for an official answer and be on the lookout in the `#general` channel of the [Slack workspace](http://londoncs.slack.com/): it will be announced as soon as it is known. Additionally, make sure you have joined the `#uol-announcements` channel on Slack because official communication sent by UoL via email will be shared there (this is not a channel for questions, only for communication **FROM** UoL).
 
 ### :question: I need help! Whom should I ask
 
