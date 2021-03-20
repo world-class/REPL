@@ -45,6 +45,10 @@ software versioning tools to manage a software project as it develops.
 
 One two hour unseen written examination and coursework (Type I)
 
+# Mock exam
+
+[March 2021 mock exam](https://github.com/world-class/binary-assets/blob/master/modules/cm2010_sdd/cm2010_SDD_mock_exam.pdf).
+
 # Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2010_SDD-Module-Spec.pdf)
