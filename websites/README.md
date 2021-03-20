@@ -7,10 +7,11 @@
 - [Artificial intelligence](#artificial-intelligence)
   - [Machine learning](#machine-learning)
 - [Books](#books)
-- [Career](#career)
+- [Career and growth](#career-and-growth)
   - [Advice](#advice)
   - [Reaching the next level](#reaching-the-next-level)
   - [Resume building](#resume-building)
+  - [Thinking tools](#thinking-tools)
 - [Computer science](#computer-science)
   - [Algorithms](#algorithms)
     - [Visualizations](#visualizations)
@@ -128,7 +129,7 @@
 
 - Have a look at [../books/README.md](../books/README.md): quite a few of those books are available for free online and pretty much all of them can be bought physically and/or digitally.
 
-# Career
+# Career and growth
 
 ## Advice
 
@@ -138,9 +139,14 @@
 
 - [Senior Mindset series](https://seniormindset.com/) - _"Get a series of curated essays on the mindset of a senior software engineer. What it takes to get there, what should you do when you're there, how to change the way you think."_
 - [Stories of reaching Staff-plus engineering roles - StaffEng](https://staffeng.com/) - _"The StaffEng project aims to collect the stories of folks who are operating in Staff, Principal or Distinguished Engineer roles."_
+
 ## Resume building
 
 - [Kickresume](https://www.kickresume.com) - _" We help students take first steps towards a successful career. Kickresume Premium is now free for all students. Verify your student status with ISIC, ITIC or EURO>26."_
+
+## Thinking tools
+
+- [Untools](https://untools.co) - _"Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems."_
 
 # Computer science
 
