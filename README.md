@@ -48,7 +48,7 @@ report it.</strong></p>
 
 # Current week
 
-- Semester done/ending :tada:. [Week: **23**]
+- Semester done/ending :tada:. [Week: **24**]
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
