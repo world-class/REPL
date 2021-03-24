@@ -65,6 +65,11 @@ div#header_wrap {
   border: none;
 }
 
+#main_content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
 #project_title {
   text-shadow: none;
 }
@@ -91,6 +96,10 @@ code {
 
 #footer_wrap {
   background: #262626;
+}
+
+footer.inner p {
+    text-align: center;
 }
 
 img.emoji {
