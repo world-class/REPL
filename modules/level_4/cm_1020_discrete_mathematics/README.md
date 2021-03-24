@@ -98,7 +98,7 @@ _This course does not require you to read the whole book, you will be given spec
 ## Examples of past and current written exams
 
 - 2014, 2015, 2016, 2017, 2018 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/past_exams/cm1020_dm/DM18_answers.pdf)), 2020 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/past_exams/cm1020_dm/DM20_answers.pdf)): [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past_exams/cm1020_dm).
-- :lock: [2020 written exam] **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2LKPW/p1582307389452400)
+- :lock: [2020 written exam] **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2LKPW/p1582307389452400).
 
 ## Kinks to be aware of
 
@@ -136,7 +136,7 @@ _This course does not require you to read the whole book, you will be given spec
     - [Graph Traversals - BFS & DFS -Breadth First Search and Depth First Search](https://www.youtube.com/watch?v=pcKY4hjDrxk) - Abdul Bari
     - [Maximum Matching Algorithm](https://www.youtube.com/watch?v=gbasc4F-7hk) - HEGARTYMATHS
     - **Dijkstra's algorithm**
-      - [Dijkstra's Shortest Path Algorithm | Graph Theory](https://www.youtube.com/watch?v=pSqmAO-m7Lk) - WilliamFiset
+      - [Dijkstra's Shortest Path Algorithm - Graph Theory](https://www.youtube.com/watch?v=pSqmAO-m7Lk) - WilliamFiset
       - [Graph Data Structure 4. Dijkstra’s Shortest Path Algorithm](https://www.youtube.com/watch?v=pVfj6mxhdMw) - Computer Science
       - [Dijkstra's algorithm in 3 minutes — Review and example](https://www.youtube.com/watch?v=_lHSawdgXpI) - Michael Sambol
     - **Hopcroft–Karp algorithm**

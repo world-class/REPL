@@ -34,4 +34,4 @@ location.
 
 ---
 
-Original location on GitHub: https://github.com/world-class/REPL/tree/master/subreddit
+Original location on GitHub: [https://github.com/world-class/REPL/tree/master/subreddit](https://github.com/world-class/REPL/tree/master/subreddit)

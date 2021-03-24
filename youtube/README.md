@@ -205,7 +205,7 @@
 ### Derivatives
 
 - [Chain rule: example with trigonometric function](https://www.youtube.com/watch?v=aeQA5d3gZTI) - MIT OpenCourseWare
-- [Chains f(g(x)) and the Chain Rule | MIT Highlights of Calculus](https://www.youtube.com/watch?v=yQrKXo89nHA) - MIT OpenCourseWare
+- [Chains f(g(x)) and the Chain Rule - MIT Highlights of Calculus](https://www.youtube.com/watch?v=yQrKXo89nHA) - MIT OpenCourseWare
 - [The Chain Rule for differentiation of composite functions](https://www.youtube.com/watch?v=KKaRHdZ-Qus) - ExamSolutions
 
 ## Complex analysis
@@ -228,7 +228,7 @@
   - [Graph Traversals - BFS & DFS -Breadth First Search and Depth First Search](https://www.youtube.com/watch?v=pcKY4hjDrxk) - Abdul Bari
   - [Maximum Matching Algorithm](https://www.youtube.com/watch?v=gbasc4F-7hk) - HEGARTYMATHS
   * **Dijkstra's algorithm**
-    - [Dijkstra's Shortest Path Algorithm | Graph Theory](https://www.youtube.com/watch?v=pSqmAO-m7Lk) - WilliamFiset
+    - [Dijkstra's Shortest Path Algorithm - Graph Theory](https://www.youtube.com/watch?v=pSqmAO-m7Lk) - WilliamFiset
     - [Graph Data Structure 4. Dijkstra’s Shortest Path Algorithm](https://www.youtube.com/watch?v=pVfj6mxhdMw) - Computer Science
     - [Dijkstra's algorithm in 3 minutes — Review and example](https://www.youtube.com/watch?v=_lHSawdgXpI) - Michael Sambol
   * **Hopcroft–Karp algorithm**
