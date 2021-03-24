@@ -443,7 +443,7 @@ relevant topic for the final project.</p>
 <summary><strong>See what's the current week</strong></summary>
 
 <ul>
-<li>Find out what week we are on right now in this very semester by <a href="https://week.atz.now.sh">following this link</a> (probably one of the simplest yet useful user interface you will ever see).</li>
+<li>Find out what week we are on right now in this very semester by <a href="https://week-atz.vercel.app/">following this link</a> (probably one of the simplest yet useful user interface you will ever see).</li>
 </ul>
 
   </details>
