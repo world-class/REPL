@@ -243,7 +243,7 @@ report it.</strong></p>
 </tr>
 <tr>
 <td><a href="modules/level_5/cm_2025_computer_security">Computer Security</a></td>
-<td><strong>CS</strong></td>
+<td><strong>CSec</strong></td>
 <td><strong>CM2025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2025-computer-security</code></td>
