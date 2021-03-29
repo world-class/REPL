@@ -107,6 +107,7 @@ _"Specific essential readings for each week from the following list are included
   - [Solutions (by students)](https://docs.google.com/document/d/1Pb86mf6FsSjkWS4qbh6B05EISP3KTbkQL46MZxvQ9qk/edit)
 - [FCS past exam March 2020](https://github.com/world-class/binary-assets/blob/master/modules/cm1025_fcs/CM1025_Exam_Questions_March_2020.pdf)
   - [Solutions (by students)](https://docs.google.com/spreadsheets/d/1YTfRO7cipoxUuxuYfWQrXslwBeJJ9Mlj3T9K3CNYl0w/edit#gid=0)
+- [FCS past exam September 2020 (Part B)](https://github.com/world-class/binary-assets/blob/master/modules/cm1025_fcs/CM1025_Exam_Questions_Sept_2020.pdf)
 
 ## Study guide
 
