@@ -48,7 +48,7 @@ report it.</strong></p>
 
 # Current week
 
-- Semester done/ending :tada:. [Week: **25**]
+- Semester done/ending :tada:. Tentative start date of the next semester: **Monday 12 April 2021**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
