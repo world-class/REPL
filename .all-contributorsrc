@@ -349,6 +349,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "SergiusGit",
+      "name": "Sergei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7987304?v=4",
+      "profile": "https://github.com/SergiusGit",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
