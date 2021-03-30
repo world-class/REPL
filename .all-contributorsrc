@@ -359,6 +359,15 @@
         "doc",
         "question"
       ]
+    },
+    {
+      "login": "hitfzyangdianshi",
+      "name": "大大狐狸cyberfox_meow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10493326?v=4",
+      "profile": "https://github.com/hitfzyangdianshi",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
