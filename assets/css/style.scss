@@ -54,6 +54,10 @@ div#header_wrap {
   background: #0053a6;
 }
 
+#header_wrap .inner {
+  padding: 10px;
+}
+
 #forkme_banner {
   background: url(../images/blacktocat.png) #e22f24 no-repeat 95% 50%;
   text-decoration: none;
@@ -66,17 +70,19 @@ div#header_wrap {
 }
 
 #main_content {
-    padding-top: 40px;
-    padding-bottom: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 #project_title {
   text-shadow: none;
+  font-size: 36px;
 }
 
 #project_tagline {
   font-weight: bold;
   text-shadow: none;
+  font-size: 20px;
 }
 
 th {
@@ -99,7 +105,7 @@ code {
 }
 
 footer.inner p {
-    text-align: center;
+  text-align: center;
 }
 
 img.emoji {
