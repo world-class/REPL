@@ -1,58 +1,23 @@
-<img src="https://raw.githubusercontent.com/world-class/binary-assets/master/images/repl/repl.png" alt="REPL_logo" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
+<img src="https://raw.githubusercontent.com/world-class/binary-assets/master/images/repl/repl.png" alt="REPL_logo" style="display: block; margin-left: auto; margin-right: auto; max-width: 600px; margin-bottom: 0.5em;"/>
 
-[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/world-class/REPL/compare) ![GitHub](https://img.shields.io/github/license/world-class/REPL?style=flat-square) [![Sparkline](https://stars.medv.io/world-class/REPL.svg)](https://stars.medv.io/world-class/REPL)
+<div style="text-align:center; margin-bottom: 0.5em;">
+<a href="https://www.firsttimersonly.com/"><img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square" /></a>
+<a href="https://github.com/world-class/REPL/compare"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /></a>
+<a href="https://en.wikipedia.org/wiki/MIT_License"><img src="https://img.shields.io/github/license/world-class/REPL?style=flat-square" /></a>
+</div>
 
 A twist on the use of **REPL**, which stands for _read–eval–print
 loop_ in computer programming. This repository aims to become a central
 place to share resources that other learners have found useful,
 especially in the context of studying a [BSc Computer Science offered by Goldsmiths, University of London](https://london.ac.uk/courses/computer-science) :school:.
 
-<details>
-<summary>Good luck in your journey!</summary>
-
-<p>As the first cohorts of students enrolling in this ~100% online
-programme, it is in our interest to cooperate in order to maximize our
-chances of celebrating all together when we graduate.</p>
-
-<p>Good luck to all and may this path fulfill you, knowing that you will
-find support along the way!</p>
-
-</details>
-
-<details>
-<summary>Note on copyrighted material</summary>
-
-<p><strong>This is not a place where you'll find prohibited
-content, such as leaked confidential information and copyrighted
-material. Anything that could potentially fall under the <a href="https://london.ac.uk/current-students/programme-documents/regulations">regulations of the University of London</a> will be removed if it appears by accident and you are welcome to
-report it.</strong></p>
-
-</details>
-
-## Emojis: Their meaning in the REPL
-
-| Emoji               | Meaning                                                                                                                                                                                                       |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| :heart:             | This is a highly valuable resource (always a bit subjective).                                                                                                                                                 |
-| :1st_place_medal:   | Deemed **essential** (such as a textbook used for a specific module).                                                                                                                                         |
-| :2nd_place_medal:   | Deemed **very important** (such as a textbook used for a specific module).                                                                                                                                    |
-| :3rd_place_medal:   | Deemed **noteworthy** (again, such as a textbook used for a specific module).                                                                                                                                 |
-| :lock:              | Restricted access with accompanying explanation: maybe you need to access the [Slack workspace](http://londoncs.slack.com/), maybe you need to log in to [the student portal](https://my.london.ac.uk/), etc. |
-| :star:              | This is about [open source software](https://opensource.com/resources/what-open-source).                                                                                                                      |
-| :cloud:             | A software that is used online (runs in the cloud).                                                                                                                                                           |
-| :heavy_dollar_sign: | Indicates a resource that costs money to acquire and/or to use.                                                                                                                                               |
-
 ---
-
-<br />
 
 # Current week
 
 - Semester done/ending :tada:. Tentative start date of the next semester: **Monday 12 April 2021**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
-
-<br />
 
 # Most used resources
 
@@ -501,6 +466,43 @@ relevant topic for the final project.</p>
 </details>
 <br /><br />
 
+## Emojis: Their meaning in the REPL
+
+| Emoji               | Meaning                                                                                                                                                                                                       |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :heart:             | This is a highly valuable resource (always a bit subjective).                                                                                                                                                 |
+| :1st_place_medal:   | Deemed **essential** (such as a textbook used for a specific module).                                                                                                                                         |
+| :2nd_place_medal:   | Deemed **very important** (such as a textbook used for a specific module).                                                                                                                                    |
+| :3rd_place_medal:   | Deemed **noteworthy** (again, such as a textbook used for a specific module).                                                                                                                                 |
+| :lock:              | Restricted access with accompanying explanation: maybe you need to access the [Slack workspace](http://londoncs.slack.com/), maybe you need to log in to [the student portal](https://my.london.ac.uk/), etc. |
+| :star:              | This is about [open source software](https://opensource.com/resources/what-open-source).                                                                                                                      |
+| :cloud:             | A software that is used online (runs in the cloud).                                                                                                                                                           |
+| :heavy_dollar_sign: | Indicates a resource that costs money to acquire and/or to use.                                                                                                                                               |
+
+## Outro
+
+<details>
+<summary>Good luck in your journey!</summary>
+
+<p>As the first cohorts of students enrolling in this ~100% online
+programme, it is in our interest to cooperate in order to maximize our
+chances of celebrating all together when we graduate.</p>
+
+<p>Good luck to all and may this path fulfill you, knowing that you will
+find support along the way!</p>
+
+</details>
+
+<details>
+<summary>Note on copyrighted material</summary>
+
+<p>This is not a place where you'll find prohibited
+content, such as leaked confidential information and copyrighted
+material. Anything that could potentially fall under the <strong><a href="https://london.ac.uk/current-students/programme-documents/regulations">regulations of the University of London</a></strong> will be removed if it appears by accident and you are welcome to
+report it.</p>
+
+</details>
+
 ---
 
 ## Contributors ✨
@@ -582,4 +584,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ---
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/world-class/REPL/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/world-class/REPL/) [![Sparkline](https://stars.medv.io/world-class/REPL.svg)](https://stars.medv.io/world-class/REPL)
