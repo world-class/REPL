@@ -77,6 +77,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [Do I have to complete all the formative as well as the summative assessments on Coursera](#do-i-have-to-complete-all-the-formative-as-well-as-the-summative-assessments-on-coursera)
   - [How do you assign grades? Grading on a Curve or absolute grading](#how-do-you-assign-grades-grading-on-a-curve-or-absolute-grading)
   - [What are the deadlines to complete summative quizzes](#what-are-the-deadlines-to-complete-summative-quizzes)
+  - [Can we get a transcript of our studies](#can-we-get-a-transcript-of-our-studies)
 - [General topics](#general-topics)
   - [Do we get a dedicated student advisor, as it is customary in other countries (for example the US)](#do-we-get-a-dedicated-student-advisor-as-it-is-customary-in-other-countries-for-example-the-us)
   - [If we produce something during our studies, who "owns" it](#if-we-produce-something-during-our-studies-who-owns-it)
@@ -466,6 +467,10 @@ Some of the questions that can be answered by reading the programme regulations:
 
 - You can find **soft** deadlines in the **Grades** section of each module on Coursera. Those are _advised_ deadlines and give you a good idea of what progress you should have been making and how you should roughly be pacing yourself.
 - You have until the submission deadline for the mid-term of each module to submit summative quizzes: this is the **hard** deadline in case you miss the **soft** ones. You will still be able to submit summative quizzes after the mid-term, but they won't count towards your final grade. Please take into consideration the timezone information on the submission page for the mid-term as any work — or summative quizzes due before the mid-term — will be awarded zero marks if you submit after the **hard** deadline, even if it's on the same day.
+
+### Can we get a transcript of our studies
+
+- Yes. Partial transcripts for the courses you've taken can be requested: please follow the instructions [on this page](https://london.ac.uk/ways-study/study-campus-london/student-services-and-support/requesting-a-transcript).
 
 ---
 
