@@ -4,7 +4,7 @@ import fileinput
 # This could either be the start date of the current semester or the next one
 # if we're already past week 22 in the ongoing semester.
 date_start = datetime(2021, 4, 12)
-we_are_sure = False  # well they didn't provide an official date yet...
+we_are_sure = True
 
 today = datetime.today()
 

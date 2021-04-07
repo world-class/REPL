@@ -15,7 +15,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 
 # Current week
 
-- Semester done/ending :tada:. Tentative start date of the next semester: **Monday 12 April 2021**.
+- Semester done/ending :tada:. Start date of the next semester: **Monday 12 April 2021**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
