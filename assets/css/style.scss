@@ -113,6 +113,15 @@ img.emoji {
   padding: 0;
 }
 
+img {
+  border: none;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  -ms-box-shadow: none;
+}
+
 blockquote {
   border-left: 6px solid #0053a6;
 }
