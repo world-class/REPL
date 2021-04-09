@@ -10,11 +10,20 @@
 
 body {
   color: #241f20;
-  font-family: Arial, sans-serif, 'Myriad Pro', Calibri, Helvetica;
+  font-family: Lato, Arial, sans-serif, 'Myriad Pro', Calibri, Helvetica;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Roboto, 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
 }
 
 .inner {
-  max-width: 1024px;
+  max-width: 1200px;
 }
 
 *:focus {
@@ -82,7 +91,9 @@ div#header_wrap {
 #project_tagline {
   font-weight: bold;
   text-shadow: none;
-  font-size: 20px;
+  font-size: 16px;
+  font-family: 'JetBrains Mono', Iosevka, 'Source Code Pro', 'Inconsolata',
+    'Fira Code', monospace;
 }
 
 th {
@@ -97,7 +108,13 @@ td {
 }
 
 code {
-  box-shadow: 0 0 10px #0055a630;
+  padding: 3px;
+  margin: 0 3px;
+  box-shadow: 0 0 2px #fb00ff;
+  color: yellow;
+  background-color: black;
+  font-family: 'JetBrains Mono', Iosevka, 'Source Code Pro', 'Inconsolata',
+    'Fira Code', monospace;
 }
 
 #footer_wrap {
@@ -111,6 +128,7 @@ footer.inner p {
 img.emoji {
   margin: 0;
   padding: 0;
+  vertical-align: middle;
 }
 
 img {
@@ -123,13 +141,29 @@ img {
 }
 
 blockquote {
+  color: #666;
+  margin-bottom: 20px;
+  padding: 0 0 0 20px;
+  border-left: 3px solid #bbb;
+  background-color: #e22f240f;
+  font-style: italic;
   border-left: 6px solid #0053a6;
 }
 
+blockquote p {
+  padding: 8px 8px 8px 0;
+}
+
 .highlight {
-  background: none;
+  background-color: black;
+  box-shadow: 0 0 1px #fb00ff;
 }
 
 pre {
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+}
+
+pre code {
+  display: inline-block;
+  box-shadow: none;
 }
