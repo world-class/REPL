@@ -110,9 +110,9 @@ td {
 code {
   padding: 3px;
   margin: 0 3px;
-  box-shadow: 0 0 2px #fb00ff;
-  color: yellow;
-  background-color: black;
+  box-shadow: 0 0 2px #e22f24;
+  color: white;
+  background-color: #262626;
   font-family: 'JetBrains Mono', Iosevka, 'Source Code Pro', 'Inconsolata',
     'Fira Code', monospace;
 }
@@ -155,8 +155,8 @@ blockquote p {
 }
 
 .highlight {
-  background-color: black;
-  box-shadow: 0 0 1px #fb00ff;
+  background-color: #262626;
+  box-shadow: 0 0 1px #e22f24;
 }
 
 pre {
