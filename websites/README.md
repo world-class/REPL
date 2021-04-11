@@ -516,6 +516,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 ### Python
 
 - [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the basic syntax of Python, some standard libraries and the Django framework that is used to build web applications."_.
+- [Python Design Patterns](https://python-patterns.guide/) - _"[...] evolving guide to design patterns in the Python programming language."_.
 - [Quantitative Economics with Python](https://lectures.quantecon.org/py) - Great reference for scientific libraries, working with data, advanced Python concepts, dynamic programming.
 
 #### Hosting

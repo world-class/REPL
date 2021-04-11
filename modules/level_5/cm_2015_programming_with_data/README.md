@@ -86,6 +86,7 @@ One two hour unseen written examination and coursework (Type I)
 - [Learn Python, Data Viz, Pandas & More on Kaggle](https://www.kaggle.com/learn/overview) - Kaggle
 - [Official Python documentation](https://docs.python.org/3/)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Python Design Patterns](https://python-patterns.guide/) - _"[...] evolving guide to design patterns in the Python programming language."_.
 - [Videos](https://github.com/world-class/REPL/tree/master/youtube#python) - REPL/YouTube
 - Websites: [references](https://github.com/world-class/REPL/tree/master/websites#python-1) - [working with data](https://github.com/world-class/REPL/tree/master/websites#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn) - REPL
 
