@@ -2,7 +2,8 @@
 
 # Websites
 
-- [Websites](#websites)
+### Table of contents
+
 - [Starting point](#starting-point)
 - [Artificial intelligence](#artificial-intelligence)
   - [Machine learning](#machine-learning)
@@ -106,7 +107,7 @@
 ---
 <br />
 
-# Starting point
+## Starting point
 
 - [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - _"Curated list of resources for college students."_
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#readme)
@@ -114,41 +115,41 @@
 ---
 <br />
 
-# Artificial intelligence
+## Artificial intelligence
 
 - [Introduction to Robotics - CS223A, by Oussama Khatib](https://see.stanford.edu/Course/CS223A) - Stanford Engineering Everywhere
 
-## Machine learning
+### Machine learning
 
 - [Machine Learning - CS229, by Andrew Ng](https://see.stanford.edu/Course/CS229) - Stanford Engineering Everywhere
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google. - _"Google's fast-paced, practical introduction to machine learning."_
 - [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning) - University of Oxford
 - [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) - _"Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more."_
 
-# Books
+## Books
 
 - Have a look at [../books/README.md](../books/README.md): quite a few of those books are available for free online and pretty much all of them can be bought physically and/or digitally.
 
-# Career and growth
+## Career and growth
 
-## Advice
+### Advice
 
 - [TopResume](https://www.topresume.com/career-advice). _"Job-search tips and expert advice to help you get ahead in your career."_
 
-## Reaching the next level
+### Reaching the next level
 
 - [Senior Mindset series](https://seniormindset.com/) - _"Get a series of curated essays on the mindset of a senior software engineer. What it takes to get there, what should you do when you're there, how to change the way you think."_
 - [Stories of reaching Staff-plus engineering roles - StaffEng](https://staffeng.com/) - _"The StaffEng project aims to collect the stories of folks who are operating in Staff, Principal or Distinguished Engineer roles."_
 
-## Resume building
+### Resume building
 
 - [Kickresume](https://www.kickresume.com) - _" We help students take first steps towards a successful career. Kickresume Premium is now free for all students. Verify your student status with ISIC, ITIC or EURO>26."_
 
-## Thinking tools
+### Thinking tools
 
 - [Untools](https://untools.co) - _"Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems."_
 
-# Computer science
+## Computer science
 
 - [Computer Science 162, 001 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDrt_oPWfQ4-fjHm2KSSOPq) - UC Berkeley
 - [Computer Science 188, 001 - Spring 2015](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u) - UC Berkeley
@@ -163,7 +164,7 @@
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - _"Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools."_
 - [Understanding Computers and the Internet](http://computerscience1.tv/2011/spring) - Harvard Extension School. About hardware, Internet, multimedia, security, website development, programming.
 
-## Algorithms
+### Algorithms
 
 - [Algorithms in the "Real World" (2018)](http://www.cs.cmu.edu/~guyb/realworld.html) - Compression, error correcting codes, cryptography, parallel algorithms, locality and I/O efficient algorithms, indexing and searching, nearest neighbors, dimensionality reduction.
 - [Comparison of Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms) - See time complexity at a glance for various popular algorithms.
@@ -172,124 +173,124 @@
 - [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms/) - _"We've partnered with Dartmouth college professors Tom Cormen and Devin Balkcom to teach introductory computer science algorithms, including searching, sorting, recursion, and graph theory. Learn with a combination of articles, visualizations, quizzes, and coding challenges."_
 - [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/)
 
-### Visualizations
+#### Visualizations
 
 - [HackerEarth](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/) - Visualize sorting algorithms, step by step.
 - [VisuAlgo](https://visualgo.net/en) - Visualising data structures and algorithms through animation.
 
-## Articles
+### Articles
 
 - [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
-## Computational complexity
+### Computational complexity
 
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - bigocheatsheet.com
 
-## Courses and videos
+### Courses and videos
 
 - [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 
-## Free (e)books
+### Free (e)books
 
 - [IT eBooks](http://it-ebooks.info/)
 - [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html), by Harold Abelson, Gerald Jay Sussman and Julie Sussman. _"Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License by the MIT Press."_
 
-# Data science
+## Data science
 
-## Jupyter
+### Jupyter
 
 - [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - [Six easy ways to run your Jupyter Notebook in the cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
 - [Tutorial: Advanced Jupyter Notebooks](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 
-## Pandas
+### Pandas
 
 - [Modern Pandas](https://tomaugspurger.github.io/modern-1-intro) - _"This series is about how to make effective use of pandas, a data analysis library for the Python programming language. It's targeted at an intermediate level: people who have some experience with pandas, but are looking to improve."_
 - [Official website](https://pandas.pydata.org) - _"pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."_
 
-## Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)
+### Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)
 
 - [Kaggle: Micro-Courses](https://www.kaggle.com/learn/overview) - _"Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."_
 - [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) - _"This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks."_
 
-# Free e-books and video courses
+## Free e-books and video courses
 
 - [Packt Publishing – free programming ebooks and videos](https://www.packtpub.com/packt/offers/free-learning) - Daily offer of up-to-date, quality material.
 
-# Hacking
+## Hacking
 
 - :heart: [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - _"A collection of awesome lists for hackers, pentesters & security researchers."_
 - [Hacksplaining](https://www.hacksplaining.com/) - _"Hacksplaining: Learn to hack."_
 - [Hacker Tools](https://hacker-tools.github.io) - _"Learn to make the most of the tools that hackers have been using for decades."_
 
-# LaTeX
+## LaTeX
 
 - [Overleaf](https://www.overleaf.com) - _"The easy to use, online, collaborative LaTeX editor."_
 - [Templates](http://www.latextemplates.com) - _"The best source of free quality LaTeX templates."_
 - [Wikibook](https://en.wikibooks.org/wiki/LaTeX) - _"This is a guide to the LaTeX typesetting system. It is intended as a useful resource for everybody, from new users who wish to learn, to old hands who need a quick reference."_
 - [Mathpix Snip](https://mathpix.com) - _"Do you spend a lot of time typing equations in LaTeX? Try Mathpix Snip for iOS, Android, macOS, Windows or Linux and start converting images to LaTeX instantly!"_
 
-# Linux & Unix
+## Linux & Unix
 
 - [CIS 191: Linux and Unix - University of Pennsylvania](https://www.cis.upenn.edu/~cis191/index.html) - _"This half-credit course provides a thorough introduction to Unix and Linux. Topics will range from critical basic skills such as examining and editing files, compiling programs and writing shell scripts, to higher level topics such as the architecture of Unix and its programming model."_
 - [Distrowatch](https://distrowatch.com) - _"DistroWatch is a website which provides news, distribution pages hit rankings, and other general information about various Linux distributions as well as other free software/open source Unix-like operating systems."_ ([from Wikipedia](https://en.wikipedia.org/wiki/DistroWatch))
 - [Linux.com - What is Linux?](https://www.linux.com/what-is-linux/) - _"Here is all the information you need to get up to speed on the Linux platform."_
 - [Linux Upskill challenge](https://linuxupskillchallenge.com/) - _"1 month long challenge with daily guided lessons to learn the skills required to sysadmin a remote Linux server from the commandline"_
 
-# Mathematics
+## Mathematics
 
 - [Mathematics 16A, 002 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk) - UC Berkeley
 
-## Beginner topics
+### Beginner topics
 
 - [Khan Academy](https://www.khanacademy.org) - Brush up on arithmetic, algebra, geometry, trigonometry, statistics & probability, calculus, differential equations, linear algebra, functions.
 
-## Calculus
+### Calculus
 
 - [Calculus III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) - _Here are my online notes for my Calculus III course that I teach here at Lamar University. Despite the fact that these are my “class notes”, they should be accessible to anyone wanting to learn Calculus III or needing a refresher in some of the topics from the class._
 - [Calculus for beginners, from MIT](http://www-math.mit.edu/~djk/calculus_beginners) - _"Calculus for Beginners and Artists"_
 - [Calculus problem set](https://www.math.ucdavis.edu/~kouba/ProblemsList.html)
 
-### Derivatives
+#### Derivatives
 
 - [Derivative Calculator](https://www.derivative-calculator.net) - _"Calculate derivatives online — with steps and graphing!"_
 - [Introduction to differentiation on ExamSolutions](https://www.examsolutions.net/a-level-maths/ocr/c1-tutorials/#Different) - Gradient, second derivative, tangents, normals, stationary points, increasing and decreasing functions.
 - [Introduction to differentiation II on ExamSolutions](https://www.examsolutions.net/a-level-maths/ocr/c3-tutorials/#diff) - Exponential functions, chain rule, product rule, quotient rule, reciprocal function, exam questions, connected rates of change.
 
-## Discrete mathematics
+### Discrete mathematics
 
 - [Readings from MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
 
-### Algorithms
+#### Algorithms
 
-#### Hopcroft-Karp
+##### Hopcroft-Karp
 
 - [Bipartite Matching](https://www-m9.ma.tum.de/graph-algorithms/matchings-hopcroft-karp/index_en.html) - Interactive: _"Here we demonstrate the Hopcroft-Karp algorithm that solves the problem of finding maximal matchings on bipartite graphs."_
 
-### Binomial theorem
+#### Binomial theorem
 
 - [Intro to the Binomial Theorem](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:polynomials/x9e81a4f98389efdf:binomial/v/binomial-theorem) - Khan Academy
 
-### Graph theory
+#### Graph theory
 
 - [D3 Graph Theory](https://d3gt.com) - _"Learn graph theory interactively."_
 - [Matching (Graph Theory)](https://brilliant.org/wiki/matching) - _"Definition, terminology, bipartite matching, examples."_
 
-### Rules of inference - logic proofs
+#### Rules of inference - logic proofs
 
 - [Rules of Inference and Logic Proofs](http://sites.millersville.edu/bikenaga/math-proof/rules-of-inference/rules-of-inference.html) - Covers modus ponens, modus tollens, disjunctive syllogism, De Morgan's law, biconditional, conjunctions, disjunctions, equivalences, double negation.
 
-## Encryption
+### Encryption
 
 - [Part 1: How RSA Works With Examples](http://doctrina.org/How-RSA-Works-With-Examples.html) - Barry Steyn
 - [Part 2: Why RSA Works: Three Fundamental Questions Answered](http://doctrina.org/Why-RSA-Works-Three-Fundamental-Questions-Answered.html) - Barry Steyn
 
-## Limits
+### Limits
 
 - [Limits and continuity](https://www.khanacademy.org/math/differential-calculus/dc-limits) - Khan Academy
 
-## Linear Algebra
+### Linear Algebra
 
 - [Applied Linear Algebra 1](https://open.math.uwaterloo.ca/4?gid=314) - University of Waterloo (Canada)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila) - _"This is an introductory textbook on linear algebra, written by Joe Rabinoff and Dan Margalit for Math 1553 at Georgia Tech."_
@@ -297,51 +298,51 @@
 - Problem sets
   - [PDF][exercises and problems in linear algebra, portland state university](https://web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf), Version July 13, 2014
 
-## Machine learning
+### Machine learning
 
 - [Mathematics for Machine Learning](https://mml-book.github.io) - _"We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books."_
 
-## Modular arithmetic
+### Modular arithmetic
 
 - [Modular arithmetic](https://modular-arithmetic.appspot.com/#modularArithmetic) - Clear, simple explanations: _"Numbers in a given modulo "wrap around". They reach a certain value, and then continue from the beginning up to that value. Then, begin again. [...]"_
 
-## Number bases
+### Number bases
 
 - [Multiplication in base five](https://www.basic-mathematics.com/multiplication-in-base-five.html)
 
-## Online tools
+### Online tools
 
 - [Desmos](https://www.desmos.com) - _"Graph functions, plot data, evaluate equations, explore transformations, and much more – for free!"_
 - [Symbolab](https://www.symbolab.com) - _"Symbolab: equation search and math solver - solves algebra, trigonometry and calculus problems step by step."_ **(:heavy_dollar_sign: requires subscription for all features)**
 - [Wolfram Alpha](https://www.wolframalpha.com) - _"Wolfram Alpha is a computational knowledge engine or answer engine."_ **(:heavy_dollar_sign: requires subscription for all features)**
 
-## Statistics
+### Statistics
 
 - [Statistics 20, 003 - Fall 2010](https://archive.org/details/ucberkeley-webcast-PLFCCED623A3AB020F) - UC Berkeley
 
-## Trigonometry
+### Trigonometry
 
 - [How To Learn Trigonometry Intuitively](https://betterexplained.com/articles/intuitive-trigonometry) - Better Explained
 - [The trigonometry of non-right triangles](http://www.xaktly.com/XMathMain.html) -
   Angle measurement, trigonometry basics, non-right triangle trig, inverse trig functions, analytic trigonometry, trigonometric equations video, polar coordinates, complex plane, rock climbing, conic sections.
 
-# Music (ideal for programming)
+## Music (ideal for programming)
 
 - [Brainaural](https://brainaural.com) - _"What Are Brainwaves? Does Entrainement Work? Find out for yourself! Now with free audio file download."_
 - [Music For Programming](http://musicforprogramming.net) - Play programming music right from your web browser in an IDE-like interface.
 - [Rainy Mood](https://rainymood.com) (noise generator) - _"Helps you to focus, relax, and sleep. [...] The internet's most popular rain experience."_
 
-# Online services
+## Online services
 
-## Clean your inbox
+### Clean your inbox
 
 - [Unroll.me](https://unroll.me) - _"Instantly see a list of all your subscription emails. Unsubscribe easily from whatever you don't want."_
 
-## Diff checker (compare different files)
+### Diff checker (compare different files)
 
 - [Diffchecker](https://www.diffchecker.com) - _"Diffchecker is a diff tool to compare text differences between two text files."_ Works with images/PDF too and even through the terminal with Node.js.
 
-## Disposable/temporary emails
+### Disposable/temporary emails
 
 _"Disposable email addressing, also known as DEA or dark mail, refers to an approach where a unique email address is used for every contact or entity. The benefit is that if anyone compromises the address or utilises it in connection with email abuse, the address owner can easily cancel (or "dispose" of) it without affecting any of their other contacts."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Disposable_email_address))
 
@@ -351,7 +352,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Temp Mail](https://temp-mail.org) - Automatically get assigned a temporary account where you can see in real time your emails coming in.
 - [ThrowAwayMail](https://www.throwawaymail.com) - Obtain a temporary email that's valid for 48 hours.
 
-## File sharing & storage
+### File sharing & storage
 
 - [Box](https://www.box.com) - **10GB Free (250MB file size limit)**. _"Box, Inc., based in Redwood City, California, is a cloud content management and file sharing service for businesses. Official clients and apps are available for Windows, macOS, and several mobile platforms."_ ([from Wikipedia](<https://en.wikipedia.org/wiki/Box_(company)>))
 - [Dropbox](https://www.dropbox.com) - **2GB Free**. _"Dropbox is a file hosting service operated by the American company Dropbox, Inc., headquartered in San Francisco, California, that offers cloud storage, file synchronization, personal cloud, and client software."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Dropbox_%28service%29))
@@ -362,11 +363,11 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Sync](https://www.sync.com) - **5 GB of secure file storage with basic sharing features**. 2048-bit RSA, SSL/TLS encryption, end-to-end encryption, 30 days version history, restore & rewind, password protected sharing, remote device lockout.
 - [WeTransfer](https://wetransfer.com) - Free: Send up to **2GB** with **7 days** file expiration.
 
-## Gantt charts
+### Gantt charts
 
 - [Teamgantt](https://teamgantt.com) - _"TeamGantt is the refreshing solution that brings project scheduling software online. You can now plan and manage your projects with this super-easy-to-use gantt software. Inviting your co-workers, teammates, and friends to view and edit your gantt chart is simple and fun."_
 
-## Image hosting
+### Image hosting
 
 - [500px](https://web.500px.com) - Primarily used to showcase photography.
 - [Flickr](https://www.flickr.com) - _"Flickr is an image hosting service and video hosting service. It was created by Ludicorp in 2004."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Flickr))
@@ -377,35 +378,35 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Imgur](https://imgur.com) - _"Imgur is an online image sharing community and image host founded by Alan Schaaf in 2009."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Imgur))
 - [Postimage](https://postimages.org) - _"Provides free image upload and hosting integration for forums. Free picture hosting and photo sharing for websites and blogs."_
 
-## Manage your privacy
+### Manage your privacy
 
 - [Firefox Monitor](https://monitor.firefox.com) - _"See if you’ve been part of an online data breach. Find out what hackers already know about you. [...] If your information surfaces in a new data breach, we’ll send you an alert. [...] Get ongoing breach monitoring for multiple email addresses."_
 
-## Receive SMS
+### Receive SMS
 
 - [Receive SMS](https://receive-smss.com) - _"receive-smss.com is a free service for receiving SMS messages and voice mails online. There is no need to register. Just select your phone number from the list below. You can use it to receive messages from Facebook, Telegram, WeChat, VK, PayPal, AliPay and more."_
 
-# Open source
+## Open source
 
 - [Open Source Guides](https://opensource.guide) - _"Open source software is made by people just like you. Learn how to launch and grow your project."_
 
-# Programming
+## Programming
 
-## App monitoring
+### App monitoring
 
 - :heavy_dollar_sign: [Datadog](https://www.datadoghq.com) - _"Modern monitoring & analytics. See inside any stack, any app, at any scale, anywhere."_
 - :heavy_dollar_sign: [Dynatrace](https://www.dynatrace.com/solutions/application-monitoring) - _"Dynatrace application monitoring provides all performance metrics in real time and detects and diagnoses problems automatically."_
 - [Uptime Robot](https://uptimerobot.com) - _"Downtime Happens. Get Notified! 50 Monitors, Checked Every 5 Minutes, Totally Free!"_
 
-## Basics
+### Basics
 
 - [SoloLearn](https://www.sololearn.com) - _"Learn on the web and on the go. Available on all major devices and platforms. Always pick up where you left off. More simple and enjoyable than ever!"_
 
-## Books
+### Books
 
 [Programming Notes for Professionals books](https://books.goalkicker.com/) - Wide range of relevant topics (algorithms, C++, CSS, Git, HTML5, JavaScript, LaTeX, Linux, Python, SQL, etc.). _"Books are updated weekly."_
 
-## Coding challenges
+### Coding challenges
 
 - [Challenge Rocket](https://challengerocket.com) - _"Solve a challenge. Test your skills. Get hired."_
 - [Code Abbey](https://www.codeabbey.com) - Somewhat more beginner-oriented. _"We believe that three things lead to success: Practice, Practice and Practice!"_
@@ -421,30 +422,30 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Sphere Online Judge](https://www.spoj.com) - _"Become a true programming master. Learn how to code and build efficient algorithms."_
 - [Topcoder](https://www.topcoder.com) - _"Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Topcoder))
 
-## Documentation
+### Documentation
 
 - [GitBook](https://www.gitbook.com) - _"Document Everything! For you, your users and your team. [...] A place to think and track ideas for you & your team. [...] A home for your team, best-practices and thoughts. [...] Beautiful docs for your APIs, Products, FAQs, User Guides, ..."_
 - [Sphinx](http://www.sphinx-doc.org) - _"Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license. It was originally created for the Python documentation, and it has excellent facilities for the documentation of software projects in a range of languages."_
 
-## Interview preparation
+### Interview preparation
 
 - [Interview Cake](https://www.interviewcake.com) - Check out their paid course/coaching too! - _"Free practice programming interview questions. Interview Cake helps you prep for interviews to land offers at companies like Google and Facebook."_
 
-### Books
+#### Books
 
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com), by Gayle Laakmann McDowell.
 
-### Facebook
+#### Facebook
 
 - [Interviewing at Facebook — On-Site JavaScript Technical Interview Questions](https://medium.com/javascript-in-plain-english/facebook-on-site-technical-interview-1264cacad263) - Medium, Adi S.
 
-### Google
+#### Google
 
 - [Interviewing at Google — JavaScript Assessment Questions](https://medium.com/javascript-in-plain-english/interviewing-at-google-javascript-assessment-questions-f9bf0c0df157) - Medium, Adi S.
 
-## Games
+### Games
 
-### CSS
+#### CSS
 
 - [CSS Diner](https://flukeout.github.io) - _"It's a fun game to learn and practice CSS selectors."_
 - [Flexbox Froggy](http://flexboxfroggy.com) - _"A game for learning CSS flexbox."_
@@ -452,29 +453,29 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Grid Critters](https://gridcritters.com) - _"Completely learn CSS Grid once and for all."_
 - [Grid Garden](https://codepip.com/games/grid-garden) - _"How well can you tend to your carrot garden using CSS grid? In this game, you must water your carrot crops and poison the weeds by mastering CSS grid, a powerful new module that makes 2-dimensional grid layouts a piece of cake. With it you can define columns, rows, and grid template areas."_
 
-### JavaScript
+#### JavaScript
 
 - [CheckiO](https://checkio.org) - _"Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using JavaScript."_
 - [Screeps](https://screeps.com) - _"It’s an open-source sandbox MMO RTS game for programmers, wherein the core mechanic is programming your units’ AI. You control your colony by writing JavaScript which operate 24/7 in the single persistent real-time world filled by other players on par with you."_
 
-### Projects and ideas
+#### Projects and ideas
 
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x) - _"Build your own (insert technology here)"_
 
-### Python
+#### Python
 
 - [CheckiO](https://checkio.org) - _"Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python."_
 - [TwilioQuest](https://www.twilio.com/quest) - _"Learn to code and lead your intrepid crew on a mission to save The Cloud in TwilioQuest, a PC role-playing game inspired by classics of the 16-bit era. Free forever, and available now for Windows, Mac, and Linux."_
 
-### Security
+#### Security
 
 - [Wargames](https://overthewire.org/wargames) - _"The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games."_
 
-### Service workers
+#### Service workers
 
 - [Service Workies](https://serviceworkies.com) - _"Learn Service Workers inside and out with the new PWA Mastery Game."_
 
-## Git / GitHub
+### Git / GitHub
 
 - [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - _"Interactive Git Cheatsheet, categorizing commands based on what they affect."_
 - [Git Immersion](http://gitimmersion.com) - _"A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."_
@@ -484,86 +485,86 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/) - _"Have you thought about contributing to an open source project, but you're too confused (or intimidated) by the process to even try? I've been there too!"_
 - [Try GitHub](http://try.github.io) - _Resources to learn Git: Handbook, cheat sheets, git commands in the browser, etc._
 
-## iOS
+### iOS
 
-### Swift
+#### Swift
 
 - [Developing iOS 10 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120?ign-mpt=uo%3D8) - Stanford
 
-## Java
+### Java
 
 - [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building around 5 different projects. Eventually you’ll be able to create a project that will showcase your skills at the junior Java Developer level."_.
 
-## JavaScript
+### JavaScript
 
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - _"This is a series of books diving deep into the core mechanisms of the JavaScript language."_
 - [JavaScript Arrays](https://www.executeprogram.com) - _"Memorize the JavaScript array methods quickly, including weird corner cases; no more looking them up. Slice, filter, map, reduce, and the rest."_
 
-## Julia
+### Julia
 
 - [Quantitative Economics with Julia](https://lectures.quantecon.org/jl) - Learning Julia, dynamic programming, many mathematical concepts.
 
-## Kotlin
+### Kotlin
 
 - [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the syntax of Kotlin and the features that make it a laconic language."_.
 
-## Markdown
+### Markdown
 
 - [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax) - _"This document is itself written using Markdown; you can see the source for it by adding ‘.text’ to the URL"_.
 - [Mastering Markdown](https://masteringmarkdown.com/) - _"A Mini Series that will change how you write"_.
 
-## Python
+### Python
 
 - [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the basic syntax of Python, some standard libraries and the Django framework that is used to build web applications."_.
 - [Quantitative Economics with Python](https://lectures.quantecon.org/py) - Great reference for scientific libraries, working with data, advanced Python concepts, dynamic programming.
 
-### Hosting
+#### Hosting
 
 - [Python Anywhere](https://www.pythonanywhere.com/) - _"Host, run, and code Python in the cloud!"_
 
-## Questions and answers
+### Questions and answers
 
 - [Stack Overflow](https://stackoverflow.com) - _"Stack Overflow is a question and answer site for professional and enthusiast programmers."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Stack_Overflow)
 
-## Regular expressions (regex)
+### Regular expressions (regex)
 
 - [RegexOne](https://regexone.com) - _"Learn Regular Expressions with simple, interactive exercises."_
 - [regex101](https://regex101.com) - _"Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript."_
 - [Regexes - Execute Program](https://www.executeprogram.com) - _"Learn the common regex features. Boundaries, repetition, wildcards, character sets, character classes, and others."_
 
-## SQL
+### SQL
 
 - [SQL Zoo](https://sqlzoo.net) - _"Learn SQL using: SQL Server, Oracle, MySQL, DB2, and PostgreSQL."_
 
-## TypeScript
+### TypeScript
 
 - [TypeScript - Execute Program](https://www.executeprogram.com) - _"Static types and the TypeScript language from the ground up, whether you've used static types or not. Basic JavaScript knowledge required."_
 
-# Startups
+## Startups
 
 - [Notes Essays-Peter Thiel's CS183: Startup-Stanford, Spring 2012](http://blakemasters.com/peter-thiels-cs183-startup) - There is a book available from those notes: [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/2I6AlDJ).
 
-# Technology
+## Technology
 
 - [Version Museum](https://www.versionmuseum.com) - _"Version Museum showcases the visual history of popular websites, operating systems, applications, and games that have shaped our lives. Much like walking through a real-life museum, this site focuses on the design changes of historic versions of technology, rather than just the written history behind it."_
 
-# Terminal / Command-line interface
+## Terminal / Command-line interface
 
 - [Asciinema](https://asciinema.org) - _"Record and share your terminal sessions, the right way."_
 
-# Typing faster
+## Typing faster
 
 - [10FastFingers](https://10fastfingers.com) - _"Test & Improve your Typing Speed with our free Typing Games."_
 - [Keybr](https://keybr.com) - _"Typing Lessons. Take typing speed test, practice your touch typing skills, learn to type faster and with fewer errors with this free online typing tutor."_
 - [Typing.io](https://typing.io) - _"Typing.io is a typing tutor/trainer for programmers. Typing.io's lessons are based on open source code, allow you to practice typing the key sequences that appear in real code."_
 
-# Variety
+## Variety
 
 - [Free for developers](https://free-for.dev) - _"This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers."_
 
-# Web
+## Web
 
-## Buying a domain name
+### Buying a domain name
 
 - [BlueHost](https://www.bluehost.com/)
 - [BuyDomains.com](https://www.buydomains.com/)
@@ -574,7 +575,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Name.com](https://www.name.com/)
 - [NameCheap](https://www.namecheap.com/)
 
-## Cloud Computing
+### Cloud Computing
 
 - [AWS](https://aws.amazon.com) - _"Amazon Web Services is a subsidiary of Amazon that provides on-demand cloud computing platforms to individuals, companies and governments, on a metered pay-as-you-go basis."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Amazon_Web_Services))
 - [Digital Ocean](https://www.digitalocean.com) - _"DigitalOcean provides developers cloud services that help to deploy and scale applications that run simultaneously on multiple computers."_ ([from Wikipedia](https://en.wikipedia.org/wiki/DigitalOcean))
@@ -582,29 +583,29 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Linode](https://www.linode.com) - _"Instantly deploy an SSD cloud server running with your choice of Linux distro, resources, and node location."_
 - [Rackspace Cloud](https://www.rackspace.com/cloud) - _"The Rackspace Cloud is a set of cloud computing products and services billed on a utility computing basis from the US-based company Rackspace. Offerings include web application hosting or platform as a service ("Cloud Sites"), Cloud Storage ("Cloud Files"), virtual private server ("Cloud Servers"), load balancers, databases, backup, and monitoring."_ ([from Wikipedia](https://en.wikipedia.org/wiki/Rackspace_Cloud))
 
-## Information on websites
+### Information on websites
 
 - [SecurityTrails - DNS Trail](https://securitytrails.com/dns-trails) - Review the history of a domain name.
 
-## Website annotation
+### Website annotation
 
 - [Bounce](https://www.bounceapp.com) - _"A little app from ZURB that lets people add feedback to any interface and toss that back and forth with other people."_
 
-## Website testing
+### Website testing
 
 - [CodePen](https://codepen.io) - _"CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, creatively named "pens", and test them._" ([from Wikipedia](https://en.wikipedia.org/wiki/CodePen))
 - [JSFiddle](https://jsfiddle.net) - _"JSFiddle is an online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets, known as 'fiddles'. It allows for simulated AJAX calls."_ ([from Wikipedia](https://en.wikipedia.org/wiki/JSFiddle))
 
-# Web development
+## Web development
 
-## Learning
+### Learning
 
 - [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - GitHub awesome list. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 - [Frontend Masters](https://frontendmasters.com/)
 - [Intro to Web Dev v2](https://btholt.github.io/intro-to-web-dev-v2/).
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
-## Tools
+### Tools
 
 - [Closing Tag Checker for HTML5](https://www.aliciaramirez.com/closing-tags-checker/) - _"This script doesn't check for self closing tags."_ Works great for validating Markdown mixed with HTML too.
 - [Color Hunt](https://colorhunt.co) - _"Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes."_
