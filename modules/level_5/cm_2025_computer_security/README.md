@@ -1,19 +1,18 @@
 [Go back to the main page](../../../README.md)
 
-# Table of contents
+### Table of contents
 
-* [Table of contents](#table-of-contents)
-* [Computer Security](#computer-security)
-* [Topics covered](#topics-covered)
-* [Assessment](#assessment)
-* [Module specification](#module-specification)
-* [Syllabus](#syllabus)
-* [Resources](#resources)
-  * [:heart: Notes](#heart-notes)
+- [Computer Security](#computer-security)
+- [Assessment](#assessment)
+- [Mock exam](#mock-exam)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [:heart: Notes](#heart-notes)
 
 ---
 
-# Computer Security
+## Computer Security
 
 This module aims to provide you with an understanding of the need for
 computer security and the technologies that support it. It has both a
@@ -35,24 +34,24 @@ mathematics underlying the protocols by programming small examples.
 - Public Key Cryptography
 - Blockchain protocols
 
-# Assessment
+## Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-# Mock exam
+## Mock exam
 
 [March 2021 mock exam](https://github.com/world-class/binary-assets/blob/master/modules/cm2025_cs/cm2025_CS_mock_exam.pdf).
 
-# Module specification
+## Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2025_CS-Module-Spec.pdf)
 
-# Syllabus
+## Syllabus
 
 - [Syllabus PDF (October 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2025_CS.pdf)
 
-# Resources
+## Resources
 
-## :heart: Notes
+### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/computer-security).
