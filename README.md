@@ -139,7 +139,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 <td><code>#cm1015-computational-math</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/cm_1020_discrete_mathematics">Discrete Mathematics</a></td>
+<td><a href="modules/level_4/cm_1020_discrete_mathematics">Discrete Mathematics</a> *</td>
 <td><strong>DM</strong></td>
 <td><strong>CM1020</strong></td>
 <td><strong>Yes</strong></td>
@@ -182,7 +182,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 </tr>
 </tbody>
 </table>
-<p>* <strong>Not available for October 2019-March 2020</strong></p>
+<p>* <strong>CM is only available in the April session, whereas DM is only available in the October session.</strong></p>
 
 </details>
 
