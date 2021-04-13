@@ -69,6 +69,14 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 <p>To get started on that learning path, please refer to the following web pages:</p>
 
 <ul>
+<li>From University of London<ul>
+<li><a href="https://onlinelibrary.london.ac.uk/support/information-skills/effective-searching-databases">Effective Searching of Databases</a></li>
+<li><a href="https://onlinelibrary.london.ac.uk/support/information-skills">Information Skills</a></li>
+</ul>
+</li>
+</ul>
+
+<ul>
 <li>Getting help<ul>
 <li><a href="https://stackoverflow.com/help/how-to-ask">How to ask questions</a> - Stack Overflow</li>
 <li><a href="https://stackoverflow.com/help/minimal-reproducible-example">How to create a minimal, reproducible example</a> - Stack Overflow</li>
