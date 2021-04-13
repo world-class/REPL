@@ -1,13 +1,13 @@
 [Go back to the main page](../../../README.md)
 
-# Table of contents
+### Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Databases, Networks and the Web](#databases-networks-and-the-web)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Mock exam](#mock-exam)
 - [Module specification](#module-specification)
+- [Reading list for this course](#reading-list-for-this-course)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
   - [:heart: Notes](#heart-notes)
@@ -15,7 +15,7 @@
 
 ---
 
-# Databases, Networks and the Web
+## Databases, Networks and the Web
 
 In this module, you will learn theory and practical skills focused
 on the modern web, internet and client-server applications. You will
@@ -27,7 +27,7 @@ through dynamic websites. In particular, you will learn about the
 Relational Model, Query processing, and socket architectures to enable
 communication.
 
-# Topics covered
+## Topics covered
 
 - Networking concepts
 - Building Simple socket clients and servers
@@ -40,28 +40,32 @@ communication.
 - Revision of HTML and CSS
 - Building a dynamic website
 
-# Assessment
+## Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-# Mock exam
+## Mock exam
 
 [See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2040_dnw).
 
-# Module specification
+## Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2040_DNW-Module-Spec.pdf)
 
-# Syllabus
+## Reading list for this course
+
+- [Reading list for this course](https://github.com/world-class/binary-assets/blob/master/modules/cm2040_dnw/CM2040_DNW-reading-list.pdf)
+
+## Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2040_DNW.pdf)
 
-# Resources
+## Resources
 
-## :heart: Notes
+### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/databases-networks-and-the-web).
 
-## Websites
+### Websites
 
 - [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/)
