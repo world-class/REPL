@@ -61,4 +61,5 @@ One two hour unseen written examination and coursework (Type I)
 
 - :heart: Notes - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/software-design-and-development).
 
+- [Design Patterns in Plain English](https://www.youtube.com/watch?v=NU_1StN5Tkk) - YouTube
 - [Reading list](./reading_list.md)
