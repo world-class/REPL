@@ -3,15 +3,15 @@ import fileinput
 
 # This could either be the start date of the current semester or the next one
 # if we're already past week 22 in the ongoing semester.
-date_start = datetime(2021, 4, 12)
+date_start = datetime(2021, 4, 11)  # Sunday
 we_are_sure = True
 
 today = datetime.today()
 
-monday_start = date_start - timedelta(days=date_start.weekday())
-monday_now = today - timedelta(days=today.weekday())
+sunday_start = date_start - timedelta(days=date_start.weekday())
+sunday_now = today - timedelta(days=today.weekday())
 
-result = int((monday_now - monday_start).days / 7 + 1)
+result = int((sunday_now - sunday_start).days / 7 + 1)
 if result < 1:
     formatted_date = date_start.strftime("%A %-d %B %Y")
     start_date_text = "Start date" if we_are_sure else "Tentative start date"
