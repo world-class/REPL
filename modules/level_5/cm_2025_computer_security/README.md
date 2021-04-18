@@ -9,6 +9,7 @@
 - [Syllabus](#syllabus)
 - [Resources](#resources)
   - [:heart: Notes](#heart-notes)
+  - [Reading list](#reading-list)
 
 ---
 
@@ -55,3 +56,7 @@ One two hour unseen written examination and coursework (Type I)
 ### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/computer-security).
+
+### Reading list
+
+- [Reading list](./reading_list.md)
