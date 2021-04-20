@@ -1,6 +1,13 @@
 [Go back to the main page](../../../README.md)
 
-## Games Development (CM3030)
+### Table of contents
+
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
+
+# Games Development (CM3030)
 
 This module will introduce you to i) industry standard tools for
 game development, such as game engines, and ii) the process of game
@@ -21,7 +28,7 @@ player with limited computational resources. This module gives students
 practical experience of programming game AI systems and an understanding
 of the relevant theory.
 
-### Topics covered
+## Topics covered
 
 - Introduction to game development, the games industry and game engines
 - Creating sprite based 2D
@@ -34,6 +41,14 @@ of the relevant theory.
 - Behaviour Trees
 - Recap and review
 
-### Assessment
+## Assessment
 
-**TBC:** One two-hour unseen written examination and coursework (Type I)
+Two unseen written examination and coursework (Type I) [midterm and final coursework]
+
+## Module specification
+
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3030_GD-Module-Spec.pdf)
+
+## Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3030_GD.pdf)
