@@ -1,6 +1,15 @@
 [Go back to the main page](../../../README.md)
 
-## Advanced Web Development (CM3035)
+### Table of contents
+
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
+
+---
+
+# Advanced Web Development (CM3035)
 
 Through this module, you will learn how to build dynamic, data-driven
 websites using databases, front-end frameworks and server-side
@@ -14,7 +23,7 @@ server-side web applications, by building web-accessible wrappers around
 databases. You will consider issues of scalability, and learn about web
 application configuration and deployment.
 
-### Topics covered
+## Topics covered
 
 - The web stack: clients, web servers and databases
 - Advanced features of HTML, CSS and Templates
@@ -27,6 +36,14 @@ application configuration and deployment.
 - Working with external APIs
 - Scalability
 
-### Assessment
+## Assessment
 
 Coursework only (Type II)
+
+## Module specification
+
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3035_AWD-Module-Spec.pdf)
+
+## Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3035_AWD.pdf)
