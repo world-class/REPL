@@ -1,6 +1,15 @@
 [Go back to the main page](../../../README.md)
 
-## Databases and Advanced Data Techniques (CM3010)
+# Databases and Advanced Data Techniques (CM3010)
+
+### Table of contents
+
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
+
+---
 
 This module aims to show you how to work with data in your computer
 programs. You will learn how to use SQL and NoSQL databases to store
@@ -10,7 +19,7 @@ data security. You will learn about open data resources, and how you can
 access them from your computer programs. You will learn about audio and
 video data, and the challenges of working with this kind of data.
 
-### Topics covered
+## Topics covered
 
 - Open data sources: different data formats
 - Gathering and cleaning data
@@ -23,6 +32,14 @@ video data, and the challenges of working with this kind of data.
 - Audio and video data
 - Data security
 
-### Assessment
+## Assessment
 
 One two-hour unseen written examination and coursework (Type I)
+
+## Module specification
+
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3010_DADT-Module-Spec.pdf)
+
+## Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3010_DADT.pdf)
