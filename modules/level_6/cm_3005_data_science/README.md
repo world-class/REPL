@@ -1,6 +1,17 @@
 [Go back to the main page](../../../README.md)
 
-## Data Science (CM3005)
+### Table of contents
+
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [Reading list](#reading-list)
+
+---
+
+# Data Science (CM3005)
 
 By taking this module, you will gain a data science skillset. With
 these skills, you will be able to write computer programs that can
@@ -11,7 +22,7 @@ results. You will be able to use data analysis in the decision-making
 process. You will also learn about a range of application domains for
 data science.
 
-### Topics covered
+## Topics covered
 
 - Introduction and development environment
 - Working with different types of data
@@ -24,6 +35,20 @@ data science.
 - Scientific data visualisation
 - Case studies: different contexts for data analysis
 
-### Assessment
+## Assessment
 
 One two-hour unseen written examination and coursework (Type I)
+
+## Module specification
+
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3005_DS-Module-Spec.pdf)
+
+## Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3005_DS.pdf)
+
+## Resources
+
+### Reading list
+
+- [Reading list](https://github.com/world-class/binary-assets/blob/master/modules/cm3005_ds/CM3005_reading_list.pdf)
