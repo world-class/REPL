@@ -1,6 +1,15 @@
 [Go back to the main page](../../../README.md)
 
-## Intelligent Signal Processing (CM3065)
+### Table of contents
+
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
+
+---
+
+# Intelligent Signal Processing (CM3065)
 
 This module aims to provide you with a broad experience of digital
 signal processing techniques and applications. You will study how audio
@@ -10,7 +19,7 @@ and processing. You will learn how you can extract information from
 audio signals. You will implement movement and face detection systems
 that work with live camera input.
 
-### Topics covered
+## Topics covered
 
 - Capturing representing and processing audio signals
 - LTI systems and impulse responses
@@ -22,6 +31,14 @@ that work with live camera input.
 - Computer vision: face detection
 - Compressing signals
 
-### Assessment
+## Assessment
 
 Coursework only (Type II)
+
+## Module specification
+
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3065_ISP-Module-Spec.pdf)
+
+## Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3065_ISP.pdf)
