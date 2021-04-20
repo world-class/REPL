@@ -273,6 +273,7 @@ following modules.</p>
 <thead>
 <tr>
 <th>Module name</th>
+<th>Abbreviation</th>
 <th>Module code</th>
 <th>Written exam?</th>
 <th>Slack channel</th>
@@ -281,78 +282,91 @@ following modules.</p>
 <tbody>
 <tr>
 <td><a href="modules/level_6/cm_3045_3d_graphics_animation">3D Graphics and Animation</a></td>
+<td><strong>3DGA</strong></td>
 <td><strong>CM3045</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3045-3d-graphics-animation</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3035_advanced_web_development">Advanced Web Development</a></td>
+<td><strong>AWD</strong></td>
 <td><strong>CM3035</strong></td>
 <td>No</td>
 <td><code>#cm3035-adv-web-dev</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3020_artificial_intelligence">Artificial Intelligence</a></td>
+<td><strong>AI</strong></td>
 <td><strong>CM3020</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3020-artificial-intelligence</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3005_data_science">Data Science</a></td>
+<td><strong>DS</strong></td>
 <td><strong>CM3005</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3005-data-science</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3010_databases_advanced_data_techniques">Databases and Advanced Data Techniques</a></td>
+<td><strong>DADT</strong></td>
 <td><strong>CM3010</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3010-databases-advanced-data-techniques</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3030_games_development">Games Development</a></td>
+<td><strong>GD</strong></td>
 <td><strong>CM3030</strong></td>
 <td><strong>No</strong></td>
 <td><code>#cm3030-games-development</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3065_intelligent_signal_processing">Intelligent Signal Processing</a></td>
+<td><strong>ISP</strong></td>
 <td><strong>CM3065</strong></td>
 <td>No</td>
 <td><code>#cm3065-intelligent-signal-processing</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3055_interaction_design">Interaction Design</a></td>
+<td><strong>ID</strong></td>
 <td><strong>CM3055</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3055-interaction-design</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3015_machine_learning_neural_networks">Machine Learning and Neural Networks</a></td>
+<td><strong>MLNN</strong></td>
 <td><strong>CM3015</strong></td>
 <td>No</td>
 <td><code>#cm3015-machine-learning-and-neural-networks</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3050_mobile_development">Mobile Development</a></td>
+<td><strong>MD</strong></td>
 <td><strong>CM3050</strong></td>
 <td>No</td>
 <td><code>#cm3050-mobile-development</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3060_natural_language_processing">Natural Language Processing</a></td>
+<td><strong>NLP</strong></td>
 <td><strong>CM3060</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3060-natural-language-processing</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3040_physical_computing_iot">Physical Computing and Internet of Things</a></td>
+<td><strong>IOT</strong></td>
 <td><strong>CM3040</strong></td>
 <td>No</td>
 <td><code>#cm3040-physical-computing-internet-of-things</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_6/cm_3025_virtual_reality">Virtual Reality</a></td>
+<td><strong>VR</strong></td>
 <td><strong>CM3025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm3025-virtual-reality</code></td>
