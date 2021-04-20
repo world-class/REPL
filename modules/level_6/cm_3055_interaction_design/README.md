@@ -1,6 +1,15 @@
 [Go back to the main page](../../../README.md)
 
-## Interaction Design [CM3055]
+### Table of contents
+
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
+
+---
+
+# Interaction Design [CM3055]
 
 When taking this module, you will examine the notion of 'interaction
 with technology'. You will focus on the concepts behind modern user
@@ -13,7 +22,7 @@ will learn how to evaluate interactive systems against criteria such as
 efficiency and usability. You will examine issues of accessibility from
 the perspective of different populations.
 
-### Topics covered
+## Topics covered
 
 - History of HCI.
 - Usability and Principles of design.
@@ -26,6 +35,14 @@ the perspective of different populations.
 - Tools and techniques that support interaction development.
 - Current trends in interaction design and HCI.
 
-### Assessment
+## Assessment
 
 One two-hour unseen written examination and coursework (Type I)
+
+## Module specification
+
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3055_ID-Module-Spec.pdf)
+
+## Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3055_ID.pdf)
