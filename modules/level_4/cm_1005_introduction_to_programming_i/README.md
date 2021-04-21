@@ -94,7 +94,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 #### Tips & Tricks
 
 - Each case in Sleuth has four stages. You have a maximum of **FIVE** attempts for each 'stage'. Attempt a 'stage' when you are confident. If you make a mistake, you will get a pop-up explaining what requirement you hadn't met. But if you exhaust your five attempts, fret not because, after some downtime (about 24 hours), you will be able to solve a variation of the same stage again. This will not affect your grade, and only the highest grade is counted.
-- Get familiar with finding precise coordinates in an image inside Brackets (text editor) [**note**: support for Brackets is ending on September 1, 2021. [VS Code](https://code.visualstudio.com/) is a good alternative]. If you are using VS Code, there is no easy method to view image coordinates, but a lot of students have used MS Paint for this specific task. 
+- Get familiar with finding precise coordinates in an image inside Brackets (text editor) [**note**: support for Brackets is ending on September 1, 2021. [VS Code](https://code.visualstudio.com/) is a good alternative]. If you are using VS Code, you can use the [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) extension to view image coordinates.
 - Practice all basic drawing functions with `p5.js` in the [online editor](https://editor.p5js.org/) before attempting to solve crimes.
 
 #### Utils and aids (student created)
