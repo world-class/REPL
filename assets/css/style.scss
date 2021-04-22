@@ -167,3 +167,9 @@ pre code {
   display: inline-block;
   box-shadow: none;
 }
+.table-container {
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: auto;
+  margin: 0 0 1em;
+}
