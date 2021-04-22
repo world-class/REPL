@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/world-class/binary-assets/master/images/repl/repl.png" alt="REPL_logo" style="display: block; margin-left: auto; margin-right: auto; max-width: 600px; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/world-class/binary-assets/master/images/repl/repl.png" alt="REPL_logo" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 0.5em;"/>
 
 <div style="text-align:center; margin-bottom: 0.5em;">
 <a href="https://www.firsttimersonly.com/"><img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square" /></a>
