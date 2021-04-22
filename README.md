@@ -405,6 +405,7 @@ specialism. The specialisms are:</p>
 <p>A final project must also be completed to graduate. If a student is
 opting for a specialism, they are strongly encouraged to select a
 relevant topic for the final project.</p>
+<div class = "table-container">
 <table>
 <thead>
 <tr>
@@ -423,6 +424,7 @@ relevant topic for the final project.</p>
 </tr>
 </tbody>
 </table>
+</div>
 
 
 </details>
