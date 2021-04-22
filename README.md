@@ -112,7 +112,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 
 <details>
 <summary><strong>Level 4 (year 1+)</strong></summary>
-
+<div class = "table-container">
 <table>
 <thead>
 <tr>
@@ -182,6 +182,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 </tr>
 </tbody>
 </table>
+</div>
 <p>* <strong>CM is only available in the April session, whereas DM is only available in the October session.</strong></p>
 
 </details>
