@@ -542,7 +542,7 @@ Want to join this illustrious group? Have a look at the **[contributing guidelin
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<div class = "table-container">
+<div id="contributors" class = "table-container">
 <table>
   <tr>
     <td align="center"><a href="https://github.com/aimschroeds"><img src="https://avatars2.githubusercontent.com/u/25737865?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aimee</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=aimschroeds" title="Documentation">📖</a></td>
