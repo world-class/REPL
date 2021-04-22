@@ -189,7 +189,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 
 <details>
 <summary><strong>Level 5 (year 2+)</strong></summary>
-
+<div class = "table-container">
 <table>
 <thead>
 <tr>
@@ -259,6 +259,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 </tr>
 </tbody>
 </table>
+</div>
 
 </details>
 
@@ -270,6 +271,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 graduate. A student may either choose a specialism (see below) but may
 also opt against a specialism to be able to study any <strong>6</strong> of the
 following modules.</p>
+<div class = "table-container">
 <table>
 <thead>
 <tr>
@@ -374,6 +376,7 @@ following modules.</p>
 </tr>
 </tbody>
 </table>
+</div>
 
 
 </details>
