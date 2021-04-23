@@ -274,7 +274,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 graduate. A student may either choose a specialism (see below) but may
 also opt against a specialism to be able to study any <strong>6</strong> of the
 following modules.</p>
-<div class = "table-container">
+<div class="table-container">
 <table>
 <thead>
 <tr>
