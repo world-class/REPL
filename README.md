@@ -541,7 +541,7 @@ report it.</p>
 Want to join this illustrious group? Have a look at the **[contributing guidelines](https://github.com/world-class/REPL/blob/master/.github/CONTRIBUTING.md)**. :sunglasses:
 
 :heart: Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-<div class= "table-container">
+<div class="table-container">
 <div id="contributors">
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
