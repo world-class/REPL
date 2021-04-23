@@ -394,7 +394,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/78048337?v=4",
       "profile": "https://github.com/kaushikpadmanaban",
       "contributions": [
-        "content"
+        "content",
+        "a11y",
+        "bug",
+        "code",
+        "design"
       ]
     }
   ],
