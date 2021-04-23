@@ -113,7 +113,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 <details>
 <summary><strong>Level 4 (year 1+)</strong></summary>
   
-<div class = "table-container">
+<div class="table-container">
 <table>
 <thead>
 <tr>
