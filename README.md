@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/world-class/binary-assets/master/images/repl/repl.png" alt="REPL_logo" style="display: block; margin-left: auto; margin-right: auto; max-width: 600px; margin-bottom: 0.5em;"/>
+<img src="https://raw.githubusercontent.com/world-class/binary-assets/master/images/repl/repl.png" alt="REPL_logo" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 0.5em;"/>
 
 <div style="text-align:center; margin-bottom: 0.5em;">
 <a href="https://www.firsttimersonly.com/"><img src="https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square" /></a>
@@ -112,7 +112,8 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 
 <details>
 <summary><strong>Level 4 (year 1+)</strong></summary>
-
+  
+<div class = "table-container">
 <table>
 <thead>
 <tr>
@@ -182,13 +183,16 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 </tr>
 </tbody>
 </table>
+</div>
+  
 <p>* <strong>CM is only available in the April session, whereas DM is only available in the October session.</strong></p>
 
 </details>
 
 <details>
 <summary><strong>Level 5 (year 2+)</strong></summary>
-
+  
+<div class = "table-container">
 <table>
 <thead>
 <tr>
@@ -258,6 +262,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 </tr>
 </tbody>
 </table>
+</div>
 
 </details>
 
@@ -269,6 +274,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 graduate. A student may either choose a specialism (see below) but may
 also opt against a specialism to be able to study any <strong>6</strong> of the
 following modules.</p>
+<div class = "table-container">
 <table>
 <thead>
 <tr>
@@ -373,6 +379,7 @@ following modules.</p>
 </tr>
 </tbody>
 </table>
+</div>
 
 
 </details>
@@ -401,6 +408,7 @@ specialism. The specialisms are:</p>
 <p>A final project must also be completed to graduate. If a student is
 opting for a specialism, they are strongly encouraged to select a
 relevant topic for the final project.</p>
+<div class = "table-container">
 <table>
 <thead>
 <tr>
@@ -419,6 +427,7 @@ relevant topic for the final project.</p>
 </tr>
 </tbody>
 </table>
+</div>
 
 
 </details>
@@ -532,6 +541,8 @@ report it.</p>
 Want to join this illustrious group? Have a look at the **[contributing guidelines](https://github.com/world-class/REPL/blob/master/.github/CONTRIBUTING.md)**. :sunglasses:
 
 :heart: Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<div class= "table-container">
+<div id="contributors">
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -606,6 +617,9 @@ Want to join this illustrious group? Have a look at the **[contributing guidelin
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+</div>
+</div>
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of (almost) any kind welcome!
 
