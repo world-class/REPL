@@ -61,7 +61,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1035_ADS1-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1035_ADS1-Module-Spec.pdf)
 
 # Syllabus
 
@@ -120,10 +120,10 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## Examples of past and current written exams
 
-- 2014, 2015, 2016, 2018, 2020: [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past_exams/cm1035_ads1).
+- 2014, 2015, 2016, 2018, 2020: [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm1035_ads1).
 - :lock: [2020 written exam] **enrolled students**: more answers were compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2SR0U/p1582561904016800).
-- [ADS1 September 2020 online exam](https://github.com/world-class/binary-assets/blob/master/modules/past_exams/cm1035_ads1/ADS2020-09-21.pdf)
-  - [Solutions](https://github.com/world-class/binary-assets/blob/master/modules/past_exams/cm1035_ads1/ADS2020-09-21_answers.pdf)
+- [ADS1 September 2020 online exam](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1035-ads1/ADS2020-09-21.pdf)
+  - [Solutions](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1035-ads1/ADS2020-09-21_answers.pdf)
 
 ## Kinks to be aware of
 

@@ -46,15 +46,15 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Mock exam
 
-[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2040_dnw).
+[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2040-dnw).
 
 ## Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2040_DNW-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2040_DNW-Module-Spec.pdf)
 
 ## Reading list for this course
 
-- [Reading list for this course](https://github.com/world-class/binary-assets/blob/master/modules/cm2040_dnw/CM2040_DNW-reading-list.pdf)
+- [Reading list for this course](https://github.com/world-class/binary-assets/blob/master/modules/cm2040-dnw/CM2040_DNW-reading-list.pdf)
 
 ## Syllabus
 

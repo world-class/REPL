@@ -47,7 +47,7 @@ Two unseen written examination and coursework (Type I) [midterm and final course
 
 ## Module specification
 
-- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3030_GD-Module-Spec.pdf)
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3030_GD-Module-Spec.pdf)
 
 ## Syllabus
 

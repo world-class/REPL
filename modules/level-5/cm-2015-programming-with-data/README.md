@@ -50,15 +50,15 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Mock exam
 
-[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2015_pwd).
+[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2015-pwd).
 
 ## Module overview
 
-[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2015_pwd).
+[See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2015-pwd).
 
 ## Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2015_PWD-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2015_PWD-Module-Spec.pdf)
 
 ## Syllabus
 

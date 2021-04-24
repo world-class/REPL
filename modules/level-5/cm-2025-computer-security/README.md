@@ -41,11 +41,11 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Mock exam
 
-[March 2021 mock exam](https://github.com/world-class/binary-assets/blob/master/modules/cm2025_cs/cm2025_CS_mock_exam.pdf).
+[March 2021 mock exam](https://github.com/world-class/binary-assets/blob/master/modules/cm2025-cs/cm2025_CS_mock_exam.pdf).
 
 ## Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2025_CS-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2025_CS-Module-Spec.pdf)
 
 ## Syllabus
 

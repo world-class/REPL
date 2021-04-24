@@ -7,6 +7,8 @@
 - [Module specification](#module-specification)
 - [Past exams](#past-exams)
 - [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [:heart: Notes](#heart-notes)
 
 ---
 
@@ -40,11 +42,11 @@ One two-hour unseen written examination and coursework (Type I)
 
 ## Module specification
 
-- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3015_MLNN-Module-Spec.pdf)
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3015_MLNN-Module-Spec.pdf)
 
 ## Past exams
 
-- [See past_exams/cm3015_mlnn at binary-assets](https://github.com/world-class/binary-assets/tree/master/modules/past_exams/cm3015_mlnn).
+- [See past-exams/cm3015-mlnn at binary-assets](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm3015-mlnn).
 
 ## Syllabus
 

@@ -53,11 +53,11 @@ Coursework only (Type III)
 
 # Final deliverables instructions (coursework 2)
 
-- [Final deliverables instructions (February 2021)](https://github.com/world-class/binary-assets/blob/master/modules/cm2020_asp/cm2020_asp_final_deliverables_instructions.pdf)
+- [Final deliverables instructions (February 2021)](https://github.com/world-class/binary-assets/blob/master/modules/cm2020-asp/cm2020_asp_final_deliverables_instructions.pdf)
 
 # Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2020_ASP-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2020_ASP-Module-Spec.pdf)
 
 # Syllabus
 

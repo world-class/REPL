@@ -44,7 +44,7 @@ Coursework only (Type III)
 
 # Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1010_ITP2-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1010_ITP2-Module-Spec.pdf)
 
 # Syllabus
 

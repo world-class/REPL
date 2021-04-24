@@ -16,18 +16,18 @@
 ## Documents
 
 - [Code of conduct](https://london.ac.uk/about-us/how-university-run/policies/vle-code-conduct)
-- [Data protection policy](https://github.com/world-class/binary-assets/blob/master/uol_documents/data_protection_policy.pdf)
-- [Events Due Diligence Privacy Notice](https://github.com/world-class/binary-assets/blob/master/uol_documents/events_due_diligence_privacy_notice.pdf)
-- [GDPR Rights guide - students](https://github.com/world-class/binary-assets/blob/master/uol_documents/gdpr_rights_guide_students.pdf)
-- [General Regulations 2019-2020](https://github.com/world-class/binary-assets/blob/master/uol_documents/progregs-general-2019-2020.pdf)
-- [Guidelines for Examinations 2019–2020](https://github.com/world-class/binary-assets/blob/master/uol_documents/guidelines-for-examinations-2019-2020.pdf)
-- [Online Library - Quick Start Guide](https://github.com/world-class/binary-assets/blob/master/uol_documents/online_library_academic_search_quick_start.pdf)
-- [Programme Regulations 2020–2021](https://github.com/world-class/binary-assets/blob/master/uol_documents/progregs-computer-science-2020-2021.pdf)
-- [Programme specification, Computer Science 2020-2021](https://github.com/world-class/binary-assets/blob/master/uol_documents/progspec-computer-science-2020-2021.pdf)
-- [Prospectus, Computer Science 2020](https://github.com/world-class/binary-assets/blob/master/uol_documents/computer-science-prospectus-2020.pdf)
-- [Student privacy notice](https://github.com/world-class/binary-assets/blob/master/uol_documents/student_privacy_notice_uol_april_2018_final.pdf)
-- [Student Terms and Conditions 2019-2020](https://github.com/world-class/binary-assets/blob/master/uol_documents/student_terms_and_conditions.pdf)
-- [Welcome webinar Q&amp;A, September 24, 2019](https://github.com/world-class/binary-assets/blob/master/uol_documents/welcome_webinar_questions_and_answers_september_24_2019.pdf)
+- [Data protection policy](https://github.com/world-class/binary-assets/blob/master/uol-documents/data_protection_policy.pdf)
+- [Events Due Diligence Privacy Notice](https://github.com/world-class/binary-assets/blob/master/uol-documents/events_due_diligence_privacy_notice.pdf)
+- [GDPR Rights guide - students](https://github.com/world-class/binary-assets/blob/master/uol-documents/gdpr_rights_guide_students.pdf)
+- [General Regulations 2019-2020](https://github.com/world-class/binary-assets/blob/master/uol-documents/progregs-general-2019-2020.pdf)
+- [Guidelines for Examinations 2019–2020](https://github.com/world-class/binary-assets/blob/master/uol-documents/guidelines-for-examinations-2019-2020.pdf)
+- [Online Library - Quick Start Guide](https://github.com/world-class/binary-assets/blob/master/uol-documents/online_library_academic_search_quick_start.pdf)
+- [Programme Regulations 2020–2021](https://github.com/world-class/binary-assets/blob/master/uol-documents/progregs-computer-science-2020-2021.pdf)
+- [Programme specification, Computer Science 2020-2021](https://github.com/world-class/binary-assets/blob/master/uol-documents/progspec-computer-science-2020-2021.pdf)
+- [Prospectus, Computer Science 2020](https://github.com/world-class/binary-assets/blob/master/uol-documents/computer-science-prospectus-2020.pdf)
+- [Student privacy notice](https://github.com/world-class/binary-assets/blob/master/uol-documents/student_privacy_notice_uol_april_2018_final.pdf)
+- [Student Terms and Conditions 2019-2020](https://github.com/world-class/binary-assets/blob/master/uol-documents/student_terms_and_conditions.pdf)
+- [Welcome webinar Q&amp;A, September 24, 2019](https://github.com/world-class/binary-assets/blob/master/uol-documents/welcome_webinar_questions_and_answers_september_24_2019.pdf)
 
 ## Webpages of interest
 

@@ -49,7 +49,7 @@ Coursework only (Type II)
 
 # Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2005_OOP-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2005_OOP-Module-Spec.pdf)
 
 # Syllabus
 
@@ -61,11 +61,11 @@ Coursework only (Type II)
 
 ## Linux setup guide for OOP projects
 
-Refer [Linux setup guide](https://github.com/world-class/binary-assets/blob/master/modules/cm2005_oop/linux_guide.md)
+Refer [Linux setup guide](https://github.com/world-class/binary-assets/blob/master/modules/cm2005-oop/linux_guide.md)
 
 ## Class diagram of starter code
 
-![class diagram of starter code](https://github.com/world-class/binary-assets/blob/master/modules/cm2005_oop/class_diagram_starter_code.png?raw=true)
+![class diagram of starter code](https://github.com/world-class/binary-assets/blob/master/modules/cm2005-oop/class_diagram_starter_code.png?raw=true)
 
 ## Complementary learning
 

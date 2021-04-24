@@ -54,7 +54,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1025_FCS-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1025_FCS-Module-Spec.pdf)
 
 # Syllabus
 
@@ -103,11 +103,11 @@ _"Specific essential readings for each week from the following list are included
 
 ### March 2020
 
-- [FCS sample paper (mock)](https://github.com/world-class/binary-assets/blob/master/modules/cm1025_fcs/FCS_Mock_exam_Mar_2020.pdf)
+- [FCS sample paper (mock)](https://github.com/world-class/binary-assets/blob/master/modules/cm1025-fcs/FCS_Mock_exam_Mar_2020.pdf)
   - [Solutions (by students)](https://docs.google.com/document/d/1Pb86mf6FsSjkWS4qbh6B05EISP3KTbkQL46MZxvQ9qk/edit)
-- [FCS past exam March 2020](https://github.com/world-class/binary-assets/blob/master/modules/cm1025_fcs/CM1025_Exam_Questions_March_2020.pdf)
+- [FCS past exam March 2020](https://github.com/world-class/binary-assets/blob/master/modules/cm1025-fcs/CM1025_Exam_Questions_March_2020.pdf)
   - [Solutions (by students)](https://docs.google.com/spreadsheets/d/1YTfRO7cipoxUuxuYfWQrXslwBeJJ9Mlj3T9K3CNYl0w/edit#gid=0)
-- [FCS past exam September 2020 (Part B)](https://github.com/world-class/binary-assets/blob/master/modules/cm1025_fcs/CM1025_Exam_Questions_Sept_2020.pdf)
+- [FCS past exam September 2020 (Part B)](https://github.com/world-class/binary-assets/blob/master/modules/cm1025-fcs/CM1025_Exam_Questions_Sept_2020.pdf)
   - [Solutions (by students)](https://jamboard.google.com/d/1HfJiFXtCtdK02W62-imDlDqsH2oqv48C0LoO66HCdhE/edit)
 
 ## Study guide
@@ -116,7 +116,7 @@ _"Specific essential readings for each week from the following list are included
 
 ## Weekly reading list
 
-- [Weekly reading list PDF](https://github.com/world-class/binary-assets/blob/master/modules/cm1025_fcs/FCS_reading_list.pdf)
+- [Weekly reading list PDF](https://github.com/world-class/binary-assets/blob/master/modules/cm1025-fcs/FCS_reading_list.pdf)
 
 ## Supplementary Videos
 

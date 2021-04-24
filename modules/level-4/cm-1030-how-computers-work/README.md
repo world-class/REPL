@@ -45,7 +45,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1030_HCW-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1030_HCW-Module-Spec.pdf)
 
 # Syllabus
 

@@ -37,7 +37,7 @@ Coursework only (Type II)
 
 ## Module specification
 
-- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3065_ISP-Module-Spec.pdf)
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3065_ISP-Module-Spec.pdf)
 
 ## Syllabus
 

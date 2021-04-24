@@ -48,7 +48,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1015_CM-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1015_CM-Module-Spec.pdf)
 
 # Syllabus
 
@@ -62,7 +62,7 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Reading List
 
-- [Computational Mathematics Weekly Reading List PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/cm1015_cm/cm_weekly_reading_list.pdf)
+- [Computational Mathematics Weekly Reading List PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/cm1015-cm/cm_weekly_reading_list.pdf)
 
 ## :heart: Notes
 

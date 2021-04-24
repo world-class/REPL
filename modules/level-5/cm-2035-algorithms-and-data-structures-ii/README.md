@@ -53,7 +53,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2035_ADS2-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2035_ADS2-Module-Spec.pdf)
 
 # Syllabus
 
@@ -119,7 +119,7 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
 
 ## Mock exam
 
-- [Mock exam, 2020](https://github.com/world-class/binary-assets/blob/master/modules/cm2035_ads2/CM2035-ADS2_MOCK_Exam.pdf)
+- [Mock exam, 2020](https://github.com/world-class/binary-assets/blob/master/modules/cm2035-ads2/CM2035-ADS2_MOCK_Exam.pdf)
 
 ### Solutions shared by students
 

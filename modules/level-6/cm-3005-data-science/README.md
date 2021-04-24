@@ -41,7 +41,7 @@ One two-hour unseen written examination and coursework (Type I)
 
 ## Module specification
 
-- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3005_DS-Module-Spec.pdf)
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3005_DS-Module-Spec.pdf)
 
 ## Syllabus
 
@@ -55,4 +55,4 @@ One two-hour unseen written examination and coursework (Type I)
 
 ### Reading list
 
-- [Reading list](https://github.com/world-class/binary-assets/blob/master/modules/cm3005_ds/CM3005_reading_list.pdf)
+- [Reading list](https://github.com/world-class/binary-assets/blob/master/modules/cm3005-ds/CM3005_reading_list.pdf)

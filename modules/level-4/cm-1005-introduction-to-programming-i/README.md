@@ -49,7 +49,7 @@ Coursework only (Type II)
 
 ## Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1005_ITP1-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1005_ITP1-Module-Spec.pdf)
 
 ## Syllabus
 

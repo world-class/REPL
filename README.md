@@ -25,7 +25,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 - [Modules](https://github.com/world-class/REPL/tree/master/modules) (opens directly on GitHub).
 - [YouTube videos](youtube)
 - [Websites to visit](websites)
-- [Documents and webpages of interest](https://github.com/world-class/binary-assets/blob/master/uol_documents/README.md) (only from the University of London)
+- [Documents and webpages of interest](https://github.com/world-class/binary-assets/blob/master/uol-documents/README.md) (only from the University of London)
 
 # Other useful resources
 
@@ -42,7 +42,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 - [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
 - Subreddit: [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/)
   - [Subreddit Articles](subreddit): A series of in-depth, informative articles by /u/Yangchenghu, originally posted on Reddit. (Opens directly on GitHub)
-- [University of London documents](https://github.com/world-class/binary-assets/tree/master/uol_documents). - See them all at a glance. (Opens directly on GitHub.)
+- [University of London documents](https://github.com/world-class/binary-assets/tree/master/uol-documents). - See them all at a glance. (Opens directly on GitHub.)
 
 <br />
 

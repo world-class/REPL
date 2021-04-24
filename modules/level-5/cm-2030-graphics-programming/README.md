@@ -42,7 +42,7 @@ Coursework only (Type II)
 
 # Module specification
 
-- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2030_GP-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2030_GP-Module-Spec.pdf)
 
 # Syllabus
 

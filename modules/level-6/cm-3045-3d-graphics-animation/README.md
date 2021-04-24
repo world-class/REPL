@@ -40,7 +40,7 @@ One two-hour unseen written examination and coursework (Type I)
 
 ## Module specification
 
-- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM3045_3DGA-Module-Spec.pdf)
+- [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3045_3DGA-Module-Spec.pdf)
 
 ## Syllabus
 
