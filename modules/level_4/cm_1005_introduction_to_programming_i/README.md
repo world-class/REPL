@@ -81,7 +81,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 ### :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/introduction_to_programming_i).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/introduction-to-programming-i).
 
 ### On REPL (see relevant sections)
 

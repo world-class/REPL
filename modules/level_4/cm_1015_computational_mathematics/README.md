@@ -66,8 +66,8 @@ One two hour unseen written examination and coursework (Type I)
 
 ## :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/computational_mathematics).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/computational-mathematics).
 
 ### Numerical Mathematics (earlier iteration of the module)
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/numerical_mathematics).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/numerical-mathematics).

@@ -131,7 +131,7 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/algorithms_and_data_structures_i).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/algorithms-and-data-structures-i).
 
 ## On REPL
 

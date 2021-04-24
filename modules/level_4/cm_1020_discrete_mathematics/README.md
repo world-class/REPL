@@ -112,7 +112,7 @@ _This course does not require you to read the whole book, you will be given spec
 
 ## :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/discrete_mathematics).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/discrete-mathematics).
 
 ## On REPL
 

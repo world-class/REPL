@@ -97,7 +97,7 @@ _"Specific essential readings for each week from the following list are included
 
 ## :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/fundamentals_of_computer_science).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/fundamentals-of-computer-science).
 
 ## Sample Paper with solutions
 

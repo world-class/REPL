@@ -57,4 +57,4 @@ Coursework only (Type II)
 
 ## :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/graphics_programming).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/graphics-programming).

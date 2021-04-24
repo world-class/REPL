@@ -72,7 +72,7 @@ Coursework only (Type III)
 
 ## :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/agile-software-projects).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/agile-software-projects).
 
 ## Textbooks listed for this module
 

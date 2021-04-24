@@ -69,4 +69,4 @@ _You will also be asked to do some independent research from online sources or u
 
 ## :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/how_computers_work).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/how-computers-work).

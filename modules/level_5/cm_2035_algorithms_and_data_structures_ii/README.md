@@ -127,7 +127,7 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
 
 ## :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/algorithms_and_data_structures_ii).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/algorithms-and-data-structures-ii).
 
 ## Solutions to the textbook Introduction to Algorithms
 

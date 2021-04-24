@@ -83,4 +83,4 @@ _"There is no required textbook for this course. Listed below are some books to 
 
 ## :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_4/introduction_to_programming_ii).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/introduction-to-programming-ii).

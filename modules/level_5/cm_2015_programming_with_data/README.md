@@ -115,4 +115,4 @@ One two hour unseen written examination and coursework (Type I)
 
 ### :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/programming-with-data/).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/programming-with-data/).

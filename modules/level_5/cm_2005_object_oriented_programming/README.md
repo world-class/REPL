@@ -78,7 +78,7 @@ Refer [Linux setup guide](https://github.com/world-class/binary-assets/blob/mast
 
 ## :heart: Notes
 
-- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level_5/object-oriented-programming).
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/object-oriented-programming).
 
 ## On REPL
 
