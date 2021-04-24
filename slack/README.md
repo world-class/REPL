@@ -99,14 +99,14 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 | Channel                      | Module name                                                                                               |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------- |
-| `#cm1005-intro-prog-i`       | [Introduction to programming I](../modules/level_4/cm_1005_introduction_to_programming_i/README.md)       |
-| `#cm1010-intro-prog-ii`      | [Introduction to programming II](../modules/level_4/cm_1010_introduction_to_programming_ii/README.md)     |
-| `#cm1015-computational-math` | [Computational mathematics](../modules/level_4/cm_1015_computational_mathematics/README.md)               |
-| `#cm1020-discrete-math`      | [Discrete mathematics](../modules/level_4/cm_1020_discrete_mathematics/README.md)                         |
-| `#cm1025-fundamental-cs`     | [Fundamentals of computer science](../modules/level_4/cm_1025_fundamentals_of_computer_science/README.md) |
-| `#cm1030-hcw` \*             | [How computers work](../modules/level_4/cm_1030_how_computers_work/README.md)                             |
-| `#cm1035-algos-data-i`       | [Algorithms and data structures I](../modules/level_4/cm_1035_algorithms_and_data_structures_i/README.md) |
-| `#cm1040-web-dev`            | [Web development](../modules/level_4/cm_1040_web_development/README.md)                                   |
+| `#cm1005-intro-prog-i`       | [Introduction to programming I](../modules/level-4/cm_1005_introduction_to_programming_i/README.md)       |
+| `#cm1010-intro-prog-ii`      | [Introduction to programming II](../modules/level-4/cm_1010_introduction_to_programming_ii/README.md)     |
+| `#cm1015-computational-math` | [Computational mathematics](../modules/level-4/cm_1015_computational_mathematics/README.md)               |
+| `#cm1020-discrete-math`      | [Discrete mathematics](../modules/level-4/cm_1020_discrete_mathematics/README.md)                         |
+| `#cm1025-fundamental-cs`     | [Fundamentals of computer science](../modules/level-4/cm_1025_fundamentals_of_computer_science/README.md) |
+| `#cm1030-hcw` \*             | [How computers work](../modules/level-4/cm_1030_how_computers_work/README.md)                             |
+| `#cm1035-algos-data-i`       | [Algorithms and data structures I](../modules/level-4/cm_1035_algorithms_and_data_structures_i/README.md) |
+| `#cm1040-web-dev`            | [Web development](../modules/level-4/cm_1040_web_development/README.md)                                   |
 
 \* This module can be skipped with RPL (Recognition of Prior Learning). See the channel `#rpl-hcw-google-it` and the [FAQ here](../faq#recognition-of-prior-learning-rpl).
 
@@ -114,45 +114,45 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 | Channel                               | Module name                                                                                                 |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| `#cm2005-object-oriented-programming` | [Object Oriented Programming](../modules/level_5/cm_2005_object_oriented_programming)                       |
-| `#cm2010-software-design-development` | [Software Design and Development](../modules/level_5/cm_2010_software_design_and_development)               |
-| `#cm2015-programming-with-data`       | [Programming with Data](../modules/level_5/cm_2015_programming_with_data)                                   |
-| `#cm2020-agile-software-projects`     | [Agile Software Projects](../modules/level_5/cm_2020_agile_software_projects)                               |
-| `#cm2025-computer-security`           | [Computer Security](../modules/level_5/cm_2025_computer_security)                                           |
-| `#cm2030-graphics-programming`        | [Graphics Programming](../modules/level_5/cm_2030_graphics_programming)                                     |
-| `#cm2035-algos-data-ii`               | [Algorithms and data structures II](../modules/level_5/cm_2035_algorithms_and_data_structures_ii/README.md) |
-| `#cm2040-databases-networks-web`      | [Databases, Networks and the Web](../modules/level_5/cm_2040_databases_networks_and_the_web)                |
+| `#cm2005-object-oriented-programming` | [Object Oriented Programming](../modules/level-5/cm_2005_object_oriented_programming)                       |
+| `#cm2010-software-design-development` | [Software Design and Development](../modules/level-5/cm_2010_software_design_and_development)               |
+| `#cm2015-programming-with-data`       | [Programming with Data](../modules/level-5/cm_2015_programming_with_data)                                   |
+| `#cm2020-agile-software-projects`     | [Agile Software Projects](../modules/level-5/cm_2020_agile_software_projects)                               |
+| `#cm2025-computer-security`           | [Computer Security](../modules/level-5/cm_2025_computer_security)                                           |
+| `#cm2030-graphics-programming`        | [Graphics Programming](../modules/level-5/cm_2030_graphics_programming)                                     |
+| `#cm2035-algos-data-ii`               | [Algorithms and data structures II](../modules/level-5/cm_2035_algorithms_and_data_structures_ii/README.md) |
+| `#cm2040-databases-networks-web`      | [Databases, Networks and the Web](../modules/level-5/cm_2040_databases_networks_and_the_web)                |
 
 #### Modules level 6
 
 | Channel                                         | Module name                                                                                             |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| `#cm3005-data-science`                          | [Data Science](../modules/level_6/cm_3005_data_science)                                                 |
-| `#cm3010-databases-advanced-data-techniques`    | [Databases and Advanced Data Techniques](../modules/level_6/cm_3010_databases_advanced_data_techniques) |
-| `#cm3015-machine-learning-and-neural-networks`  | [Machine Learning and Neural Networks](../modules/level_6/cm_3015_machine_learning_neural_networks)     |
-| `#cm3020-artificial-intelligence`               | [Artificial Intelligence](../modules/level_6/cm_3020_artificial_intelligence)                           |
-| `#cm3025-virtual-reality`                       | [Virtual Reality](../modules/level_6/cm_3025_virtual_reality)                                           |
-| `#cm3030-games-development`                     | [Games Development](../modules/level_6/cm_3030_games_development)                                       |
-| `#cm3035-adv-web-dev`                           | [Advanced Web Development](../modules/level_6/cm_3035_advanced_web_development)                         |
-| `#cm3040-physical-computing-internet-of-things` | [Physical Computing and the Internet of Things](../modules/level_6/cm_3040_physical_computing_iot)      |
-| `#cm3045-3d-graphics-animation`                 | [3D Graphics and Animation](../modules/level_6/cm_3045_3d_graphics_animation)                           |
-| `#cm3050-mobile-development`                    | [Mobile Development](../modules/level_6/cm_3050_mobile_development)                                     |
-| `#cm3055-interaction-design`                    | [Interaction Design](../modules/level_6/cm_3055_interaction_design)                                     |
-| `#cm3060-natural-language-processing`           | [Natural Language Processing](../modules/level_6/cm_3060_natural_language_processing)                   |
-| `#cm3065-intelligent-signal-processing`         | [Intelligent Signal Processing](../modules/level_6/cm_3065_intelligent_signal_processing)               |
-| `#cm3070-final-project`                         | [Final Project](../modules/level_6/cm_3070_final_project)                                               |
+| `#cm3005-data-science`                          | [Data Science](../modules/level-6/cm_3005_data_science)                                                 |
+| `#cm3010-databases-advanced-data-techniques`    | [Databases and Advanced Data Techniques](../modules/level-6/cm_3010_databases_advanced_data_techniques) |
+| `#cm3015-machine-learning-and-neural-networks`  | [Machine Learning and Neural Networks](../modules/level-6/cm_3015_machine_learning_neural_networks)     |
+| `#cm3020-artificial-intelligence`               | [Artificial Intelligence](../modules/level-6/cm_3020_artificial_intelligence)                           |
+| `#cm3025-virtual-reality`                       | [Virtual Reality](../modules/level-6/cm_3025_virtual_reality)                                           |
+| `#cm3030-games-development`                     | [Games Development](../modules/level-6/cm_3030_games_development)                                       |
+| `#cm3035-adv-web-dev`                           | [Advanced Web Development](../modules/level-6/cm_3035_advanced_web_development)                         |
+| `#cm3040-physical-computing-internet-of-things` | [Physical Computing and the Internet of Things](../modules/level-6/cm_3040_physical_computing_iot)      |
+| `#cm3045-3d-graphics-animation`                 | [3D Graphics and Animation](../modules/level-6/cm_3045_3d_graphics_animation)                           |
+| `#cm3050-mobile-development`                    | [Mobile Development](../modules/level-6/cm_3050_mobile_development)                                     |
+| `#cm3055-interaction-design`                    | [Interaction Design](../modules/level-6/cm_3055_interaction_design)                                     |
+| `#cm3060-natural-language-processing`           | [Natural Language Processing](../modules/level-6/cm_3060_natural_language_processing)                   |
+| `#cm3065-intelligent-signal-processing`         | [Intelligent Signal Processing](../modules/level-6/cm_3065_intelligent_signal_processing)               |
+| `#cm3070-final-project`                         | [Final Project](../modules/level-6/cm_3070_final_project)                                               |
 
 #### Specialisms
 
 | Channel         | Specialism                                                                       |
 | --------------- | -------------------------------------------------------------------------------- |
-| `#data_science` | [Data Science](../modules/level_6/data_science/README.md)                        |
-| `#gamedev`      | [Game Development](../modules/level_6/games_dev/README.md)                       |
-| `#iot`          | [Internet of Things](../modules/level_6/phys_computing_iot/README.md)            |
-| `#mlai`         | [Machine Learning & Artificial Intelligence](../modules/level_6/ml_ai/README.md) |
-| `#ux`           | [User Experience](../modules/level_6/user_experience/README.md)                  |
-| `#vr`           | [Virtual Reality](../modules/level_6/virtual_reality/README.md)                  |
-| `#webdev`       | [Web and Mobile Development](../modules/level_6/web_mobile_dev/README.md)        |
+| `#data_science` | [Data Science](../modules/level-6/data_science/README.md)                        |
+| `#gamedev`      | [Game Development](../modules/level-6/games_dev/README.md)                       |
+| `#iot`          | [Internet of Things](../modules/level-6/phys_computing_iot/README.md)            |
+| `#mlai`         | [Machine Learning & Artificial Intelligence](../modules/level-6/ml_ai/README.md) |
+| `#ux`           | [User Experience](../modules/level-6/user_experience/README.md)                  |
+| `#vr`           | [Virtual Reality](../modules/level-6/virtual_reality/README.md)                  |
+| `#webdev`       | [Web and Mobile Development](../modules/level-6/web_mobile_dev/README.md)        |
 
 ### How to use Slack
 

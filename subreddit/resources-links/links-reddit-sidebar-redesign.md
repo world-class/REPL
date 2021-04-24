@@ -57,7 +57,7 @@ This is the main student-run community hub. Contains many informative resources 
 [**Student & Professor Notes Github Repository**](https://github.com/world-class/REPL/tree/master/notes)
 Collection of notes contributed by students and professors.
 
-[**Student Module Guides**](https://github.com/world-class/REPL/tree/master/modules/level_4)
+[**Student Module Guides**](https://github.com/world-class/REPL/tree/master/modules/level-4)
 Various FAQs and guides to the different modules
 
 [**Slack Channel Guide**](https://world-class.github.io/REPL/slack/)

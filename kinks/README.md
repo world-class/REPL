@@ -10,12 +10,12 @@
 
 # Kinks found in Level 4 modules
 
-- [Algorithms and Data Structures I](../kinks/level_4/cm_1035_algorithms_and_data_structures_i/README.md)
-- [Discrete Mathematics](../kinks/level_4/cm_1020_discrete_mathematics/README.md)
-- [How Computers Work](../kinks/level_4/cm_1030_how_computers_work/README.md)
-- [Introduction to Programming I](../kinks/level_4/cm_1005_introduction_to_programming_i/README.md)
-- [Introduction to Programming II](../kinks/level_4/cm_1010_introduction_to_programming_ii/README.md)
-- [Web Development](../kinks/level_4/cm_1040_web_development/README.md)
+- [Algorithms and Data Structures I](../kinks/level-4/cm_1035_algorithms_and_data_structures_i/README.md)
+- [Discrete Mathematics](../kinks/level-4/cm_1020_discrete_mathematics/README.md)
+- [How Computers Work](../kinks/level-4/cm_1030_how_computers_work/README.md)
+- [Introduction to Programming I](../kinks/level-4/cm_1005_introduction_to_programming_i/README.md)
+- [Introduction to Programming II](../kinks/level-4/cm_1010_introduction_to_programming_ii/README.md)
+- [Web Development](../kinks/level-4/cm_1040_web_development/README.md)
 
 As a great complimentary resource, don't forget to check out the `#bugs` channel on Slack.
 

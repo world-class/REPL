@@ -106,7 +106,7 @@ Collection of notes contributed by students and professors.
 
 **Student Module Guides**
 Various FAQs and guides to the different modules
-:link: https://github.com/world-class/REPL/tree/master/modules/level_4
+:link: https://github.com/world-class/REPL/tree/master/modules/level-4
 
 **Slack Channel Guide**
 An overview of the vibrant Slack community, and the various channels that are available.
