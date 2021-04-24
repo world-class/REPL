@@ -31,3 +31,9 @@ physical devices.
 ### Assessment
 
 Coursework only (Type III)
+
+## Resources
+
+### :heart: Notes
+
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/physical-computing-and-internet-of-things).

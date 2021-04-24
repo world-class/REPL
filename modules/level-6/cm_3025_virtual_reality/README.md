@@ -31,3 +31,9 @@ building social VR experiences with interactive virtual characters.
 ### Assessment
 
 One two-hour unseen written examination and coursework (Type I)
+
+## Resources
+
+### :heart: Notes
+
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/virtual-reality).

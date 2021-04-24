@@ -52,3 +52,9 @@ Two unseen written examination and coursework (Type I) [midterm and final course
 ## Syllabus
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3030_GD.pdf)
+
+## Resources
+
+### :heart: Notes
+
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/games-development).

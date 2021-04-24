@@ -26,3 +26,9 @@ problems such as game playing and decision making.
 ### Assessment
 
 One two-hour unseen written examination and coursework (Type I)
+
+## Resources
+
+### :heart: Notes
+
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/artificial-intelligence).

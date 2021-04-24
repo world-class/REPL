@@ -49,3 +49,9 @@ One two-hour unseen written examination and coursework (Type I)
 ## Syllabus
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3015_MLNN.pdf)
+
+## Resources
+
+### :heart: Notes
+
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/machine-learning-and-neural-networks).

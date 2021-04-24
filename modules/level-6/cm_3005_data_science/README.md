@@ -49,6 +49,10 @@ One two-hour unseen written examination and coursework (Type I)
 
 ## Resources
 
+### :heart: Notes
+
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/data-science).
+
 ### Reading list
 
 - [Reading list](https://github.com/world-class/binary-assets/blob/master/modules/cm3005_ds/CM3005_reading_list.pdf)

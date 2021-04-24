@@ -41,3 +41,9 @@ Coursework only (Type III)
 ## Resources
 
 - [Lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)](https://cs193p.sites.stanford.edu/)
+
+## Resources
+
+### :heart: Notes
+
+- Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/mobile-development).
