@@ -48,7 +48,7 @@
 
 # ITP1 - Reported problems, tips and additional instructions
 
-This page is about the [Introduction to programming I module](../../../modules/level_4/cm_1005_introduction_to_programming_i/).
+This page is about the [Introduction to programming I module](../../../modules/level-4/cm-1005-introduction-to-programming-i/).
 
 ## Sleuth
 

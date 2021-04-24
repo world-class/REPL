@@ -127,7 +127,7 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## Kinks to be aware of
 
-- [List of reported errors and bugs with the module](../../../kinks/level_4/cm_1035_algorithms_and_data_structures_i/).
+- [List of reported errors and bugs with the module](../../../kinks/level-4/cm-1035-algorithms-and-data-structures-i/).
 
 ## :heart: Notes
 

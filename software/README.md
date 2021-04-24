@@ -477,7 +477,7 @@
 #### Beginner friendly
 
 - :star: [Atom](https://atom.io)
-- :star: [Brackets](http://brackets.io) - Used in module [Introduction to Programming I](../modules/level-4/cm_1005_introduction_to_programming_i).
+- :star: [Brackets](http://brackets.io) - Used in module [Introduction to Programming I](../modules/level-4/cm-1005-introduction-to-programming-i).
 - :star: [Visual Studio Code](https://code.visualstudio.com)
 
 ### Time trackers

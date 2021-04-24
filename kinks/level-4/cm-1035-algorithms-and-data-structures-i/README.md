@@ -10,7 +10,7 @@
 
 # Algorithms and Data Structures I - Reported problems
 
-This page is about the [Algorithms and Data Structures I module](../../../modules/level_4/cm_1035_algorithms_and_data_structures_i/).
+This page is about the [Algorithms and Data Structures I module](../../../modules/level-4/cm-1035-algorithms-and-data-structures-i/).
 
 ## Week 6
 

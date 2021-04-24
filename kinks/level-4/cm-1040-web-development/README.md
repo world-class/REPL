@@ -12,7 +12,7 @@
 
 # Web Development - Reported problems
 
-This page is about the [Web Development module](../../../modules/level_4/cm_1040_web_development/).
+This page is about the [Web Development module](../../../modules/level-4/cm-1040-web-development/).
 
 ## Week 6
 

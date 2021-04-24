@@ -85,7 +85,7 @@ _Specific readings for each topic are listed with direct links to free online re
 
 ### Kinks to be aware of
 
-- [List of reported errors and bugs with the module](../../../kinks/level_4/cm_1040_web_development/).
+- [List of reported errors and bugs with the module](../../../kinks/level-4/cm-1040-web-development/).
 
 ### :heart: Notes
 

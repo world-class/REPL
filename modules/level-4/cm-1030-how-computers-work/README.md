@@ -65,7 +65,7 @@ _You will also be asked to do some independent research from online sources or u
 
 ## Kinks to be aware of
 
-- [List of reported errors and bugs with the module](../../../kinks/level_4/cm_1030_how_computers_work/).
+- [List of reported errors and bugs with the module](../../../kinks/level-4/cm-1030-how-computers-work/).
 
 ## :heart: Notes
 

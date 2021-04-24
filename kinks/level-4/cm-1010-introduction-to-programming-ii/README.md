@@ -10,7 +10,7 @@
 
 # Introduction to programming II - Reported problems
 
-This page is about the [Introduction to programming II module](../../../modules/level_4/cm_1010_introduction_to_programming_ii/).
+This page is about the [Introduction to programming II module](../../../modules/level-4/cm-1010-introduction-to-programming-ii/).
 
 ## Case studies
 
