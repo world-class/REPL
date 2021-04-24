@@ -82,7 +82,7 @@ One two hour unseen written examination and coursework (Type I)
 
 #### Python
 
-- [Courses (free)](https://github.com/world-class/REPL/tree/master/online_courses/free#python) - REPL
+- [Courses (free)](https://github.com/world-class/REPL/tree/master/online-courses/free#python) - REPL
 - [Learn Python, Data Viz, Pandas & More on Kaggle](https://www.kaggle.com/learn/overview) - Kaggle
 - [Official Python documentation](https://docs.python.org/3/)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)

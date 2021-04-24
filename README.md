@@ -29,14 +29,14 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 
 # Other useful resources
 
-- [Applying to UoL: Guide and FAQs about the process](applying_to_uol)
+- [Applying to UoL: Guide and FAQs about the process](applying-to-uol)
 - [Books recommended by students in this degree](books)
 - [Discord server](https://discord.gg/zDpffJQ) - Especially great for prospective students
 - [Free software](software)
-- [Job opportunities](job_opportunities)
+- [Job opportunities](job-opportunities)
 - [Kinks to be aware of in the different modules](kinks)
-- Online courses: [free resources](online_courses/free), [paid resources](online_courses/paid)
-- [Online study options](after_uol) (Master's, PhD, certificates, etc.)
+- Online courses: [free resources](online-courses/free), [paid resources](online-courses/paid)
+- [Online study options](after-uol) (Master's, PhD, certificates, etc.)
 - [Podcasts](podcasts)
 - [Showcase of student-built applications](showcase)
 - [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)

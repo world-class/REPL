@@ -65,7 +65,7 @@ Here are a couple of places where you will find useful resources:
 - [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 - https://github.com/world-class/REPL/blob/master/websites/README.md#git--github
 - https://github.com/world-class/REPL/blob/master/youtube/README.md#git--github
-- https://github.com/world-class/REPL/tree/master/online_courses/free#git--github
+- https://github.com/world-class/REPL/tree/master/online-courses/free#git--github
 
 ### Code of Conduct
 
