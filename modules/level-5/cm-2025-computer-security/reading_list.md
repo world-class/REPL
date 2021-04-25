@@ -64,6 +64,7 @@
 ## Week 12
 
 - [Buchanan, W.J. Cryptography](https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=5050193). (Denmark: River Publishers, 2017) Chapter 10 Blockchain and crypto-currency pp.303-311.
+- [Wikipedia entry for cyclic redundancy checks](https://en.wikipedia.org/wiki/Cyclic_redundancy_check).
 
 ## Week 13
 
