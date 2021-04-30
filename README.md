@@ -464,7 +464,6 @@ relevant topic for the final project.</p>
 <li><a href="https://www.gold.ac.uk/computing/events/">Computing events, seminars &amp; conferences</a> - <em>&quot;The Computing and Psychology departments&#39; regular seminars encompassing various aspects of cognition, computation and culture. All are welcome to attend.&quot;</em></li>
 <li><a href="https://twitter.com/goldcomputing">Goldsmiths Computing (Twitter)</a> - <em>&quot;Creativity, independence and learning by doing. Computing at Goldsmiths, University of London.&quot;</em></li>
 <li><a href="https://twitter.com/StudentsAtGold">Goldsmiths, UoL students (Twitter)</a> - <em>&quot;The official account for students at Goldsmiths, University of London. Online Mon-Fri 9-5pm.&quot;</em></li>
-<li><a href="https://2020.goldsmiths.tech/">Hacksmiths</a> - <em>&quot;Hacksmiths is the student-run tech society at Goldsmiths. Our mission is to provide an opportunity for people in all departments and from all backgrounds the chance to learn about, and play with, technology.&quot;</em></li>
 </ul>
 
 </details>
