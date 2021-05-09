@@ -15,7 +15,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 
 # Current week
 
-- Week **4**.
+- Week **5**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
