@@ -17,6 +17,7 @@
   - [Compilers](#compilers)
   - [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
   - [Data structures](#data-structures)
+  - [Full degree](#full-degree)
   - [Introduction](#introduction)
   - [Mixed topics](#mixed-topics)
 - [Cryptocurrencies](#cryptocurrencies)
@@ -83,6 +84,7 @@
 
 - [Machine Learning Course - CS 156](https://www.youtube.com/playlist?list=PLD63A284B7615313A) (playlist) - caltech
 - [Neural Networks for Machine Learning - Geoffrey Hinton 2016](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) (playlist) - Colin McDonnell
+- [Tübingen Machine Learning](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA) - _"YouTube channel of the machine learning groups at the University of Tübingen."_
 
 ### Research
 
@@ -134,7 +136,10 @@
 
 - [Advanced data structures](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) (playlist) - MIT OpenCourseWare
 
-## Introduction
+### Full degree
+
+- [IIT Madras - BSc Degree Programme](https://www.youtube.com/channel/UCvKzzGO37oT83K0FwnUucxw) - By https://onlinedegree.iitm.ac.in/
+
 ### Introduction
 
 - [Introduction to Computer Science and Programming, Spring 2011](https://www.youtube.com/watch?list=PLB2BE3D6CA77BB8F7&v=bX3jvD7XFPs) (playlist) - MIT OpenCourseWare
