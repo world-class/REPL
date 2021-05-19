@@ -120,7 +120,7 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## Examples of past and current written exams
 
-- 2014, 2015, 2016, 2018, 2020: [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm1035_ads1).
+- 2014, 2015, 2016, 2018, 2020: [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm1035-ads1).
 - :lock: [2020 written exam] **enrolled students**: more answers were compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2SR0U/p1582561904016800).
 - [ADS1 September 2020 online exam](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1035-ads1/ADS2020-09-21.pdf)
   - [Solutions](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1035-ads1/ADS2020-09-21_answers.pdf)
