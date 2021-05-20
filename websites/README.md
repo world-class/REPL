@@ -80,7 +80,6 @@
     - [Swift](#swift)
   - [Java](#java)
   - [JavaScript](#javascript-1)
-  - [Julia](#julia)
   - [Kotlin](#kotlin)
   - [Markdown](#markdown)
   - [Python](#python-1)
@@ -501,10 +500,6 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - _"This is a series of books diving deep into the core mechanisms of the JavaScript language."_
 - [JavaScript Arrays](https://www.executeprogram.com) - _"Memorize the JavaScript array methods quickly, including weird corner cases; no more looking them up. Slice, filter, map, reduce, and the rest."_
 
-### Julia
-
-- [Quantitative Economics with Julia](https://lectures.quantecon.org/jl) - Learning Julia, dynamic programming, many mathematical concepts.
-
 ### Kotlin
 
 - [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the syntax of Kotlin and the features that make it a laconic language."_.
@@ -518,7 +513,6 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 - [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building 5 different projects with increasing difficulty. You'll get to know the basic syntax of Python, some standard libraries and the Django framework that is used to build web applications."_.
 - [Python Design Patterns](https://python-patterns.guide/) - _"[...] evolving guide to design patterns in the Python programming language."_.
-- [Quantitative Economics with Python](https://lectures.quantecon.org/py) - Great reference for scientific libraries, working with data, advanced Python concepts, dynamic programming.
 
 #### Hosting
 

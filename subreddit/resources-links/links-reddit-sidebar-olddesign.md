@@ -31,7 +31,7 @@
 ## Student-Run Resources & Community 🙋
 
 - [**Resources Enriching Learners Perennially (Student Hub)**](https://world-class.github.io/REPL/) This is the main student-run community hub. Contains many informative resources and guides. _If you will only read one document from this section, read this one._
-- [**Student & Professor Notes Github Repository**](https://github.com/world-class/REPL/tree/master/notes) Collection of notes contributed by students and professors.
+- [**Student & Professor Notes Github Repository**](https://github.com/world-class/notes/) Collection of notes contributed by students and professors.
 - [**Student Module Guides**](https://github.com/world-class/REPL/tree/master/modules/level-4) Various FAQs and guides to the different modules
 - [**Slack Channel Guide**](https://world-class.github.io/REPL/slack/) An overview of the vibrant Slack community, and the various channels that are available.
 

@@ -54,7 +54,7 @@ Links to various student-made resources and community portal
 [**Resources Enriching Learners Perennially (Student Hub)**](https://world-class.github.io/REPL/)
 This is the main student-run community hub. Contains many informative resources and guides. **If you will only read one document from this section, read this one.**
 
-[**Student & Professor Notes Github Repository**](https://github.com/world-class/REPL/tree/master/notes)
+[**Student & Professor Notes Github Repository**](https://github.com/world-class/notes/)
 Collection of notes contributed by students and professors.
 
 [**Student Module Guides**](https://github.com/world-class/REPL/tree/master/modules/level-4)

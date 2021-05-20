@@ -102,7 +102,7 @@ This is the main student-run community hub. Contains many informative resources 
 
 **Student & Professor Notes Github Repository**
 Collection of notes contributed by students and professors.
-:link: https://github.com/world-class/REPL/tree/master/notes
+:link: https://github.com/world-class/notes/
 
 **Student Module Guides**
 Various FAQs and guides to the different modules

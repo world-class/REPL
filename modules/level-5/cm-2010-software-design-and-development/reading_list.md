@@ -35,6 +35,5 @@
 - Lewis, J.R., B.S. Utesh, D.E. Maher 'UMUX-LITE: when there's no time for the SUS', Proceedings of the SIGCHI Conference on Human Factors in Computing Systems 2013, pp.2099-2102.
 - Cherry, E. and C. Latulipe 'Quantifying the creativity support of digital tools through the creativity support index', ACM Transactions on Computer-Human Interaction 21 2014.
 - Molich, R. and J. Nielsen 'Improving a human-computer dialogue', Communications of the ACM 33(3) March 1990, pp.338–348.
-- AChecker 'Web accessibility checker' (2011). https://achecker.ca/checker/index.php
 - The Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 https://www.legislation.gov.uk/uksi/2018/952/contents/made
 - Rochkind, M.J. 'The source code control system', IEEE Transactions on Software Engineering SE-1(4) Dec. 1975, pp.364-370. https://ieeexplore.ieee.org/document/6312866

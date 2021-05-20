@@ -99,7 +99,7 @@ _This course does not require you to read the whole book, you will be given spec
 
 - 2014, 2015, 2016, 2017, 2018 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1020-dm/DM18_answers.pdf)), 2020 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1020-dm/DM20_answers.pdf)): [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm1020-dm).
 - :lock: [2020 written exam] **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2LKPW/p1582307389452400).
-- [DM March 2020 exam](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1020-dm/DM2020-03-03.pdf)
+- [DM March 2020 exam](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1020-dm/DM20_2020-03-03.pdf)
 
 ## Kinks to be aware of
 
