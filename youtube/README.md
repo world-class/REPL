@@ -83,6 +83,7 @@
 ### Machine learning
 
 - [Machine Learning Course - CS 156](https://www.youtube.com/playlist?list=PLD63A284B7615313A) (playlist) - caltech
+- [Machine Learning Course - CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) (playlist) - Stanford
 - [Neural Networks for Machine Learning - Geoffrey Hinton 2016](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) (playlist) - Colin McDonnell
 - [Tübingen Machine Learning](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA) - _"YouTube channel of the machine learning groups at the University of Tübingen."_
 
