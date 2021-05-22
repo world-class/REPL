@@ -146,7 +146,7 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 | Channel         | Specialism                                                                       |
 | --------------- | -------------------------------------------------------------------------------- |
-| `#data_science` | [Data Science](../modules/level-6/data_science/README.md)                        |
+| `#data_science` | [Data Science](../modules/level-6/data-science/README.md)                        |
 | `#gamedev`      | [Game Development](../modules/level-6/games-dev/README.md)                       |
 | `#iot`          | [Internet of Things](../modules/level-6/phys-computing-iot/README.md)            |
 | `#mlai`         | [Machine Learning & Artificial Intelligence](../modules/level-6/ml-ai/README.md) |
