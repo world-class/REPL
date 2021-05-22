@@ -466,19 +466,6 @@ relevant topic for the final project.</p>
 ## Stay in touch
 
 <details>
-<summary><strong>What's happening at Goldsmiths</strong></summary>
-
-<ul>
-<li><a href="http://www.doc.gold.ac.uk/blog/">Blog.DoC</a> - <em>&quot;This is the blog for Goldsmiths&#39; Department of Computing. If you are a student, graduate or staff member of Goldsmiths Computing and you want to share news, photos or stories about your work, email our blog editor at: computing@gold.ac.uk&quot;</em></li>
-<li><a href="https://www.gold.ac.uk/computing/events/">Computing events, seminars &amp; conferences</a> - <em>&quot;The Computing and Psychology departments&#39; regular seminars encompassing various aspects of cognition, computation and culture. All are welcome to attend.&quot;</em></li>
-<li><a href="https://twitter.com/goldcomputing">Goldsmiths Computing (Twitter)</a> - <em>&quot;Creativity, independence and learning by doing. Computing at Goldsmiths, University of London.&quot;</em></li>
-<li><a href="https://twitter.com/StudentsAtGold">Goldsmiths, UoL students (Twitter)</a> - <em>&quot;The official account for students at Goldsmiths, University of London. Online Mon-Fri 9-5pm.&quot;</em></li>
-</ul>
-
-</details>
-
-
-<details>
 <summary><strong>Contacting UoL</strong></summary>
 
 <ul>
@@ -503,6 +490,19 @@ relevant topic for the final project.</p>
 <p>More software options for video conferencing on <a href="./software">this page</a>.</p>
 
 </details>
+
+<details>
+<summary><strong>What's happening at Goldsmiths</strong></summary>
+
+<ul>
+<li><a href="http://www.doc.gold.ac.uk/blog/">Blog.DoC</a> - <em>&quot;This is the blog for Goldsmiths&#39; Department of Computing. If you are a student, graduate or staff member of Goldsmiths Computing and you want to share news, photos or stories about your work, email our blog editor at: computing@gold.ac.uk&quot;</em></li>
+<li><a href="https://www.gold.ac.uk/computing/events/">Computing events, seminars &amp; conferences</a> - <em>&quot;The Computing and Psychology departments&#39; regular seminars encompassing various aspects of cognition, computation and culture. All are welcome to attend.&quot;</em></li>
+<li><a href="https://twitter.com/goldcomputing">Goldsmiths Computing (Twitter)</a> - <em>&quot;Creativity, independence and learning by doing. Computing at Goldsmiths, University of London.&quot;</em></li>
+<li><a href="https://twitter.com/StudentsAtGold">Goldsmiths, UoL students (Twitter)</a> - <em>&quot;The official account for students at Goldsmiths, University of London. Online Mon-Fri 9-5pm.&quot;</em></li>
+</ul>
+
+</details>
+
 <br /><br />
 
 ## Emojis: Their meaning in the REPL
