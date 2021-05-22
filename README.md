@@ -65,7 +65,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <ul>
     <li>For module-specific inquiries, you can reach out to your tutors in the appropriate discussion forums on Coursera. Access any module you are enrolled in from the <a href="https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/">home page of this degree</a> on Coursera.</li>
     <li>For non-academic questions, you can write <a href="https://www.coursera.org/learn/london-cs-orientation/discussions">in the <strong>Reach out</strong> forum</a> on Coursera.</li>
-   <li>For private matters and other types of inquiries, you can write an email to <a href="mailto:BScCS-Support@london.ac.uk">BScCS-Support@london.ac.uk</a> or find an alternative route <a href="#contacting-each-other">in this section</a>, including phone numbers, Student Advice Center, Slack workspace and Discord server.</li>
+   <li>For private matters and other types of inquiries, you can write an email to <a href="mailto:BScCS-Support@london.ac.uk">BScCS-Support@london.ac.uk</a> or find an alternative route <a href="#stay-in-touch">in this section</a>, including phone numbers, Student Advice Center, Slack workspace and Discord server.</li>
 </ul>
 
   </details>
