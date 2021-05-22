@@ -32,27 +32,29 @@ There is a channel available for each new cohort:
 - `october2019batch`
 - `april2020batch`
 - `october2020batch`
+- `april2021batch`
 - ...
 
 #### Fun channels
 
-| Channel            | Purpose                                                                                                                                                      |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `#hackathons`      | Organise coding challenges                                                                                                                                   |
-| `#hacking`         | Ethical hacking / general InfoSec stuff                                                                                                                      |
-| `#introductions`   | Introduce yourself to your new course mates                                                                                                                  |
-| `#journal-club`    | Read and discuss research papers                                                                                                                             |
-| `#memes`           | Share all the dank memes                                                                                                                                     |
-| `#music`           | Off topic discussion about music                                                                                                                             |
-| `#pets`            | For a bit of furry, feathery or scaly relief                                                                                                                 |
-| `#photography`     | Share your favorite photos and view those from others                                                                                                        |
-| `#polyglots`       | If you are into learning languages other than programming ones                                                                                               |
-| `#random`          | A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels                  |
-| `#rate-my-setup`   | A place to discuss computing setups                  |
-| `#retrocomputing`  | For those who think that modern computers are too fast. Here we can show our C64-programs, our EBCDIC-skills and ask questions about the Motorola 68000 CPU. |
-| `#space`           | Space exploration, astrophysics and astronomy (or maybe you're just a Trek-kie)                                                                              |
-| `#today-i-learned` | Share briefly what you learned today                                                                                                                         |
-| `#uol_game-jam`    | Group for organising game jams                                                                                                                               |
+| Channel                          | Purpose                                                                                                                                                      |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `#hackathons`                    | Organise coding challenges                                                                                                                                   |
+| `#hacking`                       | Ethical hacking / general InfoSec stuff                                                                                                                      |
+| `#introductions`                 | Introduce yourself to your new course mates                                                                                                                  |
+| `#journal-club`                  | Read and discuss research papers                                                                                                                             |
+| `#memes`                         | Share all the dank memes                                                                                                                                     |
+| `#music`                         | Off topic discussion about music                                                                                                                             |
+| `#pets`                          | For a bit of furry, feathery or scaly relief                                                                                                                 |
+| `#photography`                   | Share your favorite photos and view those from others                                                                                                        |
+| `#polyglots`                     | If you are into learning languages other than programming ones                                                                                               |
+| `#personal-programming-projects` | A place to share, discuss, and improve personal programming projects                                                                                         |
+| `#random`                        | A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels                  |
+| `#rate-my-setup`                 | A place to discuss computing setups                                                                                                                          |
+| `#retrocomputing`                | For those who think that modern computers are too fast. Here we can show our C64-programs, our EBCDIC-skills and ask questions about the Motorola 68000 CPU. |
+| `#space`                         | Space exploration, astrophysics and astronomy (or maybe you're just a Trek-kie)                                                                              |
+| `#today-i-learned`               | Share briefly what you learned today                                                                                                                         |
+| `#uol_game-jam`                  | Group for organising game jams                                                                                                                               |
 
 #### Help and resources
 
@@ -70,6 +72,7 @@ There is a channel available for each new cohort:
 | `#free-stuff`                 | Free stuff to share with others. How have you used your student card etc?                                                                                                                                                                                                                       |
 | `#functional`                 | Since functional programming is becoming kind of a mandatory skill in many companies and since it is not easy to be good at it, maybe we want to share thoughts, links, ideas, know-how, blogs, presentations, designs, patterns etc.                                                           |
 | `#general`                    | This channel is for workspace-wide communication and announcements. All members are in this channel.                                                                                                                                                                                            |
+| `#hardware`                   | For questions, advice, reviews of all sorts of hardware. Whether you are looking to complain about video card prices, or to buy, fix, hack or just get excited about a device, here's the place.                                                                                                |
 | `#html-and-css`               | To discuss and questions about web development.                                                                                                                                                                                                                                                 |
 | `#job_opportunities`          | To share IT job opportunities                                                                                                                                                                                                                                                                   |
 | `#latex`                      | Share examples and ask questions about the LaTeX typesetting system                                                                                                                                                                                                                             |
