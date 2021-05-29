@@ -610,3 +610,4 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - _"Lighthouse is an open-source, automated tool for improving the quality of web pages."_
 - [Nu HTML Checker](https://validator.w3.org/nu/) - _"This tool is an ongoing experiment in better HTML checking [...]"_
 - [Real Favicon Generator](https://realfavicongenerator.net) - _"Favicon Generator. For real."_
+- [Type Scale](https://type-scale.com/) - _"A visual calculator."_ Deals with font scales.
