@@ -9,6 +9,8 @@
 - [Syllabus](#syllabus)
 - [Resources](#resources)
   - [:heart: Notes](#heart-notes)
+  - [Websites](#websites)
+  - [YouTube](#youtube)
   - [Reading list](#reading-list)
 
 ---
@@ -56,6 +58,18 @@ One two hour unseen written examination and coursework (Type I)
 ### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/computer-security).
+
+### Websites
+
+- [RSA Encryption](https://brilliant.org/wiki/rsa-encryption/) - Brilliant.org.
+  - [Euler's Theorem](https://brilliant.org/wiki/eulers-theorem/)
+  - [Euler's Totient Function](https://brilliant.org/wiki/eulers-totient-function/)
+  - [Fermat's Little Theorem](https://brilliant.org/wiki/fermats-little-theorem/)
+
+### YouTube
+
+- [How the RSA algorithm works, including how to select d, e, n, p, q, and φ (phi)](https://www.youtube.com/watch?v=Z8M2BTscoD4) - Anthony Vance.
+- [Public Key Cryptography: RSA Encryption Algorithm](https://www.youtube.com/watch?v=wXB-V_Keiu8) - Art of the Problem.
 
 ### Reading list
 
