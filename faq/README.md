@@ -34,6 +34,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [What kind of materials will the university deliver to us](#what-kind-of-materials-will-the-university-deliver-to-us)
 - [Modules and progression](#modules-and-progression)
   - [How to avoid being 'progression-blocked' due to missing prerequisites, and a suggested module schedule](#how-to-avoid-being-progression-blocked-due-to-missing-prerequisites-and-a-suggested-module-schedule)
+  - [Can I publicly share my assignments online on sites like GitHub or GitLab](#can-i-publicly-share-my-assignments-online-on-sites-like-github-or-gitlab)
   - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
   - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
   - [How can I drop/withdraw from module](#how-can-i-dropwithdraw-from-module)
@@ -237,6 +238,11 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 ### How to avoid being 'progression-blocked' due to missing prerequisites, and a suggested module schedule
 
 - See [this article in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
+
+### Can I publicly share my assignments online on sites like GitHub or GitLab
+
+- **You are strongly advised not to do so**, as is indicated in the submission guidelines of some modules. As per the guidelines in _Introduction to Programming II_ (as of June 2021): _"Do not host code on publicly available version control repositories (i.e. GitHub) **before or after** the submission"_ (emphasis added).
+- As a computer science student, it is highly recommended that you use a VCS tool such as [Git](https://git-scm.com/) to keep track of your work. Therefore, you can publish your work in _private repositories_ on both [GitLab](https://about.gitlab.com/) and [GitHub](https://github.com/) with a free plan. Please note that as a student of this programme, you can take advantage of the **[GitHub student pack](https://education.github.com/pack)** by registering with your student email and giving proof of enrollment (a screenshot of your latest payment for any module will do).
 
 ### Can I still access the modules I have taken once the semester is over
 
