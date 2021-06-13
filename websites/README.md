@@ -225,10 +225,11 @@
 
 ## LaTeX
 
+- [Mathpix Snip](https://mathpix.com) - _"Do you spend a lot of time typing equations in LaTeX? Try Mathpix Snip for iOS, Android, macOS, Windows or Linux and start converting images to LaTeX instantly!"_
 - [Overleaf](https://www.overleaf.com) - _"The easy to use, online, collaborative LaTeX editor."_
+- [Tables Generator](https://www.tablesgenerator.com/)- _"Create LaTeX tables online."_
 - [Templates](http://www.latextemplates.com) - _"The best source of free quality LaTeX templates."_
 - [Wikibook](https://en.wikibooks.org/wiki/LaTeX) - _"This is a guide to the LaTeX typesetting system. It is intended as a useful resource for everybody, from new users who wish to learn, to old hands who need a quick reference."_
-- [Mathpix Snip](https://mathpix.com) - _"Do you spend a lot of time typing equations in LaTeX? Try Mathpix Snip for iOS, Android, macOS, Windows or Linux and start converting images to LaTeX instantly!"_
 
 ## Linux & Unix
 
