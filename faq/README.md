@@ -38,7 +38,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
   - [How can I drop/withdraw from module](#how-can-i-dropwithdraw-from-module)
   - [What is the maximum number of modules that one can select per semester and what if I fail one module](#what-is-the-maximum-number-of-modules-that-one-can-select-per-semester-and-what-if-i-fail-one-module)
-  - [Where can I see a syllabus of all available modules](#where-can-i-see-a-syllabus-of-all-available-modules)
+  - [Where can I see a syllabus or module specification of all available modules](#where-can-i-see-a-syllabus-or-module-specification-of-all-available-modules)
   - [How can I progress to level 5 modules](#how-can-i-progress-to-level-5-modules)
   - [Which math topics should I review before taking Computational Mathematics as to feel comfortable during the course](#which-math-topics-should-i-review-before-taking-computational-mathematics-as-to-feel-comfortable-during-the-course)
   - [Can I at some point in the future switch to on campus and continue my degree](#can-i-at-some-point-in-the-future-switch-to-on-campus-and-continue-my-degree)
@@ -262,9 +262,10 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - The maximum number of modules you can register for in any one session is five (or three plus the final project). This can be a combination of new modules and resits (with a maximum of four new modules), or resits only.
 - For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf).
 
-### Where can I see a syllabus of all available modules
+### Where can I see a syllabus or module specification of all available modules
 
-- [https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1005](https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1005)
+- When enrolled as a student: [https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1005](https://www.coursera.org/learn/london-cs-orientation/supplement/YUBNS/syllabus-introduction-to-programming-1-cm1005)
+- [Module specifications](https://github.com/world-class/binary-assets/tree/master/modules/module-specification) and [syllabi](https://github.com/world-class/binary-assets/tree/master/modules/syllabi) are shared unofficially as they are made available.
 
 ### How can I progress to level 5 modules
 
