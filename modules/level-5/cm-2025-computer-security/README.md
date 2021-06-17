@@ -70,6 +70,7 @@ One two hour unseen written examination and coursework (Type I)
 
 - [How the RSA algorithm works, including how to select d, e, n, p, q, and φ (phi)](https://www.youtube.com/watch?v=Z8M2BTscoD4) - Anthony Vance.
 - [Public Key Cryptography: RSA Encryption Algorithm](https://www.youtube.com/watch?v=wXB-V_Keiu8) - Art of the Problem.
+- [RSA algorithm step by step example](https://www.youtube.com/watch?v=j2NBya6ADSY) - shad sluiter.
 
 ### Reading list
 
