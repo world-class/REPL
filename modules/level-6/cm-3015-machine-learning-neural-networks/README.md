@@ -38,7 +38,7 @@ rapidly, and you will learn how to verify and evaluate the results.
 
 ## Assessment
 
-One two-hour unseen written examination and coursework (Type I)
+Coursework only (Type II).
 
 ## Module specification
 
