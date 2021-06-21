@@ -2,26 +2,19 @@
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
-- [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [Complementary learning](#complementary-learning)
-    - [Visualizations](#visualizations)
-    - [Algorithms](#algorithms)
-      - [`mergeSort` algorithm](#mergesort-algorithm)
-      - [`quickSort` algorithm](#quicksort-algorithm)
-      - [`quickSort` & `mergeSort` algorithms MIT](#quicksort--mergesort-algorithms-mit)
-    - [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
-  - [Essential reading](#essential-reading)
-  - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
-  - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [:heart: Notes](#heart-notes)
-  - [On REPL](#on-repl)
-  - [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
+- [Complementary learning](#complementary-learning)
+  - [Visualizations](#visualizations)
+  - [Algorithms](#algorithms)
+    - [`mergeSort` algorithm](#mergesort-algorithm)
+    - [`quickSort` algorithm](#quicksort-algorithm)
+    - [`quickSort` & `mergeSort` algorithms MIT](#quicksort--mergesort-algorithms-mit)
+  - [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
+- [Essential reading](#essential-reading)
+- [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
+- [Kinks to be aware of](#kinks-to-be-aware-of)
+- [:heart: Notes](#heart-notes)
+- [On REPL](#on-repl)
+- [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
 
 ---
 
@@ -121,7 +114,6 @@ _There will also be discussion prompts asking you to do some independent researc
 ## Examples of past and current written exams
 
 - 2014, 2015, 2016, 2018, 2020: [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm1035-ads1).
-- :lock: [2020 written exam] **enrolled students**: more answers were compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2SR0U/p1582561904016800).
 - [ADS1 September 2020 online exam](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1035-ads1/ADS2020-09-21.pdf)
   - [Solutions](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1035-ads1/ADS2020-09-21_answers.pdf)
 

@@ -1,8 +1,7 @@
 [Go back to the main page](../../../README.md)
 
-# Table of contents
+### Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Discrete Mathematics](#discrete-mathematics)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -23,7 +22,7 @@
 
 ---
 
-# Discrete Mathematics
+## Discrete Mathematics
 
 This module helps hone your skills in thinking abstractly. It also
 introduces you to many of the discrete models used to help understand
@@ -32,7 +31,7 @@ the fundamental discrete mathematical tools that will support you during
 the BSc degree. Particular attention is paid to notions of
 experimentation, reasoning and generalisation.
 
-# Topics covered
+## Topics covered
 
 [See this fabulous mind map for more details](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/CM-1020_DM_mind_map.png).
 
@@ -47,21 +46,21 @@ experimentation, reasoning and generalisation.
 - Trees
 - Counting
 
-# Assessment
+## Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-# Module specification
+## Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1020_DM-Module-Spec.pdf)
 
-# Syllabus
+## Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1020_DM.pdf)
 
-# Resources
+## Resources
 
-## Additional reading
+### Additional reading
 
 - [A Guide to Writing Proofs](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/A_Guide_to_Writing_Proofs.pdf).
 - [Common Mistakes in Discrete Math](https://highered.mheducation.com/sites/0073383090/student_view0/common_mistakes_in_discrete_math.html) (from the companion website to the essential reading for the book _Discrete Mathematics and its Applications_).
@@ -75,11 +74,11 @@ One two hour unseen written examination and coursework (Type I)
   - [Set theory, Logic, Counting, Proof techniques, relations and functions, number theory & formal language, with exams & solutions](https://trevtutor.com/discretemath/discretemath1/).
   - [Counting & probability, generating functions & recurrence relations, graph theory, with exams & solutions](https://trevtutor.com/discretemath/discrete-math-2/).
 
-## Complementary learning
+### Complementary learning
 
 - [Saylor Academy](https://learn.saylor.org/course/index.php?categoryid=13) - _"Explore the real-world applications of mathematics through algebra, calculus, statistics, and geometry. You can earn a free certificate of completion for any of these online Mathematics courses, or use many of them to earn credit in leading college programs."_
 
-## Essential reading
+### Essential reading
 
 _"The essentials readings for this course will come from the following text book, which is available in the University of London digital library:_
 
@@ -90,31 +89,30 @@ _This course does not require you to read the whole book, you will be given spec
 
   - [Weekly Readings and Exercises for Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Global Edition](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/DM%20weekly%20reading%2C%207E%20global%20edition.pdf).
 
-### Solutions to problems in the textbook Discrete Mathematics and its Applications
+#### Solutions to problems in the textbook Discrete Mathematics and its Applications
 
 - [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
 - [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
 
-## Examples of past and current written exams
+### Examples of past and current written exams
 
 - 2014, 2015, 2016, 2017, 2018 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1020-dm/DM18_answers.pdf)), 2020 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1020-dm/DM20_answers.pdf)): [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm1020-dm).
-- :lock: [2020 written exam] **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2LKPW/p1582307389452400).
 - [DM March 2020 exam](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1020-dm/DM20_2020-03-03.pdf)
 
-## Kinks to be aware of
+### Kinks to be aware of
 
 - [List of reported errors and bugs with the module](../../../kinks/level-4/cm-1020-discrete-mathematics/).
 
-## Mathematical symbols
+### Mathematical symbols
 
 - The [list of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols) on Wikipedia is a handy reference. Chapter 1 of _Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Edition_ is outside the scope of the essential readings for this module, but provides a solid foundation to understand the notations and some proof techniques used during the course.
 - [Type mathematical symbols (online keyboard)](https://math.typeit.org) - Online keyboard to help with typing mathematical symbols.
 
-## :heart: Notes
+### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/discrete-mathematics).
 
-## On REPL
+### On REPL
 
 - [Websites](../../../websites/README.md#discrete-mathematics)
 
@@ -160,7 +158,7 @@ _This course does not require you to read the whole book, you will be given spec
   - [The Karnaugh Map - Rules of Simplification](https://www.youtube.com/watch?v=PA0kBrpHLM4) - Jonnie Palmer
   - [Transitive closure](https://www.youtube.com/watch?v=OO8Jfs9uZnc) - GVSUmath
 
-## Supplementary videos
+### Supplementary videos
 
 | Weeks in the module             | Resource                                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -175,6 +173,6 @@ _This course does not require you to read the whole book, you will be given spec
 | 17 & 18 Relations               | [Math for CS - MIT (Lecture 11 and reading from MCS notes)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)                                                                                                                                                                                           |
 | 19 & 20 Combinatorics           | [Math for CS - MIT (Lecture 16 and 17 and reading from MCS notes)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)                                                                                                                                                                                    |
 
-## Weekly readings
+### Weekly readings
 
 - [Reading by weeks and topics PDF](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/DM_Reading.pdf)
