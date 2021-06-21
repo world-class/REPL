@@ -267,7 +267,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>SDD</strong></td>
 <td><strong>CM2010</strong></td>
 <td><strong>Yes</strong></td>
-<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A9AP06NQ">#cm2010-software-design-development</code></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A9AP06NQ">#cm2010-software-design-development</a></code></td>
 </tr>
 </tbody>
 </table>
@@ -399,15 +399,56 @@ following modules.</p>
 <p>Each specialism contains five prescribed modules from the above 13. All
 five must be completed along with one elective module from any other
 specialism. The specialisms are:</p>
-<ul>
-<li><a href="modules/level-6/data-science">Data Science</a> (<strong>CM3005</strong>)</li>
-<li><a href="modules/level-6/games-dev">Games Development</a> (<strong>CM3030</strong>)</li>
-<li><a href="modules/level-6/ml-ai">Machine Learning &amp; Artificial Intelligence</a> (<strong>CM3020</strong>)</li>
-<li><a href="modules/level-6/phys-computing-iot">Physical Computing &amp; the Internet of Things</a> (<strong>CM3040</strong>)</li>
-<li><a href="modules/level-6/user-experience">User Experience</a> (<strong>CM3055</strong>)</li>
-<li><a href="modules/level-6/virtual-reality">Virtual Reality</a> (<strong>CM3025</strong>)</li>
-<li><a href="modules/level-6/web-mobile-dev">Web &amp; Mobile Development</a> (<strong>CM3035</strong>)</li>
-</ul>
+
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th>Module name</th>
+<th>Module code</th>
+<th>Slack channel</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="modules/level-6/data-science">Data Science</a></td>
+<td><strong>CM3005</strong></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH12FSNBC">#data_science</a></code></td>
+</tr>
+<tr>
+<td><a href="modules/level-6/games-dev">Games Development</a></td>
+<td><strong>CM3030</strong></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH11E0ZS6">#gamedev</a></code></td>
+</tr>
+<tr>
+<td><a href="modules/level-6/ml-ai">Machine Learning &amp; Artificial Intelligence</a></td>
+<td><strong>CM3020</strong></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CJ2GTGREK">#iot</a></code></td>
+</tr>
+<tr>
+<td><a href="modules/level-6/phys-computing-iot">Physical Computing &amp; the Internet of Things</a></td>
+<td><strong>CM3040</strong></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH07V8ADA">#mlai</a></code></td>
+</tr>
+<tr>
+<td><a href="modules/level-6/user-experience">User Experience</a></td>
+<td><strong>CM3055</strong></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CJT0K6Z6G">#ux</a></code></td>
+</tr>
+<tr>
+<td><a href="modules/level-6/virtual-reality">Virtual Reality</a></td>
+<td><strong>CM3025</strong></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CP2QSS78V">#vr</a></code></td>
+</tr>
+<tr>
+<td><a href="modules/level-6/web-mobile-dev">Web &amp; Mobile Development</a></td>
+<td><strong>CM3035</strong></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH1HMDDL2">#web-mobile-specialism</a></code></td>
+</tr>
+</tbody>
+</table>
+</div>
+
 
 </details>
 
