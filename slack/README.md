@@ -145,15 +145,15 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 #### Specialisms
 
-| Channel         | Specialism                                                                       |
-| --------------- | -------------------------------------------------------------------------------- |
-| `#data_science` | [Data Science](../modules/level-6/data-science/README.md)                        |
-| `#gamedev`      | [Game Development](../modules/level-6/games-dev/README.md)                       |
-| `#iot`          | [Internet of Things](../modules/level-6/phys-computing-iot/README.md)            |
-| `#mlai`         | [Machine Learning & Artificial Intelligence](../modules/level-6/ml-ai/README.md) |
-| `#ux`           | [User Experience](../modules/level-6/user-experience/README.md)                  |
-| `#vr`           | [Virtual Reality](../modules/level-6/virtual-reality/README.md)                  |
-| `#webdev`       | [Web and Mobile Development](../modules/level-6/web-mobile-dev/README.md)        |
+| Channel                  | Specialism                                                                       |
+| ------------------------ | -------------------------------------------------------------------------------- |
+| `#data_science`          | [Data Science](../modules/level-6/data-science/README.md)                        |
+| `#gamedev`               | [Game Development](../modules/level-6/games-dev/README.md)                       |
+| `#iot`                   | [Internet of Things](../modules/level-6/phys-computing-iot/README.md)            |
+| `#mlai`                  | [Machine Learning & Artificial Intelligence](../modules/level-6/ml-ai/README.md) |
+| `#ux`                    | [User Experience](../modules/level-6/user-experience/README.md)                  |
+| `#vr`                    | [Virtual Reality](../modules/level-6/virtual-reality/README.md)                  |
+| `#web-mobile-specialism` | [Web and Mobile Development](../modules/level-6/web-mobile-dev/README.md)        |
 
 ### How to use Slack
 
