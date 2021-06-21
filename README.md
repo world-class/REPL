@@ -139,56 +139,56 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>ADS1</strong></td>
 <td><strong>CM1035</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/CKZT2SR0U">#cm1035-algos-data-i</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CKZT2SR0U">#cm1035-algos-data-i</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-4/cm-1015-computational-mathematics">Computational Mathematics</a> *</td>
 <td><strong>CM</strong></td>
 <td><strong>CM1015</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/CH35SEHAS">#cm1015-computational-math</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH35SEHAS">#cm1015-computational-math</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-4/cm-1020-discrete-mathematics">Discrete Mathematics</a> *</td>
 <td><strong>DM</strong></td>
 <td><strong>CM1020</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/CKZT2LKPW">#cm1020-discrete-math</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CKZT2LKPW">#cm1020-discrete-math</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-4/cm-1025-fundamentals-of-computer-science">Fundamentals of Computer Science</a></td>
 <td><strong>FCS</strong></td>
 <td><strong>CM1025</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/CL275HWLF">#cm1025-fundamental-cs</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CL275HWLF">#cm1025-fundamental-cs</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-4/cm-1030-how-computers-work">How Computers Work</a></td>
 <td><strong>HCW</strong></td>
 <td><strong>CM1030</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/CHFR3DFBR">#cm1030-hcw</a> / <a href="https://londoncs.slack.com/archives/CHQ2321PG">#rpl-google-it</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CHFR3DFBR">#cm1030-hcw</a></code> / <code><a href="https://app.slack.com/client/TDT1N1BUG/CHQ2321PG">#rpl-google-it</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-4/cm-1005-introduction-to-programming-i">Introduction to Programming I</a></td>
 <td><strong>ITP1</strong></td>
 <td><strong>CM1005</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/CH35RKXK8">#cm1005-intro-prog-i</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH35RKXK8">#cm1005-intro-prog-i</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-4/cm-1010-introduction-to-programming-ii">Introduction to Programming II</a></td>
 <td><strong>ITP2</strong></td>
 <td><strong>CM1010</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/CKNURNQKU">#cm1010-intro-prog-ii</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CKNURNQKU">#cm1010-intro-prog-ii</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-4/cm-1040-web-development">Web Development</a></td>
 <td><strong>WD</strong></td>
 <td><strong>CM1040</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/CH3L72QD8">#cm1040-web-dev</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH3L72QD8">#cm1040-web-dev</a></code></td>
 </tr>
 </tbody>
 </table>
@@ -218,56 +218,56 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>ASP</strong></td>
 <td><strong>CM2020</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/C01A9AR0A4C">#cm2020-agile-software-projects</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A9AR0A4C">#cm2020-agile-software-projects</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-5/cm-2035-algorithms-and-data-structures-ii">Algorithms and Data Structures II</a></td>
 <td><strong>ADS2</strong></td>
 <td><strong>CM2035</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/CUKR7TCDD">#cm2035-algos-data-ii</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CUKR7TCDD">#cm2035-algos-data-ii</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-5/cm-2025-computer-security">Computer Security</a></td>
 <td><strong>CSec</strong></td>
 <td><strong>CM2025</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C01AT0JTB7S">#cm2025-computer-security</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01AT0JTB7S">#cm2025-computer-security</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-5/cm-2040-databases-networks-and-the-web">Databases, Networks and the Web</a></td>
 <td><strong>DNW</strong></td>
 <td><strong>CM2040</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/CU6FK1W75">#cm2040-databases-networks-web</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CU6FK1W75">#cm2040-databases-networks-web</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-5/cm-2030-graphics-programming">Graphics Programming</a></td>
 <td><strong>GP</strong></td>
 <td><strong>CM2030</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/CUJ0E4AA1">#cm2030-graphics-programming</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CUJ0E4AA1">#cm2030-graphics-programming</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-5/cm-2005-object-oriented-programming">Object Oriented Programming</a></td>
 <td><strong>OOP</strong></td>
 <td><strong>CM2005</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/CUKR6NR0X">#cm2005-object-oriented-programming</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CUKR6NR0X">#cm2005-object-oriented-programming</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-5/cm-2015-programming-with-data">Programming with Data</a></td>
 <td><strong>PWD</strong></td>
 <td><strong>CM2015</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C01A02PCW1K">#cm2015-programming-with-data</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A02PCW1K">#cm2015-programming-with-data</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-5/cm-2010-software-design-and-development">Software Design and Development</a></td>
 <td><strong>SDD</strong></td>
 <td><strong>CM2010</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C01A9AP06NQ">#cm2010-software-design-development</code></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A9AP06NQ">#cm2010-software-design-development</code></td>
 </tr>
 </tbody>
 </table>
@@ -300,91 +300,91 @@ following modules.</p>
 <td><strong>3DGA</strong></td>
 <td><strong>CM3045</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C01JX9ZDLKC">#cm3045-3d-graphics-animation</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JX9ZDLKC">#cm3045-3d-graphics-animation</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3035-advanced-web-development">Advanced Web Development</a></td>
 <td><strong>AWD</strong></td>
 <td><strong>CM3035</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/C011X11DW5D">#cm3035-adv-web-dev</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C011X11DW5D">#cm3035-adv-web-dev</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3020-artificial-intelligence">Artificial Intelligence</a></td>
 <td><strong>AI</strong></td>
 <td><strong>CM3020</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C012HTC1REG">#cm3020-artificial-intelligence</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C012HTC1REG">#cm3020-artificial-intelligence</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3005-data-science">Data Science</a></td>
 <td><strong>DS</strong></td>
 <td><strong>CM3005</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C011X0RP6Q7">#cm3005-data-science</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C011X0RP6Q7">#cm3005-data-science</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3010-databases-advanced-data-techniques">Databases and Advanced Data Techniques</a></td>
 <td><strong>DADT</strong></td>
 <td><strong>CM3010</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C01JJ7SSML7">#cm3010-databases-advanced-data-techniques</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JJ7SSML7">#cm3010-databases-advanced-data-techniques</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3030-games-development">Games Development</a></td>
 <td><strong>GD</strong></td>
 <td><strong>CM3030</strong></td>
 <td><strong>No</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C01JX9YQ32N">#cm3030-games-development</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JX9YQ32N">#cm3030-games-development</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3065-intelligent-signal-processing">Intelligent Signal Processing</a></td>
 <td><strong>ISP</strong></td>
 <td><strong>CM3065</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/C01K9UK3865">#cm3065-intelligent-signal-processing</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01K9UK3865">#cm3065-intelligent-signal-processing</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3055-interaction-design">Interaction Design</a></td>
 <td><strong>ID</strong></td>
 <td><strong>CM3055</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C012QBHE72M">#cm3055-interaction-design</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C012QBHE72M">#cm3055-interaction-design</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3015-machine-learning-neural-networks">Machine Learning and Neural Networks</a></td>
 <td><strong>MLNN</strong></td>
 <td><strong>CM3015</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/C011X17R90X">#cm3015-machine-learning-and-neural-networks</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C011X17R90X">#cm3015-machine-learning-and-neural-networks</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3050-mobile-development">Mobile Development</a></td>
 <td><strong>MD</strong></td>
 <td><strong>CM3050</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/C01KBKSFM09">#cm3050-mobile-development</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKSFM09">#cm3050-mobile-development</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3060-natural-language-processing">Natural Language Processing</a></td>
 <td><strong>NLP</strong></td>
 <td><strong>CM3060</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C01KBKTE47K">#cm3060-natural-language-processing</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKTE47K">#cm3060-natural-language-processing</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3040-physical-computing-iot">Physical Computing and Internet of Things</a></td>
 <td><strong>IOT</strong></td>
 <td><strong>CM3040</strong></td>
 <td>No</td>
-<td><a href="https://londoncs.slack.com/archives/C01KBKRUM25">#cm3040-physical-computing-internet-of-things</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKRUM25">#cm3040-physical-computing-internet-of-things</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3025-virtual-reality">Virtual Reality</a></td>
 <td><strong>VR</strong></td>
 <td><strong>CM3025</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C01KBKPQV3K">#cm3025-virtual-reality</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKPQV3K">#cm3025-virtual-reality</a></code></td>
 </tr>
 </tbody>
 </table>
@@ -432,7 +432,7 @@ relevant topic for the final project.</p>
 <td><a href="modules/level-6/cm-3070-final-project">Final Project</a></td>
 <td><strong>CM3070</strong></td>
 <td><strong>Yes</strong></td>
-<td><a href="https://londoncs.slack.com/archives/C01JS7VL0TG">#cm3070-final-project</a></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JS7VL0TG">#cm3070-final-project</a></code></td>
 </tr>
 </tbody>
 </table>

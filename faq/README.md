@@ -386,7 +386,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### What week are we on
 
-- Check the topic of [#general](https://londoncs.slack.com/archives/CDTPC3FKL) on Slack. It's kept updated for this purpose only.
+- Check the topic of [#general](https://app.slack.com/client/TDT1N1BUG/CDTPC3FKL) on Slack. It's kept updated for this purpose only.
 
 ### How do I setup calendar sync on Coursera
 
@@ -394,7 +394,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### I don't want to miss important announcements, what to do
 
-- Make sure you have a filter in your email for UoL emails. Also subscribe to [#official-communications](https://londoncs.slack.com/archives/CM4KKHUCB) on Slack.
+- Make sure you have a filter in your email for UoL emails. Also subscribe to [#official-communications](https://app.slack.com/client/TDT1N1BUG/CM4KKHUCB) on Slack.
 
 ### How long are vacations between semesters
 
@@ -460,7 +460,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### My peer-reviewed work isn't graded yet, what can I do
 
-- Ask in the Slack channel [#reviewexchange](https://londoncs.slack.com/archives/CJXHM0RTQ).
+- Ask in the Slack channel [#reviewexchange](https://app.slack.com/client/TDT1N1BUG/CJXHM0RTQ).
 
 ### Do I have to complete all the formative as well as the summative assessments on Coursera
 
@@ -502,7 +502,7 @@ If you have any specific queries about something you have created which you are 
 ### I feel I need to vent, where can I go
 
 - [https://my.london.ac.uk/group/student/talkcampus](https://my.london.ac.uk/group/student/talkcampus)
-- Visit the [#vent](https://londoncs.slack.com/archives/CJG51H2CS) channel on Slack.
+- Visit the [#vent](https://app.slack.com/client/TDT1N1BUG/CJG51H2CS) channel on Slack.
 
 ---
 
