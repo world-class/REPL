@@ -228,7 +228,7 @@
 - [Cheatsheet](https://wch.github.io/latexsheet/latexsheet.pdf) - _"LaTeX 2 cheat sheet.3"_
 - [Mathpix Snip](https://mathpix.com) - _"Do you spend a lot of time typing equations in LaTeX? Try Mathpix Snip for iOS, Android, macOS, Windows or Linux and start converting images to LaTeX instantly!"_
 - [Overleaf](https://www.overleaf.com) - _"The easy to use, online, collaborative LaTeX editor."_
-- [Tables Generator](https://www.tablesgenerator.com/)- _"Create LaTeX tables online."_
+- [Tables Generator](https://www.tablesgenerator.com/) - _"Create LaTeX tables online."_
 - [Templates](http://www.latextemplates.com) - _"The best source of free quality LaTeX templates."_
 - [Templates](https://www.overleaf.com/latex/templates) - _"Start your projects with quality LaTeX templates for journals, CVs, resumes, papers, presentations, assignments, letters, project reports, and more."_
 - [Wikibook](https://en.wikibooks.org/wiki/LaTeX) - _"This is a guide to the LaTeX typesetting system. It is intended as a useful resource for everybody, from new users who wish to learn, to old hands who need a quick reference."_
