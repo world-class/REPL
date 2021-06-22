@@ -8,6 +8,7 @@
 - [Module specification](#module-specification)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
+  - [Documents](#documents)
   - [:heart: Notes](#heart-notes)
   - [Websites](#websites)
   - [YouTube](#youtube)
@@ -43,7 +44,7 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Mock exam
 
-[March 2021 mock exam](https://github.com/world-class/binary-assets/blob/master/modules/cm2025-cs/cm2025_CS_mock_exam.pdf).
+[March 2021 mock exam](https://github.com/world-class/binary-assets/blob/master/modules/cm2025-csec/cm2025_CS_mock_exam.pdf).
 
 ## Module specification
 
@@ -54,6 +55,10 @@ One two hour unseen written examination and coursework (Type I)
 - [Syllabus PDF (October 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2025_CS.pdf)
 
 ## Resources
+
+### Documents
+
+[Public-Key Cryptography RSA Attacks against RSA](https://github.com/world-class/binary-assets/blob/master/modules/cm2025-csec/Public-Key_Cryptography_RSA_Attacks_against_RSA.pdf) - From www.lri.fr.
 
 ### :heart: Notes
 
