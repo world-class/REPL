@@ -102,7 +102,7 @@ This average includes the application fee and the cost of the Final Project, whi
 * (15,221 + x) / 3
 * £2076 + x
 
-Please note that the above estimate is only applicable to students from Band A countries (which includes the United States). Prices for Band B countries are significantly lower.
+Please note that the above estimate is only applicable to students from Band B countries (which includes the United States). Prices for Band A countries are significantly lower.
 
 ## Conclusion and Further References
 
