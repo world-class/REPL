@@ -2,10 +2,8 @@
 
 # Podcasts
 
-# Table of contents
+### Table of contents
 
-- [Podcasts](#podcasts)
-- [Table of contents](#table-of-contents)
 - [Awesome Geek Podcasts](#awesome-geek-podcasts)
 - [Artificial intelligence](#artificial-intelligence)
 - [Computer science](#computer-science)
@@ -18,6 +16,7 @@
   - [Beginner-friendly](#beginner-friendly)
   - [Interviews](#interviews)
   - [Music](#music-1)
+  - [Neuroscience](#neuroscience)
   - [Python](#python)
   - [Software development](#software-development)
   - [Testing](#testing)
@@ -28,53 +27,53 @@
 
 ---
 
-# [Awesome Geek Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts)
+## [Awesome Geek Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts)
 
 > A curated list of podcasts we like to listen to. — [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Artificial intelligence
+## Artificial intelligence
 
 - [Artificial Intelligence: AI Podcast](https://lexfridman.com/ai) - _"Artificial Intelligence podcast (AI podcast) is a series of conversations about technology, science, and the human condition hosted by Lex Fridman."_
 - [Brain Inspired](https://braininspired.co/podcast/) - _"Where neuroscience and artificial intelligence converge."_
 
-# Computer science
+## Computer science
 
 - [Base.cs](https://www.codenewbie.org/basecs) - _"Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie."_
 
-# Cybersecurity
+## Cybersecurity
 
 - [Darknet Diaries](https://darknetdiaries.com/) - _"Darknet Diaries delves into the cybercrimes that are happening right under your nose. Cover your laptop camera, throw that iPhone in the river, and hang out in that weird no-reception corner or your home."_
 - [Hackable?](https://hackablepodcast.com/) - _"Curious about how cybercriminals get all of your information? "Hackable?" gets into the mind of a hacker to see how easy it is to crack into Wi-Fi, cars, webcams, and more."_
 - [Malicious Life](https://malicious.life/) - _"Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians."_
 - [Security Now](https://twit.tv/shows/security-now) - _"Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte."_
 
-# Data science
+## Data science
 
 - [Data Skeptic](https://dataskeptic.com/) - _"Data science, statistics, machine learning, artificial intelligence, and scientific skepticism."_
 - [Linear Digressions](http://lineardigressions.com/) - _"Linear Digressions is a podcast about machine learning and data science. Machine learning is being used to solve a ton of interesting problems, and to accomplish goals that were out of reach even a few short years ago."_
 
-# Economics
+## Economics
 
 - [EconTalk](http://www.econtalk.org/) - _"EconTalk is a weekly economics podcast hosted by Russ Roberts. Roberts, formerly an economics professor at George Mason University, is a research fellow at Stanford University's Hoover Institution. On the podcast, Roberts typically interviews a single guest—often professional economists—on topics in economics."_ ([from Wikipedia](https://en.wikipedia.org/wiki/EconTalk))
 
-# Education
+## Education
 
 - [Naval](https://nav.al/) - _"Naval on wealth and happiness."_
 - [TED Podcasts](https://www.ted.com/podcasts) - _"Learn more about TED's original podcast initiatives. Subscribe to listen on Apple Podcasts, the TED Android app, or wherever you get your podcasts."_
 - [TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/) - _"A journey through fascinating ideas, astonishing inventions, and new ways to think and create. Based on riveting TEDTalks from the world's most remarkable minds."_
 - [The Knowledge Project](https://fs.blog/knowledge-project/) - _"Master the best of what other people have already figured out."_
 
-# Music
+## Music
 
 - [Song Exploder](http://songexploder.net) - _"Song Exploder is a podcast where musicians take apart their songs, and piece by piece, tell the story of how they were made."_
 
-# Programming
+## Programming
 
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) - _"A podcast for developers designed to fit inside your tea break."_
 - [GitHub Community Cast](https://player.fm/series/github-community-cast) - _"The GitHub Community Cast features interesting community stories and news from around the GitHub universe."_
 - [Programming Throwdown](https://www.programmingthrowdown.com/) - _"Programming Throwdown with Patrick Wheeler and Jason Gauci."_
 
-## Beginner-friendly
+### Beginner-friendly
 
 - [CodeNewbie](https://www.codenewbie.org/podcast/) - _"Stories from people on their coding journey."_
 - [Coding Blocks](https://www.codingblocks.net/) - _"Coding Blocks is the podcast and website for learning how to become a better software developer. We cover a wide variety of topics that range from good programming practices which are language agnostic all the way to specifics for particular languages."_
@@ -88,21 +87,25 @@
 - [This Developer's Life](http://thisdeveloperslife.com/) - _"A podcast about developers and their lives."_
 - [Weekly Dev Tips](https://player.fm/series/weekly-dev-tips) - _"Weekly Dev Tips offers a variety of technical and career tips for software developers. Each tip is quick and to the point, describing a problem and one or more ways to solve that problem."_
 
-## Interviews
+### Interviews
 
 - [CoRecursive - Software Engineering Interviews](https://player.fm/series/corecursive-software-engineering-interviews) - _"CoRecursive features In-Depth technical interviews with software developers. Learn about programming languages such as Scala, Haskell, Idris, Kotlin, Erlang and Functional Programming and Type Theory from experts in one on one interviews."_
 - [Developer On Fire](https://player.fm/series/developer-on-fire-117746) - _"Developer On Fire with Dave Rael is an interview podcast with inspiring and successful software professionals telling personal stories about their experiences with delivering value."_
 
-## Music
+### Music
 
 - [Music For Programming](http://musicforprogramming.net/) - _"Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities)."_
 
-## Python
+### Neuroscience
+
+- [Huberman Lab](https://hubermanlab.com/) - _"The Huberman Lab Podcast discusses neuroscience—how our brain and its connections with the organs of our body controls our perceptions, our behaviors, and our health. The podcast also discusses tools for measuring and changing how our nervous system works."_
+
+### Python
 
 - [Python Bytes](https://pythonbytes.fm/) - _"Python headlines delivered directly to your earbuds."_
 - [Talk Python To Me](https://talkpython.fm/) - _"Talk Python To Me is a podcast for developers who are passionate about Python. Learn about the language and related technologies."_
 
-## Software development
+### Software development
 
 - [Changelog Masterfeed](https://changelog.com/master) - _Weekly shows about developer culture, software development, open source, building startups, artificial intelligence, and the people involved._
 - [Coder Radio](https://player.fm/series/coder-radio-2440919) - _"A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies."_
@@ -112,22 +115,22 @@
 - [Software Engineering Radio](https://www.se-radio.net/) - _"The podcast for professional software developers."_
 - [The Rabbit Hole: An Inside Look into Software Development](https://player.fm/series/the-rabbit-hole-an-inside-look-into-software-development) - _"If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you."_
 
-## Testing
+### Testing
 
 - [Test & Code](https://testandcode.com/) - _"A Podcast about Software Testing, Software Development, and Python."_
 - [TestTalks - Automation Awesomeness - Helping YOU Succeed with Test Automation](https://player.fm/series/testtalks-automation-awesomeness-helping-you-succeed-with-test-automation-2391007) - _"TestTalks is a weekly podcast hosted by Joe Colantonio, which geeks out on all things software test automation. TestTalks covers news found in the testing space, reviews books about automation and speaks with some of the thought leaders in the test automation field."_
 
-## Web development
+### Web development
 
 - [Front End Happy Hour](https://player.fm/series/front-end-happy-hour-131187) - _"A podcast featuring panelists of engineers from Netflix, Evernote & LinkedIn talking over drinks about all things Front End development."_
 - [Full Stack Radio](https://player.fm/series/series-1401837) - _"A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration."_
 - [Syntax.fm](https://syntax.fm/) - _"Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences."_
 
-# Science
+## Science
 
 - [The Naked Scientists](https://www.thenakedscientists.com/) - _"The Naked Scientists is a one-hour audience-interactive science radio talk show broadcast live by the BBC in the East of England, nationally by BBC Radio 5 Live and internationally on ABC Radio National, Australia; it is also distributed globally as a podcast."_ ([from Wikipedia](https://en.wikipedia.org/wiki/The_Naked_Scientists))
 
-# Technology
+## Technology
 
 - [A16z](https://a16z.com/podcasts/) - _"The a16z Podcast discusses tech and culture trends, news, and the future -- especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world. Multiple episodes are released every week."_
 - [Accidental Tech Podcast](https://atp.fm/) - _"A tech podcast we accidentally created while trying to do a car show."_
@@ -138,6 +141,6 @@
 - [Techdirt](https://www.techdirt.com/blog/podcast/) - _"Techdirt is one of the better podcasts in tech policy issues."_ (from Alex Flach, UoL student)
 - [The Talk Show - John Gruber](https://daringfireball.net/thetalkshow/) - _"The Talk Show is a technology podcast started by Gruber intended as a "director's commentary" to his website, Daring Fireball."_ ([from Wikipedia](https://en.wikipedia.org/wiki/John_Gruber#The_Talk_Show))
 
-# Variety
+## Variety
 
 - [The Joe Rogan Experience](http://podcasts.joerogan.net/) - _"The Joe Rogan Experience is a free audio and video podcast hosted by American comedian, actor, sports commentator, martial artist and television host Joe Rogan."_ ([from Wikipedia](https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience))
