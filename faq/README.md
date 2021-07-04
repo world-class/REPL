@@ -67,6 +67,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - [Exams](#exams)
   - [Can you provide examples of acceptable calculators, and examples of unacceptable calculators](#can-you-provide-examples-of-acceptable-calculators-and-examples-of-unacceptable-calculators)
   - [Will you be expanding test centers The closest one to me is rather far away](#will-you-be-expanding-test-centers-the-closest-one-to-me-is-rather-far-away)
+  - [What referencing style should I use when submitting my work](#what-referencing-style-should-i-use-when-submitting-my-work)
   - [If we sit the exam outside the UK, in a local examination centre, then it is done via British council, isn't it](#if-we-sit-the-exam-outside-the-uk-in-a-local-examination-centre-then-it-is-done-via-british-council-isnt-it)
   - [How many exams will be there per semester for a module](#how-many-exams-will-be-there-per-semester-for-a-module)
   - [Do online learners need to take assessments at specific locations? If so is this only final assessments](#do-online-learners-need-to-take-assessments-at-specific-locations-if-so-is-this-only-final-assessments)
@@ -426,6 +427,11 @@ Some of the questions that can be answered by reading the programme regulations:
 ### Will you be expanding test centers The closest one to me is rather far away
 
 - There are no plans to expand test centres at present. Please see [this link](https://london.ac.uk/current-students/examinations/examination-centres) for a list of over 500 approved exam centres.
+
+### What referencing style should I use when submitting my work
+
+- There is no specific style enforced, although consistency across your work is key to producing professional-looking results.
+- Good starting points include the [Harvard](https://onlinelibrary.london.ac.uk/support/information-skills/organising-and-citing-your-references/referencing-styles-harvard) and [IEEE](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf) referencing styles. Some students have also used footnotes in Google Docs.
 
 ### If we sit the exam outside the UK, in a local examination centre, then it is done via British council, isn't it
 
