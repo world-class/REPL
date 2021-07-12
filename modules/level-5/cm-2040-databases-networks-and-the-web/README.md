@@ -10,6 +10,7 @@
 - [Reading list for this course](#reading-list-for-this-course)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
+  - [Kinks to be aware of](#kinks-to-be-aware-of)
   - [:heart: Notes](#heart-notes)
   - [Websites](#websites)
 
@@ -61,6 +62,10 @@ One two hour unseen written examination and coursework (Type I)
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2040_DNW.pdf)
 
 ## Resources
+
+### Kinks to be aware of
+
+- [List of reported errors and bugs with the module](../../../kinks/level-5/cm-2040-databases-networks-and-the-web/).
 
 ### :heart: Notes
 
