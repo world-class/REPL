@@ -30,11 +30,11 @@ Admissions prospectus on the BSc Computer Science for interested students. A pol
 ### [**Structure & Module Descriptions**](https://london.ac.uk/computer-science-structure)
 A high-level summary of the 22 modules and Final Project which makes up the Programme, seperated by Levels.
 
-### [**Programme Regulations (2020-2021)**](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf)
+### [**Programme Regulations (2021-2022)**](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf)
 The 'Bible' of the BSc Computer Science degree. *If you will only read one document from this section, read this one.* Contains almost every detail about specific workings and regulations.
 
 
-### [**Programme Specification (2020-2021)**](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2020-21.pdf)
+### [**Programme Specification**](https://london.ac.uk/sites/default/files/programme-specifications/progspec-bsc-computer-science.pdf)
 A broad outline and overview of the structure and content of the degree, entry level qualifications, and learning outcomes.
 
 ---
@@ -44,7 +44,7 @@ Links 🔗 and PDFs 📄 about the University of London in general, as well as r
 
 * [**University of London Website**](https://london.ac.uk/) The official website of the University of London. Did you know that the University of London has been offering Distance-Learning programmes since the 19th century?
 * [**University of London Prospectus (2020)**](https://london.ac.uk/sites/default/files/prospectuses/GIP-2020.pdf) Admissions prospectus about the University of London in general. A polished, informative summary for the prospective student.
-* [**General Regulations**](https://london.ac.uk/sites/default/files/regulations/progregs-general-2020-2021.pdf) Handbook of rules and regulations governing the University of London *If you will only read one document from this section, read this one.* Contains almost every detail about specific workings and systems of the University of London.
+* [**General Regulations**](https://london.ac.uk/sites/default/files/regulations/general-regulations-2021-2022.pdf) Handbook of rules and regulations governing the University of London *If you will only read one document from this section, read this one.* Contains almost every detail about specific workings and systems of the University of London.
 * [**Student's Guide**](https://my.london.ac.uk/documents/10197/2676152/Student+Guide/07f72f0b-fd7d-cc23-603f-db6c31bfa5e2) Guide for current students of the University of London. Includes information like how to get funding, online libraries, and support networks
 * [**Student Terms and Conditions**](https://london.ac.uk/sites/default/files/governance/student-terms-and-conditions.pdf) Important legal contract which covers the consumer rights and legal protections for enrolled students. Includes information on refunds.
 * [**List of Exam Centres (Worldwide)**](https://my.london.ac.uk/documents/10197/2926462/examcentres-worldwide2/659d044f-25c3-2a01-fd7e-0667e3d9e71a)

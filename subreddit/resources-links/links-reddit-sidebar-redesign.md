@@ -14,11 +14,11 @@ Admissions prospectus on the BSc Computer Science for interested students. A pol
 [**Structure & Module Descriptions**](https://london.ac.uk/computer-science-structure)
 A high-level summary of the 22 modules and Final Project which makes up the Programme, seperated by Levels.
 
-[**Programme Regulations (2020-2021)**](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf)
+[**Programme Regulations (2021-2022)**](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf)
 The 'Bible' of the BSc Computer Science degree. _If you will only read one document from this section, read this one._ Contains almost every detail about specific workings and regulations.
 https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf
 
-[**Programme Specification (2020-2021)**](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2020-21.pdf)
+[**Programme Specification**](https://london.ac.uk/sites/default/files/programme-specifications/progspec-bsc-computer-science.pdf)
 A broad outline and overview of the structure and content of the degree, entry level qualifications, and learning outcomes.
 
 ## About the University of London 🇬🇧
@@ -31,7 +31,7 @@ The official website of the University of London. Did you know that the Universi
 [**University of London Prospectus (2020)**](https://london.ac.uk/sites/default/files/prospectuses/GIP-2020.pdf)
 Admissions prospectus about the University of London in general. A polished, informative summary for the prospective student.
 
-[**General Regulations**](https://london.ac.uk/sites/default/files/regulations/progregs-general-2020-2021.pdf)
+[**General Regulations**](https://london.ac.uk/sites/default/files/regulations/general-regulations-2021-2022.pdf)
 Handbook of rules and regulations governing the University of London _If you will only read one document from this section, read this one._ Contains almost every detail about specific workings and systems of the University of London.
 
 [**Student's Guide**](https://my.london.ac.uk/documents/10197/2676152/Student+Guide/07f72f0b-fd7d-cc23-603f-db6c31bfa5e2)

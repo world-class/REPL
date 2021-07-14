@@ -258,7 +258,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   2. you are still within your maximum period of registration;
   3. you have not failed at the final attempt, a module that is core on the degree to which you wish to transfer;
   4. you have not passed more than one Level 6 module which does not fit on the degree to which you wish to transfer;
-  5. you are not yet eligible for the BSc award upon which you are currently registered. For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf).
+  5. you are not yet eligible for the BSc award upon which you are currently registered. For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf).
 
 ### How can I drop/withdraw from module
 
@@ -267,7 +267,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 ### What is the maximum number of modules that one can select per semester and what if I fail one module
 
 - The maximum number of modules you can register for in any one session is five (or three plus the final project). This can be a combination of new modules and resits (with a maximum of four new modules), or resits only.
-- For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf).
+- For further information please see the [programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf).
 
 ### Where can I see a syllabus or module specification of all available modules
 
@@ -353,7 +353,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 
 ## Programme regulations
 
-This (intentionally short!) section serves as a reminder to read [the programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf) in details :book:, which answers general questions well enough.
+This (intentionally short!) section serves as a reminder to read [the programme regulations](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf) in details :book:, which answers general questions well enough.
 
 Some of the questions that can be answered by reading the programme regulations:
 

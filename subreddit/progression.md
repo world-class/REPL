@@ -13,7 +13,7 @@ Each Level is more advanced than the previous Level, hence there are *progressio
 
 > **Requirements to progress through the BSc**
 >
-> **5.6**
+> **5.11**
 >
 > To progress to FHEQ Level 5 modules, you must have:
 >
@@ -23,7 +23,7 @@ Each Level is more advanced than the previous Level, hence there are *progressio
 >
 > * registered for any Level 4 modules not yet attempted alongside your Level 5 modules, excluding any for which you have been awarded credit through recognition of prior learning
 
-Source: [Programme Regulations, Section 5.6, Page 12](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf)
+Source: [Programme Regulations, Section 5.11, Page 16](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf)
 
 ## Are all Level 4 modules offered every term?
 **No. The Discrete Mathematics (DM) and Computational Mathematics (CM) modules are only available on an alternating basis.** Discrete Mathematics is only available on the October (Fall) term, while Computational Mathematics is only available on the April (Spring) term.
@@ -139,7 +139,7 @@ You really don't need a schedule to not be progression-blocked, as long as you c
 * *[No longer at risk of being 'progression-blocked']*
 
 ## What about progression from Level 5 to Level 6? Or from Level 6 to Final Project?
-There is are separate sets of progression requirements which govern further progression into the degree programme. These rules can be found in the [Programme Regulations, Sections 5.6 and 5.8 (pages 12-13)](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf).
+There is are separate sets of progression requirements which govern further progression into the degree programme. These rules can be found in the [Programme Regulations, Sections 5.11 and 5.12 (pages 16-17)](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf).
 
 As these are more advanced topics that are only relevant to advanced students, they are out-of-scope for this guide. Students are encouraged to consult the Programme Regulations, and direct their questions to the private students-only Slack.
 
@@ -148,9 +148,9 @@ You may run into issues. You could potentially avoid being severely delayed [if 
 
 ## Conclusion and Further Resources
 
-- [General Regulations](https://london.ac.uk/sites/default/files/regulations/progregs-general-2020-2021.pdf)
-- [Programme Regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf)
-- [Programme Specification](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2020-21.pdf)
+- [General Regulations](https://london.ac.uk/sites/default/files/regulations/general-regulations-2021-2022.pdf)
+- [Programme Regulations](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf)
+- [Programme Specification](https://london.ac.uk/sites/default/files/programme-specifications/progspec-bsc-computer-science.pdf)
 - [Computer Science - Structure](https://london.ac.uk/computer-science-structure)
 
 Thank you all for reading this guide to progression requirements within the University of London's BSc of Computer Science! If you have any questions, feel free to join us at the unofficial Discord server ([invitation link](https://discord.gg/GhRFG5X))!
