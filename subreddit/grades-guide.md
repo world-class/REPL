@@ -4,7 +4,7 @@ Hello /r/UniversityOfLondonCS!
 
 A lot of new prospective students have joined our Discord (if you haven't seen it yet, [check it out](https://discord.gg/GhRFG5X)!) -- and I've noticed a lot of questions regarding the grades and assessment structure of this degree.
 
-All of the information here is available in the [University of London General Regulations](https://london.ac.uk/sites/default/files/regulations/progregs-general-2020-2021.pdf), as well as the [degree-specific Programme Regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf) -- but the documents are long and can be a bit obscure. Hence, I've decided to write a casual beginner's guide to how grades in this degree work.
+All of the information here is available in the [University of London General Regulations](https://london.ac.uk/sites/default/files/regulations/general-regulations-2021-2022.pdf), as well as the [degree-specific Programme Regulations](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf) -- but the documents are long and can be a bit obscure. Hence, I've decided to write a casual beginner's guide to how grades in this degree work.
 
 **This guide will take the form of an inverse-pyramid: I'll start by talking about the general organization of the degree as a whole, and then the grading and assessments of a typical module, and then finally the structure of a typical exam.**
 
@@ -40,7 +40,7 @@ These additional qualifications are called Intermediate Qualifications or Exit Q
 
 ## Structure of Assessments within a module
 
-Now that I've given a sufficient overview of the degree programme as a whole, go into further detail about grades and assessments in the typical class. Information for this section primarily comes from the [Programme Specification](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2020-21.pdf).
+Now that I've given a sufficient overview of the degree programme as a whole, go into further detail about grades and assessments in the typical class. Information for this section primarily comes from the [Programme Specification](https://london.ac.uk/sites/default/files/programme-specifications/progspec-bsc-computer-science.pdf).
 
 Typically, there are two general types of modules. I'll call them _"exam-based modules"_, or _"project-based modules"_ -- even though those aren't their real names.
 
@@ -111,7 +111,7 @@ As of always, if you have any further questions, you are welcome to ask me -- or
 
 ## Sources and Further Reading
 
-- [General Regulations](https://london.ac.uk/sites/default/files/regulations/progregs-general-2020-2021.pdf)
-- [Programme Regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf)
-- [Programme Specification](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2020-21.pdf)
+- [General Regulations](https://london.ac.uk/sites/default/files/regulations/general-regulations-2021-2022.pdf)
+- [Programme Regulations](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf)
+- [Programme Specification](https://london.ac.uk/sites/default/files/programme-specifications/progspec-bsc-computer-science.pdf)
 - [Computer Science - Structure](https://london.ac.uk/computer-science-structure)

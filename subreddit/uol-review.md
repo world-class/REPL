@@ -122,7 +122,7 @@ Interested? Feel free to ask me any questions in this thread. AMA! :)
 ### Detailed Information
 
 - [Course Structure with List of Classes:](https://london.ac.uk/computer-science-structure) This is the official Course Structure, with information on all the individual semester-long classes, which compose the degree.
-- [Programme Specification (PDF):](https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2020-21.pdf) This is the 'Bible' of the degree -- here are all the detailed rules and administrative guides. If you have detailed, specific questions about grade boundaries, retaking exams, et cetera -- this is where to look.
+- [Programme Specification (PDF):](https://london.ac.uk/sites/default/files/programme-specifications/progspec-bsc-computer-science.pdf) This is the 'Bible' of the degree -- here are all the detailed rules and administrative guides. If you have detailed, specific questions about grade boundaries, retaking exams, et cetera -- this is where to look.
 
 ### Unofficial Resources
 

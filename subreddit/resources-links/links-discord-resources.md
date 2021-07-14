@@ -17,13 +17,13 @@ Admissions prospectus on the BSc Computer Science for interested students. A pol
 A high-level summary of the 22 modules and Final Project which makes up the Programme, seperated by Levels.
 :link: https://london.ac.uk/computer-science-structure
 
-**Programme Regulations (2020-2021)**
+**Programme Regulations (2021-2022)**
 The 'Bible' of the BSc Computer Science degree. _If you will only read one document from this section, read this one._ Contains almost every detail about specific workings and regulations.
-:page_facing_up: https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2020-21.pdf
+:page_facing_up: https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf
 
-**Programme Specification (2020-2021)**
+**Programme Specification**
 A broad outline and overview of the structure and content of the degree, entry level qualifications, and learning outcomes.
-:page_facing_up: https://london.ac.uk/sites/default/files/programme-specifications/progspec-computer-science-2020-21.pdf
+:page_facing_up: https://london.ac.uk/sites/default/files/programme-specifications/progspec-bsc-computer-science.pdf
 
 :gb: **About the University of London** :gb:
 Links :link: and PDFs :page_facing_up: about the University of London in general, as well as resources for students.
@@ -38,7 +38,7 @@ Admissions prospectus about the University of London in general. A polished, inf
 
 **General Regulations**
 Handbook of rules and regulations governing the University of London _If you will only read one document from this section, read this one._ Contains almost every detail about specific workings and systems of the University of London.
-:page_facing_up: https://london.ac.uk/sites/default/files/regulations/progregs-general-2020-2021.pdf
+:page_facing_up: https://london.ac.uk/sites/default/files/regulations/general-regulations-2021-2022.pdf
 
 **Student's Guide**
 Guide for current students of the University of London. Includes information like how to get funding, online libraries, and support networks
