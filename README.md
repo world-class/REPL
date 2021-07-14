@@ -334,7 +334,7 @@ following modules.</p>
 <td><a href="modules/level-6/cm-3030-games-development">Games Development</a></td>
 <td><strong>GD</strong></td>
 <td><strong>CM3030</strong></td>
-<td><strong>No</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JX9YQ32N">#cm3030-games-development</a></code></td>
 </tr>
 <tr>
@@ -383,7 +383,7 @@ following modules.</p>
 <td><a href="modules/level-6/cm-3025-virtual-reality">Virtual Reality</a></td>
 <td><strong>VR</strong></td>
 <td><strong>CM3025</strong></td>
-<td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKPQV3K">#cm3025-virtual-reality</a></code></td>
 </tr>
 </tbody>

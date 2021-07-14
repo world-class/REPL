@@ -43,7 +43,7 @@ of the relevant theory.
 
 ## Assessment
 
-Two unseen written examination and coursework (Type I) [midterm and final coursework]
+Coursework only (Type III)
 
 ## Module specification
 

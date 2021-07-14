@@ -30,7 +30,7 @@ building social VR experiences with interactive virtual characters.
 
 ### Assessment
 
-One two-hour unseen written examination and coursework (Type I)
+Coursework only (Type III)
 
 ## Resources
 
