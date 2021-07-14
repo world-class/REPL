@@ -533,11 +533,11 @@ If you have any specific queries about something you have created which you are 
 
 ### What can be accepted as RPL
 
-- If you are registered on a full BSc programme, you may apply for recognition of prior learning for up to 120 credits at Level 4. We consider applications for recognition of prior learning (RPL) on the basis of studies successfully completed at an appropriate level. Further information regarding automatic and discretionary RPL for BSc Computer Science can be found on the website here: [https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
+- If you are registered on a full BSc programme, you may apply for recognition of prior learning for up to 120 credits. We consider applications for recognition of prior learning (RPL) on the basis of studies successfully completed at an appropriate level. Further information regarding automatic and discretionary RPL for BSc Computer Science can be found on the website here: [https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
 
 ### Can we still apply RPL for Google IT Support course anytime during this semester or next
 
-- Please be advised that it is recognized by the University of London as prior learning, giving students exemption from the module How Computers Work at level 4. The deadline to register for RPL for the October 2019 session was 26 August 2019. If you wish to apply for RPL for the April 2020 session, you will be able to do so from 16 December 2019.
+- You can apply at any time before you take your first level 5 module. Beware that RPL will take some time to be proceeded.
 
 ### Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration
 
