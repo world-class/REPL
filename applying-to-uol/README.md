@@ -123,8 +123,7 @@ application form, and upon acceptance you will have been given
 detailed instructions on how to go about submitting proof for RPL.
 
 There is cost and limitations involved. Currently RPL costs 392 GBP
-for all 8 modules, and students are only able to receive RPL for Level
-4 or first year modules.
+for all 8 modules, and students are only able to receive RPL for up to 120 credits.
 
 You can get RPL credit in 3 of the following ways:
 
