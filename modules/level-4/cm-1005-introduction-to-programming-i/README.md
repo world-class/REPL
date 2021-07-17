@@ -19,6 +19,7 @@
     - [Tips & Tricks](#tips--tricks)
     - [Utils and aids (student created)](#utils-and-aids-student-created)
   - [Text editor](#text-editor)
+    - [Configuring VS Code](#configuring-vs-code)
 
 ---
 
@@ -105,5 +106,42 @@ _"Specific readings for each topic are listed with direct links to free online r
 ### Text editor
 
 - The officially recommended text editor for this module is still [Brackets](http://brackets.io/). More options available on the [free software page](../../../software/).
-- :exclamation: **Note**: support for Brackets is ending on September 1, 2021. [VS Code](https://code.visualstudio.com/) is a good alternative.
-  - [How to Set Up Live Server and Browser Auto Refresh In Visual Studio Code](https://www.youtube.com/watch?v=y4qqQeUDCBQ) - YouTube
+- **Note**: support for Brackets is ending on September 1, 2021. [VS Code](https://code.visualstudio.com/) is a good alternative.
+
+#### Configuring VS Code
+
+VS Code supports Javascript and its ecosystem by default, but you may want to enable more functionality by installing the following extensions:
+
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - starts a development server straight from Code, allowing you to preview your work in the browser as if it was hosted on a remote server. For installation instructions, see [this video](https://www.youtube.com/watch?v=y4qqQeUDCBQ)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - auto-completes filesystem paths, for example when loading assets with p5.js
+
+Once you've gained some experience and confidence, you may want to try these as well:
+
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - allows you to run snippets of JS and other languages straight from Code, provided that a suitable runtime is installed (eg. Node.js). This is useful for experimentation and for small projects
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - checks for "[code lint](https://en.wikipedia.org/wiki/Lint_(software))" in JS. Requires [ESLint](https://eslint.org/) to be installed, and may require some configuration to conform with the style used in the course (for more information on using ESLint, see the [ESLint user guide](https://eslint.org/docs/user-guide/configuring/); for a sample configuration that's compatible with ITP1, see [here](https://gist.githubusercontent.com/morags/2d762fd51c5ea4d733756baaf20cc6cc/raw/4093a82e966b38a75ba32bc0f623d61412ee047c/.eslintrc.json))
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - useful when you start working on several projects at a time
+
+To enable autocompletion for p5.js, first install [Node.js](https://nodejs.org/en/). Node is a JS [runtime](https://en.wikipedia.org/wiki/Runtime_system) - a program that runs JS code. It's not entirely unlike your browser's JS engine - in fact, it is based on Chrome's [V8 engine](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) - but it's intended for servers and commandline programs rather than web pages. Its package manager, [npm](https://www.npmjs.com/), is useful for setting up JS projects of any scale, so it's a good tool to have if you're going to work with JS. When you install Node, make sure to choose the option "add to PATH", so you have Node and npm available throughout your system. Once Node and npm are installed, open Code and a commandline interface (`cmd.exe` or `powershell.exe` in Windows, `Terminal` in macOS), navigate to your project folder (eg. `Documents/Goldsmiths/ITP1/Game_project`) and follow these steps:
+
+1. Type the following command into your commandline: `npm i --save-dev @types/p5` . This will tell npm to download type definitions for p5.js. You will notice that npm has created a `node_modules` folder and a couple of files, which it uses to track and manage downloaded packages; you needn't worry about those at the moment (for more information on npm, see the [npm Docs](https://docs.npmjs.com/cli/v7/commands/npm)).
+2. In Code, create a new file with the following text, and save it to the project folder as `jsconfig.json`:
+
+```json
+{
+  "compilerOptions": {},
+  "exclude": ["node_modules"],
+}
+```
+
+This will let Code know that you're working on a JS project and that it should expect some other configuration files like `globals.d.ts` to be present (for more configuration options, see the [jsconfig.json reference](https://code.visualstudio.com/docs/languages/jsconfig)).
+
+3. Create another file with this text, and save it to the project folder as `globals.d.ts`:
+
+```ts
+import {  } from "./node_modules/@types/p5/global";
+```
+
+This will import the type definitions you just downloaded into the global scope, allowing Code to autocomplete all of p5's identifiers from anywhere in your code (for more information on `global.d.ts`, see the [TypeScript documentation](https://www.typescriptlang.org/docs/handbook/declaration-files/templates/global-d-ts.html); for more information on p5.js's modes, see [p5.js's Github wiki](https://github.com/processing/p5.js/wiki/p5.js-overview#user-content-instantiation--namespace)).
+
+Congratulations! Now VS Code is all set up. Keep a copy of Code's [keyboard shortcut reference](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference) handy, and you'll be a Code master in no time!
