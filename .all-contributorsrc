@@ -392,6 +392,16 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "morags",
+      "name": "Morag S.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5771389?v=4",
+      "profile": "https://github.com/morags",
+      "contributions": [
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 4,
