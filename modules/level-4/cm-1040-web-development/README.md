@@ -115,6 +115,6 @@ _Specific readings for each topic are listed with direct links to free online re
 
 If you followed our guide at the [ITP1 resource page]('../cm-1005-introduction-to-programming-i/README.md'), then you already have Visual Studio Code set up. For this course, you may want to install the following extensions in addition to those recommended earlier:
 
-- [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
-- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - checks for "code lint" in CSS. Requires [stylelint](https://stylelint.io/) to be installed, as well as a configuration of your choosing (for more information on installing and configuring stylelint, see the [stylelint Docs](https://stylelint.io/user-guide/get-started))
-- [Web Accessibility](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility) - recommends ways for improving the accessibility of web pages. This isn't an "accessibility silver bullet", but it's a start
+- [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion).
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - checks for "code lint" in CSS. Requires [stylelint](https://stylelint.io/) to be installed, as well as a configuration of your choosing (for more information on installing and configuring stylelint, see the [stylelint Docs](https://stylelint.io/user-guide/get-started)).
+- [Web Accessibility](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility) - recommends ways for improving the accessibility of web pages. This isn't an "accessibility silver bullet", but it's a start.
