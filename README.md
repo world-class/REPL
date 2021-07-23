@@ -423,12 +423,12 @@ specialism. The specialisms are:</p>
 <tr>
 <td><a href="modules/level-6/ml-ai">Machine Learning &amp; Artificial Intelligence</a></td>
 <td><strong>CM3020</strong></td>
-<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CJ2GTGREK">#iot</a></code></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH07V8ADA">#mlai</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/phys-computing-iot">Physical Computing &amp; the Internet of Things</a></td>
 <td><strong>CM3040</strong></td>
-<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH07V8ADA">#mlai</a></code></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CJ2GTGREK">#iot</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/user-experience">User Experience</a></td>
