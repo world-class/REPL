@@ -402,6 +402,15 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "justoneplanet",
+      "name": "Mitsuaki Ishimoto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/397001?v=4",
+      "profile": "https://kaomoji.tokyo/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
