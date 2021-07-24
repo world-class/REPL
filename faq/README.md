@@ -86,7 +86,8 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course](#are-there-opportunities-for-students-to-gain-some-form-of-work-experience-in-the-industry-or-even-undergo-internships-during-the-course)
   - [I feel I need to vent, where can I go](#i-feel-i-need-to-vent-where-can-i-go)
 - [Recognition of Prior Learning (RPL)](#recognition-of-prior-learning-rpl)
-  - [How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate](#how-to-apply-for-a-recognition-of-prior-learning-rpl-with-the-google-it-support-professional-certificate)
+  - [What professional certificates are suitable for RPL](#what-professional-certificates-are-suitable-for-rpl)
+  - [How to apply for an automatic RPL](#how-to-apply-for-an-automatic-rpl)
   - [Is RPL time limited](#is-rpl-time-limited)
   - [What can be accepted as RPL](#what-can-be-accepted-as-rpl)
   - [Can we still apply RPL for Google IT Support course anytime during this semester or next](#can-we-still-apply-rpl-for-google-it-support-course-anytime-during-this-semester-or-next)
@@ -514,9 +515,18 @@ If you have any specific queries about something you have created which you are 
 
 ## Recognition of Prior Learning (RPL)
 
-### How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate
+### What professional certificates are suitable for RPL
 
-- See [this article in the Subreddit section of the REPL](../subreddit/rpl-guide.md) for details.
+You can find the up-to-date list of certificates eligible for automatic RPL [here](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
+
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+- [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
+- [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+### How to apply for an automatic RPL
+
+- See [this article](../subreddit/rpl-guide.md) in the Subreddit section of the REPL for an example on how to get RPL in How Computers Work module with Google IT Professional Certificate.
 
 ### Is RPL time limited
 
@@ -533,7 +543,7 @@ If you have any specific queries about something you have created which you are 
 
 ### What can be accepted as RPL
 
-- If you are registered on a full BSc programme, you may apply for recognition of prior learning for up to 120 credits. We consider applications for recognition of prior learning (RPL) on the basis of studies successfully completed at an appropriate level. Further information regarding automatic and discretionary RPL for BSc Computer Science can be found on the website here: [https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
+- If you are registered on a full BSc programme, you may apply for recognition of prior learning for up to 120 credits. We consider applications for recognition of prior learning (RPL) on the basis of studies successfully completed at an appropriate level. Further information regarding automatic and discretionary RPL for BSc Computer Science can be found on the website [here](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
 
 ### Can we still apply RPL for Google IT Support course anytime during this semester or next
 
