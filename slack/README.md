@@ -126,22 +126,24 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 #### Modules level 6
 
-| Channel                                         | Module name                                                                                             |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| `#cm3005-data-science`                          | [Data Science](../modules/level-6/cm-3005-data-science)                                                 |
-| `#cm3010-databases-advanced-data-techniques`    | [Databases and Advanced Data Techniques](../modules/level-6/cm-3010-databases-advanced-data-techniques) |
-| `#cm3015-machine-learning-and-neural-networks`  | [Machine Learning and Neural Networks](../modules/level-6/cm-3015-machine-learning-neural-networks)     |
-| `#cm3020-artificial-intelligence`               | [Artificial Intelligence](../modules/level-6/cm-3020-artificial-intelligence)                           |
-| `#cm3025-virtual-reality`                       | [Virtual Reality](../modules/level-6/cm-3025-virtual-reality)                                           |
-| `#cm3030-games-development`                     | [Games Development](../modules/level-6/cm-3030-games-development)                                       |
-| `#cm3035-adv-web-dev`                           | [Advanced Web Development](../modules/level-6/cm-3035-advanced-web-development)                         |
-| `#cm3040-physical-computing-internet-of-things` | [Physical Computing and the Internet of Things](../modules/level-6/cm-3040-physical-computing-iot)      |
-| `#cm3045-3d-graphics-animation`                 | [3D Graphics and Animation](../modules/level-6/cm-3045-3d-graphics-animation)                           |
-| `#cm3050-mobile-development`                    | [Mobile Development](../modules/level-6/cm-3050-mobile-development)                                     |
-| `#cm3055-interaction-design`                    | [Interaction Design](../modules/level-6/cm-3055-interaction-design)                                     |
-| `#cm3060-natural-language-processing`           | [Natural Language Processing](../modules/level-6/cm-3060-natural-language-processing)                   |
-| `#cm3065-intelligent-signal-processing`         | [Intelligent Signal Processing](../modules/level-6/cm-3065-intelligent-signal-processing)               |
-| `#cm3070-final-project`                         | [Final Project](../modules/level-6/cm-3070-final-project)                                               |
+| Channel                                           | Module name                                                                                             |
+| --------------------------------------------------| ------------------------------------------------------------------------------------------------------- |
+| `#cm3005-data-science` \*                         | [Data Science](../modules/level-6/cm-3005-data-science)                                                 |
+| `#cm3010-databases-advanced-data-techniques`      | [Databases and Advanced Data Techniques](../modules/level-6/cm-3010-databases-advanced-data-techniques) |
+| `#cm3015-machine-learning-and-neural-networks` \* | [Machine Learning and Neural Networks](../modules/level-6/cm-3015-machine-learning-neural-networks)     |
+| `#cm3020-artificial-intelligence`                 | [Artificial Intelligence](../modules/level-6/cm-3020-artificial-intelligence)                           |
+| `#cm3025-virtual-reality`                         | [Virtual Reality](../modules/level-6/cm-3025-virtual-reality)                                           |
+| `#cm3030-games-development`                       | [Games Development](../modules/level-6/cm-3030-games-development)                                       |
+| `#cm3035-adv-web-dev`                             | [Advanced Web Development](../modules/level-6/cm-3035-advanced-web-development)                         |
+| `#cm3040-physical-computing-internet-of-things`   | [Physical Computing and the Internet of Things](../modules/level-6/cm-3040-physical-computing-iot)      |
+| `#cm3045-3d-graphics-animation`                   | [3D Graphics and Animation](../modules/level-6/cm-3045-3d-graphics-animation)                           |
+| `#cm3050-mobile-development`                      | [Mobile Development](../modules/level-6/cm-3050-mobile-development)                                     |
+| `#cm3055-interaction-design`                      | [Interaction Design](../modules/level-6/cm-3055-interaction-design)                                     |
+| `#cm3060-natural-language-processing`             | [Natural Language Processing](../modules/level-6/cm-3060-natural-language-processing)                   |
+| `#cm3065-intelligent-signal-processing`           | [Intelligent Signal Processing](../modules/level-6/cm-3065-intelligent-signal-processing)               |
+| `#cm3070-final-project`                           | [Final Project](../modules/level-6/cm-3070-final-project)                                               |
+
+\* These modules can be skipped with RPL (Recognition of Prior Learning). See the [FAQ here](../faq#recognition-of-prior-learning-rpl).
 
 #### Specialisms
 

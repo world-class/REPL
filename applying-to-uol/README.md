@@ -113,8 +113,8 @@ as soon as possible.**
 
 RPL is the exemption of modules taken if you had taken it before
 in a prior diploma or university. It can be seen as a form of
-credit transfer. Full regulations can be found in the [course
-regulations](https://london.ac.uk/sites/default/files/regulations/progregs-computer-science-2019-2020.pdf). Grades attained from the
+credit transfer. Full regulations can be found in the [programme
+regulations](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf). Grades attained from the
 programme will not be transferred, however a listing of the grade will
 be written on your transcript.
 
@@ -122,14 +122,18 @@ You will have stated your intention to apply for RPL in your
 application form, and upon acceptance you will have been given
 detailed instructions on how to go about submitting proof for RPL.
 
-There is cost and limitations involved. Currently RPL costs 392 GBP
-for all 8 modules, and students are only able to receive RPL for up to 120 credits.
+Students can get RPL for up to 120 credits (8 modules).
 
-You can get RPL credit in 3 of the following ways:
+You can apply for automatic or discretionary recognition of your prior learning. 
 
-1. [Automatic RPL: You hold a diploma from the colleges stated/are transferring from one of UoL's on-campus programmes](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3)
-2. [Discretionary RPL: You have a diploma/incomplete degree not stated but would like the programme director to consider for RPL](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3)
-3. [Google's IT Diploma: You completed the course and would like the HCW exemption](https://www.coursera.org/professional-certificates/google-it-support)
+Discretionary RPL costs 464 GBP for all 8 modules. Automatic RPL application is free of charge. The list of approved automatic RPL could be found [here](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
+
+In particular, four non-university certificates provided via Coursera:
+
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+- [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
+- [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 RPL from a discretionary route will take awhile. Students have
 reported the process taking a full month before the process was

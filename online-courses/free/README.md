@@ -60,7 +60,10 @@
 
 - [Top 50 Free Online Courses of All Time](https://www.classcentral.com/collection/top-free-online-courses) on Class Central.
 - Courses with the :black_square_button: emoji mean they can be used for RPL (Recognition of Prior Learning) for the BSc Computer Science at University of London, because they serve as a proof. :black_square_button:
-  - Currently, only the :black_square_button: [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) is eligible.
+  - :black_square_button: [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+  - :black_square_button: [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
+  - :black_square_button: [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+  - :black_square_button: [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ---
 
@@ -242,6 +245,7 @@
 - [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) - DataCamp.
 - [Python for Data Science](https://www.edx.org/course/python-for-data-science-2) - edX. Offered by UCSanDiego.
 - [University of California, San Diego: Data Science](https://www.edx.org/micromasters/uc-san-diegox-data-science) - edX MicroMaster
+- :black_square_button: [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ### Data analysis
 
@@ -382,8 +386,8 @@
 
 ## Support & Operations
 
-- :black*square_button: [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) *"The program will introduce you to troubleshooting, customer service, networking, operating systems, system administration and security."\_
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) - Coursera. (free to audit, :heavy*dollar_sign: paid certification) *"Automate tasks by writing Python scripts. Use Git and GitHub for version control. Manage IT resources at scale, both for physical machines and virtual machines in the cloud. Analyze real-world IT problems and implement the appropriate strategies to solve those problems."\_
+- :black_square_button: [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) *"The program will introduce you to troubleshooting, customer service, networking, operating systems, system administration and security."*
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) - Coursera. (free to audit, :heavy_dollar_sign: paid certification) *"Automate tasks by writing Python scripts. Use Git and GitHub for version control. Manage IT resources at scale, both for physical machines and virtual machines in the cloud. Analyze real-world IT problems and implement the appropriate strategies to solve those problems."*
 
 ## Web development
 
