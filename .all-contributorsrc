@@ -411,6 +411,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "knez",
+      "name": "Nikola Knežević",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48497634?v=4",
+      "profile": "https://knez.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
