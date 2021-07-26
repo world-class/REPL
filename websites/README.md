@@ -222,6 +222,7 @@
 - :heart: [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - _"A collection of awesome lists for hackers, pentesters & security researchers."_
 - [Hacksplaining](https://www.hacksplaining.com/) - _"Hacksplaining: Learn to hack."_
 - [Hacker Tools](https://hacker-tools.github.io) - _"Learn to make the most of the tools that hackers have been using for decades."_
+- [pwn.college](https://pwn.college) - _"Education platform to learn about, and practice, core cybersecurity concepts in a hands-on fashion."_
 
 ## LaTeX
 
