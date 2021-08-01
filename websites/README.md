@@ -263,7 +263,9 @@
 
 ### Discrete mathematics
 
-- [Readings from MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
+- [cs2102: Discrete Math](https://uvacs2102.github.io/) - _"Propositions and proofs, Proof methods (including proof by construction, contradiction, and induction), Logic (Boolean logic, logical formulas, quantifiers), Binary relations, State machines, Finite and infinite sets, Number theory, Counting techniques, Probability theory."_
+- [Readings from MIT OpenCourseWare (2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
+- [Readings from MIT OpenCourseWare (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) on proofs, graph theory, recurrences, probability.
 
 #### Algorithms
 

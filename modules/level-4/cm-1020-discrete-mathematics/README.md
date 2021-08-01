@@ -62,10 +62,13 @@ One two hour unseen written examination and coursework (Type I)
 
 ### Additional reading
 
+- :star: :3rd_place_medal: [Mathematics for Computer Science](https://uvacs2102.github.io/docs/mcs.pdf) - _"Proofs, Structures, Counting, Probability, Recurrences."_
 - [A Guide to Writing Proofs](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/A_Guide_to_Writing_Proofs.pdf).
+- [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/BookOfProof.pdf) - _"Fundamentals, How to Prove Conditional Statements, More on Proof, Relations, Functions and Cardinality."_
 - [Common Mistakes in Discrete Math](https://highered.mheducation.com/sites/0073383090/student_view0/common_mistakes_in_discrete_math.html) (from the companion website to the essential reading for the book _Discrete Mathematics and its Applications_).
 - [Discrete Mathematics Questions and Answers](https://www.sanfoundry.com/1000-discrete-mathematics-questions-answers) - _"Our 1000+ Discrete Mathematics questions and answers focuses on all areas of Discrete Mathematics subject covering 100+ topics in Discrete Mathematics."_
 - [Induction: going through examples (UoL students)](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/induction_example.pdf).
+- [Lectures in discrete mathematics](http://cseweb.ucsd.edu/~gill/BWLectSite/) - _"Arithmetic, Logic and Numbers, Sets, Equivalence and Order, Lists, Decisions and Graphs."_
 - [Matching (Graph Theory)](https://brilliant.org/wiki/matching) - _"Definition, terminology, bipartite matching, examples."_
 - [Readings from MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
 - [Set Theory for Computer Science](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/set_theory_for_computer_science.pdf).
