@@ -39,7 +39,7 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 - [University of Texas](https://www.cs.utexas.edu/graduate-program/masters-program/online-option/courses) - [see it on edX](https://www.edx.org/masters/online-master-science-computer-science-utaustinx)
 
 ### Artificial intelligence
-
+- [University of London](https://london.ac.uk/msc-data-science-and-artificial-intelligence-structure) Moodle, Bursary of 10% for UoL BSc alumni
 - [Keele University](https://online.keele.ac.uk/online-programme/msc-computer-science-with-artificial-intelligence/)
 
 ### Analytics
@@ -58,7 +58,7 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 - [Georgia Tech](https://www.edx.org/masters/online-master-science-cybersecurity-georgia-tech) - edX
 
 ### Data science
-
+- [University of London](https://london.ac.uk/msc-data-science-structure) Moodle, bursary of 10% for UoL BSc alumni
 - [University of California, San Diego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures) - edX
 - [University of Colorado Boulder](https://www.colorado.edu/program/data-science/coursera-overview)
 - [University of Illinois](https://www.coursera.org/degrees/masters-in-computer-data-science) - Coursera
