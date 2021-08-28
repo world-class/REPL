@@ -10,6 +10,7 @@
 - [Books](#books)
 - [Career and growth](#career-and-growth)
   - [Advice](#advice)
+  - [More learning at the university level](#more-learning-at-the-university-level)
   - [Reaching the next level](#reaching-the-next-level)
   - [Resume building](#resume-building)
   - [Thinking tools](#thinking-tools)
@@ -134,6 +135,11 @@
 ### Advice
 
 - [TopResume](https://www.topresume.com/career-advice). _"Job-search tips and expert advice to help you get ahead in your career."_
+
+### More learning at the university level
+
+[Jumpstart University](https://www.open.edu/openlearn/education-development/jumpstart-university/) - _"Free Learning from
+The Open University."_
 
 ### Reaching the next level
 
