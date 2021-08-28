@@ -58,6 +58,8 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 - [Georgia Tech](https://www.edx.org/masters/online-master-science-cybersecurity-georgia-tech) - edX
 
 ### Data science
+
+- [University of Arizona](https://www.upgrad.com/us/data-science-ms-uoa/) - Upgrad
 - [University of London](https://london.ac.uk/msc-data-science-structure) Moodle, bursary of 10% for UoL BSc alumni
 - [University of California, San Diego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures) - edX
 - [University of Colorado Boulder](https://www.colorado.edu/program/data-science/coursera-overview)
