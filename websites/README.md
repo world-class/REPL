@@ -250,6 +250,7 @@ The Open University."_
 ## Mathematics
 
 - [Mathematics 16A, 002 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk) - UC Berkeley
+- [Mathematics modules](https://www.kcl.ac.uk/study-at-kings/ug/subjects/mathematics) - Covers Calculus I, Linear Algebra, Intro to (Abstract) Algebra and Intro to Dynamical Systems. - King's College London
 
 ### Beginner topics
 
@@ -259,6 +260,7 @@ The Open University."_
 
 - [Calculus III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) - _Here are my online notes for my Calculus III course that I teach here at Lamar University. Despite the fact that these are my “class notes”, they should be accessible to anyone wanting to learn Calculus III or needing a refresher in some of the topics from the class._
 - [Calculus for beginners, from MIT](http://www-math.mit.edu/~djk/calculus_beginners) - _"Calculus for Beginners and Artists"_
+- [Calculus from scratch](https://www.coursera.org/instructor/robghrist) - Covers single variable in multiple courses. - Coursera (Robert Ghrist, University of Pennsylvania)
 - [Calculus problem set](https://www.math.ucdavis.edu/~kouba/ProblemsList.html)
 
 #### Derivatives
