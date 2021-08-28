@@ -17,4 +17,4 @@ The following list is a showcase of student-built applications, technologies, fr
 
 ## Tools
 
-- [UoL Grades Calculator](https://github.com/sglavoie/uol-grades-calculator) - Grades calculator for this BSc Computer Science at the University of London, by [Sébastien Lavoie (BSc CS - ML/AI program)](https://github.com/sglavoie).
+- [UoL Grades Calculator](https://github.com/sglavoie/uol-grades-calculator) - Grades calculator for this BSc Computer Science at the University of London, by [Sébastien Lavoie (BSc CS - General path)](https://github.com/sglavoie).
