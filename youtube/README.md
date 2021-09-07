@@ -268,6 +268,8 @@
 
 ## General topics
 
+- :heart: [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - 3Blue1Brown. _"Some combination of math and entertainment, depending on your disposition."_
+  - [Grant Sanderson](https://www.youtube.com/c/GrantSanderson/) - _"Sister channel to 3Blue1Brown for side projects."_
 - [Numberphile](https://www.youtube.com/user/numberphile/) (channel) - _"Videos about numbers - it's that simple."_
 
 ### Linear algebra
