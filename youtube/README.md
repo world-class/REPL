@@ -50,6 +50,7 @@
   - [C](#c)
   - [C&#35;](#c-1)
   - [C&#43;&#43;](#c-2)
+  - [General](#general)
   - [JavaScript](#javascript)
   - [PHP](#php)
   - [Python](#python)
@@ -337,6 +338,10 @@
   - [C++ Object Oriented Programming Video Tutorial](https://www.youtube.com/watch?v=xnh7ip5gpzc&list=PLfVsf4Bjg79DLA5K3GLbIwf3baNVFO2Lq) - Playlist by LearningLad
   - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) [4h01m] - freeCodeCamp.org
   - [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Playlist by The Cherno
+
+### General
+
+- [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy/) - James Murphy. _"Programming and mathematics, mostly including Python and C++."_
 
 ### JavaScript
 
