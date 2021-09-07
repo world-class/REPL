@@ -392,6 +392,7 @@
 - [Monsterlessons Academy](https://www.youtube.com/c/MonsterlessonsAcademy) - Oleksandr Kocherhin. Focus on front-end development. _"Javascript, Typescript, React, Angular, Vue, Git, Docker, Node JS and much more."_
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [Web Development Tutorial For Beginners](https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G) (playlist) - LearnCode.academy
+- [Weibenfalk](https://www.youtube.com/c/Weibenfalk) - Thomas Weibenfalk. _"React, Vanilla Javascript, Gatsby, CSS, HTML and occasional backend development. A lot of the focus is on ReactJS cause I love it!"_
 
 #### CSS
 
