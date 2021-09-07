@@ -490,6 +490,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 ### Git / GitHub
 
+- [Conventional Commits](https://www.conventionalcommits.org/) - _"A specification for adding human and machine readable meaning to commit messages."_
 - [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - _"Interactive Git Cheatsheet, categorizing commands based on what they affect."_
 - [Git Immersion](http://gitimmersion.com) - _"A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."_
 - [GitHowTo](https://githowto.com) - _"Git How To is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."_
