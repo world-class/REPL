@@ -4,7 +4,7 @@
 
 - [Computer Security](#computer-security)
 - [Assessment](#assessment)
-- [Mock exam](#mock-exam)
+- [Mock exams](#mock-exams)
 - [Module specification](#module-specification)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
@@ -42,9 +42,9 @@ mathematics underlying the protocols by programming small examples.
 
 One two hour unseen written examination and coursework (Type I)
 
-## Mock exam
+## Mock exams
 
-[March 2021 mock exam](https://github.com/world-class/binary-assets/blob/master/modules/cm2025-csec/cm2025_CS_mock_exam.pdf).
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm2025-csec).
 
 ## Module specification
 
