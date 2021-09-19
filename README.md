@@ -497,6 +497,7 @@ relevant topic for the final project.</p>
 <th>Module name</th>
 <th>Module code</th>
 <th>Written exam?</th>
+<th>Group project?</th>
 <th>Slack channel</th>
 </tr>
 </thead>
@@ -505,6 +506,7 @@ relevant topic for the final project.</p>
 <td><a href="modules/level-6/cm-3070-final-project">Final Project</a></td>
 <td><strong>CM3070</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JS7VL0TG">#cm3070-final-project</a></code></td>
 </tr>
 </tbody>
