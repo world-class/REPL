@@ -130,6 +130,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <th>Abbreviation</th>
 <th>Code</th>
 <th>Written exam?</th>
+<th>Group project?</th>
 <th>Slack channel</th>
 </tr>
 </thead>
@@ -139,6 +140,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>ADS1</strong></td>
 <td><strong>CM1035</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CKZT2SR0U">#cm1035-algos-data-i</a></code></td>
 </tr>
 <tr>
@@ -146,6 +148,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>CM</strong></td>
 <td><strong>CM1015</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH35SEHAS">#cm1015-computational-math</a></code></td>
 </tr>
 <tr>
@@ -153,6 +156,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>DM</strong></td>
 <td><strong>CM1020</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CKZT2LKPW">#cm1020-discrete-math</a></code></td>
 </tr>
 <tr>
@@ -160,6 +164,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>FCS</strong></td>
 <td><strong>CM1025</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CL275HWLF">#cm1025-fundamental-cs</a></code></td>
 </tr>
 <tr>
@@ -167,12 +172,14 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>HCW</strong></td>
 <td><strong>CM1030</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CHFR3DFBR">#cm1030-hcw</a></code> / <code><a href="https://app.slack.com/client/TDT1N1BUG/CHQ2321PG">#rpl-google-it</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-4/cm-1005-introduction-to-programming-i">Introduction to Programming I</a></td>
 <td><strong>ITP1</strong></td>
 <td><strong>CM1005</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH35RKXK8">#cm1005-intro-prog-i</a></code></td>
 </tr>
@@ -181,6 +188,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>ITP2</strong></td>
 <td><strong>CM1010</strong></td>
 <td>No</td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CKNURNQKU">#cm1010-intro-prog-ii</a></code></td>
 </tr>
 <tr>
@@ -188,6 +196,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>WD</strong></td>
 <td><strong>CM1040</strong></td>
 <td>No</td>
+<td><strong>Yes: 30% of total grade</strong></td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH3L72QD8">#cm1040-web-dev</a></code></td>
 </tr>
 </tbody>
@@ -209,6 +218,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <th>Abbreviation</th>
 <th>Code</th>
 <th>Written exam?</th>
+<th>Group project?</th>
 <th>Slack channel</th>
 </tr>
 </thead>
@@ -218,6 +228,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>ASP</strong></td>
 <td><strong>CM2020</strong></td>
 <td>No</td>
+<td><strong>Yes: 100% of total grade</strong></td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A9AR0A4C">#cm2020-agile-software-projects</a></code></td>
 </tr>
 <tr>
@@ -225,6 +236,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>ADS2</strong></td>
 <td><strong>CM2035</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CUKR7TCDD">#cm2035-algos-data-ii</a></code></td>
 </tr>
 <tr>
@@ -232,6 +244,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>CSec</strong></td>
 <td><strong>CM2025</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01AT0JTB7S">#cm2025-computer-security</a></code></td>
 </tr>
 <tr>
@@ -239,12 +252,14 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>DNW</strong></td>
 <td><strong>CM2040</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CU6FK1W75">#cm2040-databases-networks-web</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-5/cm-2030-graphics-programming">Graphics Programming</a></td>
 <td><strong>GP</strong></td>
 <td><strong>CM2030</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CUJ0E4AA1">#cm2030-graphics-programming</a></code></td>
 </tr>
@@ -253,6 +268,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>OOP</strong></td>
 <td><strong>CM2005</strong></td>
 <td>No</td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CUKR6NR0X">#cm2005-object-oriented-programming</a></code></td>
 </tr>
 <tr>
@@ -260,6 +276,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>PWD</strong></td>
 <td><strong>CM2015</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A02PCW1K">#cm2015-programming-with-data</a></code></td>
 </tr>
 <tr>
@@ -267,6 +284,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>SDD</strong></td>
 <td><strong>CM2010</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A9AP06NQ">#cm2010-software-design-development</a></code></td>
 </tr>
 </tbody>
@@ -291,6 +309,7 @@ following modules.</p>
 <th>Abbreviation</th>
 <th>Module code</th>
 <th>Written exam?</th>
+<th>Group project?</th>
 <th>Slack channel</th>
 </tr>
 </thead>
@@ -300,12 +319,14 @@ following modules.</p>
 <td><strong>3DGA</strong></td>
 <td><strong>CM3045</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JX9ZDLKC">#cm3045-3d-graphics-animation</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3035-advanced-web-development">Advanced Web Development</a></td>
 <td><strong>AWD</strong></td>
 <td><strong>CM3035</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C011X11DW5D">#cm3035-adv-web-dev</a></code></td>
 </tr>
@@ -314,6 +335,7 @@ following modules.</p>
 <td><strong>AI</strong></td>
 <td><strong>CM3020</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C012HTC1REG">#cm3020-artificial-intelligence</a></code></td>
 </tr>
 <tr>
@@ -321,6 +343,7 @@ following modules.</p>
 <td><strong>DS</strong></td>
 <td><strong>CM3005</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C011X0RP6Q7">#cm3005-data-science</a></code></td>
 </tr>
 <tr>
@@ -328,6 +351,7 @@ following modules.</p>
 <td><strong>DADT</strong></td>
 <td><strong>CM3010</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JJ7SSML7">#cm3010-databases-advanced-data-techniques</a></code></td>
 </tr>
 <tr>
@@ -335,12 +359,14 @@ following modules.</p>
 <td><strong>GD</strong></td>
 <td><strong>CM3030</strong></td>
 <td>No</td>
+<td><strong>Yes: 100% of total grade</strong></td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JX9YQ32N">#cm3030-games-development</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3065-intelligent-signal-processing">Intelligent Signal Processing</a></td>
 <td><strong>ISP</strong></td>
 <td><strong>CM3065</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01K9UK3865">#cm3065-intelligent-signal-processing</a></code></td>
 </tr>
@@ -349,12 +375,14 @@ following modules.</p>
 <td><strong>ID</strong></td>
 <td><strong>CM3055</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C012QBHE72M">#cm3055-interaction-design</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3015-machine-learning-neural-networks">Machine Learning and Neural Networks</a></td>
 <td><strong>MLNN</strong></td>
 <td><strong>CM3015</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C011X17R90X">#cm3015-machine-learning-and-neural-networks</a></code></td>
 </tr>
@@ -363,6 +391,7 @@ following modules.</p>
 <td><strong>MD</strong></td>
 <td><strong>CM3050</strong></td>
 <td>No</td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKSFM09">#cm3050-mobile-development</a></code></td>
 </tr>
 <tr>
@@ -370,6 +399,7 @@ following modules.</p>
 <td><strong>NLP</strong></td>
 <td><strong>CM3060</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKTE47K">#cm3060-natural-language-processing</a></code></td>
 </tr>
 <tr>
@@ -377,12 +407,14 @@ following modules.</p>
 <td><strong>IOT</strong></td>
 <td><strong>CM3040</strong></td>
 <td>No</td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKRUM25">#cm3040-physical-computing-internet-of-things</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3025-virtual-reality">Virtual Reality</a></td>
 <td><strong>VR</strong></td>
 <td><strong>CM3025</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKPQV3K">#cm3025-virtual-reality</a></code></td>
 </tr>
