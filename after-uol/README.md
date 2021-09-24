@@ -13,6 +13,7 @@
   - [Data science](#data-science)
   - [Machine learning](#machine-learning)
   - [Software Engineering](#software-engineering)
+- [Transferring: Bachelor of Science alternatives](#transferring-bachelor-of-science-alternatives)
 
 # Study: Online options
 
@@ -73,3 +74,7 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 ### Software Engineering
 
 - [University of Leicester](https://le.ac.uk/courses/advanced-software-engineering-msc-dl/2021) (Advanced Software Engineering MSc, PGCert)
+
+## Transferring: Bachelor of Science alternatives
+
+- [Pennsylvania State University](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-software-engineering-bachelors-degree/overview) (Software Engineering)
