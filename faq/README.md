@@ -34,6 +34,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [What kind of materials will the university deliver to us](#what-kind-of-materials-will-the-university-deliver-to-us)
 - [Modules and progression](#modules-and-progression)
   - [How to avoid being 'progression-blocked' due to missing prerequisites, and a suggested module schedule](#how-to-avoid-being-progression-blocked-due-to-missing-prerequisites-and-a-suggested-module-schedule)
+  - [Do I have to notify the university if I want to take a break from the next semester](#do-i-have-to-notify-the-university-if-i-want-to-take-a-break-from-the-next-semester)
   - [Can I publicly share my assignments online on sites like GitHub or GitLab](#can-i-publicly-share-my-assignments-online-on-sites-like-github-or-gitlab)
   - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
   - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
@@ -240,6 +241,10 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 ### How to avoid being 'progression-blocked' due to missing prerequisites, and a suggested module schedule
 
 - See [this article in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
+
+### Do I have to notify the university if I want to take a break from the next semester
+
+- No. Simply do not register for new modules to skip the next semester.
 
 ### Can I publicly share my assignments online on sites like GitHub or GitLab
 
