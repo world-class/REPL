@@ -37,7 +37,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [Do I have to notify the university if I want to take a break from the next semester](#do-i-have-to-notify-the-university-if-i-want-to-take-a-break-from-the-next-semester)
   - [Can I publicly share my assignments online on sites like GitHub or GitLab](#can-i-publicly-share-my-assignments-online-on-sites-like-github-or-gitlab)
   - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
-  - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
+  - [Can a student switch pathways/specialisms as the course goes on](#can-a-student-switch-pathwaysspecialisms-as-the-course-goes-on)
   - [How can I drop/withdraw from module](#how-can-i-dropwithdraw-from-module)
   - [What is the maximum number of modules that one can select per semester and what if I fail one module](#what-is-the-maximum-number-of-modules-that-one-can-select-per-semester-and-what-if-i-fail-one-module)
   - [Where can I see a syllabus or module specification of all available modules](#where-can-i-see-a-syllabus-or-module-specification-of-all-available-modules)
@@ -256,7 +256,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - Note that certain quizzes, especially summative ones, become locked and you cannot even see the questions anymore. Other than that, lectures and other pages remain accessible.
 - On the [main page of the programme on Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/), once the grades are released, the courses will move to the `Summary` tab rather than staying in the `In Progress` tab.
 
-### Can a student switch pathways as the course goes on
+### Can a student switch pathways/specialisms as the course goes on
 
 - You may apply to transfer between BSc Computer Science specialist pathways offered under these regulations provided that
 
