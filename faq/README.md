@@ -15,6 +15,9 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
     - [How long do I have to wait to receive the student email and student card](#how-long-do-i-have-to-wait-to-receive-the-student-email-and-student-card)
     - [What is my username to log in to the student's portal at my.london.ac.uk](#what-is-my-username-to-log-in-to-the-students-portal-at-mylondonacuk)
     - [When do I get access to the modules on Coursera](#when-do-i-get-access-to-the-modules-on-coursera)
+  - [Getting access to student perks](#getting-access-to-student-perks)
+    - [GitHub Student Pack](#github-student-pack)
+    - [O'Reilly Online Learning - Library](#oreilly-online-learning---library)
   - [:question: I need help! Whom should I ask](#question-i-need-help-whom-should-i-ask)
     - [Module-specific inquiries](#module-specific-inquiries)
     - [Non-academic questions](#non-academic-questions)
@@ -151,6 +154,17 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - **Your first step** should be to complete the **Orientation course** on Coursera – otherwise you won't be able to start your modules. Make sure you have selected _University of London_ for your modules on Coursera (see screenshot below) to display the course and then you can access it from [the home page](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home) of this programme on Coursera or [directly from this link](https://www.coursera.org/learn/london-cs-orientation).
   ![coursera UoL selection](https://raw.githubusercontent.com/world-class/binary-assets/master/images/faq/coursera_uol_selection_2020-09-13.png)
 - Even once you have completed the **Orientation course**, you will get access to the modules **once the start date of the semester has been published** – check the home page of the student portal at https://my.london.ac.uk for an official answer and be on the lookout in the `#general` channel of the [Slack workspace](http://londoncs.slack.com/): it will be announced as soon as it is known. Additionally, make sure you have joined the `#announcements-from-uol` channel on Slack because official communication sent by UoL via email will be shared there (this is not a channel for questions, only for communication **FROM** UoL).
+
+### Getting access to student perks
+
+#### GitHub Student Pack
+
+- You can take advantage of the [GitHub student pack](https://education.github.com/pack) by registering with your student email and giving proof of enrollment (a screenshot of your latest payment for any module will do).
+- This gives you access to professional tools from JetBrains (IDEs), free domain names, access to courses on platforms such as FrontendMasters, etc.
+
+#### O'Reilly Online Learning - Library
+
+- [Access it from this link](https://go.oreilly.com/university-of-london-worldwide) to find a plethora of books on algorithms, computer science, math, software developement and many other interesting fields!
 
 ### :question: I need help! Whom should I ask
 
