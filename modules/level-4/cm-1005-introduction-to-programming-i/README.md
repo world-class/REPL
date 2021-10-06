@@ -6,6 +6,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Recognition of Prior Learning](#recognition-of-prior-learning)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Essential reading](#essential-reading)
@@ -54,6 +55,10 @@ Coursework only (Type II)
 ## Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1005_ITP1-Module-Spec.pdf)
+
+## Recognition of Prior Learning
+
+- At the time of this writing, you can apply for [automatic RPL](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3) for this module if you obtain the [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai). **Note:** If you don't have prior programming experience, the course offered by UoL is probably easier and the recommended way to go.
 
 ## Syllabus
 

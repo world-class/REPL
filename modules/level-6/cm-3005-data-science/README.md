@@ -5,8 +5,10 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Recognition of Prior Learning](#recognition-of-prior-learning)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
+  - [:heart: Notes](#heart-notes)
   - [Reading list](#reading-list)
 
 ---
@@ -42,6 +44,10 @@ One two-hour unseen written examination and coursework (Type I)
 ## Module specification
 
 - [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3005_DS-Module-Spec.pdf)
+
+## Recognition of Prior Learning
+
+- At the time of this writing, you can apply for [automatic RPL](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3) for this module if you obtain the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
 
 ## Syllabus
 
