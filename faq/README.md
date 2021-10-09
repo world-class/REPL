@@ -29,6 +29,9 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
     - [:exclamation: What are the basics on how to use Slack](#exclamation-what-are-the-basics-on-how-to-use-slack)
     - [How do I reply to a specific user using threads](#how-do-i-reply-to-a-specific-user-using-threads)
     - [I want to discuss off-topic things with other students, where should I go](#i-want-to-discuss-off-topic-things-with-other-students-where-should-i-go)
+  - [What equipment/software/hardware do I need for this degree](#what-equipmentsoftwarehardware-do-i-need-for-this-degree)
+    - [General](#general)
+    - [Module-specific](#module-specific)
   - [What should I do to stay on top of things and receive important updates and notifications](#what-should-i-do-to-stay-on-top-of-things-and-receive-important-updates-and-notifications)
   - [Is there a simple repository of all knowledge generated regarding this program](#is-there-a-simple-repository-of-all-knowledge-generated-regarding-this-program)
   - [How to access the library](#how-to-access-the-library)
@@ -211,6 +214,30 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 #### I want to discuss off-topic things with other students, where should I go
 
 - A list of Slack channels [can be found here](../slack/README.md).
+
+### What equipment/software/hardware do I need for this degree
+
+- The following is subject to change. Please refer to the [programme's specifications](https://london.ac.uk/courses/computer-science) for details.
+
+#### General
+
+- Computer: requirements are very basic and can be found on the [Computer requirements](https://london.ac.uk/applications/how-apply/computer-requirements) page from the university's website.
+- Other hardware: you will need a webcam (or any other video recording device that can be connected to your computer, such as a smartphone) for some programming courses (at least for [Graphics Programming](../modules/level-5/cm-2030-graphics-programming/README.md)) and a microphone (at least for [Object-Oriented Programming](../modules/level-5/cm-2005-object-oriented-programming/README.md)). The audio recording could be done from a laptop (if it has an integrated microphone) or from a smartphone.
+- Software:
+  - Web browsers: Google Chrome is recommended for programming assignments (in [Introduction to Programming I](../modules/level-4/cm-1005-introduction-to-programming-i/README.md), [Introduction to Programming II](../modules/level-4/cm-1010-introduction-to-programming-ii/README.md), [Graphics Programming](../modules/level-5/cm-2030-graphics-programming/README.md), [Web Development](../modules/level-4/cm-1040-web-development/README.md) and other courses with a focus on web technologies) as this is the browser used by most lecturers. As a backup, Firefox is a great option because it uses a different engine to render pages and you may face different issues on different browsers with libraries such as [p5.js](https://p5js.org/), which is used in a few modules in the degree.
+  - A word processor that accepts Microsoft Word formats (.doc and .docx).
+  - A PDF reader (e.g. Adobe).
+
+#### Module-specific
+
+| Module                                    | Requirements                                                                                                                                                                                                                                           |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3D Graphics and Animation                 | Students will need a computer that matches the specifications for Unity 3D ([https://unity3d.com/](https://unity3d.com/)).                                                                                                                             |
+| Computational Mathematics                 | A scientific calculator or equivalent.                                                                                                                                                                                                                 |
+| Games Development                         | Students will need a computer that matches the specifications for Unity 3D ([https://unity3d.com/](https://unity3d.com/)).                                                                                                                             |
+| Mobile Development                        | Access to an Android or Apple smart phone that can be connected to a computer using a USB cable.                                                                                                                                                       |
+| Physical Computing and Internet of Things | An Arduino Starter Kit or similar: [https://store.arduino.cc/genuino-starter-kit](https://store.arduino.cc/genuino-starter-kit). Optional: A small kit to make electronics at home (tweezers, cutters, cutting mat, protective glasses); A multimeter. |
+| Virtual Reality                           | Students will need a computer that matches the specifications for Unity 3D ([https://unity3d.com](https://unity3d.com)). VR Head Mounted Display with the ability to be used in developer mode.                                                        |
 
 ### What should I do to stay on top of things and receive important updates and notifications
 
