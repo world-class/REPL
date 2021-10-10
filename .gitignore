@@ -6,6 +6,14 @@
 # Created by https://www.gitignore.io/api/latex
 # Edit at https://www.gitignore.io/?templates=latex
 
+
+## Hypothesis test framework
+.hypothesis/
+
+## Virtual environments
+.venv/
+venv/
+
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
 *.aux
