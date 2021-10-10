@@ -24,7 +24,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 
 # Current week
 
-- Semester done/ending :tada:. Start date of the next semester: **Monday 11 October 2021**.
+- Week **1**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
@@ -121,7 +121,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 
 <details>
 <summary><strong>Level 4 (year 1+)</strong></summary>
-  
+
 <div class="table-container">
 <table>
 <thead>
@@ -202,14 +202,14 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 </tbody>
 </table>
 </div>
-  
+
 <p>* <strong>CM is only available in the April session, whereas DM is only available in the October session.</strong></p>
 
 </details>
 
 <details>
 <summary><strong>Level 5 (year 2+)</strong></summary>
-  
+
 <div class="table-container">
 <table>
 <thead>
