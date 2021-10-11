@@ -8,7 +8,8 @@ import fileinput
 
 def main(semester_start_date: datetime = datetime(2021, 10, 11)) -> None:
     """
-    Main function to execute. Simply update the date parameter.
+    Main function to execute. Simply update the date parameter when the
+    current semester is done.
     """
     current_date = datetime.today()
     current_week = get_current_week_number(current_date, semester_start_date)
@@ -31,13 +32,11 @@ def get_current_week_number(
         int: Current week number relative to semester_start_date.
     """
     sunday_start = semester_start_date - timedelta(days=1)
+    sunday_now = current_date - timedelta(days=(current_date.weekday()))
 
     # If it's the day before the next semester, set the week to 1
     if current_date.date() == sunday_start.date():
         return 1
-
-    # If it's Sunday already, don't subtract a week (i.e. % 6)
-    sunday_now = current_date - timedelta(days=(current_date.weekday()))
 
     # Start counting weeks at 1 (not zero even if it's CS so we match week
     # numbers on Coursera ;))
@@ -58,7 +57,7 @@ def get_text_to_display(
     Returns:
         str: Text to display in the README.
     """
-    # In between semesters
+    # In between semesters: semester done and announcing next semester start
     if current_week <= 0:
         next_semester_formatted_date = semester_start_date.strftime(
             "%A %-d %B %Y"
@@ -67,7 +66,8 @@ def get_text_to_display(
             "- Semester done/ending :tada:. Start date "
             f"of the next semester: **{next_semester_formatted_date}**."
         )
-    # Semester done but next semester date not set yet
+
+    # Week between 1 and 22 inclusive = semester ongoing
     if current_week <= 22:
         return f"- Week **{current_week}**."
 
@@ -83,7 +83,7 @@ def get_text_to_display(
             f" is starting? Please [let us know by filing an issue]({url})!"
         )
 
-    # Week between 1 and 22 inclusive = semester ongoing
+    # Semester done but next semester date not set yet (will be week ≤ 25)
     return f"- Semester done/ending :tada:. [Week: **{current_week}**]"
 
 
@@ -98,17 +98,23 @@ def write_text_to_display_in_readme(
                                (replace existing line).
         file_path (str, optional): Defaults to "README.md".
     """
-    skip_lines = 2
-    curr_line = False
+    skip_lines = 2  # So we leave whitespace intact around the line to change
+    current_week_line = False
+
+    # Read each line of the README. When we get to the heading "Current week",
+    # we know the line to change will be two lines below (skipping a blank
+    # line). Here, "printing" writes to the file in place.
     for line in fileinput.input(file_path, inplace=True):
         line = str(line.rstrip())
         if "# Current week" in line:
             print(line)
             print(f"\n{text_to_display}")
-            curr_line = True
-        elif curr_line and skip_lines > 0:
+            current_week_line = True
+        # If we don't skip lines, we will add new blank lines to the file
+        elif current_week_line and skip_lines > 0:
             skip_lines -= 1
             continue
+        # Any other original line should be kept
         else:
             print(line)
 
