@@ -1,5 +1,16 @@
 [Go back to the main page](../../../README.md)
 
+### Table of contents
+
+- [Artificial Intelligence (CM3020)](#artificial-intelligence-cm3020)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [:heart: Notes](#heart-notes)
+
+---
+
 ## Artificial Intelligence (CM3020)
 
 This module is focused on Artificial Intelligence techniques. You
@@ -26,6 +37,10 @@ problems such as game playing and decision making.
 ### Assessment
 
 One two-hour unseen written examination and coursework (Type I)
+
+### Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3020_AI.pdf)
 
 ## Resources
 
