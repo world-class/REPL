@@ -1,5 +1,16 @@
 [Go back to the main page](../../../README.md)
 
+### Table of contents
+
+- [Final Project (CM3070)](#final-project-cm3070)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Project ideas: templates](#project-ideas-templates)
+  - [Syllabus](#syllabus)
+  - [Notes](#notes)
+
+---
+
 ## Final Project (CM3070)
 
 In this module, you will undertake a substantial independent project
@@ -32,6 +43,14 @@ pathway if appropriate.
 ### Assessment
 
 One two-hour unseen written examination and coursework
+
+### Project ideas: templates
+
+- [Final Project Ideas](https://github.com/world-class/binary-assets/blob/master/modules/cm3070-fp/CM3070_FinalProjectIdeas.pdf)
+
+### Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3070_FP.pdf)
 
 ### Notes
 
