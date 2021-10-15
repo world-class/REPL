@@ -1,5 +1,16 @@
 [Go back to the main page](../../../README.md)
 
+### Table of contents
+
+- [Natural Language Processing (CM3060)](#natural-language-processing-cm3060)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [:heart: Notes](#heart-notes)
+
+---
+
 ## Natural Language Processing (CM3060)
 
 This module will provide you with a grounding in both rule-based and
@@ -29,6 +40,10 @@ implement NLP workflows.
 ### Assessment
 
 One two-hour unseen written examination and coursework (Type I)
+
+### Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3060_NLP.pdf)
 
 ## Resources
 
