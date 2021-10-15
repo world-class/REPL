@@ -102,7 +102,7 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 
 | Channel                      | Module name                                                                                               |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------- |
-| `#cm1005-intro-prog-i`       | [Introduction to programming I](../modules/level-4/cm-1005-introduction-to-programming-i/README.md)       |
+| `#cm1005-intro-prog-i` \*    | [Introduction to programming I](../modules/level-4/cm-1005-introduction-to-programming-i/README.md)       |
 | `#cm1010-intro-prog-ii`      | [Introduction to programming II](../modules/level-4/cm-1010-introduction-to-programming-ii/README.md)     |
 | `#cm1015-computational-math` | [Computational mathematics](../modules/level-4/cm-1015-computational-mathematics/README.md)               |
 | `#cm1020-discrete-math`      | [Discrete mathematics](../modules/level-4/cm-1020-discrete-mathematics/README.md)                         |
@@ -111,7 +111,7 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 | `#cm1035-algos-data-i`       | [Algorithms and data structures I](../modules/level-4/cm-1035-algorithms-and-data-structures-i/README.md) |
 | `#cm1040-web-dev`            | [Web development](../modules/level-4/cm-1040-web-development/README.md)                                   |
 
-\* This module can be skipped with RPL (Recognition of Prior Learning). See the channel `#rpl-hcw-google-it` and the [FAQ here](../faq#recognition-of-prior-learning-rpl).
+\* These modules can be skipped with automatic RPL (Recognition of Prior Learning). See the channel `#rpl-hcw-google-it` and the [FAQ here](../faq#recognition-of-prior-learning-rpl).
 
 #### Modules level 5
 
@@ -145,7 +145,7 @@ All channels starting with `#asg` for **Accountable Study Groups**.
 | `#cm3065-intelligent-signal-processing`           | [Intelligent Signal Processing](../modules/level-6/cm-3065-intelligent-signal-processing)               |
 | `#cm3070-final-project`                           | [Final Project](../modules/level-6/cm-3070-final-project)                                               |
 
-\* These modules can be skipped with RPL (Recognition of Prior Learning). See the [FAQ here](../faq#recognition-of-prior-learning-rpl).
+\* These modules can be skipped with automatic RPL (Recognition of Prior Learning). See the [FAQ here](../faq#recognition-of-prior-learning-rpl).
 
 #### Specialisms
 
