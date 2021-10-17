@@ -22,7 +22,8 @@ def get_current_week_number(
 ) -> int:
     """
     Return the current week number. Assumes that one day before the next start
-    date (Sunday), we set the week number to 1.
+    date (Sunday), we set the week number to 1 and any subsequent Sunday is the
+    day on which the week is updated.
 
     Args:
         current_date (datetime): Today's date.
@@ -32,11 +33,10 @@ def get_current_week_number(
         int: Current week number relative to semester_start_date.
     """
     sunday_start = semester_start_date - timedelta(days=1)
-    sunday_now = current_date - timedelta(days=(current_date.weekday()))
 
-    # If it's the day before the next semester, set the week to 1
-    if current_date.date() == sunday_start.date():
-        return 1
+    # If it's Sunday, don't apply a time delta (it would just remove a week)
+    # since we update the week number on Sundays.
+    sunday_now = current_date - timedelta(days=(current_date.weekday() % 6))
 
     # Start counting weeks at 1 (not zero even if it's CS so we match week
     # numbers on Coursera ;))
