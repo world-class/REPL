@@ -6,8 +6,8 @@
 
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
-- [Mock exams](#mock-exams)
 - [Module specification](#module-specification)
+- [Past exams](#past-exams)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
   - [:heart: Notes](#heart-notes)
@@ -42,13 +42,13 @@ video data, and the challenges of working with this kind of data.
 
 One two-hour unseen written examination and coursework (Type I)
 
-## Mock exams
-
-[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm3010-dadt).
-
 ## Module specification
 
 - [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3010_DADT-Module-Spec.pdf)
+
+## Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm3010-dadt).
 
 ## Syllabus
 
