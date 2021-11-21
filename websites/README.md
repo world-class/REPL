@@ -167,7 +167,6 @@ The Open University."_
 - [Stanford Engineering Everywhere (SEE)](https://see.stanford.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) - _"Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career."_
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - _"Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools."_
-- [Understanding Computers and the Internet](http://computerscience1.tv/2011/spring) - Harvard Extension School. About hardware, Internet, multimedia, security, website development, programming.
 
 ### Algorithms
 

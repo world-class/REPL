@@ -73,9 +73,6 @@ One two hour unseen written examination and coursework (Type I)
 - [Readings from MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
 - [Set Theory for Computer Science](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/set_theory_for_computer_science.pdf).
 - [Solving Linear Recurrence Relations](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/solving_linear_recurrence_relations.pdf) - From University of California, Berkeley, [from this page](https://math.berkeley.edu/~arash/55/8_2.pdf).
-- TrevTutor.com:
-  - [Set theory, Logic, Counting, Proof techniques, relations and functions, number theory & formal language, with exams & solutions](https://trevtutor.com/discretemath/discretemath1/).
-  - [Counting & probability, generating functions & recurrence relations, graph theory, with exams & solutions](https://trevtutor.com/discretemath/discrete-math-2/).
 
 ### Complementary learning
 
