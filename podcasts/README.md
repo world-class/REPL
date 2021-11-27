@@ -111,6 +111,7 @@
 - [Coder Radio](https://player.fm/series/coder-radio-2440919) - _"A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies."_
 - [Coding Blocks](https://www.codingblocks.net/) - _"Coding Blocks is the podcast and website for learning how to become a better software developer. We cover a wide variety of topics that range from good programming practices which are language agnostic all the way to specifics for particular languages."_
 - [InfoQ](https://www.infoq.com/the-infoq-podcast) - _"Curated and peer-reviewed content covering innovation in professional software development, read by over 1 million developers worldwide."_
+- [My life as a programmer](https://anchor.fm/fredrik-christenson) - _"Daily answers to programming questions"_
 - [Software Engineering Daily](https://softwareengineeringdaily.com) - _"The world through the lens of software."_
 - [Software Engineering Radio](https://www.se-radio.net/) - _"The podcast for professional software developers."_
 - [The Rabbit Hole: An Inside Look into Software Development](https://player.fm/series/the-rabbit-hole-an-inside-look-into-software-development) - _"If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you."_
