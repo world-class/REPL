@@ -25,4 +25,4 @@ The information contained in this "kinks" section may not reflect the current st
 
 Bugs that come up at the beginning of the modules will probably not be listed here as they often disappear after a short while. Above all, this section will strive to document errors in videos or other resources that may require more time to find a fix on their own.
 
-If you find information that's inaccurate, please do not hesitate to **[reach out on Slack](https://londoncs.slack.com/)**, **[open a new issue](https://github.com/world-class/REPL/issues/new)** or **[send a pull request](https://github.com/world-class/REPL/pulls)**! Your help is very much appreciated so that we can keep this repository useful to as many students as possible :wink:.
+If you find information that's inaccurate, please do not hesitate to :lock: **[reach out on Slack](https://londoncs.slack.com/)** (students only), **[open a new issue](https://github.com/world-class/REPL/issues/new)** or **[send a pull request](https://github.com/world-class/REPL/pulls)**! Your help is very much appreciated so that we can keep this repository useful to as many students as possible :wink:.

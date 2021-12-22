@@ -156,7 +156,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - You will receive an email a few business days (sometimes more) after your successful registration as a student once your payment has been made.
 - **Your first step** should be to complete the **Orientation course** on Coursera – otherwise you won't be able to start your modules. Make sure you have selected _University of London_ for your modules on Coursera (see screenshot below) to display the course and then you can access it from [the home page](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home) of this programme on Coursera or [directly from this link](https://www.coursera.org/learn/london-cs-orientation).
   ![coursera UoL selection](https://raw.githubusercontent.com/world-class/binary-assets/master/images/faq/coursera_uol_selection_2020-09-13.png)
-- Even once you have completed the **Orientation course**, you will get access to the modules **once the start date of the semester has been published** – check the home page of the student portal at https://my.london.ac.uk for an official answer and be on the lookout in the `#general` channel of the [Slack workspace](http://londoncs.slack.com/): it will be announced as soon as it is known. Additionally, make sure you have joined the `#announcements-from-uol` channel on Slack because official communication sent by UoL via email will be shared there (this is not a channel for questions, only for communication **FROM** UoL).
+- Even once you have completed the **Orientation course**, you will get access to the modules **once the start date of the semester has been published** – check the home page of the student portal at https://my.london.ac.uk for an official answer and be on the lookout in the `#general` channel of the :lock: [Slack workspace](http://londoncs.slack.com/) (students only): it will be announced as soon as it is known. Additionally, make sure you have joined the `#announcements-from-uol` channel on Slack because official communication sent by UoL via email will be shared there (this is not a channel for questions, only for communication **FROM** UoL).
 
 ### Getting access to student perks
 
@@ -196,6 +196,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 #### When and how I can get access to the student Slack workspace
 
 - When your first semester is about to start, you will receive an email from the university inviting you to join.
+- :lock: Invitations are sent by the university to enrolled students only.
 
 #### :exclamation: What are the basics on how to use Slack
 
@@ -242,7 +243,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 ### What should I do to stay on top of things and receive important updates and notifications
 
 - Subscribe to the **Reach Out** forum on Coursera to receive important emails about general updates in the programme. You will find it in the [Orientation Course](https://www.coursera.org/learn/london-cs-orientation/home/welcome). You can also subscribe to the **Tutor Group** forum to get academic help.
-- Use the [Slack workspace](http://londoncs.slack.com/) to find information about all your modules. [Check out this page](../slack/README.md) for a list of useful resources you'll find on Slack as well as how to use it (e.g, pinned items, channels, replying in threads, searching for information, etc.).
+- Use the :lock: [Slack workspace](http://londoncs.slack.com/) (students only) to find information about all your modules. [Check out this page](../slack/README.md) for a list of useful resources you'll find on Slack as well as how to use it (e.g, pinned items, channels, replying in threads, searching for information, etc.).
 - Sync your calendar with Coursera and make sure you know what's the current week number for the ongoing semester. You can find more about this [on this page](../README.md#calendar-due-dates-and-events).
 
 ### Is there a simple repository of all knowledge generated regarding this program
@@ -434,7 +435,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### What week are we on
 
-- Check the topic of [#general](https://app.slack.com/client/TDT1N1BUG/CDTPC3FKL) on Slack. It's kept updated for this purpose only.
+- Check the topic of :lock: [#general](https://app.slack.com/client/TDT1N1BUG/CDTPC3FKL) on Slack (students only). It's kept updated for this purpose only.
 
 ### How do I setup calendar sync on Coursera
 
@@ -442,7 +443,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### I don't want to miss important announcements, what to do
 
-- Make sure you have a filter in your email for UoL emails. Also subscribe to [#announcements-from-uol](https://app.slack.com/client/TDT1N1BUG/CM4KKHUCB) on Slack.
+- Make sure you have a filter in your email for UoL emails. Also subscribe to :lock: [#announcements-from-uol](https://app.slack.com/client/TDT1N1BUG/CM4KKHUCB) on Slack (students only).
 
 ### How long are vacations between semesters
 
@@ -513,7 +514,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### My peer-reviewed work isn't graded yet, what can I do
 
-- Ask in the Slack channel [#reviewexchange](https://app.slack.com/client/TDT1N1BUG/CJXHM0RTQ).
+- Ask in the Slack channel :lock: [#reviewexchange](https://app.slack.com/client/TDT1N1BUG/CJXHM0RTQ) (students only).
 
 ### Do I have to complete all the formative as well as the summative assessments on Coursera
 
@@ -555,7 +556,7 @@ If you have any specific queries about something you have created which you are 
 ### I feel I need to vent, where can I go
 
 - [https://my.london.ac.uk/group/student/talkcampus](https://my.london.ac.uk/group/student/talkcampus)
-- Visit the [#vent](https://app.slack.com/client/TDT1N1BUG/CJG51H2CS) channel on Slack.
+- Visit the :lock: [#vent](https://app.slack.com/client/TDT1N1BUG/CJG51H2CS) channel on Slack (students only).
 
 ---
 

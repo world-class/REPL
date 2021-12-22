@@ -20,6 +20,8 @@
 
 ### Channels
 
+:lock: The Slack workspace is available to enrolled students only.
+
 Popular channels are listed below. To see a comprehensive list of channels, click on [channel browser](https://slack.com/help/articles/205239967-Join-a-channel) in the University of London's Slack workspace.
 
 #### All cohorts

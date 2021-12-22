@@ -2,7 +2,7 @@
 
 # How to contribute to the REPL
 
-REPL is a volunteer effort and we warmly welcome first time Git/GitHub users! We encourage you to pitch in and join the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/)!
+REPL is a volunteer effort and we warmly welcome first time Git/GitHub users! We encourage you to pitch in and join the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/) (students only)!
 
 **For a primer on how to use Git & GitHub**, please see the section [How to use Git/GitHub](#how-to-use-gitgithub) below.
 
