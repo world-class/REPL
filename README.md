@@ -16,7 +16,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 There are two main ways you could reach out to start all kinds of discussions:
 
 1. [Open an issue](https://github.com/world-class/REPL/issues/new/choose) on GitHub;
-2. Join the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/).
+2. Join the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/) (students only).
 
 Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/master/.github/CONTRIBUTING.md) just in case that's useful :wink:.
 
