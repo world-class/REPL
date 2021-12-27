@@ -6,6 +6,10 @@
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
 - [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [Complementary learning](#complementary-learning)
+    - [YouTube](#youtube)
+  - [:heart: Notes](#heart-notes)
 
 ---
 
@@ -49,6 +53,20 @@ Coursework only (Type II)
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3035_AWD.pdf)
 
 ## Resources
+
+### Complementary learning
+
+#### YouTube
+
+- [Build a Django DRF app and React Front-end - Part-1](https://www.youtube.com/watch?v=soxd_xdHR0o) - Very Academy
+- [Build a Django DRF Quiz API - Part-2](https://www.youtube.com/watch?v=EWJ2-xkfvXI) - Very Academy
+- [JWT Token Authentication with React - Part-3](https://www.youtube.com/watch?v=AfYfvjP1hK8) - Very Academy
+- [Viewsets and Routers with React Front-end Example - Part-4](https://www.youtube.com/watch?v=dCbfOZurCQk) - Very Academy
+- [API Schema and Documentation Generation - Part-5](https://www.youtube.com/watch?v=-nuobfiU49Q) - Very Academy
+- [Filters and Search features - Part-6](https://www.youtube.com/watch?v=3Qdy-FvUEcY) - Very Academy
+- [CRUD with React Front-end - Part-7](https://www.youtube.com/watch?v=Hxadcs7v1NY) - Very Academy
+- [Image Uploading / Handling with React Front-end - Part-8](https://www.youtube.com/watch?v=V2zaeqFSSTE) - Very Academy
+- [Django Rest Framework Course - Social Logins with React and DRF - Part-9](https://www.youtube.com/watch?v=wlcCvzOLL8w) - Very Academy
 
 ### :heart: Notes
 
