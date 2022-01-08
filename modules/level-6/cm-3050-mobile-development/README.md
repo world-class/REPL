@@ -2,11 +2,11 @@
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
-- [Mobile Development (CM3050)](#mobile-development-cm3050)
-  - [Topics covered](#topics-covered)
-  - [Assessment](#assessment)
-  - [Resources](#resources)
+- [Topics covered](#topics-covered)
+- [Assessment](#assessment)
+- [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [:heart: Notes](#heart-notes)
 
 # Mobile Development (CM3050)
 
@@ -38,11 +38,13 @@ on developing functioning applications.
 
 Coursework only (Type III)
 
+## Syllabus
+
+- [Syllabus PDF (December 2021)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3050_MD.pdf)
+
 ## Resources
 
 - [Lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)](https://cs193p.sites.stanford.edu/)
-
-## Resources
 
 ### :heart: Notes
 
