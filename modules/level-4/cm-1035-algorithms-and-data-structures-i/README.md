@@ -3,6 +3,7 @@
 ### Table of contents
 
 - [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
+- [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
@@ -40,6 +41,9 @@ recursion. You will learn a simple model for execution of computation,
 and how to describe computational problems and their solutions. The
 model will allow you to compare algorithms regarding their correctness
 and regarding their efficiency.
+
+## Professor(s)
+- Dr. Matty Hoban
 
 ## Topics covered
 
