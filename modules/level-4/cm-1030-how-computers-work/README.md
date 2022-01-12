@@ -3,6 +3,7 @@
 ### Table of contents
 
 - [How Computers Work](#how-computers-work)
+- [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
@@ -25,6 +26,9 @@ representation of the functioning of a computer system, to help you to
 reason about computer systems and predict their behaviour. You'll also
 learn about typical computer system architectures, basic networking and
 network services such as databases.
+
+## Professor(s)
+- Dr. Marco Gillies
 
 ## Topics covered
 
