@@ -36,7 +36,8 @@ intelligence and machine learning. These will be presented as practical
 examples to illustrate how they are implemented in modern computer
 systems.
 
-# Dr. Golnaz Badkobeh
+# Professor(s)
+- Dr. Golnaz Badkobeh
 
 # Topics covered
 
