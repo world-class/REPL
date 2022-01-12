@@ -3,6 +3,7 @@
 ### Table of contents
 
 - [Web Development](#web-development)
+- [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
@@ -33,6 +34,10 @@ make your websites accessible to other people. The module also enables
 you to present your work online in the form of a website.
 
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/p88ho/syllabus-web-development-cm1040).
+
+## Professor(s)
+- Dr. Nick Hine
+- And more
 
 ## Topics covered
 

@@ -4,6 +4,7 @@
 
 - [Table of contents](#table-of-contents)
 - [Computational Mathematics](#computational-mathematics)
+- [Professor(s)](#professors)
 - [Topics previously covered (numerical mathematics)](#topics-previously-covered-numerical-mathematics)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
@@ -28,6 +29,9 @@ taking this module, you will learn a wide range of the computational
 mathematical concepts and techniques that underpin Computer Science.
 In particular, you will study number systems, special functions,
 graphing and linear algebra.
+
+# Professor(s)
+- Dr. Sarah Santos
 
 # Topics previously covered (numerical mathematics)
 

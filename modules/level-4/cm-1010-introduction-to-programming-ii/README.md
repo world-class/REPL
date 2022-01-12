@@ -4,6 +4,7 @@
 
 - [Table of contents](#table-of-contents)
 - [Introduction to Programming II](#introduction-to-programming-ii)
+- [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
@@ -24,6 +25,10 @@ through the development of a project. You will learn about producing
 maintainable code, defensive coding techniques, program testing
 techniques, cyclical approaches to software development, encapsulation,
 developing code across multiple files and using third-party libraries.
+
+# Professor(s)
+- Dr. Edward Anstead
+- Dr. Simon Katan
 
 # Topics covered
 

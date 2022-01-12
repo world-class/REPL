@@ -4,6 +4,7 @@
 
 - [Table of contents](#table-of-contents)
 - [Fundamentals of Computer Science](#fundamentals-of-computer-science)
+- [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
@@ -34,6 +35,9 @@ areas of interest in computer science including databases, artificial
 intelligence and machine learning. These will be presented as practical
 examples to illustrate how they are implemented in modern computer
 systems.
+
+# Professor(s)
+- Dr. Golnaz Badkobeh
 
 # Topics covered
 

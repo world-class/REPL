@@ -3,6 +3,7 @@
 ### Table of contents
 
 - [Introduction to Programming I](#introduction-to-programming-i)
+- [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
@@ -34,6 +35,10 @@ how to use the fundamental elements of computer programming such as
 variables, conditionals, functions and loops. You'll learn how to
 create interactive, graphical computer programs. You will also be
 introduced to basic object-oriented programming techniques.
+
+## Professor(s)
+- Dr. Edward Anstead
+- Dr. Simon Katan
 
 ## Topics covered
 
