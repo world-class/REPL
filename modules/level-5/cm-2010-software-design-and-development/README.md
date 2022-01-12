@@ -3,6 +3,7 @@
 ### Table of contents
 
 - [Software Design and Development](#software-design-and-development)
+- [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Mock exams](#mock-exams)
@@ -29,6 +30,9 @@ between different parts of the program). You will learn about
 test-driven development, where you write tests for your code, and
 write the code itself, in parallel. You will also learn how to use
 software versioning tools to manage a software project as it develops.
+
+## Professor(s)
+- Dr. Matthew Yee-King
 
 ## Topics covered
 
