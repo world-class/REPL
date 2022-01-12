@@ -4,6 +4,7 @@
 
 - [Table of contents](#table-of-contents)
 - [Object-Oriented Programming](#object-oriented-programming)
+- [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
@@ -29,6 +30,9 @@ the interaction. You'll learn how to use inheritance to extend
 functionality from parent classes. You'll learn how to write
 code according to style guidelines and how to write formal code
 documentation.
+
+# Professor(s)
+- Dr. Matthew Yee-King
 
 # Topics covered
 
