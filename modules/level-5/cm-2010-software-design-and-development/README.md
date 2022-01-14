@@ -32,6 +32,7 @@ write the code itself, in parallel. You will also learn how to use
 software versioning tools to manage a software project as it develops.
 
 ## Professor(s)
+
 - Dr. Matthew Yee-King
 
 ## Topics covered

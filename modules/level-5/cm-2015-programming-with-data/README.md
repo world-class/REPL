@@ -33,6 +33,7 @@ will also introduce you to a new language and programming environment
 that is well-adapted to languages for these applications.
 
 ## Professor(s)
+
 - Dr. Sean McGrath
 
 ## Topics covered

@@ -1,8 +1,7 @@
 [Go back to the main page](../../../README.md)
 
-# Table of contents
+### Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Agile Software Projects](#agile-software-projects)
 - [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
@@ -18,7 +17,7 @@
 
 ---
 
-# Agile Software Projects
+## Agile Software Projects
 
 This module aims to provide insights and practice in software
 development using contemporary methods to produce software that meets
@@ -35,10 +34,11 @@ concept to solution presentation, you will be required to work in a
 distributed team using online collaboration, project tracking and
 version control tools.
 
-# Professor(s)
-- Dr. Sean McGrath 
+## Professor(s)
 
-# Topics covered
+- Dr. Sean McGrath
+
+## Topics covered
 
 - Project management & team working
 - Requirements gathering & specification
@@ -51,41 +51,41 @@ version control tools.
 - Professional practices
 - Software documentation
 
-# Assessment
+## Assessment
 
 Coursework only (Type III)
 
-# Final deliverables instructions (coursework 2)
+## Final deliverables instructions (coursework 2)
 
 - [Final deliverables instructions (February 2021)](https://github.com/world-class/binary-assets/blob/master/modules/cm2020-asp/cm2020_asp_final_deliverables_instructions.pdf)
 
-# Module specification
+## Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2020_ASP-Module-Spec.pdf)
 
-# Syllabus
+## Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2020_ASP.pdf)
 
-# Resources
+## Resources
 
-## Complementary learning
+### Complementary learning
 
 - [Dark Patterns](https://darkpatterns.org/) - _"Dark Patterns are tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something."_
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
-## :heart: Notes
+### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/agile-software-projects).
 
-## Textbooks listed for this module
+### Textbooks listed for this module
 
 - J. Preece, Y. Rogers and H. Sharp (2011), Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons
   - [Website companion to the textbook](http://www.id-book.com/)
 - D. Norman, 2013, The Design of Everyday Things, MIT Press
 - Rob Cole and Edward Scotcher. Brilliant Agile Project Management. Pearson 2016
 
-### Further reading recommended in Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons
+#### Further reading recommended in Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons
 
 - COOPER, A., REIMANN, R., CRONIN, D. AND NOESSEL, C. (2014) **About Face: The Essentials of Interaction Design (4th ed.). John Wiley & Sons Inc**. _"This fourth edition of About Face provides an updated overview of what is involved in interaction design, and it is written in a personable style that appeals to practitioners and students alike."_
 - GARRETT, J. J. (2010) **The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd ed.). New Riders Press**. _"This is the second edition of the popular coffee- table introductory book to interaction design. It focuses on how to ask the right questions when designing for a user experience. It emphasizes the importance of understanding how products work on the outside, that is, when a person comes into contact with those products and tries to work with them. It also considers a business perspective."_
