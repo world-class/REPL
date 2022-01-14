@@ -420,6 +420,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jamda",
+      "name": "Txomin Astrain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3706058?v=4",
+      "profile": "https://github.com/jamda",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
