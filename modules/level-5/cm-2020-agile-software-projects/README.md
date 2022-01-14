@@ -4,6 +4,7 @@
 
 - [Table of contents](#table-of-contents)
 - [Agile Software Projects](#agile-software-projects)
+- [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Final deliverables instructions (coursework 2)](#final-deliverables-instructions-coursework-2)
@@ -33,6 +34,9 @@ and test driven development practices. During the whole process from
 concept to solution presentation, you will be required to work in a
 distributed team using online collaboration, project tracking and
 version control tools.
+
+# Professor(s)
+- Dr. Sean McGrath 
 
 # Topics covered
 
