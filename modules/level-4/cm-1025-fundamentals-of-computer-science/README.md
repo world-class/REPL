@@ -2,8 +2,6 @@
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
-- [Fundamentals of Computer Science](#fundamentals-of-computer-science)
 - [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
@@ -36,10 +34,11 @@ intelligence and machine learning. These will be presented as practical
 examples to illustrate how they are implemented in modern computer
 systems.
 
-# Professor(s)
+## Professor(s)
+
 - Dr. Golnaz Badkobeh
 
-# Topics covered
+## Topics covered
 
 - Boolean logic
 - Algorithms
@@ -52,21 +51,21 @@ systems.
 - Regular languages
 - Context-free grammar
 
-# Assessment
+## Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-# Module specification
+## Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1025_FCS-Module-Spec.pdf)
 
-# Syllabus
+## Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1025_FCS.pdf)
 
-# Resources
+## Resources
 
-## Complementary learning
+### Complementary learning
 
 - Highly recommended for week 7 onwards: [lectures](https://web.cs.ucdavis.edu/~rogaway/classes/120/spring14/) and [videos](https://www.cs.ucdavis.edu/~rogaway/classes/120/fall12/lectures.html) from Prof. Michael Harrison.
 - [Context-free grammar tool](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/tools/cfg/)
@@ -77,7 +76,7 @@ One two hour unseen written examination and coursework (Type I)
 - [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html)
 - [Truth Table Generator](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
 
-## Essential reading
+### Essential reading
 
 _"Specific essential readings for each week from the following list are included in the Readings page for each week:_"
 
@@ -88,24 +87,24 @@ _"Specific essential readings for each week from the following list are included
 - Dexter Kozen (2007). Automata and Computability, 1st. Springer
 - Shi-Kui Chang (2003). Data Structures and Algorithms, 1st. World Scientific Publishing Co
 
-### Textbooks solutions
+#### Textbooks solutions
 
-#### Discrete Mathematics and its Applications
+##### Discrete Mathematics and its Applications
 
 - [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
 - [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
 
-#### Introduction to Automata Theory, Languages, and Computation
+##### Introduction to Automata Theory, Languages, and Computation
 
 - [Solutions to Selected Exercises - stanford.edu](http://infolab.stanford.edu/~ullman/ialcsols/sols.html)
 
-## :heart: Notes
+### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/fundamentals-of-computer-science).
 
-## Sample Paper with solutions
+### Sample Paper with solutions
 
-### March 2020
+#### March 2020
 
 - [FCS sample paper (mock)](https://github.com/world-class/binary-assets/blob/master/modules/cm1025-fcs/FCS_Mock_exam_Mar_2020.pdf)
   - [Solutions (by students)](https://docs.google.com/document/d/1Pb86mf6FsSjkWS4qbh6B05EISP3KTbkQL46MZxvQ9qk/edit)
@@ -114,15 +113,15 @@ _"Specific essential readings for each week from the following list are included
 - [FCS past exam September 2020 (Part B)](https://github.com/world-class/binary-assets/blob/master/modules/cm1025-fcs/CM1025_Exam_Questions_Sept_2020.pdf)
   - [Solutions (by students)](https://jamboard.google.com/d/1HfJiFXtCtdK02W62-imDlDqsH2oqv48C0LoO66HCdhE/edit)
 
-## Study guide
+### Study guide
 
 - [Resources compiled by Hassan Sarhan](https://github.com/h-sarhan/FCS-study-guide).
 
-## Weekly reading list
+### Weekly reading list
 
 - [Weekly reading list PDF](https://github.com/world-class/binary-assets/blob/master/modules/cm1025-fcs/FCS_reading_list.pdf)
 
-## Supplementary Videos
+### Supplementary Videos
 
 Following are supplementary videos for Theory of computation part of the module (week 7-14) for week 1-6 refer NM/DM material and for week 15-20 refer ADS1 material.
 

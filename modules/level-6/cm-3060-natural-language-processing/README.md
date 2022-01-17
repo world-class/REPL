@@ -3,11 +3,12 @@
 ### Table of contents
 
 - [Natural Language Processing (CM3060)](#natural-language-processing-cm3060)
+  - [Professor(s)](#professors)
   - [Topics covered](#topics-covered)
   - [Assessment](#assessment)
   - [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [:heart: Notes](#heart-notes)
+  - [Resources](#resources)
+    - [:heart: Notes](#heart-notes)
 
 ---
 
@@ -23,6 +24,10 @@ used to analyse text. You will learn how statistical analysis can be
 used to extract information from and classify text. You will work in
 an appropriate programming environment for NLP, using libraries to
 implement NLP workflows.
+
+### Professor(s)
+
+- Dr. Tony Russel-Rose
 
 ### Topics covered
 
@@ -45,8 +50,8 @@ One two-hour unseen written examination and coursework (Type I)
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3060_NLP.pdf)
 
-## Resources
+### Resources
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/natural-language-processing).

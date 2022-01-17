@@ -3,16 +3,17 @@
 ### Table of contents
 
 - [Databases, Networks and the Web](#databases-networks-and-the-web)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Mock exam](#mock-exam)
-- [Module specification](#module-specification)
-- [Reading list for this course](#reading-list-for-this-course)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [:heart: Notes](#heart-notes)
-  - [Websites](#websites)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Mock exam](#mock-exam)
+  - [Module specification](#module-specification)
+  - [Reading list for this course](#reading-list-for-this-course)
+  - [Syllabus](#syllabus)
+  - [Resources](#resources)
+    - [Kinks to be aware of](#kinks-to-be-aware-of)
+    - [:heart: Notes](#heart-notes)
+    - [Websites](#websites)
 
 ---
 
@@ -28,7 +29,11 @@ through dynamic websites. In particular, you will learn about the
 Relational Model, Query processing, and socket architectures to enable
 communication.
 
-## Topics covered
+### Professor(s)
+
+- Dr. Elaheh Homayounvala
+
+### Topics covered
 
 - Networking concepts
 - Building Simple socket clients and servers
@@ -41,36 +46,36 @@ communication.
 - Revision of HTML and CSS
 - Building a dynamic website
 
-## Assessment
+### Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-## Mock exam
+### Mock exam
 
 [See the `binary-assets` repository](https://github.com/world-class/binary-assets/tree/master/modules/cm2040-dnw).
 
-## Module specification
+### Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2040_DNW-Module-Spec.pdf)
 
-## Reading list for this course
+### Reading list for this course
 
 - [Reading list for this course](https://github.com/world-class/binary-assets/blob/master/modules/cm2040-dnw/CM2040_DNW-reading-list.pdf)
 
-## Syllabus
+### Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2040_DNW.pdf)
 
-## Resources
+### Resources
 
-### Kinks to be aware of
+#### Kinks to be aware of
 
 - [List of reported errors and bugs with the module](../../../kinks/level-5/cm-2040-databases-networks-and-the-web/).
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/databases-networks-and-the-web).
 
-### Websites
+#### Websites
 
 - [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/)

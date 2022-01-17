@@ -3,16 +3,16 @@
 ### Table of contents
 
 - [How Computers Work](#how-computers-work)
-- [Professor(s)](#professors)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Recognition of Prior Learning](#recognition-of-prior-learning)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [Essential reading](#essential-reading)
-  - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [:heart: Notes](#heart-notes)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Module specification](#module-specification)
+  - [Recognition of Prior Learning](#recognition-of-prior-learning)
+  - [Syllabus](#syllabus)
+  - [Resources](#resources)
+    - [Essential reading](#essential-reading)
+    - [Kinks to be aware of](#kinks-to-be-aware-of)
+    - [:heart: Notes](#heart-notes)
 
 ---
 
@@ -27,10 +27,11 @@ reason about computer systems and predict their behaviour. You'll also
 learn about typical computer system architectures, basic networking and
 network services such as databases.
 
-## Professor(s)
+### Professor(s)
+
 - Dr. Marco Gillies
 
-## Topics covered
+### Topics covered
 
 - Introduction to Computer Science and Notional Machines
 - Notional machines of web applications
@@ -43,25 +44,25 @@ network services such as databases.
 - Data and Databases
 - Machine Learning
 
-## Assessment
+### Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-## Module specification
+### Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1030_HCW-Module-Spec.pdf)
 
-## Recognition of Prior Learning
+### Recognition of Prior Learning
 
 - At the time of this writing, you can apply for [automatic RPL](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3) for this module if you obtain the [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support).
 
-## Syllabus
+### Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1030_HCW.pdf)
 
-## Resources
+### Resources
 
-### Essential reading
+#### Essential reading
 
 _"The essentials readings for this course will come from the following text book, which you will be able access from within some lessons on Coursera platform:_
 
@@ -71,10 +72,10 @@ _This course does not require you to read the whole book; you will be given spec
 
 _You will also be asked to do some independent research from online sources or using the University of London digital library."_
 
-### Kinks to be aware of
+#### Kinks to be aware of
 
 - [List of reported errors and bugs with the module](../../../kinks/level-4/cm-1030-how-computers-work/).
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/how-computers-work).

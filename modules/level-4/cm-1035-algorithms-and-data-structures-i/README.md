@@ -3,25 +3,25 @@
 ### Table of contents
 
 - [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
-- [Professor(s)](#professors)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [Complementary learning](#complementary-learning)
-    - [Visualizations](#visualizations)
-    - [Algorithms](#algorithms)
-      - [`mergeSort` algorithm](#mergesort-algorithm)
-      - [`quickSort` algorithm](#quicksort-algorithm)
-      - [`quickSort` & `mergeSort` algorithms MIT](#quicksort--mergesort-algorithms-mit)
-    - [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
-  - [Essential reading](#essential-reading)
-  - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
-  - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [:heart: Notes](#heart-notes)
-  - [On REPL](#on-repl)
-  - [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Module specification](#module-specification)
+  - [Syllabus](#syllabus)
+  - [Resources](#resources)
+    - [Complementary learning](#complementary-learning)
+      - [Visualizations](#visualizations)
+      - [Algorithms](#algorithms)
+        - [`mergeSort` algorithm](#mergesort-algorithm)
+        - [`quickSort` algorithm](#quicksort-algorithm)
+        - [`quickSort` & `mergeSort` algorithms MIT](#quicksort--mergesort-algorithms-mit)
+      - [Computational complexity & P vs NP](#computational-complexity--p-vs-np)
+    - [Essential reading](#essential-reading)
+    - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
+    - [Kinks to be aware of](#kinks-to-be-aware-of)
+    - [:heart: Notes](#heart-notes)
+    - [On REPL](#on-repl)
+    - [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
 
 ---
 
@@ -42,10 +42,11 @@ and how to describe computational problems and their solutions. The
 model will allow you to compare algorithms regarding their correctness
 and regarding their efficiency.
 
-## Professor(s)
+### Professor(s)
+
 - Dr. Matty Hoban
 
-## Topics covered
+### Topics covered
 
 - Introduction to algorithms, flowcharts and pseudocode
 - Computations using flowcharts and pseudocode
@@ -58,58 +59,58 @@ and regarding their efficiency.
 - Advanced sorting
 - Linear collections
 
-## Assessment
+### Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-## Module specification
+### Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1035_ADS1-Module-Spec.pdf)
 
-## Syllabus
+### Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1035_ADS1.pdf)
 
-## Resources
+### Resources
 
-### Complementary learning
+#### Complementary learning
 
 - [Algorithmic Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course) - _edX platform, by UC San Diego_
 - [Data Structures Fundamentals](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS201x+1T2019/course) - _edX platform, by UC San Diego_
 - [Easy Theory](https://www.youtube.com/c/EasyTheory/playlists) - _"This is a channel about making Computer Science theory as easy as possible."_ Relevant for this course as well as [Fundamentals of Computer Science](../cm-1025-fundamentals-of-computer-science/README.md).
 
-#### Visualizations
+##### Visualizations
 
 - [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualizations of a lot of data structures and related algorithms.
 
 - [Animated DSA Visualization](https://visualgo.net/en) - Sorting algorithms, searching algorithms and many data structures beautifully visualized.
 
-#### Algorithms
+##### Algorithms
 
 - [Comparison of Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms) - See time complexity at a glance for various popular algorithms.
 - [Data Structure & Algorithms Introduction](https://www.programiz.com/dsa/algorithm) - Sorting algorithms, data structures, tree data structure and more.
 
-##### `mergeSort` algorithm
+###### `mergeSort` algorithm
 
 - [2.7.2. Merge Sort Algorithm](https://www.youtube.com/watch?v=mB5HXBb_HY8) - Abdul Bari
 - [Algorithm lecture 8 -- Merge sort algorithm, analysis and problems](https://www.youtube.com/watch?v=sfmaf4QpVTw) - Gate Lectures by Ravindrababu Ravula
 
-##### `quickSort` algorithm
+###### `quickSort` algorithm
 
 - [Algorithms lecture 9 -- Quick sort algorithm](https://www.youtube.com/watch?v=3DV8GO9g7B4) - Gate Lectures by Ravindrababu Ravula
 - [2.8.1 QuickSort Algorithm](https://www.youtube.com/watch?v=7h1s2SojIRw) - Abdul Bari
 
-##### `quickSort` & `mergeSort` algorithms MIT
+###### `quickSort` & `mergeSort` algorithms MIT
 
 - [3. Insertion Sort, Merge Sort](https://youtu.be/Kg4bqzAqRBM) - MIT 6.006 Introduction to Algorithms, Fall 2011
 
-#### Computational complexity & P vs NP
+##### Computational complexity & P vs NP
 
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - bigocheatsheet.com
 - [Computational Complexity](https://www.youtube.com/watch?v=moPtwq_cVH8) - MIT OpenCourseWare
 - [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s) - hackerdashery
 
-### Essential reading
+#### Essential reading
 
 _"Specific essential readings for this course will be taken from the following text book:_
 
@@ -121,25 +122,25 @@ _In addition to the text book, there are additional reading activities written b
 
 _There will also be discussion prompts asking you to do some independent research using online sources."_
 
-### Examples of past and current written exams
+#### Examples of past and current written exams
 
 - 2014, 2015, 2016, 2018, 2020: [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm1035-ads1).
 - [ADS1 September 2020 online exam](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1035-ads1/ADS2020-09-21.pdf)
   - [Solutions](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1035-ads1/ADS2020-09-21_answers.pdf)
 
-### Kinks to be aware of
+#### Kinks to be aware of
 
 - [List of reported errors and bugs with the module](../../../kinks/level-4/cm-1035-algorithms-and-data-structures-i/).
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/algorithms-and-data-structures-i).
 
-### On REPL
+#### On REPL
 
 - [YouTube](../../../youtube/README.md#algorithms).
 - [Websites](../../../websites/README.md#algorithms).
 
-### Solutions to the textbook Introduction to Algorithms
+#### Solutions to the textbook Introduction to Algorithms
 
 - [CLRS Solutions](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html) - Michelle Bodnar, Andrew Lohr

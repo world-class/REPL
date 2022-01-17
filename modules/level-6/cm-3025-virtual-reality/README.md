@@ -1,5 +1,16 @@
 [Go back to the main page](../../../README.md)
 
+### Table of contents
+
+- [Virtual Reality (CM3025)](#virtual-reality-cm3025)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Resources](#resources)
+    - [:heart: Notes](#heart-notes)
+
+---
+
 ## Virtual Reality (CM3025)
 
 The module will combine the theory and psychology of VR with practical
@@ -14,6 +25,11 @@ practical development skills, using an appropriate 3D engine to create
 interactive virtual environments. These skills will include creating
 3D environments, designing and implementing 3D interaction for VR and
 building social VR experiences with interactive virtual characters.
+
+### Professor(s)
+
+- Dr. Marco Gillies
+- Dr. Sylvia Pan
 
 ### Topics covered
 
@@ -32,8 +48,8 @@ building social VR experiences with interactive virtual characters.
 
 Coursework only (Type III)
 
-## Resources
+### Resources
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/virtual-reality).

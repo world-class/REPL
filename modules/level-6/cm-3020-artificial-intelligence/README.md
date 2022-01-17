@@ -3,6 +3,7 @@
 ### Table of contents
 
 - [Artificial Intelligence (CM3020)](#artificial-intelligence-cm3020)
+  - [Professor(s)](#professors)
   - [Topics covered](#topics-covered)
   - [Assessment](#assessment)
   - [Syllabus](#syllabus)
@@ -20,6 +21,11 @@ the foundations of agent-based approaches to software design, decision
 making and problem solving including under uncertainty. You will have an
 opportunity to apply Artificial Intelligence techniques to particular
 problems such as game playing and decision making.
+
+### Professor(s)
+
+- Dr. Larisa Soldatova
+- Dr. Matthew Yee-King
 
 ### Topics covered
 

@@ -2,18 +2,20 @@
 
 ### Table of contents
 
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [Complementary learning](#complementary-learning)
-    - [YouTube](#youtube)
-  - [:heart: Notes](#heart-notes)
+- [Advanced Web Development (CM3035)](#advanced-web-development-cm3035)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Module specification](#module-specification)
+  - [Syllabus](#syllabus)
+  - [Resources](#resources)
+    - [Complementary learning](#complementary-learning)
+      - [YouTube](#youtube)
+    - [:heart: Notes](#heart-notes)
 
 ---
 
-# Advanced Web Development (CM3035)
+## Advanced Web Development (CM3035)
 
 Through this module, you will learn how to build dynamic, data-driven
 websites using databases, front-end frameworks and server-side
@@ -27,7 +29,11 @@ server-side web applications, by building web-accessible wrappers around
 databases. You will consider issues of scalability, and learn about web
 application configuration and deployment.
 
-## Topics covered
+### Professor(s)
+
+- Dr. Daniel Buchan
+
+### Topics covered
 
 - The web stack: clients, web servers and databases
 - Advanced features of HTML, CSS and Templates
@@ -40,23 +46,23 @@ application configuration and deployment.
 - Working with external APIs
 - Scalability
 
-## Assessment
+### Assessment
 
 Coursework only (Type II)
 
-## Module specification
+### Module specification
 
 - [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3035_AWD-Module-Spec.pdf)
 
-## Syllabus
+### Syllabus
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3035_AWD.pdf)
 
-## Resources
+### Resources
 
-### Complementary learning
+#### Complementary learning
 
-#### YouTube
+##### YouTube
 
 - [Build a Django DRF app and React Front-end - Part-1](https://www.youtube.com/watch?v=soxd_xdHR0o) - Very Academy
 - [Build a Django DRF Quiz API - Part-2](https://www.youtube.com/watch?v=EWJ2-xkfvXI) - Very Academy
@@ -68,6 +74,6 @@ Coursework only (Type II)
 - [Image Uploading / Handling with React Front-end - Part-8](https://www.youtube.com/watch?v=V2zaeqFSSTE) - Very Academy
 - [Django Rest Framework Course - Social Logins with React and DRF - Part-9](https://www.youtube.com/watch?v=wlcCvzOLL8w) - Very Academy
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/advanced-web-development).

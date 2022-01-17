@@ -3,16 +3,18 @@
 ### Table of contents
 
 - [Computer Security](#computer-security)
-- [Assessment](#assessment)
-- [Mock exams](#mock-exams)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [Documents](#documents)
-  - [:heart: Notes](#heart-notes)
-  - [Websites](#websites)
-  - [YouTube](#youtube)
-  - [Reading list](#reading-list)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+    - [Assessment](#assessment)
+    - [Mock exams](#mock-exams)
+    - [Module specification](#module-specification)
+    - [Syllabus](#syllabus)
+    - [Resources](#resources)
+      - [Documents](#documents)
+      - [:heart: Notes](#heart-notes)
+      - [Websites](#websites)
+      - [YouTube](#youtube)
+      - [Reading list](#reading-list)
 
 ---
 
@@ -25,7 +27,12 @@ of security systems and a practical element that will help you
 discover the pitfalls of security design and to comprehend the
 mathematics underlying the protocols by programming small examples.
 
-# Topics covered
+### Professor(s)
+
+- Dr. Matthew Yee-King
+- Dr. Robert Zimmer
+
+### Topics covered
 
 - Security threats
 - Social Issues in Computer Security
@@ -38,45 +45,45 @@ mathematics underlying the protocols by programming small examples.
 - Public Key Cryptography
 - Blockchain protocols
 
-## Assessment
+#### Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-## Mock exams
+#### Mock exams
 
 [See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm2025-csec).
 
-## Module specification
+#### Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2025_CS-Module-Spec.pdf)
 
-## Syllabus
+#### Syllabus
 
 - [Syllabus PDF (October 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2025_CS.pdf)
 
-## Resources
+#### Resources
 
-### Documents
+##### Documents
 
 [Public-Key Cryptography RSA Attacks against RSA](https://github.com/world-class/binary-assets/blob/master/modules/cm2025-csec/Public-Key_Cryptography_RSA_Attacks_against_RSA.pdf) - From www.lri.fr.
 
-### :heart: Notes
+##### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/computer-security).
 
-### Websites
+##### Websites
 
 - [RSA Encryption](https://brilliant.org/wiki/rsa-encryption/) - Brilliant.org.
   - [Euler's Theorem](https://brilliant.org/wiki/eulers-theorem/)
   - [Euler's Totient Function](https://brilliant.org/wiki/eulers-totient-function/)
   - [Fermat's Little Theorem](https://brilliant.org/wiki/fermats-little-theorem/)
 
-### YouTube
+##### YouTube
 
 - [How the RSA algorithm works, including how to select d, e, n, p, q, and φ (phi)](https://www.youtube.com/watch?v=Z8M2BTscoD4) - Anthony Vance.
 - [Public Key Cryptography: RSA Encryption Algorithm](https://www.youtube.com/watch?v=wXB-V_Keiu8) - Art of the Problem.
 - [RSA algorithm step by step example](https://www.youtube.com/watch?v=j2NBya6ADSY) - shad sluiter.
 
-### Reading list
+##### Reading list
 
 - [Reading list](./reading_list.md)

@@ -3,17 +3,18 @@
 ### Table of contents
 
 - [Algorithms and Data Structures II](#algorithms-and-data-structures-ii)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
-- [List of required reading](#list-of-required-reading)
-- [Resources](#resources)
-  - [Complementary learning](#complementary-learning)
-  - [Mock exam](#mock-exam)
-    - [Solutions shared by students](#solutions-shared-by-students)
-  - [:heart: Notes](#heart-notes)
-  - [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Module specification](#module-specification)
+  - [Syllabus](#syllabus)
+  - [List of required reading](#list-of-required-reading)
+  - [Resources](#resources)
+    - [Complementary learning](#complementary-learning)
+    - [Mock exam](#mock-exam)
+      - [Solutions shared by students](#solutions-shared-by-students)
+    - [:heart: Notes](#heart-notes)
+    - [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
 
 ---
 
@@ -33,7 +34,11 @@ and efficiency of algorithms.
 You will be expected to have mastered the material in Algorithms and
 Data Structures I before attempting this module.
 
-## Topics covered
+### Professor(s)
+
+- Dr. Alejandra Beghelli Zapata
+
+### Topics covered
 
 - Complexity, growth of functions and big-O notation
 - Stacks and queues
@@ -46,19 +51,19 @@ Data Structures I before attempting this module.
 - Sets, maps and hash tables
 - Collections
 
-## Assessment
+### Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-## Module specification
+### Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2035_ADS2-Module-Spec.pdf)
 
-## Syllabus
+### Syllabus
 
 - [Syllabus PDF September 2020](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2035_ADS2.pdf)
 
-## List of required reading
+### List of required reading
 
 Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058].
 
@@ -82,9 +87,9 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
 | 17   | Heaps, Heapsort and priority queues    | Chapter 6                           | pp. 151-69                        |
 | 19   | Graph representation, MST and Dijsktra | Ch.22- 22.1, Ch. 23, Ch 24-Ch. 24.3 | pp. 579-92, pp. 624-42, pp.658-66 |
 
-## Resources
+### Resources
 
-### Complementary learning
+#### Complementary learning
 
 - Courses
 
@@ -123,18 +128,18 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
   - [Introduction to algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (playlist) - Abdul Bari
   - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
 
-### Mock exam
+#### Mock exam
 
 - [Mock exam, 2020](https://github.com/world-class/binary-assets/blob/master/modules/cm2035-ads2/CM2035-ADS2_MOCK_Exam.pdf)
 
-#### Solutions shared by students
+##### Solutions shared by students
 
 - Solutions to the mock exam are available in this [Google Sheets document](https://docs.google.com/spreadsheets/d/1llp2ReT4yWXPnoM9vuJM5FtCZdSKhgbwe0CUsbUTVJA/edit?usp=sharing).
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/algorithms-and-data-structures-ii).
 
-### Solutions to the textbook Introduction to Algorithms
+#### Solutions to the textbook Introduction to Algorithms
 
 - [CLRS Solutions](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html) - Michelle Bodnar, Andrew Lohr
