@@ -49,6 +49,7 @@
   - [Statistics](#statistics)
   - [Trigonometry](#trigonometry)
 - [Music (ideal for programming)](#music-ideal-for-programming)
+- [News](#news)
 - [Online services](#online-services)
   - [Clean your inbox](#clean-your-inbox)
   - [Diff checker (compare different files)](#diff-checker-compare-different-files)
@@ -344,6 +345,10 @@ The Open University."_
 - [Brainaural](https://brainaural.com) - _"What Are Brainwaves? Does Entrainement Work? Find out for yourself! Now with free audio file download."_
 - [Music For Programming](http://musicforprogramming.net) - Play programming music right from your web browser in an IDE-like interface.
 - [Rainy Mood](https://rainymood.com) (noise generator) - _"Helps you to focus, relax, and sleep. [...] The internet's most popular rain experience."_
+
+## News
+
+- [daily.dev](https://daily.dev/) - _"Get a feed of the hottest developer news. Read more quality articles. Stay up to date. Save time."_ (see it on :star: [GitHub](https://github.com/dailydotdev/daily))
 
 ## Online services
 
