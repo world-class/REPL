@@ -403,6 +403,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 ### Receive SMS
 
 - [Receive SMS](https://receive-smss.com) - _"receive-smss.com is a free service for receiving SMS messages and voice mails online. There is no need to register. Just select your phone number from the list below. You can use it to receive messages from Facebook, Telegram, WeChat, VK, PayPal, AliPay and more."_
+- - [quackr](https://quackr.io) - _" quackr allows you to use a secure temporary phone number instead of your real phone number on the internet. Use quackr phone numbers to receive sms online in USA, UK & 22 other countries!"_
 
 ## Open source
 
