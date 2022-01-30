@@ -10,6 +10,7 @@
   - [Resources](#resources)
     - [:heart: Notes](#heart-notes)
     - [Textbooks used in the module](#textbooks-used-in-the-module)
+    - [YouTube](#youtube)
 
 ---
 
@@ -66,3 +67,7 @@ One two-hour unseen written examination and coursework (Type I)
 - Provost, Foster, and Tom Fawcett. Data Science for Business: What you need to know about data mining and data-analytic thinking. " O'Reilly Media, Inc.", 2013. https://www.oreilly.com/library/view/data-science-for/9781449374273/
 - Schütze, Hinrich, Christopher D. Manning, and Prabhakar Raghavan. Introduction to information retrieval. Vol. 39. Cambridge: Cambridge University Press, 2008. https://nlp.stanford.edu/IR-book/information-retrieval-book.html
 - Hovy, Dirk. Text Analysis in Python for Social Scientists: Discovery and Exploration. Cambridge University Press, 2020. https://www.cambridge.org/core/elements/abs/text-analysis-in-python-for-social-scientists/BFAB0A3604C7E29F6198EA2F7941DFF3
+
+#### YouTube
+
+- [Natural Language Processing with Dan Jurafsky and Chris Manning, 2012](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ) - _"This 2012 lecture series from Stanford professors Dan Jurafsky and Chris Manning covers fundamental algorithms and mathematical models for processing natural language, and how these can be used to solve practical problems."_
