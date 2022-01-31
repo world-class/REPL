@@ -693,7 +693,10 @@ Want to join this illustrious group? Have a look at the **[contributing guidelin
   <tr>
     <td align="center"><a href="https://github.com/Z80-dreams"><img src="https://avatars0.githubusercontent.com/u/52473290?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Z80-dreams</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=Z80-dreams" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/gsej"><img src="https://avatars1.githubusercontent.com/u/7272850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gsej</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=gsej" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/p-michaels-20200"><img src="https://avatars.githubusercontent.com/u/78732268?v=4?s=100" width="100px;" alt=""/><br /><sub><b>p-michaels-20200</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=p-michaels-20200" title="Documentation">📖</a></td>
     <td align="center"><a href="https://b.toenobu.name/"><img src="https://avatars1.githubusercontent.com/u/1487300?v=4?s=100" width="100px;" alt=""/><br /><sub><b>toenobu</b></sub></a><br /><a href="#financial-toenobu" title="Financial">💵</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/hitfzyangdianshi"><img src="https://avatars.githubusercontent.com/u/10493326?v=4?s=100" width="100px;" alt=""/><br /><sub><b>大大狐狸cyberfox_meow</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=hitfzyangdianshi" title="Documentation">📖</a></td>
   </tr>
 </table>
