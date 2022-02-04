@@ -102,8 +102,8 @@ _This course does not require you to read the whole book, you will be given spec
 
 #### Examples of past and current written exams
 
-- 2014, 2015, 2016, 2017, 2018 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1020-dm/DM18_answers.pdf)), 2020 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1020-dm/DM20_answers.pdf)): [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm1020-dm).
-- [DM March 2020 exam](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1020-dm/DM20_2020-03-03.pdf)
+- 2014, 2015, 2016, 2017, 2018 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/past-exams/DM18_answers.pdf)), 2020 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/past-exams/DM20_answers.pdf)): [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/cm1020-dm/past-exams).
+- [DM March 2020 exam](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/past-exams/DM20_2020-03-03.pdf)
 
 #### Kinks to be aware of
 

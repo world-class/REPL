@@ -58,7 +58,7 @@ Coursework only (Type II).
 
 ### Past exams
 
-- [See past-exams/cm3015-mlnn at binary-assets](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm3015-mlnn).
+- [See past-exams/cm3015-mlnn at binary-assets](https://github.com/world-class/binary-assets/tree/master/modules/cm3015-mlnn/past-exams).
 
 ### Syllabus
 

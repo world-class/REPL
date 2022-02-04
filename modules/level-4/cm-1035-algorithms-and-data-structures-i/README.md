@@ -124,9 +124,9 @@ _There will also be discussion prompts asking you to do some independent researc
 
 #### Examples of past and current written exams
 
-- 2014, 2015, 2016, 2018, 2020: [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past-exams/cm1035-ads1).
-- [ADS1 September 2020 online exam](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1035-ads1/ADS2020-09-21.pdf)
-  - [Solutions](https://github.com/world-class/binary-assets/blob/master/modules/past-exams/cm1035-ads1/ADS2020-09-21_answers.pdf)
+- 2014, 2015, 2016, 2018, 2020: [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/cm1035-ads1/past-exams).
+- [ADS1 September 2020 online exam](https://github.com/world-class/binary-assets/blob/master/modules/cm1035-ads1/past-exams/ADS2020-09-21.pdf)
+  - [Solutions](https://github.com/world-class/binary-assets/blob/master/modules/cm1035-ads1/past-exams/ADS2020-09-21_answers.pdf)
 
 #### Kinks to be aware of
 
