@@ -574,6 +574,12 @@ You can find the up-to-date list of certificates eligible for automatic RPL [her
 ### How to apply for an automatic RPL
 
 - See [this article](../subreddit/rpl-guide.md) in the Subreddit section of the REPL for an example on how to get RPL in How Computers Work module with Google IT Professional Certificate.
+- Sample steps needed to register RPL credits
+1. Open [online enquiry](https://sid.london.ac.uk/sid/login/newuserform.aspx) stating you want to apply for RPL and attaching courcera cert. 
+2. Wait for reply. It cam take a while such as 2 weeks. Once it's confirmed, you'll receive an email saying RPL application is approved.
+3. In the next registration, check if you see `Recognised Prior Learning` section in the bottom of `My Study` tab ([Sample screenshot](https://user-images.githubusercontent.com/41532275/152506052-f0f8d16e-8c1b-45d7-ae2f-fc1ff3c50e89.png)). If you don't see this, you'll likely need to open enquiry again to tell them accepted RPL does not show up in registration.
+4. If it's successfully added, once you start adding module, you'll see a prompt to use RPL credit ([Sample screenshot](https://londoncs.slack.com/files/U010CF7EUUT/F01K1E9U7QU/apl.png)).
+5. Confirm the use of RPL and proceed registration as usual.
 
 ### Is RPL time limited
 
