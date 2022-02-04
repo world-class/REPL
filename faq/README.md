@@ -574,12 +574,12 @@ You can find the up-to-date list of certificates eligible for automatic RPL [her
 ### How to apply for an automatic RPL
 
 - See [this article](../subreddit/rpl-guide.md) in the Subreddit section of the REPL for an example on how to get RPL in How Computers Work module with Google IT Professional Certificate.
-- Sample steps needed to register RPL credits
-1. Open [online enquiry](https://sid.london.ac.uk/sid/login/newuserform.aspx) stating you want to apply for RPL and attaching courcera cert. 
-2. Wait for reply. It cam take a while such as 2 weeks. Once it's confirmed, you'll receive an email saying RPL application is approved.
-3. In the next registration, check if you see `Recognised Prior Learning` section in the bottom of `My Study` tab ([Sample screenshot](https://londoncs.slack.com/files/U02FR0WJF99/F032CAMNMCG/screenshot-sits.london.ac.uk-2022.02.04-18_34_22.png)). If you don't see this, you'll likely need to open enquiry again to tell them accepted RPL does not show up in registration.
-4. If it's successfully added, once you start adding module, you'll see a prompt to use RPL credit ([Sample screenshot](https://londoncs.slack.com/files/U010CF7EUUT/F01K1E9U7QU/apl.png)).
-5. Confirm the use of RPL and proceed registration as usual.
+- Sample steps needed to register RPL credits:
+  1. Open [online enquiry](https://sid.london.ac.uk/sid/login/newuserform.aspx) stating you want to apply for RPL and attaching Coursera certification.
+  2. Wait for a reply. It can take a while, such as 2 weeks. Once it's confirmed, you'll receive an email saying the RPL application is approved.
+  3. In the next registration, check if you see `Recognised Prior Learning` section in the bottom of `My Study` tab ([Sample screenshot](https://londoncs.slack.com/files/U02FR0WJF99/F032CAMNMCG/screenshot-sits.london.ac.uk-2022.02.04-18_34_22.png)). If you don't see this, you'll likely need to open an enquiry again to tell them the accepted RPL does not show up in registration.
+  4. If it's successfully added, once you start adding modules, you'll see a prompt to use RPL credits ([Sample screenshot](https://londoncs.slack.com/files/U010CF7EUUT/F01K1E9U7QU/apl.png)).
+  5. Confirm the use of RPL and proceed to registration as usual.
 
 ### Is RPL time limited
 
