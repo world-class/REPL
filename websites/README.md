@@ -10,6 +10,7 @@
 - [Books](#books)
 - [Career and growth](#career-and-growth)
   - [Advice](#advice)
+  - [More learning at the university level](#more-learning-at-the-university-level)
   - [Reaching the next level](#reaching-the-next-level)
   - [Resume building](#resume-building)
   - [Thinking tools](#thinking-tools)
@@ -48,6 +49,7 @@
   - [Statistics](#statistics)
   - [Trigonometry](#trigonometry)
 - [Music (ideal for programming)](#music-ideal-for-programming)
+- [News](#news)
 - [Online services](#online-services)
   - [Clean your inbox](#clean-your-inbox)
   - [Diff checker (compare different files)](#diff-checker-compare-different-files)
@@ -135,6 +137,11 @@
 
 - [TopResume](https://www.topresume.com/career-advice). _"Job-search tips and expert advice to help you get ahead in your career."_
 
+### More learning at the university level
+
+[Jumpstart University](https://www.open.edu/openlearn/education-development/jumpstart-university/) - _"Free Learning from
+The Open University."_
+
 ### Reaching the next level
 
 - [Senior Mindset series](https://seniormindset.com/) - _"Get a series of curated essays on the mindset of a senior software engineer. What it takes to get there, what should you do when you're there, how to change the way you think."_
@@ -161,16 +168,16 @@
 - [Stanford Engineering Everywhere (SEE)](https://see.stanford.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com) - _"Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career."_
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - _"Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools."_
-- [Understanding Computers and the Internet](http://computerscience1.tv/2011/spring) - Harvard Extension School. About hardware, Internet, multimedia, security, website development, programming.
 
 ### Algorithms
 
 - [Algorithms in the "Real World" (2018)](http://www.cs.cmu.edu/~guyb/realworld.html) - Compression, error correcting codes, cryptography, parallel algorithms, locality and I/O efficient algorithms, indexing and searching, nearest neighbors, dimensionality reduction.
+- [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) - Princeton University - _"Essential information that every serious programmer needs to know about algorithms and data structures."_
 - [Comparison of Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms) - See time complexity at a glance for various popular algorithms.
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) - _"This is a dictionary of algorithms, algorithmic techniques, data structures, archetypal problems, and related definitions."_
 - [Introduction to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) ([problem sets](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/)) - MIT OpenCourseWare.
 - [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms/) - _"We've partnered with Dartmouth college professors Tom Cormen and Devin Balkcom to teach introductory computer science algorithms, including searching, sorting, recursion, and graph theory. Learn with a combination of articles, visualizations, quizzes, and coding challenges."_
-- [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/)
+- [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/).
 
 #### Visualizations
 
@@ -222,6 +229,7 @@
 - :heart: [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - _"A collection of awesome lists for hackers, pentesters & security researchers."_
 - [Hacksplaining](https://www.hacksplaining.com/) - _"Hacksplaining: Learn to hack."_
 - [Hacker Tools](https://hacker-tools.github.io) - _"Learn to make the most of the tools that hackers have been using for decades."_
+- [pwn.college](https://pwn.college) - _"Education platform to learn about, and practice, core cybersecurity concepts in a hands-on fashion."_
 
 ## LaTeX
 
@@ -243,6 +251,7 @@
 ## Mathematics
 
 - [Mathematics 16A, 002 - Fall 2013](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCCCqDD9uTufr5I3Xtr3szk) - UC Berkeley
+- [Mathematics modules](https://www.kcl.ac.uk/study-at-kings/ug/subjects/mathematics) - Covers Calculus I, Linear Algebra, Intro to (Abstract) Algebra and Intro to Dynamical Systems. - King's College London
 
 ### Beginner topics
 
@@ -252,6 +261,7 @@
 
 - [Calculus III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) - _Here are my online notes for my Calculus III course that I teach here at Lamar University. Despite the fact that these are my “class notes”, they should be accessible to anyone wanting to learn Calculus III or needing a refresher in some of the topics from the class._
 - [Calculus for beginners, from MIT](http://www-math.mit.edu/~djk/calculus_beginners) - _"Calculus for Beginners and Artists"_
+- [Calculus from scratch](https://www.coursera.org/instructor/robghrist) - Covers single variable in multiple courses. - Coursera (Robert Ghrist, University of Pennsylvania)
 - [Calculus problem set](https://www.math.ucdavis.edu/~kouba/ProblemsList.html)
 
 #### Derivatives
@@ -262,7 +272,9 @@
 
 ### Discrete mathematics
 
-- [Readings from MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
+- [cs2102: Discrete Math](https://uvacs2102.github.io/) - _"Propositions and proofs, Proof methods (including proof by construction, contradiction, and induction), Logic (Boolean logic, logical formulas, quantifiers), Binary relations, State machines, Finite and infinite sets, Number theory, Counting techniques, Probability theory."_
+- [Readings from MIT OpenCourseWare (2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
+- [Readings from MIT OpenCourseWare (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) on proofs, graph theory, recurrences, probability.
 
 #### Algorithms
 
@@ -334,6 +346,10 @@
 - [Music For Programming](http://musicforprogramming.net) - Play programming music right from your web browser in an IDE-like interface.
 - [Rainy Mood](https://rainymood.com) (noise generator) - _"Helps you to focus, relax, and sleep. [...] The internet's most popular rain experience."_
 
+## News
+
+- [daily.dev](https://daily.dev/) - _"Get a feed of the hottest developer news. Read more quality articles. Stay up to date. Save time."_ (see it on :star: [GitHub](https://github.com/dailydotdev/daily))
+
 ## Online services
 
 ### Clean your inbox
@@ -387,6 +403,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 ### Receive SMS
 
 - [Receive SMS](https://receive-smss.com) - _"receive-smss.com is a free service for receiving SMS messages and voice mails online. There is no need to register. Just select your phone number from the list below. You can use it to receive messages from Facebook, Telegram, WeChat, VK, PayPal, AliPay and more."_
+- [quackr](https://quackr.io) - _" quackr allows you to use a secure temporary phone number instead of your real phone number on the internet. Use quackr phone numbers to receive sms online in USA, UK & 22 other countries!"_
 
 ## Open source
 
@@ -479,11 +496,13 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 ### Git / GitHub
 
+- [Conventional Commits](https://www.conventionalcommits.org/) - _"A specification for adding human and machine readable meaning to commit messages."_
 - [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) - _"Interactive Git Cheatsheet, categorizing commands based on what they affect."_
 - [Git Immersion](http://gitimmersion.com) - _"A guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."_
 - [GitHowTo](https://githowto.com) - _"Git How To is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it."_
 - [GitHub Learning Lab](https://lab.github.com/) - _"With GitHub Learning Lab, grow your skills by completing fun, realistic projects. Get advice and helpful feedback from our friendly Learning Lab bot."_
 - [Learn Git Branching](https://learngitbranching.js.org) - _"An interactive Git visualization tool to educate and challenge!"_
+- [Microsoft Learn GitHub modules](https://docs.microsoft.com/en-us/learn/browse/?terms=Github) - _"Learn new skills and discover the power of Microsoft products with step-by-step guidance."_
 - [Pro Git Book](https://git-scm.com/book/en/v2) - _"The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com."_
 - [Productive Git for Developers](https://egghead.io/courses/productive-git-for-developers) - _"You will walk through a series of scenarios which you’ll most commonly encounter in your daily work life as a developer."_.
 - [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/) - _"Have you thought about contributing to an open source project, but you're too confused (or intimidated) by the process to even try? I've been there too!"_
@@ -497,6 +516,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 ### Java
 
+- [Introduction to Programming in Java](https://introcs.cs.princeton.edu/java/home/) - Princeton University - _"Textbooks for a first course in computer science for the next generation of scientists and engineers."_
 - [JetBrains Academy](https://www.jetbrains.com/academy) - _"You’ll progress through the track building around 5 different projects. Eventually you’ll be able to create a project that will showcase your skills at the junior Java Developer level."_.
 
 ### JavaScript

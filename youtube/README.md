@@ -50,6 +50,7 @@
   - [C](#c)
   - [C&#35;](#c-1)
   - [C&#43;&#43;](#c-2)
+  - [General](#general)
   - [JavaScript](#javascript)
   - [PHP](#php)
   - [Python](#python)
@@ -163,11 +164,12 @@
 ## Git / GitHub
 
 - [CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I) - CS50
-- [MIT Missing semester (Version Control) - Git data model](https://missing.csail.mit.edu/2020/version-control) - MIT
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) - Traversy Media
-- [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) (playlist) - Corey Schafer
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk) - freeCodeCamp.org
+- [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) (playlist) - Corey Schafer
 - [GitHub Basics Tutorial - How to Use GitHub](https://www.youtube.com/watch?v=x0EYpi38Yp4) - freeCodeCamp.org
+- [MIT Missing semester (Version Control) - Git data model](https://missing.csail.mit.edu/2020/version-control) - MIT
+- [The Ultimate Git & GitHub Crash Course - Learn to Version Control for Beginners](https://www.youtube.com/watch?v=i76ts_0UryI) - Laith Harb
 
 ## Graphic design
 
@@ -267,6 +269,8 @@
 
 ## General topics
 
+- :heart: [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - 3Blue1Brown. _"Some combination of math and entertainment, depending on your disposition."_
+  - [Grant Sanderson](https://www.youtube.com/c/GrantSanderson/) - _"Sister channel to 3Blue1Brown for side projects."_
 - [Numberphile](https://www.youtube.com/user/numberphile/) (channel) - _"Videos about numbers - it's that simple."_
 
 ### Linear algebra
@@ -338,6 +342,10 @@
   - [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) [4h01m] - freeCodeCamp.org
   - [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Playlist by The Cherno
 
+### General
+
+- [mCoding](https://www.youtube.com/c/mCodingWithJamesMurphy/) - James Murphy. _"Programming and mathematics, mostly including Python and C++."_
+
 ### JavaScript
 
 - Beginner
@@ -388,9 +396,11 @@
 
 ### Web development
 
-- [Web Development Tutorial For Beginners](https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G) (playlist) - LearnCode.academy
 - [Learn HTML/CSS](https://www.youtube.com/watch?v=iHZWS61Vyxk&list=PLMvLDJ7usmZDSg1z0X--3qz38IHjdieXR) (playlist) - Neil Rowe
+- [Monsterlessons Academy](https://www.youtube.com/c/MonsterlessonsAcademy) - Oleksandr Kocherhin. Focus on front-end development. _"Javascript, Typescript, React, Angular, Vue, Git, Docker, Node JS and much more."_
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [Web Development Tutorial For Beginners](https://www.youtube.com/watch?v=gQojMIhELvM&list=PLoYCgNOIyGABDU532eesybur5HPBVfC1G) (playlist) - LearnCode.academy
+- [Weibenfalk](https://www.youtube.com/c/Weibenfalk) - Thomas Weibenfalk. _"React, Vanilla Javascript, Gatsby, CSS, HTML and occasional backend development. A lot of the focus is on ReactJS cause I love it!"_
 
 #### CSS
 

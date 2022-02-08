@@ -1,9 +1,9 @@
 [Go back to the main page](../../../README.md)
 
-# Table of contents
+### Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Computational Mathematics](#computational-mathematics)
+- [Professor(s)](#professors)
 - [Topics previously covered (numerical mathematics)](#topics-previously-covered-numerical-mathematics)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
@@ -16,7 +16,7 @@
 
 ---
 
-# Computational Mathematics
+## Computational Mathematics
 
 This module helps you hone your skills in thinking abstractly. It also
 introduces you to many of the standard continuous models used to help
@@ -29,7 +29,11 @@ mathematical concepts and techniques that underpin Computer Science.
 In particular, you will study number systems, special functions,
 graphing and linear algebra.
 
-# Topics previously covered (numerical mathematics)
+## Professor(s)
+
+- Dr. Sarah Santos
+
+## Topics previously covered (numerical mathematics)
 
 - Number bases and modular arithmetic
 - Sequences and Series
@@ -42,32 +46,32 @@ graphing and linear algebra.
 - Linear Transformations
 - Introduction to Combinatorics and Probability
 
-# Assessment
+## Assessment
 
 One two hour unseen written examination and coursework (Type I)
 
-# Module specification
+## Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1015_CM-Module-Spec.pdf)
 
-# Syllabus
+## Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1015_CM.pdf)
 
-# Resources
+## Resources
 
-## Complementary learning
+### Complementary learning
 
 - [Saylor Academy](https://learn.saylor.org/course/index.php?categoryid=13) - _"Explore the real-world applications of mathematics through algebra, calculus, statistics, and geometry. You can earn a free certificate of completion for any of these online Mathematics courses, or use many of them to earn credit in leading college programs."_
 
-## Reading List
+### Reading List
 
 - [Computational Mathematics Weekly Reading List PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/cm1015-cm/cm_weekly_reading_list.pdf)
 
-## :heart: Notes
+### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/computational-mathematics).
 
-### Numerical Mathematics (earlier iteration of the module)
+#### Numerical Mathematics (earlier iteration of the module)
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/numerical-mathematics).

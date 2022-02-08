@@ -15,6 +15,9 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
     - [How long do I have to wait to receive the student email and student card](#how-long-do-i-have-to-wait-to-receive-the-student-email-and-student-card)
     - [What is my username to log in to the student's portal at my.london.ac.uk](#what-is-my-username-to-log-in-to-the-students-portal-at-mylondonacuk)
     - [When do I get access to the modules on Coursera](#when-do-i-get-access-to-the-modules-on-coursera)
+  - [Getting access to student perks](#getting-access-to-student-perks)
+    - [GitHub Student Pack](#github-student-pack)
+    - [O'Reilly Online Learning - Library](#oreilly-online-learning---library)
   - [:question: I need help! Whom should I ask](#question-i-need-help-whom-should-i-ask)
     - [Module-specific inquiries](#module-specific-inquiries)
     - [Non-academic questions](#non-academic-questions)
@@ -26,6 +29,9 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
     - [:exclamation: What are the basics on how to use Slack](#exclamation-what-are-the-basics-on-how-to-use-slack)
     - [How do I reply to a specific user using threads](#how-do-i-reply-to-a-specific-user-using-threads)
     - [I want to discuss off-topic things with other students, where should I go](#i-want-to-discuss-off-topic-things-with-other-students-where-should-i-go)
+  - [What equipment/software/hardware do I need for this degree](#what-equipmentsoftwarehardware-do-i-need-for-this-degree)
+    - [General](#general)
+    - [Module-specific](#module-specific)
   - [What should I do to stay on top of things and receive important updates and notifications](#what-should-i-do-to-stay-on-top-of-things-and-receive-important-updates-and-notifications)
   - [Is there a simple repository of all knowledge generated regarding this program](#is-there-a-simple-repository-of-all-knowledge-generated-regarding-this-program)
   - [How to access the library](#how-to-access-the-library)
@@ -34,9 +40,10 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [What kind of materials will the university deliver to us](#what-kind-of-materials-will-the-university-deliver-to-us)
 - [Modules and progression](#modules-and-progression)
   - [How to avoid being 'progression-blocked' due to missing prerequisites, and a suggested module schedule](#how-to-avoid-being-progression-blocked-due-to-missing-prerequisites-and-a-suggested-module-schedule)
+  - [Do I have to notify the university if I want to take a break from the next semester](#do-i-have-to-notify-the-university-if-i-want-to-take-a-break-from-the-next-semester)
   - [Can I publicly share my assignments online on sites like GitHub or GitLab](#can-i-publicly-share-my-assignments-online-on-sites-like-github-or-gitlab)
   - [Can I still access the modules I have taken once the semester is over](#can-i-still-access-the-modules-i-have-taken-once-the-semester-is-over)
-  - [Can a student switch pathways as the course goes on](#can-a-student-switch-pathways-as-the-course-goes-on)
+  - [Can a student switch pathways/specialisms as the course goes on](#can-a-student-switch-pathwaysspecialisms-as-the-course-goes-on)
   - [How can I drop/withdraw from module](#how-can-i-dropwithdraw-from-module)
   - [What is the maximum number of modules that one can select per semester and what if I fail one module](#what-is-the-maximum-number-of-modules-that-one-can-select-per-semester-and-what-if-i-fail-one-module)
   - [Where can I see a syllabus or module specification of all available modules](#where-can-i-see-a-syllabus-or-module-specification-of-all-available-modules)
@@ -86,7 +93,8 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course](#are-there-opportunities-for-students-to-gain-some-form-of-work-experience-in-the-industry-or-even-undergo-internships-during-the-course)
   - [I feel I need to vent, where can I go](#i-feel-i-need-to-vent-where-can-i-go)
 - [Recognition of Prior Learning (RPL)](#recognition-of-prior-learning-rpl)
-  - [How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate](#how-to-apply-for-a-recognition-of-prior-learning-rpl-with-the-google-it-support-professional-certificate)
+  - [What professional certificates are suitable for RPL](#what-professional-certificates-are-suitable-for-rpl)
+  - [How to apply for an automatic RPL](#how-to-apply-for-an-automatic-rpl)
   - [Is RPL time limited](#is-rpl-time-limited)
   - [What can be accepted as RPL](#what-can-be-accepted-as-rpl)
   - [Can we still apply RPL for Google IT Support course anytime during this semester or next](#can-we-still-apply-rpl-for-google-it-support-course-anytime-during-this-semester-or-next)
@@ -148,7 +156,18 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - You will receive an email a few business days (sometimes more) after your successful registration as a student once your payment has been made.
 - **Your first step** should be to complete the **Orientation course** on Coursera – otherwise you won't be able to start your modules. Make sure you have selected _University of London_ for your modules on Coursera (see screenshot below) to display the course and then you can access it from [the home page](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home) of this programme on Coursera or [directly from this link](https://www.coursera.org/learn/london-cs-orientation).
   ![coursera UoL selection](https://raw.githubusercontent.com/world-class/binary-assets/master/images/faq/coursera_uol_selection_2020-09-13.png)
-- Even once you have completed the **Orientation course**, you will get access to the modules **once the start date of the semester has been published** – check the home page of the student portal at https://my.london.ac.uk for an official answer and be on the lookout in the `#general` channel of the [Slack workspace](http://londoncs.slack.com/): it will be announced as soon as it is known. Additionally, make sure you have joined the `#announcements-from-uol` channel on Slack because official communication sent by UoL via email will be shared there (this is not a channel for questions, only for communication **FROM** UoL).
+- Even once you have completed the **Orientation course**, you will get access to the modules **once the start date of the semester has been published** – check the home page of the student portal at https://my.london.ac.uk for an official answer and be on the lookout in the `#general` channel of the :lock: [Slack workspace](http://londoncs.slack.com/) (students only): it will be announced as soon as it is known. Additionally, make sure you have joined the `#announcements-from-uol` channel on Slack because official communication sent by UoL via email will be shared there (this is not a channel for questions, only for communication **FROM** UoL).
+
+### Getting access to student perks
+
+#### GitHub Student Pack
+
+- You can take advantage of the [GitHub student pack](https://education.github.com/pack) by registering with your student email and giving proof of enrollment (a screenshot of your latest payment for any module will do).
+- This gives you access to professional tools from JetBrains (IDEs), free domain names, access to courses on platforms such as FrontendMasters, etc.
+
+#### O'Reilly Online Learning - Library
+
+- [Access it from this link](https://go.oreilly.com/university-of-london-worldwide) to find a plethora of books on algorithms, computer science, math, software developement and many other interesting fields!
 
 ### :question: I need help! Whom should I ask
 
@@ -177,6 +196,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 #### When and how I can get access to the student Slack workspace
 
 - When your first semester is about to start, you will receive an email from the university inviting you to join.
+- :lock: Invitations are sent by the university to enrolled students only.
 
 #### :exclamation: What are the basics on how to use Slack
 
@@ -196,10 +216,34 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 
 - A list of Slack channels [can be found here](../slack/README.md).
 
+### What equipment/software/hardware do I need for this degree
+
+- The following is subject to change. Please refer to the [programme's specifications](https://london.ac.uk/courses/computer-science) for details.
+
+#### General
+
+- Computer: requirements are very basic and can be found on the [Computer requirements](https://london.ac.uk/applications/how-apply/computer-requirements) page from the university's website.
+- Other hardware: you will need a webcam (or any other video recording device that can be connected to your computer, such as a smartphone) for some programming courses (at least for [Graphics Programming](../modules/level-5/cm-2030-graphics-programming/README.md)) and a microphone (at least for [Object-Oriented Programming](../modules/level-5/cm-2005-object-oriented-programming/README.md)). The audio recording could be done from a laptop (if it has an integrated microphone) or from a smartphone.
+- Software:
+  - Web browsers: Google Chrome is recommended for programming assignments (in [Introduction to Programming I](../modules/level-4/cm-1005-introduction-to-programming-i/README.md), [Introduction to Programming II](../modules/level-4/cm-1010-introduction-to-programming-ii/README.md), [Graphics Programming](../modules/level-5/cm-2030-graphics-programming/README.md), [Web Development](../modules/level-4/cm-1040-web-development/README.md) and other courses with a focus on web technologies) as this is the browser used by most lecturers. As a backup, Firefox is a great option because it uses a different engine to render pages and you may face different issues on different browsers with libraries such as [p5.js](https://p5js.org/), which is used in a few modules in the degree.
+  - A word processor that accepts Microsoft Word formats (.doc and .docx).
+  - A PDF reader (e.g. Adobe).
+
+#### Module-specific
+
+| Module                                    | Requirements                                                                                                                                                                                                                                           |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3D Graphics and Animation                 | Students will need a computer that matches the specifications for Unity 3D ([https://unity3d.com/](https://unity3d.com/)).                                                                                                                             |
+| Computational Mathematics                 | A scientific calculator or equivalent.                                                                                                                                                                                                                 |
+| Games Development                         | Students will need a computer that matches the specifications for Unity 3D ([https://unity3d.com/](https://unity3d.com/)).                                                                                                                             |
+| Mobile Development                        | Access to an Android or Apple smart phone that can be connected to a computer using a USB cable.                                                                                                                                                       |
+| Physical Computing and Internet of Things | An Arduino Starter Kit or similar: [https://store.arduino.cc/genuino-starter-kit](https://store.arduino.cc/genuino-starter-kit). Optional: A small kit to make electronics at home (tweezers, cutters, cutting mat, protective glasses); A multimeter. |
+| Virtual Reality                           | Students will need a computer that matches the specifications for Unity 3D ([https://unity3d.com](https://unity3d.com)). VR Head Mounted Display with the ability to be used in developer mode.                                                        |
+
 ### What should I do to stay on top of things and receive important updates and notifications
 
 - Subscribe to the **Reach Out** forum on Coursera to receive important emails about general updates in the programme. You will find it in the [Orientation Course](https://www.coursera.org/learn/london-cs-orientation/home/welcome). You can also subscribe to the **Tutor Group** forum to get academic help.
-- Use the [Slack workspace](http://londoncs.slack.com/) to find information about all your modules. [Check out this page](../slack/README.md) for a list of useful resources you'll find on Slack as well as how to use it (e.g, pinned items, channels, replying in threads, searching for information, etc.).
+- Use the :lock: [Slack workspace](http://londoncs.slack.com/) (students only) to find information about all your modules. [Check out this page](../slack/README.md) for a list of useful resources you'll find on Slack as well as how to use it (e.g, pinned items, channels, replying in threads, searching for information, etc.).
 - Sync your calendar with Coursera and make sure you know what's the current week number for the ongoing semester. You can find more about this [on this page](../README.md#calendar-due-dates-and-events).
 
 ### Is there a simple repository of all knowledge generated regarding this program
@@ -240,6 +284,10 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 
 - See [this article in the Subreddit section of the REPL](../subreddit/grades-guide.md) for details.
 
+### Do I have to notify the university if I want to take a break from the next semester
+
+- No. Simply do not register for new modules to skip the next semester.
+
 ### Can I publicly share my assignments online on sites like GitHub or GitLab
 
 - **You are strongly advised not to do so**, as is indicated in the submission guidelines of some modules. As per the guidelines in _Introduction to Programming II_ (as of June 2021): _"Do not host code on publicly available version control repositories (i.e. GitHub) **before or after** the submission"_ (emphasis added).
@@ -250,7 +298,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - Note that certain quizzes, especially summative ones, become locked and you cannot even see the questions anymore. Other than that, lectures and other pages remain accessible.
 - On the [main page of the programme on Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/), once the grades are released, the courses will move to the `Summary` tab rather than staying in the `In Progress` tab.
 
-### Can a student switch pathways as the course goes on
+### Can a student switch pathways/specialisms as the course goes on
 
 - You may apply to transfer between BSc Computer Science specialist pathways offered under these regulations provided that
 
@@ -387,7 +435,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### What week are we on
 
-- Check the topic of [#general](https://app.slack.com/client/TDT1N1BUG/CDTPC3FKL) on Slack. It's kept updated for this purpose only.
+- Check the topic of :lock: [#general](https://app.slack.com/client/TDT1N1BUG/CDTPC3FKL) on Slack (students only). It's kept updated for this purpose only.
 
 ### How do I setup calendar sync on Coursera
 
@@ -395,7 +443,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### I don't want to miss important announcements, what to do
 
-- Make sure you have a filter in your email for UoL emails. Also subscribe to [#announcements-from-uol](https://app.slack.com/client/TDT1N1BUG/CM4KKHUCB) on Slack.
+- Make sure you have a filter in your email for UoL emails. Also subscribe to :lock: [#announcements-from-uol](https://app.slack.com/client/TDT1N1BUG/CM4KKHUCB) on Slack (students only).
 
 ### How long are vacations between semesters
 
@@ -466,7 +514,7 @@ Some of the questions that can be answered by reading the programme regulations:
 
 ### My peer-reviewed work isn't graded yet, what can I do
 
-- Ask in the Slack channel [#reviewexchange](https://app.slack.com/client/TDT1N1BUG/CJXHM0RTQ).
+- Ask in the Slack channel :lock: [#reviewexchange](https://app.slack.com/client/TDT1N1BUG/CJXHM0RTQ) (students only).
 
 ### Do I have to complete all the formative as well as the summative assessments on Coursera
 
@@ -508,15 +556,30 @@ If you have any specific queries about something you have created which you are 
 ### I feel I need to vent, where can I go
 
 - [https://my.london.ac.uk/group/student/talkcampus](https://my.london.ac.uk/group/student/talkcampus)
-- Visit the [#vent](https://app.slack.com/client/TDT1N1BUG/CJG51H2CS) channel on Slack.
+- Visit the :lock: [#vent](https://app.slack.com/client/TDT1N1BUG/CJG51H2CS) channel on Slack (students only).
 
 ---
 
 ## Recognition of Prior Learning (RPL)
 
-### How to apply for a recognition of prior learning (RPL) with the Google IT Support Professional Certificate
+### What professional certificates are suitable for RPL
 
-- See [this article in the Subreddit section of the REPL](../subreddit/rpl-guide.md) for details.
+You can find the up-to-date list of certificates eligible for automatic RPL [here](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
+
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+- [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
+- [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+### How to apply for an automatic RPL
+
+- See [this article](../subreddit/rpl-guide.md) in the Subreddit section of the REPL for an example on how to get RPL in How Computers Work module with Google IT Professional Certificate.
+- Sample steps needed to register RPL credits:
+  1. Open [online enquiry](https://sid.london.ac.uk/sid/login/newuserform.aspx) stating you want to apply for RPL and attaching Coursera certification.
+  2. Wait for a reply. It can take a while, such as 2 weeks. Once it's confirmed, you'll receive an email saying the RPL application is approved.
+  3. In the next registration, check if you see `Recognised Prior Learning` section in the bottom of `My Study` tab ([Sample screenshot](https://raw.githubusercontent.com/world-class/binary-assets/master/images/faq/recognised_prior_learning.png)). If you don't see this, you'll likely need to open an enquiry again to tell them the accepted RPL does not show up in registration.
+  4. If it's successfully added, once you start adding modules, you'll see a prompt to use RPL credits ([Sample screenshot](https://raw.githubusercontent.com/world-class/binary-assets/master/images/faq/accreditation_prior_learning.png)).
+  5. Confirm the use of RPL and proceed to registration as usual.
 
 ### Is RPL time limited
 
@@ -533,7 +596,7 @@ If you have any specific queries about something you have created which you are 
 
 ### What can be accepted as RPL
 
-- If you are registered on a full BSc programme, you may apply for recognition of prior learning for up to 120 credits. We consider applications for recognition of prior learning (RPL) on the basis of studies successfully completed at an appropriate level. Further information regarding automatic and discretionary RPL for BSc Computer Science can be found on the website here: [https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
+- If you are registered on a full BSc programme, you may apply for recognition of prior learning for up to 120 credits. We consider applications for recognition of prior learning (RPL) on the basis of studies successfully completed at an appropriate level. Further information regarding automatic and discretionary RPL for BSc Computer Science can be found on the website [here](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
 
 ### Can we still apply RPL for Google IT Support course anytime during this semester or next
 

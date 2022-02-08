@@ -111,9 +111,11 @@
 - [Coder Radio](https://player.fm/series/coder-radio-2440919) - _"A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies."_
 - [Coding Blocks](https://www.codingblocks.net/) - _"Coding Blocks is the podcast and website for learning how to become a better software developer. We cover a wide variety of topics that range from good programming practices which are language agnostic all the way to specifics for particular languages."_
 - [InfoQ](https://www.infoq.com/the-infoq-podcast) - _"Curated and peer-reviewed content covering innovation in professional software development, read by over 1 million developers worldwide."_
+- [My life as a programmer](https://anchor.fm/fredrik-christenson) - _"Daily answers to programming questions"_
 - [Software Engineering Daily](https://softwareengineeringdaily.com) - _"The world through the lens of software."_
 - [Software Engineering Radio](https://www.se-radio.net/) - _"The podcast for professional software developers."_
 - [The Rabbit Hole: An Inside Look into Software Development](https://player.fm/series/the-rabbit-hole-an-inside-look-into-software-development) - _"If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you."_
+- [The Scrimba Podcast](https://scrimba.com/podcast/) - _"A weekly pod about learning to code and how to get your first Junior Developer job."_
 
 ### Testing
 
@@ -135,7 +137,9 @@
 - [A16z](https://a16z.com/podcasts/) - _"The a16z Podcast discusses tech and culture trends, news, and the future -- especially as ‘software eats the world’. It features industry experts, business leaders, and other interesting thinkers and voices from around the world. Multiple episodes are released every week."_
 - [Accidental Tech Podcast](https://atp.fm/) - _"A tech podcast we accidentally created while trying to do a car show."_
 - [Command_Line Heroes](https://www.redhat.com/en/command-line-heroes) - _"An original podcast about the people who transform technology from the command line up. Presented by Red Hat."_
+- [Compiler](https://www.redhat.com/en/compiler-podcast) - _"We ask people in tech about a variety of topics—some big, others small, and a few strange. Then, we bring their answers back to you, dissecting topics like open source, hackathons, DevOps, hiring, and so much more. It's the things you've always wanted to know about what moves tech forward, straight from the people who know it best."_ Presented by Red Hat.
 - [IRL: Online Life is Real Life](https://irlpodcast.org/) - _"Host Manoush Zomorodi shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Firefox."_ ([from IRL](https://irlpodcast.org/))
+- [Ladybug Podcast](https://www.ladybug.dev/) - _"We’re debugging the tech industry."_
 - [On the Metal](https://oxide.computer/podcasts) - _"Joined frequently by their boss, Steve Tuck, Bryan and Jess interview incredible guests retelling stories of adventure at the hardware/software interface. It’s unapologetically technical and as Jess says, “the nerdiest podcast on the face of the planet” -- but if you're their kind of nerd, you'll find yourself hanging on every word!"_ ([from Spotify](https://open.spotify.com/show/4GDUravTUbvTrdJ2oWnzJp))
 - [Recode Decode](https://www.vox.com/recode-podcasts) - _"Recode’s Kara Swisher, Silicon Valley’s most revered journalist, hosts candid interviews with tech execs, politicians, celebrities and more about their big ideas and how they’re changing our world. Tune in every week for enlightening conversations with people like Tesla CEO Elon Musk, former Secretary of State Hillary Clinton, Facebook CEO Mark Zuckerberg, and many more."_
 - [Techdirt](https://www.techdirt.com/blog/podcast/) - _"Techdirt is one of the better podcasts in tech policy issues."_ (from Alex Flach, UoL student)

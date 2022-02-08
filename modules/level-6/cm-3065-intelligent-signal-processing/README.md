@@ -2,14 +2,18 @@
 
 ### Table of contents
 
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
+- [Intelligent Signal Processing (CM3065)](#intelligent-signal-processing-cm3065)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Module specification](#module-specification)
+  - [Syllabus](#syllabus)
+  - [Resources](#resources)
+    - [:heart: Notes](#heart-notes)
 
 ---
 
-# Intelligent Signal Processing (CM3065)
+## Intelligent Signal Processing (CM3065)
 
 This module aims to provide you with a broad experience of digital
 signal processing techniques and applications. You will study how audio
@@ -19,7 +23,11 @@ and processing. You will learn how you can extract information from
 audio signals. You will implement movement and face detection systems
 that work with live camera input.
 
-## Topics covered
+### Professor(s)
+
+- Dr. Francisco Marti Perez
+
+### Topics covered
 
 - Capturing representing and processing audio signals
 - LTI systems and impulse responses
@@ -31,20 +39,20 @@ that work with live camera input.
 - Computer vision: face detection
 - Compressing signals
 
-## Assessment
+### Assessment
 
 Coursework only (Type II)
 
-## Module specification
+### Module specification
 
 - [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3065_ISP-Module-Spec.pdf)
 
-## Syllabus
+### Syllabus
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3065_ISP.pdf)
 
-## Resources
+### Resources
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/intelligent-signal-processing).

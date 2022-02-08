@@ -3,20 +3,21 @@
 ### Table of contents
 
 - [Web Development](#web-development)
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
-- [Resources](#resources)
-  - [Awesome learning resources](#awesome-learning-resources)
-  - [Essential reading](#essential-reading)
-  - [Games](#games)
-  - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [:heart: Notes](#heart-notes)
-  - [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
-  - [Programming](#programming)
-    - [JavaScript](#javascript)
-  - [Text editor](#text-editor)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Module specification](#module-specification)
+  - [Syllabus](#syllabus)
+  - [Resources](#resources)
+    - [Awesome learning resources](#awesome-learning-resources)
+    - [Essential reading](#essential-reading)
+    - [Games](#games)
+    - [Kinks to be aware of](#kinks-to-be-aware-of)
+    - [:heart: Notes](#heart-notes)
+    - [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
+    - [Programming](#programming)
+      - [JavaScript](#javascript)
+    - [Text editor](#text-editor)
 
 ---
 
@@ -34,7 +35,12 @@ you to present your work online in the form of a website.
 
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/p88ho/syllabus-web-development-cm1040).
 
-## Topics covered
+### Professor(s)
+
+- Dr. Nick Hine
+- And more
+
+### Topics covered
 
 - Introduction to Web Development
 - Web Site Design
@@ -47,25 +53,25 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 - JavaScript Libraries
 - Web Hosting & Professional Practices
 
-## Assessment
+### Assessment
 
 Coursework only (Type III)
 
-## Module specification
+### Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1040_WD-Module-Spec.pdf)
 
-## Syllabus
+### Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1040_WD.pdf)
 
-## Resources
+### Resources
 
-### Awesome learning resources
+#### Awesome learning resources
 
 - [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - GitHub awesome list. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-### Essential reading
+#### Essential reading
 
 _"There is no required textbook for this module. The module will draw on a number of different, largely web-based, public resources as well as the resources produced as bespoke material for this module. Some key online references are:_
 
@@ -75,7 +81,7 @@ _"There is no required textbook for this module. The module will draw on a numbe
 
 _Specific readings for each topic are listed with direct links to free online resources that provide additional material on the topics of this course."_
 
-### Games
+#### Games
 
 - [CSS Diner](https://flukeout.github.io/) - _"A fun game to help you learn and practice CSS selectors."_
 - [Flexbox Froggy](http://flexboxfroggy.com/) - _"A game for learning CSS flexbox."_
@@ -84,26 +90,26 @@ _Specific readings for each topic are listed with direct links to free online re
 - [Grid Garden](https://codepip.com/games/grid-garden/) - _"How well can you tend to your carrot garden using CSS grid? In this game, you must water your carrot crops and poison the weeds by mastering CSS grid, a powerful new module that makes 2-dimensional grid layouts a piece of cake. With it you can define columns, rows, and grid template areas."_
 - [Service Workies](https://serviceworkies.com/) - _"Learn Service Workers inside and out with the new game of Service Worker mastery."_
 
-### Kinks to be aware of
+#### Kinks to be aware of
 
 - [List of reported errors and bugs with the module](../../../kinks/level-4/cm-1040-web-development/).
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-4/web-development/).
 
-### On REPL (See sections on Web development)
+#### On REPL (See sections on Web development)
 
 - [Podcasts](../../../podcasts/)
 - [YouTube](../../../youtube/)
 - [Websites](../../../websites/)
 
-### Programming
+#### Programming
 
 - [Mozilla Developer Network Tutorials](https://developer.mozilla.org/)
 - [W3 Schools Online Web Tutorials](http://www.w3schools.com/)
 
-#### JavaScript
+##### JavaScript
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/), by Marijn Haverbeke. The book can be downloaded:
   - [As PDF](http://eloquentjavascript.net/Eloquent_JavaScript.pdf);
@@ -111,7 +117,7 @@ _Specific readings for each topic are listed with direct links to free online re
   - [As MOBI](https://eloquentjavascript.net/Eloquent_JavaScript.mobi) (for Kindle).
 - [Handlebars Training](https://www.youtube.com/playlist?list=PLtV5RF44Yj8S4RcpQehL-2XMuVsJXwNvK), by Rich Finelli (YouTube playlist)
 
-### Text editor
+#### Text editor
 
 If you followed our guide at the [ITP1 resource page](../cm-1005-introduction-to-programming-i/README.md#text-editor), then you already have Visual Studio Code set up. For this course, you may want to install the following extensions in addition to those recommended earlier:
 

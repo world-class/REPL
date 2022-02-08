@@ -2,12 +2,16 @@
 
 ### Table of contents
 
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
+- [Games Development (CM3030)](#games-development-cm3030)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Module specification](#module-specification)
+  - [Syllabus](#syllabus)
+  - [Resources](#resources)
+    - [:heart: Notes](#heart-notes)
 
-# Games Development (CM3030)
+## Games Development (CM3030)
 
 This module will introduce you to i) industry standard tools for
 game development, such as game engines, and ii) the process of game
@@ -28,7 +32,11 @@ player with limited computational resources. This module gives students
 practical experience of programming game AI systems and an understanding
 of the relevant theory.
 
-## Topics covered
+### Professor(s)
+
+- Dr. Tom Cole
+
+### Topics covered
 
 - Introduction to game development, the games industry and game engines
 - Creating sprite based 2D
@@ -41,20 +49,20 @@ of the relevant theory.
 - Behaviour Trees
 - Recap and review
 
-## Assessment
+### Assessment
 
 Coursework only (Type III)
 
-## Module specification
+### Module specification
 
 - [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3030_GD-Module-Spec.pdf)
 
-## Syllabus
+### Syllabus
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3030_GD.pdf)
 
-## Resources
+### Resources
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/games-development).

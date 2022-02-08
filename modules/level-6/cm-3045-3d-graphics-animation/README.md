@@ -1,15 +1,19 @@
 [Go back to the main page](../../../README.md)
 
-### Table of contents
+#### Table of contents
 
-- [Topics covered](#topics-covered)
-- [Assessment](#assessment)
-- [Module specification](#module-specification)
-- [Syllabus](#syllabus)
+- [3D Graphics and Animation (CM3045)](#3d-graphics-and-animation-cm3045)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Module specification](#module-specification)
+  - [Syllabus](#syllabus)
+  - [Resources](#resources)
+    - [:heart: Notes](#heart-notes)
 
 ---
 
-# 3D Graphics and Animation (CM3045)
+## 3D Graphics and Animation (CM3045)
 
 This module will cover advanced methods used in current state-of-the-art
 graphics and animation systems. It will include the mathematical
@@ -21,7 +25,12 @@ of physics and shader programming. You will study a range of examples,
 and through these learn how you can program computer graphics in
 contemporary graphical software for different applications.
 
-## Topics covered
+### Professor(s)
+
+- Dr. Marco Gillies
+- Dr. Sylvia Pan
+
+### Topics covered
 
 - Overview of 3D Graphics and mathematics for graphics
 - 3D Models and Transforms
@@ -34,20 +43,20 @@ contemporary graphical software for different applications.
 - Vertex Shaders
 - Fragment Shaders
 
-## Assessment
+### Assessment
 
 One two-hour unseen written examination and coursework (Type I)
 
-## Module specification
+### Module specification
 
 - [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3045_3DGA-Module-Spec.pdf)
 
-## Syllabus
+### Syllabus
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3045_3DGA.pdf)
 
-## Resources
+### Resources
 
-### :heart: Notes
+#### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/3d-graphics-and-animation).

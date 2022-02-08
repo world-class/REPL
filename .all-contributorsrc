@@ -402,6 +402,51 @@
         "doc",
         "tutorial"
       ]
+    },
+    {
+      "login": "justoneplanet",
+      "name": "Mitsuaki Ishimoto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/397001?v=4",
+      "profile": "https://kaomoji.tokyo/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "knez",
+      "name": "Nikola Knežević",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48497634?v=4",
+      "profile": "https://knez.github.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jamda",
+      "name": "Txomin Astrain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3706058?v=4",
+      "profile": "https://github.com/jamda",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "p-michaels-20200",
+      "name": "p-michaels-20200",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78732268?v=4",
+      "profile": "https://github.com/p-michaels-20200",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "renamoo",
+      "name": "renamoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41532275?v=4",
+      "profile": "https://renamoo-portfolio.netlify.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,

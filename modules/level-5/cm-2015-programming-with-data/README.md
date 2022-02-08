@@ -3,6 +3,7 @@
 ### Table of contents
 
 - [Programming with Data](#programming-with-data)
+- [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Mock exam](#mock-exam)
@@ -30,6 +31,10 @@ processing data to make it useful and shareable, and reasoning with
 data to test hypotheses and make parameterised predictions. The module
 will also introduce you to a new language and programming environment
 that is well-adapted to languages for these applications.
+
+## Professor(s)
+
+- Dr. Sean McGrath
 
 ## Topics covered
 

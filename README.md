@@ -16,7 +16,7 @@ especially in the context of studying a [BSc Computer Science offered by Goldsmi
 There are two main ways you could reach out to start all kinds of discussions:
 
 1. [Open an issue](https://github.com/world-class/REPL/issues/new/choose) on GitHub;
-2. Join the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/).
+2. Join the `#repl` channel in the :lock: [UoL Slack workspace](http://londoncs.slack.com/) (students only).
 
 Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/master/.github/CONTRIBUTING.md) just in case that's useful :wink:.
 
@@ -24,7 +24,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 
 # Current week
 
-- Week **15**.
+- Week **18**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
@@ -121,7 +121,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 
 <details>
 <summary><strong>Level 4 (year 1+)</strong></summary>
-  
+
 <div class="table-container">
 <table>
 <thead>
@@ -130,6 +130,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <th>Abbreviation</th>
 <th>Code</th>
 <th>Written exam?</th>
+<th>Group project?</th>
 <th>Slack channel</th>
 </tr>
 </thead>
@@ -139,6 +140,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>ADS1</strong></td>
 <td><strong>CM1035</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CKZT2SR0U">#cm1035-algos-data-i</a></code></td>
 </tr>
 <tr>
@@ -146,6 +148,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>CM</strong></td>
 <td><strong>CM1015</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH35SEHAS">#cm1015-computational-math</a></code></td>
 </tr>
 <tr>
@@ -153,6 +156,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>DM</strong></td>
 <td><strong>CM1020</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CKZT2LKPW">#cm1020-discrete-math</a></code></td>
 </tr>
 <tr>
@@ -160,6 +164,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>FCS</strong></td>
 <td><strong>CM1025</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CL275HWLF">#cm1025-fundamental-cs</a></code></td>
 </tr>
 <tr>
@@ -167,12 +172,14 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>HCW</strong></td>
 <td><strong>CM1030</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CHFR3DFBR">#cm1030-hcw</a></code> / <code><a href="https://app.slack.com/client/TDT1N1BUG/CHQ2321PG">#rpl-google-it</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-4/cm-1005-introduction-to-programming-i">Introduction to Programming I</a></td>
 <td><strong>ITP1</strong></td>
 <td><strong>CM1005</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH35RKXK8">#cm1005-intro-prog-i</a></code></td>
 </tr>
@@ -181,6 +188,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>ITP2</strong></td>
 <td><strong>CM1010</strong></td>
 <td>No</td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CKNURNQKU">#cm1010-intro-prog-ii</a></code></td>
 </tr>
 <tr>
@@ -188,19 +196,20 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>WD</strong></td>
 <td><strong>CM1040</strong></td>
 <td>No</td>
+<td><strong>Yes: 30% of total grade</strong></td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH3L72QD8">#cm1040-web-dev</a></code></td>
 </tr>
 </tbody>
 </table>
 </div>
-  
+
 <p>* <strong>CM is only available in the April session, whereas DM is only available in the October session.</strong></p>
 
 </details>
 
 <details>
 <summary><strong>Level 5 (year 2+)</strong></summary>
-  
+
 <div class="table-container">
 <table>
 <thead>
@@ -209,6 +218,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <th>Abbreviation</th>
 <th>Code</th>
 <th>Written exam?</th>
+<th>Group project?</th>
 <th>Slack channel</th>
 </tr>
 </thead>
@@ -218,6 +228,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>ASP</strong></td>
 <td><strong>CM2020</strong></td>
 <td>No</td>
+<td><strong>Yes: 100% of total grade</strong></td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A9AR0A4C">#cm2020-agile-software-projects</a></code></td>
 </tr>
 <tr>
@@ -225,6 +236,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>ADS2</strong></td>
 <td><strong>CM2035</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CUKR7TCDD">#cm2035-algos-data-ii</a></code></td>
 </tr>
 <tr>
@@ -232,6 +244,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>CSec</strong></td>
 <td><strong>CM2025</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01AT0JTB7S">#cm2025-computer-security</a></code></td>
 </tr>
 <tr>
@@ -239,12 +252,14 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>DNW</strong></td>
 <td><strong>CM2040</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CU6FK1W75">#cm2040-databases-networks-web</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-5/cm-2030-graphics-programming">Graphics Programming</a></td>
 <td><strong>GP</strong></td>
 <td><strong>CM2030</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CUJ0E4AA1">#cm2030-graphics-programming</a></code></td>
 </tr>
@@ -253,6 +268,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>OOP</strong></td>
 <td><strong>CM2005</strong></td>
 <td>No</td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CUKR6NR0X">#cm2005-object-oriented-programming</a></code></td>
 </tr>
 <tr>
@@ -260,6 +276,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>PWD</strong></td>
 <td><strong>CM2015</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A02PCW1K">#cm2015-programming-with-data</a></code></td>
 </tr>
 <tr>
@@ -267,6 +284,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 <td><strong>SDD</strong></td>
 <td><strong>CM2010</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01A9AP06NQ">#cm2010-software-design-development</a></code></td>
 </tr>
 </tbody>
@@ -291,6 +309,7 @@ following modules.</p>
 <th>Abbreviation</th>
 <th>Module code</th>
 <th>Written exam?</th>
+<th>Group project?</th>
 <th>Slack channel</th>
 </tr>
 </thead>
@@ -300,12 +319,14 @@ following modules.</p>
 <td><strong>3DGA</strong></td>
 <td><strong>CM3045</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JX9ZDLKC">#cm3045-3d-graphics-animation</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3035-advanced-web-development">Advanced Web Development</a></td>
 <td><strong>AWD</strong></td>
 <td><strong>CM3035</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C011X11DW5D">#cm3035-adv-web-dev</a></code></td>
 </tr>
@@ -314,6 +335,7 @@ following modules.</p>
 <td><strong>AI</strong></td>
 <td><strong>CM3020</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C012HTC1REG">#cm3020-artificial-intelligence</a></code></td>
 </tr>
 <tr>
@@ -321,6 +343,7 @@ following modules.</p>
 <td><strong>DS</strong></td>
 <td><strong>CM3005</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C011X0RP6Q7">#cm3005-data-science</a></code></td>
 </tr>
 <tr>
@@ -328,6 +351,7 @@ following modules.</p>
 <td><strong>DADT</strong></td>
 <td><strong>CM3010</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JJ7SSML7">#cm3010-databases-advanced-data-techniques</a></code></td>
 </tr>
 <tr>
@@ -335,12 +359,14 @@ following modules.</p>
 <td><strong>GD</strong></td>
 <td><strong>CM3030</strong></td>
 <td>No</td>
+<td><strong>Yes: 100% of total grade</strong></td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JX9YQ32N">#cm3030-games-development</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3065-intelligent-signal-processing">Intelligent Signal Processing</a></td>
 <td><strong>ISP</strong></td>
 <td><strong>CM3065</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01K9UK3865">#cm3065-intelligent-signal-processing</a></code></td>
 </tr>
@@ -349,12 +375,14 @@ following modules.</p>
 <td><strong>ID</strong></td>
 <td><strong>CM3055</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C012QBHE72M">#cm3055-interaction-design</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3015-machine-learning-neural-networks">Machine Learning and Neural Networks</a></td>
 <td><strong>MLNN</strong></td>
 <td><strong>CM3015</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C011X17R90X">#cm3015-machine-learning-and-neural-networks</a></code></td>
 </tr>
@@ -363,6 +391,7 @@ following modules.</p>
 <td><strong>MD</strong></td>
 <td><strong>CM3050</strong></td>
 <td>No</td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKSFM09">#cm3050-mobile-development</a></code></td>
 </tr>
 <tr>
@@ -370,6 +399,7 @@ following modules.</p>
 <td><strong>NLP</strong></td>
 <td><strong>CM3060</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKTE47K">#cm3060-natural-language-processing</a></code></td>
 </tr>
 <tr>
@@ -377,12 +407,14 @@ following modules.</p>
 <td><strong>IOT</strong></td>
 <td><strong>CM3040</strong></td>
 <td>No</td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKRUM25">#cm3040-physical-computing-internet-of-things</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/cm-3025-virtual-reality">Virtual Reality</a></td>
 <td><strong>VR</strong></td>
 <td><strong>CM3025</strong></td>
+<td>No</td>
 <td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01KBKPQV3K">#cm3025-virtual-reality</a></code></td>
 </tr>
@@ -423,12 +455,12 @@ specialism. The specialisms are:</p>
 <tr>
 <td><a href="modules/level-6/ml-ai">Machine Learning &amp; Artificial Intelligence</a></td>
 <td><strong>CM3020</strong></td>
-<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CJ2GTGREK">#iot</a></code></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH07V8ADA">#mlai</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/phys-computing-iot">Physical Computing &amp; the Internet of Things</a></td>
 <td><strong>CM3040</strong></td>
-<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH07V8ADA">#mlai</a></code></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CJ2GTGREK">#iot</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-6/user-experience">User Experience</a></td>
@@ -465,6 +497,7 @@ relevant topic for the final project.</p>
 <th>Module name</th>
 <th>Module code</th>
 <th>Written exam?</th>
+<th>Group project?</th>
 <th>Slack channel</th>
 </tr>
 </thead>
@@ -473,6 +506,7 @@ relevant topic for the final project.</p>
 <td><a href="modules/level-6/cm-3070-final-project">Final Project</a></td>
 <td><strong>CM3070</strong></td>
 <td><strong>Yes</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/C01JS7VL0TG">#cm3070-final-project</a></code></td>
 </tr>
 </tbody>
@@ -511,7 +545,6 @@ relevant topic for the final project.</p>
 
 <ul>
 <li><a href="https://london.ac.uk/contact-us">Contact page</a></li>
-<li><a href="https://enquiries.londoninternational.ac.uk/login/newuserform.aspx?cctc=UOL&amp;category=UOL">General enquiries for <strong>non-students</strong></a>.</li>
 <li><a href="https://my.london.ac.uk/">General enquiries <strong>for students</strong></a>: Click <em>"Ask a question"</em> in <a href="https://my.london.ac.uk/">the portal</a> or, equivalently, write to <a href = "mailto:BScCS-support@london.ac.uk">BScCS-support@london.ac.uk</a>.</li>
 <li>Reach out by phone (<strong>service not available during COVID-19</strong>): <code>+44 (0)20 7862 8000</code> (general), <code>+44 (0)20 7862 5766</code> (specific to this degree), <code>+44 (0)20 7862 8368</code> (fees office).</li>
 <li><a href="https://london.kb.help/">Student Advice Center</a>: knowledge base for frequently asked questions.</li>
@@ -634,30 +667,37 @@ Want to join this illustrious group? Have a look at the **[contributing guidelin
     <td align="center"><a href="https://github.com/zubmic"><img src="https://avatars1.githubusercontent.com/u/49207678?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michał Żuber</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=zubmic" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://kaomoji.tokyo/"><img src="https://avatars.githubusercontent.com/u/397001?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mitsuaki Ishimoto</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=justoneplanet" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/NagariaHussain"><img src="https://avatars1.githubusercontent.com/u/34810212?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohammad Hussain Nagaria</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=NagariaHussain" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/morags"><img src="https://avatars.githubusercontent.com/u/5771389?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Morag S.</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=morags" title="Documentation">📖</a> <a href="#tutorial-morags" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://knez.github.io"><img src="https://avatars.githubusercontent.com/u/48497634?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nikola Knežević</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=knez" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://calisir@harvardiana.com"><img src="https://avatars3.githubusercontent.com/u/28446823?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Osman CALISIR</b></sub></a><br /><a href="https://github.com/world-class/REPL/issues?q=author%3Aosmancalisir" title="Bug reports">🐛</a> <a href="#content-osmancalisir" title="Content">🖋</a></td>
     <td align="center"><a href="http://ryanslevin.com"><img src="https://avatars0.githubusercontent.com/u/41084841?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ryan Slevin</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=ryanslevin" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="http://www.sashavarlamov.com"><img src="https://avatars0.githubusercontent.com/u/10859025?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sasha Varlamov</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=svarlamov" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/SergiusGit"><img src="https://avatars.githubusercontent.com/u/7987304?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sergei</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=SergiusGit" title="Documentation">📖</a> <a href="#question-SergiusGit" title="Answering Questions">💬</a> <a href="https://github.com/world-class/REPL/issues?q=author%3ASergiusGit" title="Bug reports">🐛</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://shen.hong.io"><img src="https://avatars3.githubusercontent.com/u/6318461?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shen Zhou Hong</b></sub></a><br /><a href="#blog-ShenZhouHong" title="Blogposts">📝</a> <a href="#content-ShenZhouHong" title="Content">🖋</a> <a href="https://github.com/world-class/REPL/commits?author=ShenZhouHong" title="Documentation">📖</a> <a href="#tutorial-ShenZhouHong" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/eicksl"><img src="https://avatars2.githubusercontent.com/u/29685894?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Spencer Eick</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=eicksl" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/Sukhjit-Mann"><img src="https://avatars0.githubusercontent.com/u/62451479?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sukhjit Mann</b></sub></a><br /><a href="#content-Sukhjit-Mann" title="Content">🖋</a> <a href="https://github.com/world-class/REPL/issues?q=author%3ASukhjit-Mann" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://www.sglavoie.com/"><img src="https://avatars0.githubusercontent.com/u/32682903?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sébastien Lavoie</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=sglavoie" title="Code">💻</a> <a href="https://github.com/world-class/REPL/commits?author=sglavoie" title="Documentation">📖</a> <a href="#maintenance-sglavoie" title="Maintenance">🚧</a> <a href="https://github.com/world-class/REPL/pulls?q=is%3Apr+reviewed-by%3Asglavoie" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/world-class/REPL/commits?author=sglavoie" title="Tests">⚠️</a></td>
-    <td align="center"><a href="https://github.com/tonihe"><img src="https://avatars.githubusercontent.com/u/17664719?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Toni </b></sub></a><br /><a href="#content-tonihe" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/Xuan-Lim"><img src="https://avatars0.githubusercontent.com/u/24488417?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xuan Lim</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=Xuan-Lim" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/tonihe"><img src="https://avatars.githubusercontent.com/u/17664719?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Toni </b></sub></a><br /><a href="#content-tonihe" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/jamda"><img src="https://avatars.githubusercontent.com/u/3706058?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Txomin Astrain</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=jamda" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Xuan-Lim"><img src="https://avatars0.githubusercontent.com/u/24488417?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xuan Lim</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=Xuan-Lim" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ykahan"><img src="https://avatars2.githubusercontent.com/u/15960877?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yehoshua Kahan</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=ykahan" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/Z80-dreams"><img src="https://avatars0.githubusercontent.com/u/52473290?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Z80-dreams</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=Z80-dreams" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/gsej"><img src="https://avatars1.githubusercontent.com/u/7272850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gsej</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=gsej" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://b.toenobu.name/"><img src="https://avatars1.githubusercontent.com/u/1487300?v=4?s=100" width="100px;" alt=""/><br /><sub><b>toenobu</b></sub></a><br /><a href="#financial-toenobu" title="Financial">💵</a></td>
+    <td align="center"><a href="https://github.com/p-michaels-20200"><img src="https://avatars.githubusercontent.com/u/78732268?v=4?s=100" width="100px;" alt=""/><br /><sub><b>p-michaels-20200</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=p-michaels-20200" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://renamoo-portfolio.netlify.com"><img src="https://avatars.githubusercontent.com/u/41532275?v=4?s=100" width="100px;" alt=""/><br /><sub><b>renamoo</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=renamoo" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://b.toenobu.name/"><img src="https://avatars1.githubusercontent.com/u/1487300?v=4?s=100" width="100px;" alt=""/><br /><sub><b>toenobu</b></sub></a><br /><a href="#financial-toenobu" title="Financial">💵</a></td>
     <td align="center"><a href="https://github.com/hitfzyangdianshi"><img src="https://avatars.githubusercontent.com/u/10493326?v=4?s=100" width="100px;" alt=""/><br /><sub><b>大大狐狸cyberfox_meow</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=hitfzyangdianshi" title="Documentation">📖</a></td>
   </tr>
 </table>

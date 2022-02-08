@@ -1,5 +1,17 @@
 [Go back to the main page](../../../README.md)
 
+### Table of contents
+
+- [Physical Computing and the Internet of Things (CM3040)](#physical-computing-and-the-internet-of-things-cm3040)
+  - [Professor(s)](#professors)
+  - [Topics covered](#topics-covered)
+  - [Assessment](#assessment)
+  - [Syllabus](#syllabus)
+- [Resources](#resources)
+  - [:heart: Notes](#heart-notes)
+
+---
+
 ## Physical Computing and the Internet of Things (CM3040)
 
 This course provides an introduction to the development and programming
@@ -14,6 +26,10 @@ This study encompasses basic physics, electronics, programming and
 software engineering. The practical objective of this course is the
 development of the skills needed for designing and building interactive
 physical devices.
+
+### Professor(s)
+
+- Dr. Darpan Triboan
 
 ### Topics covered
 
@@ -31,6 +47,10 @@ physical devices.
 ### Assessment
 
 Coursework only (Type III)
+
+### Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3040_IOT.pdf)
 
 ## Resources
 
