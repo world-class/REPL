@@ -6,14 +6,18 @@
 - [Free access](#free-access)
   - [Mixed: Discounts & Free](#mixed-discounts--free)
 - [Free software](#free-software)
+
   - [2D animation](#2d-animation)
   - [3D animation](#3d-animation)
   - [3D prototyping](#3d-prototyping)
   - [Antivirus](#antivirus)
   - [Audio](#audio)
+  - [Development](#development)
+
     - [Players](#players)
     - [Production](#production)
     - [Recording & Editing](#recording--editing)
+
   - [Automation](#automation)
     - [File management](#file-management)
     - [Services](#services)
@@ -132,6 +136,7 @@
 ### 3D animation
 
 - :star: [Blender](https://www.blender.org)
+- :star: [Unity](https://www.unity.com) Cross-platform game engine. Unity is free for students enrolled at accredited educational institutions.
 
 ### 3D prototyping
 
@@ -145,6 +150,10 @@
 
 - :star: [Comparison of free software for audio](https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio)
 
+#### Development
+
+- :star: [JUCE 6 Projucer](https://juce.com) "JUCE is a partially open-source cross-platform C++ application framework, used for the development of desktop and mobile applications." Personal license grants single developer perpetual access. Education license for students allows JUCE to be used under same conditions as Personal license without limits on revenue. (Windows, macOS, Linux)
+
 #### Players
 
 - :star: [Amarok](https://amarok.kde.org) (Windows, macOS, Linux)
@@ -152,7 +161,7 @@
 
 #### Production
 
-- :heavy_dollar_sign: [REAPER](https://www.reaper.fm) **(60 days free trial, US\$60 for personal license)** (Windows, macOS, Linux\*) - _"REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset."_ (\* experimental)
+- :heavy*dollar_sign: [REAPER](https://www.reaper.fm) **(60 days free trial, US\$60 for personal license)** (Windows, macOS, Linux\*) - *"REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset."\_ (\* experimental)
 
 #### Recording & Editing
 
@@ -188,7 +197,7 @@
 
 ### Cloud IDE
 
-- :heavy_dollar_sign: :cloud: [Codeanywhere](https://codeanywhere.com) - _"Share and collaborate on your code in real time. Whether you want to pair program, or just get some help from a friend. Codeanywhere makes it easy."_
+- :heavy*dollar_sign: :cloud: [Codeanywhere](https://codeanywhere.com) - *"Share and collaborate on your code in real time. Whether you want to pair program, or just get some help from a friend. Codeanywhere makes it easy."\_
 
 ### Code snippets savers
 
@@ -246,6 +255,8 @@
 ### IDE (Integrated Development Environment)
 
 - [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
+- :star: [CLion](https://jetbrains.com/clion) - C, C++, Objective -C/C++, Python, Rust, Web, Swift, Fortran, Shell Script and more. (Windows, macOS, Linux)
+  Free educational license for students enrolled in an accredited programme.
 - :star: [Eclipse](https://eclipse.org) - C, C++, Java, Perl, PHP, Python, Ruby and more. (Windows, macOS, Linux)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) - AngularJS, CoffeeScript, CS, HTML, JavaScript, LESS, Node JS, PHP, Python, Ruby, Sass, TypeScript and more. (Windows, macOS, Linux)
 - :star: [Netbeans](https://netbeans.org) - C, C++, C++11, Fortan, HTML 5, Java, PHP and more. (Works with Java)
@@ -370,7 +381,7 @@
 
 #### All-in-one organization
 
-- :heavy_dollar_sign: [Notion](https://www.notion.so) ([Personal plan free for students](https://www.notion.so/students)) (Windows, macOS, Android, iOS, web) - **Free version currently limited to 1000 block storage and 5MB upload limit.** - _"Write, plan, collaborate, and get organized. Notion is all you need — in one tool."_
+- :heavy*dollar_sign: [Notion](https://www.notion.so) ([Personal plan free for students](https://www.notion.so/students)) (Windows, macOS, Android, iOS, web) - **Free version currently limited to 1000 block storage and 5MB upload limit.** - *"Write, plan, collaborate, and get organized. Notion is all you need — in one tool."\_
 
 #### Conversations with teams
 
@@ -380,7 +391,7 @@
 
 #### Emails
 
-- :heavy_dollar_sign: [Front](https://frontapp.com) - _"Front is the first inbox for teams. Organize all your conversations in one place, route them to the right people, and get more done as a team."_
+- :heavy*dollar_sign: [Front](https://frontapp.com) - *"Front is the first inbox for teams. Organize all your conversations in one place, route them to the right people, and get more done as a team."\_
 
 #### Habit tracker
 
@@ -496,12 +507,13 @@
 
 - [Mermaid.js](https://mermaid-js.github.io) - _"Mermaid lets you represent diagrams using text and code. This simplifies maintianing complex diagrams. It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically."_
 - [PlantUML](https://plantuml.com) - _"Generate UML diagram from textual description."_
+
 ### UX/UI design
 
 See also [Graphics software](#graphics-software).
 
 - [Adobe XD](https://www.adobe.com/products/xd.html) - _"Wireframe, design, prototype, present, and share amazing experiences for web, mobile, voice, and more — all in one app. XD is made for designers, creative teams, and organizations that need to design at scale. It’s everything you need to work more efficiently, collaborate effortlessly, and create and manage your design system."_
-- :heavy_dollar_sign: [Balsamiq](https://balsamiq.com) - _"With Balsamiq Wireframes, anyone can design great user interfaces."_
+- :heavy*dollar_sign: [Balsamiq](https://balsamiq.com) - *"With Balsamiq Wireframes, anyone can design great user interfaces."\_
 - [Figma](https://www.figma.com) (see also [figma-linux](https://github.com/Figma-Linux/figma-linux)) - _"A better way to design. Design, prototype, and gather feedback all in one place."_ **(free for individuals, with limitations)**
 - [Whimsical](https://whimsical.com) - _"Communicate visually at the speed of thought. Flowcharts, Wireframes, Sticky Notes, Mind Maps."_ **(free for individuals, with limitations)**
 
