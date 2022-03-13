@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import fileinput
 
 
-def main(semester_start_date: datetime = datetime(2021, 10, 11)) -> None:
+def main(semester_start_date: datetime = datetime(2022, 4, 4)) -> None:
     """
     Main function to execute. Simply update the date parameter when the
     current semester is done.

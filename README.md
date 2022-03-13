@@ -24,7 +24,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 
 # Current week
 
-- Semester done/ending :tada:. [Week: **23**]
+- Semester done/ending :tada:. Start date of the next semester: **Monday 4 April 2022**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
