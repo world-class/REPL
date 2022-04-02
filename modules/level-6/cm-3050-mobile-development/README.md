@@ -50,6 +50,7 @@ Coursework only (Type III)
 
 ### Resources
 
+- [Jest integration](https://react-native-async-storage.github.io/async-storage/docs/advanced/jest/) - Use of Jest and async-storage.
 - [Lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)](https://cs193p.sites.stanford.edu/)
 
 #### :heart: Notes
