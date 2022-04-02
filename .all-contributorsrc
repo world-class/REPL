@@ -474,6 +474,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "hayacon",
+      "name": "Hayato Ishida",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48184508?v=4",
+      "profile": "https://github.com/hayacon",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 4,
