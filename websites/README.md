@@ -7,6 +7,7 @@
 - [Starting point](#starting-point)
 - [Artificial intelligence](#artificial-intelligence)
   - [Machine learning](#machine-learning)
+- [API documentation](#api-documentation)
 - [Books](#books)
 - [Career and growth](#career-and-growth)
   - [Advice](#advice)
@@ -126,6 +127,10 @@
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google. - _"Google's fast-paced, practical introduction to machine learning."_
 - [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning) - University of Oxford
 - [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) - _"Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more."_
+
+## API documentation
+
+- [DevDocs](https://devdocs.io/) - API Documentation Browser. _"DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more."_
 
 ## Books
 
