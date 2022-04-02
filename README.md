@@ -40,17 +40,23 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 
 - [Applying to UoL: Guide and FAQs about the process](applying-to-uol)
 - [Books recommended by students in this degree](books)
-- [Discord server](https://discord.gg/zDpffJQ) - Especially great for prospective students
 - [Free software](software)
 - [Job opportunities](job-opportunities)
 - [Kinks to be aware of in the different modules](kinks)
 - Online courses: [free resources](online-courses/free), [paid resources](online-courses/paid)
+- Online communities
+  - Discord
+    - [Community of students](https://discord.gg/kjK5p9dtft) - Especially great for prospective students.
+    - [Graduates from this degree](https://discord.gg/2W9NRrHUpU) - To keep in touch beyond the journey at UoL!
+  - Slack
+    - :lock: [UoL Slack workspace](http://londoncs.slack.com/) (students only).
+    - [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
+  - Subreddit
+    - [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/)
+    - [Subreddit Articles](subreddit): A series of in-depth, informative articles by /u/Yangchenghu, originally posted on Reddit. (Opens directly on GitHub)
 - [Online study options](after-uol) (Master's, PhD, certificates, etc.)
 - [Podcasts](podcasts)
 - [Showcase of student-built applications](showcase)
-- [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
-- Subreddit: [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/)
-  - [Subreddit Articles](subreddit): A series of in-depth, informative articles by /u/Yangchenghu, originally posted on Reddit. (Opens directly on GitHub)
 - [University of London documents](https://github.com/world-class/binary-assets/tree/master/uol-documents). - See them all at a glance. (Opens directly on GitHub.)
 
 <br />
