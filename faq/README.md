@@ -105,7 +105,6 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [Which are the programming languages we will come across through the degree](#which-are-the-programming-languages-we-will-come-across-through-the-degree)
   - [Do we get a choice of back/front end frameworks to use during the web modules](#do-we-get-a-choice-of-backfront-end-frameworks-to-use-during-the-web-modules)
   - [There are a lot of technologies involved in data science. Can you run through some of the ones that will be covered](#there-are-a-lot-of-technologies-involved-in-data-science-can-you-run-through-some-of-the-ones-that-will-be-covered)
-  - [Have the Level 6 Modules been produced and tested](#have-the-level-6-modules-been-produced-and-tested)
   - [Have Level 5 and 6 modules been quality assured](#have-level-5-and-6-modules-been-quality-assured)
   - [If you're restructuring the program to adhere to accreditation standards, will that disrupt the current modules or impending modules](#if-youre-restructuring-the-program-to-adhere-to-accreditation-standards-will-that-disrupt-the-current-modules-or-impending-modules)
 - [Graduation and beyond](#graduation-and-beyond)
@@ -634,15 +633,12 @@ You can find the up-to-date list of certificates eligible for automatic RPL [her
 
 ### Do we get a choice of back/front end frameworks to use during the web modules
 
-- No.
+- For **Web Development**, no.
+- For **Advanced Web Development**, the backend must use Django, but the frontend is freely chosen (e.g., React and Vue.js are good options).
 
 ### There are a lot of technologies involved in data science. Can you run through some of the ones that will be covered
 
 - Python, `numpy`, `scipy` `pandas`, Jupyter notebooks, `TensorFlow`, data visualization tools.
-
-### Have the Level 6 Modules been produced and tested
-
-- Production commenced in early 2019. New modules will keep being made available for the whole of 2021.
 
 ### Have Level 5 and 6 modules been quality assured
 
