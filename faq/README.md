@@ -622,12 +622,13 @@ You can find the up-to-date list of certificates eligible for automatic RPL [her
 
 ### Which are the programming languages we will come across through the degree
 
-| Programming language | Module(s) where used                                                                                                                                                                                       |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| C#                   | Virtual Reality                                                                                                                                                                                            |
-| C++                  | Algorithms and Data Structures II\*, Object-Oriented Programming, Software Design and Development\*                                                                                                        |
-| JavaScript           | Intelligent Signal Processing, Introduction to Programming I, Introduction to Programming II, Algorithms and Data Structures I\*, Graphics Programming, Software Design and Development\*, Web Development |
-| Python               | Data Science, Databases and Advanced Data Techniques, Programming with Data, Software Design and Development\*                                                                                             |
+| Programming language | Module(s) where used                                                                                                                                                                                                                                                         |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| C#                   | 3D Graphics and Animation (Unity), Games Development (Unity), Virtual Reality                                                                                                                                                                                                |
+| C++                  | Algorithms and Data Structures II\*, Object-Oriented Programming, Physical Computing and the Internet of Things, Software Design and Development\*                                                                                                                           |
+| JavaScript           | Algorithms and Data Structures I\*, Graphics Programming, Intelligent Signal Processing, Introduction to Programming I, Introduction to Programming II, Mobile Development (React Native), Software Design and Development\*, Web Development                                |
+| Python               | Advanced Web Development (Django), Artificial Intelligence, Data Science, Databases and Advanced Data Techniques, Intelligent Signal Processing, Machine Learning and Neural Networks, Natural Language Processing, Programming with Data, Software Design and Development\* |
+| SQL                  | Databases and Advanced Data Techniques, Databases Networks and the Web                                                                                                                                                                                                       |
 
 \* This is not a major focus in the course.
 
