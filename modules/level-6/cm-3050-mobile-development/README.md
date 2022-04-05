@@ -9,6 +9,7 @@
   - [Syllabus](#syllabus)
   - [Resources](#resources)
     - [:heart: Notes](#heart-notes)
+    - [References](#references)
 
 ## Mobile Development (CM3050)
 
@@ -51,8 +52,17 @@ Coursework only (Type III)
 ### Resources
 
 - [Jest integration](https://react-native-async-storage.github.io/async-storage/docs/advanced/jest/) - Use of Jest and async-storage.
-- [Lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)](https://cs193p.sites.stanford.edu/)
+- [Lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)](https://cs193p.sites.stanford.edu/).
 
 #### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/mobile-development).
+
+#### References
+
+- [Android Studio Emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/) (iOS)
+- [Developer Content Policy](https://play.google.com/about/developer-content-policy/) (Android)
+- [Expo - Installation](https://docs.expo.dev/get-started/installation/)
+- [iOS Simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
