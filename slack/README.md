@@ -34,6 +34,7 @@ There is a channel available for each new cohort:
 - `october2020batch`
 - `april2021batch`
 - `october2021batch`
+- `april2022batch`
 - ...
 
 #### Fun channels
@@ -41,6 +42,7 @@ There is a channel available for each new cohort:
 | Channel                          | Purpose                                                                                                                                                          |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `#blender`                       | Channel for people who like blender and 3D design. If you post your project, please (if you can) post the blend file along with it so we can all learn together. |
+| `#gratitude`                     | For sharing things you are thankful for.                                                                                                                         |
 | `#hackathons`                    | Organise coding challenges                                                                                                                                       |
 | `#hacking`                       | Ethical hacking / general InfoSec stuff                                                                                                                          |
 | `#introductions`                 | Introduce yourself to your new course mates                                                                                                                      |
@@ -92,6 +94,7 @@ There is a channel available for each new cohort:
 | `#resources`                  | Post useful learning resources here                                                                                                                                                                                                                                                                                      |
 | `#reviewexchange`             | For those that need a peer review to review each other                                                                                                                                                                                                                                                                   |
 | `#rpl-hcw-google-it`          | For discussing Google IT professional Certificate                                                                                                                                                                                                                                                                        |
+| `#rpl-levels-5-6`             | Discussing Recognition of Prior Learning at levels 5 and 6.                                                                                                                                                                                                                                                              |
 | `#studytips_and_tools`        | Share study tips, methods, apps that might help others                                                                                                                                                                                                                                                                   |
 | `#teachyourselfcs`            | Discussions related to the roadmap provided by teachyourselfcs.com, Find Resources on https://teachyourselfcs-uol.btofficiel.now.sh                                                                                                                                                                                      |
 | `#transfer-to-on-campus`      | For everyone considering transferring to an on-campus degree                                                                                                                                                                                                                                                             |
