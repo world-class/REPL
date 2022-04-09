@@ -523,6 +523,8 @@ relevant topic for the final project.</p>
 </details>
 <br />
 
+:heart: To explore modules in this degree from the perspective of students who already took them, have a look at [this wonderful spreadsheet](https://docs.google.com/spreadsheets/d/1vyRqV4BVxZx9nVJvLJtUYI19aAgChu-4aPunoVS7uAg/edit).
+
 ## Calendar due dates and events
 
 <details>
