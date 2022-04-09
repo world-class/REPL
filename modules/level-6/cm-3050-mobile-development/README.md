@@ -68,13 +68,13 @@ Coursework only (Type III)
 
 ##### React / React Native
 
-- [Core Components and APIs](https://reactnative.dev/docs/components-and-apis)
-- [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
-- [React Navigation](https://reactnavigation.org/)
 - [Animated](https://reactnative.dev/docs/animated)
-- [React Fundamentals](https://reactnative.dev/docs/intro-react)
-- [JavaScript Environment](https://reactnative.dev/docs/javascript-environment)
 - [API security](https://www.redhat.com/en/topics/security/api-security)
+- [Core Components and APIs](https://reactnative.dev/docs/components-and-apis)
+- [JavaScript Environment](https://reactnative.dev/docs/javascript-environment)
+- [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
+- [React Fundamentals](https://reactnative.dev/docs/intro-react)
+- [React Navigation](https://reactnavigation.org/)
 
 ##### Expo
 
@@ -120,4 +120,4 @@ Coursework only (Type III)
 - [Material Design Guidelines](https://material.io/design/guidelines-overview)
 - [Notifications](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications)
 - [What is a Wireframe? A Guide to Wireframing a Website or App](https://www.framer.com/blog/posts/complete-guide-to-wireframing/)
-- [What is the cloud? | Cloud definition](https://www.cloudflare.com/en-gb/learning/cloud/what-is-the-cloud/)
+- [What is the cloud? Cloud definition](https://www.cloudflare.com/en-gb/learning/cloud/what-is-the-cloud/)
