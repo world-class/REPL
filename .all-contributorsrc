@@ -484,6 +484,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Artachtron",
+      "name": "Florent Vaucher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68659000?v=4",
+      "profile": "https://github.com/Artachtron",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 4,
@@ -492,5 +501,6 @@
   "projectOwner": "world-class",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "none"
 }
