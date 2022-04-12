@@ -9,8 +9,9 @@
   - [Module specification](#module-specification)
   - [Syllabus](#syllabus)
   - [Resources](#resources)
+    - [Complementary references](#complementary-references)
     - [:heart: Notes](#heart-notes)
-    - [References](#references)
+    - [References from the course](#references-from-the-course)
       - [Books](#books)
       - [Main websites](#main-websites)
 
@@ -60,11 +61,15 @@ One two-hour unseen written examination and coursework (Type I)
 
 ### Resources
 
+#### Complementary references
+
+- [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)
+
 #### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/3d-graphics-and-animation).
 
-#### References
+#### References from the course
 
 ##### Books
 
