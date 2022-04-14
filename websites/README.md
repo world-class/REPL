@@ -26,6 +26,7 @@
   - [Jupyter](#jupyter)
   - [Pandas](#pandas)
   - [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
+- [Drawing](#drawing)
 - [Free e-books and video courses](#free-e-books-and-video-courses)
 - [Hacking](#hacking)
 - [LaTeX](#latex)
@@ -224,6 +225,11 @@ The Open University."_
 
 - [Kaggle: Micro-Courses](https://www.kaggle.com/learn/overview) - _"Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."_
 - [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) - _"This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks."_
+
+## Drawing
+
+- [Diagrams.net](https://app.diagrams.net/) - _"Powerful features. diagrams.net has everything you expect from a professional diagramming tool."_
+- [Excalidraw](https://excalidraw.com/) - _"Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them."_
 
 ## Free e-books and video courses
 
