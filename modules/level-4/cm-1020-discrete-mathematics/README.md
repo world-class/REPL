@@ -7,6 +7,7 @@
   - [Topics covered](#topics-covered)
   - [Assessment](#assessment)
   - [Module specification](#module-specification)
+  - [Past exams](#past-exams)
   - [Syllabus](#syllabus)
   - [Resources](#resources)
     - [Additional reading](#additional-reading)
@@ -59,6 +60,10 @@ One two hour unseen written examination and coursework (Type I)
 ### Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1020_DM-Module-Spec.pdf)
+
+### Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm1020-dm/past-exams).
 
 ### Syllabus
 

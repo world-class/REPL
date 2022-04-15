@@ -9,6 +9,7 @@
   - [Mock exam](#mock-exam)
   - [Module specification](#module-specification)
   - [Reading list for this course](#reading-list-for-this-course)
+  - [Past exams](#past-exams)
   - [Syllabus](#syllabus)
   - [Resources](#resources)
     - [Kinks to be aware of](#kinks-to-be-aware-of)
@@ -61,6 +62,10 @@ One two hour unseen written examination and coursework (Type I)
 ### Reading list for this course
 
 - [Reading list for this course](https://github.com/world-class/binary-assets/blob/master/modules/cm2040-dnw/CM2040_DNW-reading-list.pdf)
+
+### Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm2040-dnw/past-exams).
 
 ### Syllabus
 

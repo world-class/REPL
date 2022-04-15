@@ -8,6 +8,7 @@
 - [Assessment](#assessment)
 - [Final deliverables instructions (coursework 2)](#final-deliverables-instructions-coursework-2)
 - [Module specification](#module-specification)
+- [Past exams](#past-exams)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
@@ -62,6 +63,10 @@ Coursework only (Type III)
 ## Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2020_ASP-Module-Spec.pdf)
+
+## Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm2020-asp/past-exams).
 
 ## Syllabus
 
