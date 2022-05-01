@@ -24,7 +24,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 
 # Current week
 
-- Week **4**.
+- Week **5**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
