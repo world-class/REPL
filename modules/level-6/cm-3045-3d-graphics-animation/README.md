@@ -7,6 +7,7 @@
   - [Topics covered](#topics-covered)
   - [Assessment](#assessment)
   - [Module specification](#module-specification)
+  - [Past exams](#past-exams)
   - [Syllabus](#syllabus)
   - [Resources](#resources)
     - [Complementary references](#complementary-references)
@@ -54,6 +55,10 @@ One two-hour unseen written examination and coursework (Type I)
 ### Module specification
 
 - [Module specification](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM3045_3DGA-Module-Spec.pdf)
+
+### Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm3045-3dga/past-exams/).
 
 ### Syllabus
 
