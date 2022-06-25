@@ -69,6 +69,7 @@ One two-hour unseen written examination and coursework (Type I)
 #### Complementary references
 
 - [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)
+- [Shader Basics, Blending & Textures • Shaders for Game Devs (Part 1)](https://www.youtube.com/watch?v=kfM-yu0iQBk)
 
 #### :heart: Notes
 
