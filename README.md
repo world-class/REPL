@@ -167,7 +167,7 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 <td><strong>CM1030</strong></td>
 <td><strong>Yes</strong></td>
 <td>No</td>
-<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CHFR3DFBR">#cm1030-hcw</a></code> / <code><a href="https://app.slack.com/client/TDT1N1BUG/CHQ2321PG">#rpl-google-it</a></code></td>
+<td><code><a href="https://app.slack.com/client/TDT1N1BUG/CHFR3DFBR">#cm1030-hcw</a></code> / <code><a href="https://app.slack.com/client/TDT1N1BUG/CHQ2321PG">#rpl-hcw-google-it</a></code></td>
 </tr>
 <tr>
 <td><a href="modules/level-4/cm-1005-introduction-to-programming-i">Introduction to Programming I</a></td>
