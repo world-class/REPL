@@ -20,8 +20,8 @@
 
 # Kinks found in Level 5 modules
 
-- [Object Oriented Programming](../kinks/level-5/cm-2005-object-oriented-programming/README.md)
 - [Databases, Networks and the Web](../kinks/level-5/cm-2040-databases-networks-and-the-web/README.md)
+- [Object Oriented Programming](../kinks/level-5/cm-2005-object-oriented-programming/README.md)
 
 As a great complimentary resource, don't forget to check out the `#bugs` channel on Slack.
 
