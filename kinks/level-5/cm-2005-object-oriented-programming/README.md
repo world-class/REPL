@@ -34,4 +34,4 @@ _"There's a nasty bug in week 18 video 9.207. When you load a file the applicati
 
 _So a solution I came up with for the problem is to use getNumRows() and check if rowNum is less than it like in the image below._" - Jamie Jackson
 
-![Solution](https://github.com/world-class/binary-assets/blob/master/modules/cm2005-oop/bugs/bug_10.207.png?raw=true)
+![Solution](https://github.com/world-class/binary-assets/blob/master/modules/cm2005-oop/bugs/bug_10.107.png?raw=true)
