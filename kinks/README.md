@@ -4,6 +4,7 @@
 
 - [Table of contents](#table-of-contents)
 - [Kinks found in Level 4 modules](#kinks-found-in-level-4-modules)
+- [Kinks found in Level 5 modules](#kinks-found-in-level-5-modules)
 - [Note to future students](#note-to-future-students)
 
 ---
@@ -16,6 +17,11 @@
 - [Introduction to Programming I](../kinks/level-4/cm-1005-introduction-to-programming-i/README.md)
 - [Introduction to Programming II](../kinks/level-4/cm-1010-introduction-to-programming-ii/README.md)
 - [Web Development](../kinks/level-4/cm-1040-web-development/README.md)
+
+# Kinks found in Level 5 modules
+
+- [Object Oriented Programming](../kinks/level-5/cm-2005-object-oriented-programming/README.md)
+- [Databases, Networks and the Web](../kinks/level-5/cm-2040-databases-networks-and-the-web/README.md)
 
 As a great complimentary resource, don't forget to check out the `#bugs` channel on Slack.
 
