@@ -10,6 +10,7 @@
 - [Past exams](#past-exams)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
+  - [Kinks to be aware of](#kinks-to-be-aware-of)
   - [Linux setup guide for OOP projects](#linux-setup-guide-for-oop-projects)
   - [Class diagram of starter code](#class-diagram-of-starter-code)
   - [Complementary learning](#complementary-learning)
@@ -67,6 +68,10 @@ Coursework only (Type II)
 ## Resources
 
 - :star: [Sourcetrail](https://www.sourcetrail.com) (Windows, macOS, Linux) - _"Free and open-source cross-platform source explorer"_. Supports C, C++, Java and Python.
+
+### Kinks to be aware of
+
+- [List of reported errors and bugs with the module](../../../kinks/level-5/cm-2005-object-oriented-programming/).
 
 ### Linux setup guide for OOP projects
 
