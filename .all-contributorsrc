@@ -493,6 +493,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "clericusvagans",
+      "name": "Sardar*Pi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71530277?v=4",
+      "profile": "https://github.com/clericusvagans",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
