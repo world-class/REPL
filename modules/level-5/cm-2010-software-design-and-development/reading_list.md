@@ -31,9 +31,9 @@
 - Zhao, Y., I. Borovikov, A. Beirami, J. Harder, J. Kolen, J. Pestrak, J. Pinto, R. Pourabolghasem, H. Chaput, M. Sardari et al. 'Winning isn’t everything: Training agents to playtest modern games', AAAI Workshop on Reinforcement Learning in Games 2019. https://web.archive.org/web/20201130170550/https://arxiv.org/pdf/1903.10545.pdf
 - Albaghajati, A.M. and M.A.K. Ahmed 'Video game automated testing approaches: an assessment framework', IEEE Transactions on Games. https://ieeexplore.ieee.org/abstract/document/9234724
 - Ferre, X., N. Juristo, H. Windl and L. Constantine 'Usability basics for software developers', IEEE Software 18(1) 2001, pp.22-29. https://ieeexplore.ieee.org/document/903160
-- Brooke, J. 'SUS: a retrospective', Journal of Usability Studies, 8(2) 2013.
-- Lewis, J.R., B.S. Utesh, D.E. Maher 'UMUX-LITE: when there's no time for the SUS', Proceedings of the SIGCHI Conference on Human Factors in Computing Systems 2013, pp.2099-2102.
-- Cherry, E. and C. Latulipe 'Quantifying the creativity support of digital tools through the creativity support index', ACM Transactions on Computer-Human Interaction 21 2014.
-- Molich, R. and J. Nielsen 'Improving a human-computer dialogue', Communications of the ACM 33(3) March 1990, pp.338–348.
+- Brooke, J. 'SUS: a retrospective', Journal of Usability Studies, 8(2) 2013. https://dl.acm.org/doi/10.5555/2817912.2817913
+- Lewis, J.R., B.S. Utesh, D.E. Maher 'UMUX-LITE: when there's no time for the SUS', Proceedings of the SIGCHI Conference on Human Factors in Computing Systems 2013, pp.2099-2102. https://dl.acm.org/doi/10.1145/2470654.2481287
+- Cherry, E. and C. Latulipe 'Quantifying the creativity support of digital tools through the creativity support index', ACM Transactions on Computer-Human Interaction 21 2014. https://dl.acm.org/doi/10.1145/2617588
+- Molich, R. and J. Nielsen 'Improving a human-computer dialogue', Communications of the ACM 33(3) March 1990, pp.338–348. https://dl.acm.org/doi/10.1145/77481.77486
 - The Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 https://www.legislation.gov.uk/uksi/2018/952/contents/made
 - Rochkind, M.J. 'The source code control system', IEEE Transactions on Software Engineering SE-1(4) Dec. 1975, pp.364-370. https://ieeexplore.ieee.org/document/6312866
