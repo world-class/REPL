@@ -1,10 +1,10 @@
 [Go back to the main page](../../../README.md)
 
-### Table of contents
+# Table of contents
 
 - [Unable to generate a link for the midterm](#unable-to-generate-a-link-for-the-midterm)
 
----
+# Databases, Networks and the Web - Reported problems
 
 ## Unable to generate a link for the midterm
 
