@@ -94,6 +94,7 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Comparison of Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms) - See time complexity at a glance for various popular algorithms.
 - [Data Structure & Algorithms Introduction](https://www.programiz.com/dsa/algorithm) - Sorting algorithms, data structures, tree data structure and more.
+- [Data Structures and Algorithms Tutorial](https://www.scaler.com/topics/data-structures/) - Step by Step Tutorial on DSA for beginners.
 
 ###### `mergeSort` algorithm
 
