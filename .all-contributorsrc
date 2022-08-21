@@ -511,6 +511,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "MayTD",
+      "name": "May Do",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49999087?v=4",
+      "profile": "https://github.com/MayTD",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
