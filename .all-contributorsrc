@@ -520,6 +520,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "alferov",
+      "name": "alferov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5904649?v=4",
+      "profile": "https://github.com/alferov",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
