@@ -6,10 +6,10 @@ from datetime import datetime, timedelta
 import fileinput
 
 
-def main(semester_start_date: datetime = datetime(2022, 4, 4)) -> None:
+def main(semester_start_date: datetime = datetime(2022, 10, 10)) -> None:
     """
-    Main function to execute. Simply update the date parameter when the
-    current semester is done.
+    Main function to execute. Simply update the date parameter (must fall on Monday) when
+    the current semester is done to a Monday.
     """
     current_date = datetime.today()
     current_week = get_current_week_number(current_date, semester_start_date)
