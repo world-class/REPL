@@ -538,6 +538,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "lamafab",
+      "name": "Fabio Lama",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42901763?v=4",
+      "profile": "https://github.com/lamafab",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 4,
