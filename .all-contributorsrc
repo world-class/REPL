@@ -529,6 +529,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "gunessen",
+      "name": "Günes Sen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45563223?v=4",
+      "profile": "https://github.com/gunessen",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
