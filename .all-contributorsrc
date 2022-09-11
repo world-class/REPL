@@ -547,6 +547,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "JoAnFe",
+      "name": "J.A.F",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70269030?v=4",
+      "profile": "https://github.com/JoAnFe",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
