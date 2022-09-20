@@ -13,6 +13,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - [:one: Just enrolled - First steps](#one-just-enrolled---first-steps)
   - [Getting access to the programme](#getting-access-to-the-programme)
     - [How long do I have to wait to receive the student email and student card](#how-long-do-i-have-to-wait-to-receive-the-student-email-and-student-card)
+    - [What can I do if I can't log in to my student email](#what-can-i-do-if-i-cant-log-in-to-my-student-email)
     - [What is my username to log in to the student's portal at my.london.ac.uk](#what-is-my-username-to-log-in-to-the-students-portal-at-mylondonacuk)
     - [When do I get access to the modules on Coursera](#when-do-i-get-access-to-the-modules-on-coursera)
   - [Getting access to student perks](#getting-access-to-student-perks)
@@ -145,6 +146,10 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 #### How long do I have to wait to receive the student email and student card
 
 - Expect a delay of approximately 4 to 6 weeks before you get access. You will receive an email to activate your ISIC virtual student card.
+
+#### What can I do if I can't log in to my student email
+
+- Try updating your password in the [student portal](https://my.london.ac.uk): this password will also be used to log in to your university email.
 
 #### What is my username to log in to the student's portal at my.london.ac.uk
 
