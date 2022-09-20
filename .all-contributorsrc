@@ -491,7 +491,10 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/68659000?v=4",
       "profile": "https://github.com/Artachtron",
       "contributions": [
-        "data"
+        "data",
+        "content",
+        "doc",
+        "tool"
       ]
     },
     {
