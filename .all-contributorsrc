@@ -559,6 +559,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "liznelson",
+      "name": "Liz Nelson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74794306?v=4",
+      "profile": "https://github.com/liznelson",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
