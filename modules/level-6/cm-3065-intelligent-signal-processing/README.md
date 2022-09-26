@@ -56,3 +56,17 @@ Coursework only (Type II)
 #### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/intelligent-signal-processing).
+
+#### Textbooks used in the module
+
+- Collins, N. Introduction to computer music. (Chichester: John Wiley & Sons, 2010).
+- Downey, A.B. Think DSP − Digital Signal Processing in Python. (Needham: Green Tea Press, 2014).
+- Hosken, D. W. An introduction to music technology. (New York: Routledge, 2011).
+
+#### Libraries and other tools
+
+- [p5.js, p5.sound, p5.speech](https://p5js.org/libraries/)
+- [Audacity](https://manual.audacityteam.org/)
+- [Mozilla DeepSpeech](https://deepspeech.readthedocs.io/en/r0.9/)
+- [OpenCV](https://docs.opencv.org/4.6.0/d1/dfb/intro.html)
+- [ffmpeg](https://ffmpeg.org/)
