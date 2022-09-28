@@ -568,6 +568,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "richardkazuomiller",
+      "name": "Ricky Miller",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1243814?v=4",
+      "profile": "https://github.com/richardkazuomiller",
+      "contributions": [
+        "code",
+        "a11y"
+      ]
     }
   ],
   "contributorsPerLine": 4,
