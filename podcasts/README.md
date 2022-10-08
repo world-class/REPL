@@ -144,6 +144,7 @@
 - [Recode Decode](https://www.vox.com/recode-podcasts) - _"Recode’s Kara Swisher, Silicon Valley’s most revered journalist, hosts candid interviews with tech execs, politicians, celebrities and more about their big ideas and how they’re changing our world. Tune in every week for enlightening conversations with people like Tesla CEO Elon Musk, former Secretary of State Hillary Clinton, Facebook CEO Mark Zuckerberg, and many more."_
 - [Techdirt](https://www.techdirt.com/blog/podcast/) - _"Techdirt is one of the better podcasts in tech policy issues."_ (from Alex Flach, UoL student)
 - [The Talk Show - John Gruber](https://daringfireball.net/thetalkshow/) - _"The Talk Show is a technology podcast started by Gruber intended as a "director's commentary" to his website, Daring Fireball."_ ([from Wikipedia](https://en.wikipedia.org/wiki/John_Gruber#The_Talk_Show))
+- [Signals and Threads](https://signalsandthreads.com/) - _"Listen in on Jane Street’s Ron Minsky as he has conversations with engineers working on everything from clock synchronization to reliable multicast, build systems to reconfigurable hardware. Get a peek at how Jane Street approaches problems, and how those ideas relate to tech more broadly."
 
 ## Variety
 
