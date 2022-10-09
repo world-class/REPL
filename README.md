@@ -12,7 +12,7 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 
 # Current week
 
-- Semester done/ending :tada:. Start date of the next semester: **Monday 10 October 2022**.
+- Week **1**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
