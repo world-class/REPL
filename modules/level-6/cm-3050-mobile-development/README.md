@@ -9,7 +9,6 @@
   - [Syllabus](#syllabus)
   - [Resources](#resources)
     - [:heart: Notes](#heart-notes)
-    - [References](#references)
       - [React / React Native](#react--react-native)
       - [Expo](#expo)
       - [Android](#android)
@@ -61,10 +60,6 @@ Coursework only (Type III)
 #### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/mobile-development).
-
-#### References
-
-- The instructor uses the [Atom](https://atom.io/) text editor.
 
 ##### React / React Native
 

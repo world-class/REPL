@@ -89,19 +89,15 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 </li>
 <li>Debugging code<ul>
 <li><a href="https://blog.hartleybrody.com/debugging-code-beginner/">10 Debugging Tips for Beginners: How to Troubleshoot and Fix Your Code Without Pulling Your Hair Out</a> - hartleybrody.com</li>
-<li><a href="https://flight-manual.atom.io/hacking-atom/sections/debugging/">How to debug code in Atom editor</a> - Atom.io</li>
 <li><a href="https://docs.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019">How to debug for absolute beginners in VS Code editor</a> - Microsoft.com</li>
-<li><a href="https://github.com/adobe/brackets/wiki/How-to-Use-Brackets">How to use Brackets editor</a> - Adobe, on GitHub (<strong>note</strong>: support for Brackets is ending on September 1, 2021. <a href="https://code.visualstudio.com/">VS Code</a> is a good alternative.)</li>
 </ul>
 </li>
 <li>Finding answers<ul>
-<li><a href="https://thebestschools.org/magazine/10-tips-to-improve-your-online-research/">10 Tips to Improve Your Online Research</a></li>
 <li><a href="https://en.wikipedia.org/wiki/List_of_search_engines">List of search engines</a> - Wikipedia</li>
 <li>Google<ul>
-<li><a href="https://www.youtube.com/watch?v=erZ3IyBCXdY">15 Ways to Search Google 96% of People Don’t Know About</a> - YouTube</li>
 <li><a href="https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html">20 Google Search Tips to Use Google More Efficiently</a> - Lifehack </li>
-<li><a href="http://www.powersearchingwithgoogle.com/course/aps">Advanced Power Searching</a> - Google Course</li>
 <li><a href="https://coursebuilder.withgoogle.com/sample/course">Power Searching with Google</a> - Google Course</li>
+<li><a href="https://support.google.com/websearch/answer/2466433">Refine web searches</a> - Google Search Help</li>
 </ul>
 </li>
 </ul>
