@@ -578,6 +578,15 @@
         "code",
         "a11y"
       ]
+    },
+    {
+      "login": "ndvo",
+      "name": "Nelson do Vale Oliveira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/866611?v=4",
+      "profile": "https://github.com/ndvo",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
