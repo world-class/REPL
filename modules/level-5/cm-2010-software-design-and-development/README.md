@@ -12,6 +12,7 @@
 - [Resources](#resources)
 - [Design patterns](#design-patterns)
 - [Module cohesion and coupling](#module-cohesion-and-coupling)
+- [Secure coding practices](#secure-coding-practices)
 
 ---
 
@@ -78,3 +79,8 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Python] [Cohesion and coupling: write BETTER PYTHON CODE Part 1](https://www.youtube.com/watch?v=eiDyK_ofPPM) - ArjanCodes.
   - [Full playlist](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N) includes topics about dependency inversion/injection, design patterns, exception handling, inheritance, composition and more.
+
+## Secure coding practices
+
+- [Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/) - The Linux Foundation.
+  - This free course covers the same topics as the 'secure coding' section of the module in more depth along with other related topics. The course is heavily based on the reading of the mid-term assignment '_[Secure Programming HOWTO - Creating Secure Software](https://dwheeler.com/secure-programs/)_' as David Wheeler is the author of both materials.
