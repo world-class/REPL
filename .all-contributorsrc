@@ -587,6 +587,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ACSG-64",
+      "name": "Andrés Sarmiento",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50815104?v=4",
+      "profile": "https://github.com/ACSG-64",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
