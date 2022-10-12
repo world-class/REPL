@@ -605,6 +605,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "lksmrqrdt",
+      "name": "Lukas Marquardt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72219526?v=4",
+      "profile": "https://mrqrdt.dev",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 4,
