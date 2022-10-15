@@ -604,7 +604,7 @@ You can find the up-to-date list of certificates eligible for automatic RPL [her
 
 ### Can we still apply RPL for Google IT Support course anytime during this semester or next
 
-- You can apply at any time before you take your first level 5 module. Beware that RPL will take some time to be proceeded.
+- You can apply at any time before you take your first level 5 module. To study modules at level 5, you need to have attempted all modules at level 4 first or — in the case of a RPL for How Computers Work — have that module approved by the university _before_ you can register for new modules as it would not count as an attempt yet (since it is being attempted outside UoL and not yet validated). **Beware that the university may take some time to process your application for RPL**: a RPL yet to be approved will prevent you from registering modules at level 5 (this applies to any other modules at level 4, too). See the progression rules in the programme regulations for details.
 
 ### Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration
 
