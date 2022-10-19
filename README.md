@@ -193,7 +193,7 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 </table>
 </div>
 
-<p>* <strong>CM is only available in the April session, whereas DM is only available in the October session.</strong></p>
+<p>* <strong>Previously, CM is only available in the April session, whereas DM is only available in the October session. But on October 2022, both classes were available.</strong></p>
 
 </details>
 
