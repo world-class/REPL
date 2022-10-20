@@ -623,6 +623,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "angle943",
+      "name": "Justin Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5943963?v=4",
+      "profile": "https://github.com/angle943",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
