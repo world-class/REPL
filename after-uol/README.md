@@ -31,7 +31,7 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 |--------|----------|------------------|
 | [Arizona State University](https://www.coursera.org/degrees/master-of-computer-science-asu) | Coursera | $15,000 |
 | [Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/) |||
-| [Columbia University](https://cvn.columbia.edu/program/columbia-university-computer-science-masters-degree-masters-science)||$74,915.00|
+| [Columbia University](https://cvn.columbia.edu/program/columbia-university-computer-science-masters-degree-masters-science)||$74,915|
 | [DePaul University](https://www.cdm.depaul.edu/academics/Pages/MSInComputerScience.aspx)|||
 | [Georgia Tech](https://www.cc.gatech.edu/future/masters/mscs/program) - |Udacity||
 | [Keele University](https://online.keele.ac.uk/online-programme/msc-computer-science/)||$8,650 (7,440 GBP)|
