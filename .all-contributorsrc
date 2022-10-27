@@ -632,6 +632,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "SteveC",
+      "name": "Steve Coast",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123912?v=4",
+      "profile": "http://stevecoast.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
