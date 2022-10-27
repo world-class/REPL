@@ -20,6 +20,7 @@
     - [Sleuth assignments](#sleuth-assignments)
       - [Tips & Tricks](#tips--tricks)
       - [Utils and aids (student created)](#utils-and-aids-student-created)
+    - [The game project](#the-game-project)
     - [Text editor](#text-editor)
       - [Configuring VS Code (optional)](#configuring-vs-code-optional)
         - [Extensions](#extensions)
@@ -116,6 +117,10 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 - JavaScript library with visual aids for solving case 202 stage 4 [utils4sleuth.js](https://gist.github.com/amilos/beb1eee1cbd334f1e9abca8c9772c725).
 - Python program to create directories for Sleuth cases [Make-Sleuth-Folders.py](https://github.com/BlairCurrey/Make-Sleuth-Folders)
+
+#### The Game Project
+
+- Visit [this link](https://doc.gold.ac.uk/www/118/) to see some of the games created by previous students.
 
 #### Text editor
 
