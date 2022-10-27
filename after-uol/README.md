@@ -33,7 +33,7 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 | [Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/) |||
 | [Columbia University](https://cvn.columbia.edu/program/columbia-university-computer-science-masters-degree-masters-science)||$74,915|
 | [DePaul University](https://www.cdm.depaul.edu/academics/Pages/MSInComputerScience.aspx)|||
-| [Georgia Tech](https://www.cc.gatech.edu/future/masters/mscs/program) |Udacity||
+| [Georgia Tech](https://omscs.gatech.edu/) | | $5,900 - $6,400 |
 | [Keele University](https://online.keele.ac.uk/online-programme/msc-computer-science/)||$8,650 (7,440 GBP)|
 | [Indiana University](https://www.edx.org/masters/online-master-in-it-management-indiana-university) (IT Management)|edX|$21,000|
 | [Penn Engineering](https://www.coursera.org/degrees/mcit-penn) (Computer and Information Technology)|Coursera|$32,000|
