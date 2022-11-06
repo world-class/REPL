@@ -35,6 +35,7 @@ There is a channel available for each new cohort:
 - `april2021batch`
 - `october2021batch`
 - `april2022batch`
+- `october2022batch`
 - ...
 
 #### Fun channels
@@ -57,6 +58,7 @@ There is a channel available for each new cohort:
 | `#rate-my-setup`                 | A place to discuss computing setups                                                                                                                              |
 | `#retrocomputing`                | For those who think that modern computers are too fast. Here we can show our C64-programs, our EBCDIC-skills and ask questions about the Motorola 68000 CPU.     |
 | `#space`                         | Space exploration, astrophysics and astronomy (or maybe you're just a Trek-kie)                                                                                  |
+| `#the-coding-club`               | Learn freely by doing projects collaboratively with your peers.                                                                                                  |
 | `#today-i-learned`               | Share briefly what you learned today                                                                                                                             |
 | `#uol_game-jam`                  | Group for organising game jams                                                                                                                                   |
 
