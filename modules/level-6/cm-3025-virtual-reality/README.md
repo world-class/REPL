@@ -48,6 +48,10 @@ building social VR experiences with interactive virtual characters.
 
 Coursework only (Type III)
 
+### Syllabus
+
+- [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3025_VR.pdf)
+
 ### Resources
 
 #### :heart: Notes
