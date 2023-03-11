@@ -651,6 +651,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "web-Nuo",
+      "name": "Manon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31137629?v=4",
+      "profile": "https://manon.codes/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
