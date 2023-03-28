@@ -159,7 +159,6 @@
       "contributions": [
         "code",
         "doc",
-        "maintenance",
         "review",
         "test"
       ]
