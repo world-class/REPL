@@ -755,4 +755,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ---
 
+# Maintainers :construction:
+
+- You're a maintainer already? [Here's how you can use your great powers](./.github/MAINTAINING.md).
+- Want to become a maintainer? [Let one of the current maintainers know](https://github.com/orgs/world-class/teams/maintainers/members)!
+
+---
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/world-class/REPL/) [![Sparkline](https://stars.medv.io/world-class/REPL.svg)](https://stars.medv.io/world-class/REPL)
