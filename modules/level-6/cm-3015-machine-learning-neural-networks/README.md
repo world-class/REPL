@@ -12,7 +12,7 @@
   - [Syllabus](#syllabus)
   - [Resources](#resources)
     - [:heart: Notes](#heart-notes)
-    - Textbooks Used in the Module
+    - [Textbooks used in this Module](#textbooks-used-in-this-module)
 
 ---
 
@@ -71,6 +71,6 @@ Coursework only (Type II).
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/machine-learning-and-neural-networks).
 
-#### Textbooks Used in the Module
+#### Textbooks used in this Module
 
-- Chollet, François. 2017. *Deep Learning with Python (1st ed.)*. Manning, New York. 
+- [Deep Learning with Python (1st ed)](https://ebookcentral.proquest.com/lib/londonww/detail.action?docID=6642860); Chollet, François (2017); Manning, New York. 
