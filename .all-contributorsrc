@@ -678,6 +678,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "MutatePat",
+      "name": "Patryk Grzelak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42546986?v=4",
+      "profile": "https://github.com/MutatePat",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 4,
