@@ -2,8 +2,8 @@ name: Update current week in README
 
 on:
   schedule:
-    # At 12:30pm UTC every Monday 
-    - cron: '30 12 * * 1'
+    # At 12:01am UTC every Monday
+    - cron: '1 0 * * 1'
   workflow_dispatch:
 
 jobs:
