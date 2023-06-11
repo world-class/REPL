@@ -134,7 +134,7 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CKZT2SR0U">#cm1035-algos-data-i</a></code></td>
 </tr>
 <tr>
-<td><a href="modules/level-4/cm-1015-computational-mathematics">Computational Mathematics</a> *</td>
+<td><a href="modules/level-4/cm-1015-computational-mathematics">Computational Mathematics</a></td>
 <td><strong>CM</strong></td>
 <td><strong>CM1015</strong></td>
 <td><strong>Yes</strong></td>
@@ -142,7 +142,7 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH35SEHAS">#cm1015-computational-math</a></code></td>
 </tr>
 <tr>
-<td><a href="modules/level-4/cm-1020-discrete-mathematics">Discrete Mathematics</a> *</td>
+<td><a href="modules/level-4/cm-1020-discrete-mathematics">Discrete Mathematics</a></td>
 <td><strong>DM</strong></td>
 <td><strong>CM1020</strong></td>
 <td><strong>Yes</strong></td>
@@ -192,8 +192,6 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 </tbody>
 </table>
 </div>
-
-<p>* <strong>Previously, CM was only available in the April session, whereas DM was only available in the October session. On October 2022, both classes were available.</strong></p>
 
 </details>
 
