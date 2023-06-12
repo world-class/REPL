@@ -549,9 +549,8 @@ Some of the questions that can be answered by reading the programme regulations:
 
 > In one UoL's correspondence it said that we would need to reach out to our professor if we wanted to monetize it. How would we go about that for this degree being online?
 
-The section of the University’s Intellectual Property Rights Policy that specifically addresses your question is Part E. Please see [https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf](https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf).
-
-If you have any specific queries about something you have created which you are interested in publishing, please contact us via the support email <BscCs-support@london.ac.uk> and we can look into this further for you.
+- The section of the University’s Intellectual Property Rights Policy that specifically addresses your question is Part E. Please see [https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf](https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf).
+- If you have any specific queries about something you have created which you are interested in publishing, please contact us via the support email <BscCs-support@london.ac.uk> and we can look into this further for you.
 
 ### Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course
 
