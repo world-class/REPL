@@ -129,7 +129,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 
 - The [programme's official website](https://london.ac.uk/courses/computer-science).
 - The [programme's page on Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london).
-- The [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/) subreddit and the [discord server](https://discord.gg/zDpffJQ) where actual students answer questions.
+- The [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/) subreddit and the [discord server](https://discord.gg/GhRFG5X) where actual students answer questions.
 
 ### Who has enrolled in this degree so far
 

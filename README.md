@@ -410,7 +410,6 @@ following modules.</p>
 </table>
 </div>
 
-
 </details>
 
 <details>
@@ -469,7 +468,6 @@ specialism. The specialisms are:</p>
 </table>
 </div>
 
-
 </details>
 
 <details>
@@ -500,7 +498,6 @@ relevant topic for the final project.</p>
 </tbody>
 </table>
 </div>
-
 
 </details>
 <br />
@@ -546,7 +543,7 @@ relevant topic for the final project.</p>
 <summary><strong>Contacting other students in this programme</strong></summary>
 
 <ul>
-<li>Discord server: <a href="https://discord.gg/zDpffJQ">Invitation link</a></li>
+<li>Discord server: <a href="https://discord.gg/GhRFG5X">Invitation link</a></li>
 <li>SubReddit: <a href="https://www.reddit.com/r/UniversityOfLondonCS/">r/UniversityOfLondonCS</a></li>
 <li><a href="https://londoncs.slack.com/">Slack workspace</a></li>
 <li><a href="https://zoom.us/">Zoom</a> (video conferencing used on Coursera)</li>
@@ -624,6 +621,7 @@ Here are our [contributing guidelines](https://github.com/world-class/REPL/blob/
 Want to join this illustrious group? Have a look at the **[contributing guidelines](https://github.com/world-class/REPL/blob/master/.github/CONTRIBUTING.md)**. :sunglasses:
 
 :heart: Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 <div class="table-container">
 <div id="contributors">
 
