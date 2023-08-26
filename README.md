@@ -766,4 +766,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ---
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/world-class/REPL/) [![Sparkline](https://stars.medv.io/world-class/REPL.svg)](https://stars.medv.io/world-class/REPL)
+[![Sparkline](https://stars.medv.io/world-class/REPL.svg)](https://stars.medv.io/world-class/REPL)
