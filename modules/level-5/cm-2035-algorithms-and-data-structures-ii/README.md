@@ -132,6 +132,7 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
   - [Asymptotic Notation Recurrences Substitution Master Method](https://www.youtube.com/watch?v=whjt_N9uYFI) - MIT OpenCourseWare
   - [Introduction to algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (playlist) - Abdul Bari
   - [Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (playlist) - MIT OpenCourseWare
+  - [Data Structures Illustrated](https://www.youtube.com/playlist?list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY) (playlist) - the roadmap
 
 #### Mock exam
 
