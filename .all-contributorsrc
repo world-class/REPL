@@ -732,6 +732,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Halfwai",
+      "name": "Halfwai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61420815?v=4",
+      "profile": "https://github.com/Halfwai",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 4,
