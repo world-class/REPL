@@ -746,6 +746,7 @@ Want to join this illustrious group? Have a look at the **[contributing guidelin
   <tr>
     <td align="center"><a href="https://renamoo-portfolio.netlify.com"><img src="https://avatars.githubusercontent.com/u/41532275?v=4?s=100" width="100px;" alt=""/><br /><sub><b>renamoo</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=renamoo" title="Documentation">📖</a></td>
     <td align="center"><a href="https://b.toenobu.name/"><img src="https://avatars1.githubusercontent.com/u/1487300?v=4?s=100" width="100px;" alt=""/><br /><sub><b>toenobu</b></sub></a><br /><a href="#financial-toenobu" title="Financial">💵</a></td>
+    <td align="center"><a href="https://github.com/yassinnawar"><img src="https://avatars.githubusercontent.com/u/30075771?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yassinnawar</b></sub></a><br /><a href="#content-yassinnawar" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/hitfzyangdianshi"><img src="https://avatars.githubusercontent.com/u/10493326?v=4?s=100" width="100px;" alt=""/><br /><sub><b>大大狐狸cyberfox_meow</b></sub></a><br /><a href="https://github.com/world-class/REPL/commits?author=hitfzyangdianshi" title="Documentation">📖</a> <a href="#content-hitfzyangdianshi" title="Content">🖋</a> <a href="https://github.com/world-class/REPL/issues?q=author%3Ahitfzyangdianshi" title="Bug reports">🐛</a></td>
   </tr>
 </table>
