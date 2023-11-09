@@ -74,6 +74,7 @@ One two-hour unseen written examination and coursework (Type I)
 
 <!-- Complimentary external resources -->
 #### Document/JSON
+
 - [Introduction to MongoDB](https://learn.mongodb.com/learn/learning-path/introduction-to-mongodb). - MongoDB University
 
 #### Semantic Web
