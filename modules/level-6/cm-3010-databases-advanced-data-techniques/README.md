@@ -73,7 +73,14 @@ One two-hour unseen written examination and coursework (Type I)
 #### Semantic Web
 
 - [Linked Data Engineering (Semantic Web) OpenHPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY6jb46jCpMoqb-dbVewxg). - Prof. Dr. Harald Sack
+- [Working with RDF Graphs in Graph Studio](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3195) - Oracle LiveLabs 
 
 #### SQL
 
 - [The Art of PostgreSQL](https://theartofpostgresql.com/). - _"The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!"_
+
+#### XML
+- [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) - Stanford Online
+
+#### Document/JSON
+- [Introduction to MongoDB](https://learn.mongodb.com/learn/learning-path/introduction-to-mongodb) - MongoDB University
