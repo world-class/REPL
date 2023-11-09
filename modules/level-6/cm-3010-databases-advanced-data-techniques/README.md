@@ -84,5 +84,6 @@ One two-hour unseen written examination and coursework (Type I)
 - [The Art of PostgreSQL](https://theartofpostgresql.com/). - _"The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!"_
 
 #### XML
+
 - [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data). - Stanford Online
 
