@@ -535,6 +535,8 @@ relevant topic for the final project.</p>
 <li><a href="https://my.london.ac.uk/">General enquiries <strong>for students</strong></a>: Click <em>"Ask a question"</em> in <a href="https://my.london.ac.uk/">the portal</a> or, equivalently, write to <a href = "mailto:BScCS-support@london.ac.uk">BScCS-support@london.ac.uk</a>.</li>
 <li>Reach out by phone (<strong>service not available during COVID-19</strong>): <code>+44 (0)20 7862 8000</code> (general), <code>+44 (0)20 7862 5766</code> (specific to this degree), <code>+44 (0)20 7862 8368</code> (fees office).</li>
 <li><a href="https://london.kb.help/">Student Advice Center</a>: knowledge base for frequently asked questions.</li>
+<li>To escalate an issue, create an official <a href="https://www.london.ac.uk/current-students/student-policies/complaints-appeals-procedure">Student Complaint</a> by emailing <a href = "mailto:a&c@london.ac.uk">A&C@london.ac.uk</a> and asking for a stage 2 complaint form, <strong>clearly outlining the problem</strong>.
+</li>
 </ul>
 
 </details>
