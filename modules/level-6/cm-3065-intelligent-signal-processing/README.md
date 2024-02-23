@@ -63,6 +63,9 @@ Coursework only (Type II)
 - Downey, A.B. Think DSP − Digital Signal Processing in Python. (Needham: Green Tea Press, 2014).
 - Hosken, D. W. An introduction to music technology. (New York: Routledge, 2011).
 
+#### Complimentary resources
+- [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html). - Prof. Dr. Brian McFee.
+
 #### Libraries and other tools
 
 - [p5.js, p5.sound, p5.speech](https://p5js.org/libraries/)
