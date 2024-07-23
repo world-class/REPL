@@ -75,6 +75,8 @@ One two-hour unseen written examination and coursework (Type I)
 <!-- Complimentary external resources -->
 #### Document/JSON
 - [Introduction to MongoDB](https://learn.mongodb.com/learn/learning-path/introduction-to-mongodb). - MongoDB University
+- [MongoDB Data Modeling Path](https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb). - MongoDB University
+- [Introduction to MongoDB](https://hyperskill.org/tracks/60). - JetBrains Academy on Hyperskill
 
 #### Semantic Web
 - [Linked Data Engineering (Semantic Web) OpenHPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY6jb46jCpMoqb-dbVewxg). - Prof. Dr. Harald Sack
@@ -84,9 +86,8 @@ One two-hour unseen written examination and coursework (Type I)
 - [CS 6400: Database Systems Concepts and Design](https://omscs.gatech.edu/cs-6400-database-systems-concepts-and-design). - Georgia Tech
   - Enroll for free here: [https://edstem.org/us/join/uWdxj3](https://edstem.org/us/join/uWdxj3)
 - [The Art of PostgreSQL](https://theartofpostgresql.com/). - _"The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries!"_
-- [SQL for Backend Developers](https://hyperskill.org/tracks/40). - JetBrains Academy on HyperSkill
+- [SQL for Backend Developers](https://hyperskill.org/tracks/40). - JetBrains Academy on Hyperskill
 
 #### XML
-
 - [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data). - Stanford Online
 
