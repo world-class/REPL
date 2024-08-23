@@ -27,17 +27,19 @@ _Note: All degrees are in Computer Science, unless specified otherwise._
 
 ## Master's Degree
 
-- [Arizona State University](https://www.coursera.org/degrees/master-of-computer-science-asu) - Coursera
-- [Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
-- [Columbia University](https://cvn.columbia.edu/program/columbia-university-computer-science-masters-degree-masters-science)
-- [DePaul University](https://www.cdm.depaul.edu/academics/Pages/MSInComputerScience.aspx)
-- [Georgia Tech](https://www.cc.gatech.edu/future/masters/mscs/program) - Udacity
-- [Keele University](https://online.keele.ac.uk/online-programme/msc-computer-science/)
-- [Indiana University](https://www.edx.org/masters/online-master-in-it-management-indiana-university) (IT Management) - edX
-- [Penn Engineering](https://www.coursera.org/degrees/mcit-penn) (Computer and Information Technology) - Coursera
-- [Stanford University](https://online.stanford.edu/programs/computer-science-ms-degree)
-- [University of Illinois](https://www.coursera.org/degrees/master-of-computer-science-illinois) - Coursera
-- [University of Texas](https://www.cs.utexas.edu/graduate-program/masters-program/online-option/courses) - [see it on edX](https://www.edx.org/masters/online-master-science-computer-science-utaustinx)
+| Degree | Platform | Cost (total USD) |
+|--------|----------|------------------|
+| [Arizona State University](https://www.coursera.org/degrees/master-of-computer-science-asu) | Coursera | $15,000 |
+| [Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/) |||
+| [Columbia University](https://cvn.columbia.edu/program/columbia-university-computer-science-masters-degree-masters-science)||$74,915|
+| [DePaul University](https://www.cdm.depaul.edu/academics/Pages/MSInComputerScience.aspx)|||
+| [Georgia Tech](https://omscs.gatech.edu/) | | $5,900 - $6,400 |
+| [Keele University](https://online.keele.ac.uk/online-programme/msc-computer-science/)||$8,650 (7,440 GBP)|
+| [Indiana University](https://www.edx.org/masters/online-master-in-it-management-indiana-university) (IT Management)|edX|$21,000|
+| [Penn Engineering](https://www.coursera.org/degrees/mcit-penn) (Computer and Information Technology)|Coursera|$32,000|
+| [Stanford University](https://online.stanford.edu/programs/computer-science-ms-degree) | | $63,000|
+| [University of Illinois](https://www.coursera.org/degrees/master-of-computer-science-illinois)|Coursera|$21,440|
+| [University of Texas](https://www.cs.utexas.edu/graduate-program/masters-program/online-option/courses)|[edX](https://www.edx.org/masters/online-master-science-computer-science-utaustinx)|$10,000|
 
 ### Artificial intelligence
 - [University of London](https://london.ac.uk/msc-data-science-and-artificial-intelligence-structure) Moodle, Bursary of 10% for UoL BSc alumni

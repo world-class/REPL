@@ -8,6 +8,7 @@
     - [Assessment](#assessment)
     - [Mock exams](#mock-exams)
     - [Module specification](#module-specification)
+    - [Past exams](#past-exams)
     - [Syllabus](#syllabus)
     - [Resources](#resources)
       - [Documents](#documents)
@@ -56,6 +57,10 @@ One two hour unseen written examination and coursework (Type I)
 #### Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2025_CS-Module-Spec.pdf)
+
+#### Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm2025-csec/past-exams).
 
 #### Syllabus
 

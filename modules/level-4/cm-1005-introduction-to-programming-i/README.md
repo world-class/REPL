@@ -20,6 +20,7 @@
     - [Sleuth assignments](#sleuth-assignments)
       - [Tips & Tricks](#tips--tricks)
       - [Utils and aids (student created)](#utils-and-aids-student-created)
+    - [The game project](#the-game-project)
     - [Text editor](#text-editor)
       - [Configuring VS Code (optional)](#configuring-vs-code-optional)
         - [Extensions](#extensions)
@@ -109,7 +110,7 @@ _"Specific readings for each topic are listed with direct links to free online r
 ##### Tips & Tricks
 
 - Each case in Sleuth has four stages. You have a maximum of **FIVE** attempts for each 'stage'. Attempt a 'stage' when you are confident. If you make a mistake, you will get a pop-up explaining what requirement you hadn't met. But if you exhaust your five attempts, fret not because, after some downtime (about 24 hours), you will be able to solve a variation of the same stage again. This will not affect your grade, and only the highest grade is counted.
-- Get familiar with finding precise coordinates in an image inside Brackets (text editor) [**note**: support for Brackets is ending on September 1, 2021. [VS Code](https://code.visualstudio.com/) is a good alternative]. If you are using VS Code, you can use the [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) extension to view image coordinates.
+- Get familiar with finding precise coordinates in an image. If you are using VS Code, you can use the [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) extension to view image coordinates or use an image editor like [GIMP](https://www.gimp.org/).
 - Practice all basic drawing functions with `p5.js` in the [online editor](https://editor.p5js.org/) before attempting to solve crimes.
 
 ##### Utils and aids (student created)
@@ -117,9 +118,13 @@ _"Specific readings for each topic are listed with direct links to free online r
 - JavaScript library with visual aids for solving case 202 stage 4 [utils4sleuth.js](https://gist.github.com/amilos/beb1eee1cbd334f1e9abca8c9772c725).
 - Python program to create directories for Sleuth cases [Make-Sleuth-Folders.py](https://github.com/BlairCurrey/Make-Sleuth-Folders)
 
+#### The Game Project
+
+- Visit [this link](https://doc.gold.ac.uk/www/118/) to see some of the games created by previous students.
+
 #### Text editor
 
-- The officially recommended text editor for this module is still [Brackets](http://brackets.io/). More options available on the [free software page](../../../software/).
+- The recommended text editor for this module is **no longer** [Brackets](http://brackets.io/). More options available on the [free software page](../../../software/).
 - **Note**: support for Brackets is ending on September 1, 2021. [VS Code](https://code.visualstudio.com/) is a good alternative.
 
 ##### Configuring VS Code (optional)

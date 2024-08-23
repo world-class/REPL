@@ -124,7 +124,7 @@ detailed instructions on how to go about submitting proof for RPL.
 
 Students can get RPL for up to 120 credits (8 modules).
 
-You can apply for automatic or discretionary recognition of your prior learning. 
+You can apply for automatic or discretionary recognition of your prior learning.
 
 Discretionary RPL costs 464 GBP for all 8 modules. Automatic RPL application is free of charge. The list of approved automatic RPL could be found [here](https://london.ac.uk/applications/how-apply/recognition-prior-learning/recognition-and-accreditation-prior-learning-3).
 
@@ -160,5 +160,5 @@ RPL has taken a month, UoL admissions has taken longer than the 5 days they aim 
 
 - [UoL Facebook](https://www.facebook.com/LondonU/?ref=br_rs)
 - [UoL Twitter](https://twitter.com/LondonU)
-- [UoL Unofficial Students' Discord](https://discord.gg/zDpffJQ)
+- [UoL Unofficial Students' Discord](https://discord.gg/GhRFG5X)
 - Do keep a look out for UoL's virtual open day if you're curious to learn more and speak to representatives for more information.

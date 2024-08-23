@@ -6,6 +6,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Past exams](#past-exams)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
@@ -59,6 +60,10 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1025_FCS-Module-Spec.pdf)
 
+## Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm1025-fcs/past-exams).
+
 ## Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1025_FCS.pdf)
@@ -81,6 +86,7 @@ One two hour unseen written examination and coursework (Type I)
 _"Specific essential readings for each week from the following list are included in the Readings page for each week:_"
 
 - :1st_place_medal: Kenneth H. Rosen (2011). Discrete Mathematics and its Applications, 7th. McGraw-Hill
+- :1st_place_medal: Thomas Koshy (2004). Discrete Mathematics with Applications, 1st, Elsevier Inc.
 - :1st_place_medal: Michael Sipser (2012). Introduction to the theory of computation, 3rd. Cengage Learning
 - :1st_place_medal: John Hopcroft et al. (2013). Introduction to Automata Theory, Languages and Computation, Pearson
 - :2nd_place_medal: Merlin Forbes (2012). A Theoretical Introduction to Turing Machine, 1st. Learning Press

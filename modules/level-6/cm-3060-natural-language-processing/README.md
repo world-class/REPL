@@ -9,6 +9,7 @@
   - [Syllabus](#syllabus)
   - [Resources](#resources)
     - [:heart: Notes](#heart-notes)
+    - [Mock exams](#mock-exams)
     - [Textbooks used in the module](#textbooks-used-in-the-module)
     - [YouTube](#youtube)
 
@@ -57,6 +58,10 @@ One two-hour unseen written examination and coursework (Type I)
 #### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/natural-language-processing).
+
+#### Mock exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm3060-nlp).
 
 #### Textbooks used in the module
 

@@ -6,6 +6,7 @@
   - [Professor(s)](#professors)
   - [Topics covered](#topics-covered)
   - [Assessment](#assessment)
+  - [Past exams](#past-exams)
   - [Syllabus](#syllabus)
 - [Resources](#resources)
   - [:heart: Notes](#heart-notes)
@@ -44,6 +45,10 @@ problems such as game playing and decision making.
 
 One two-hour unseen written examination and coursework (Type I)
 
+### Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm3020-ai/past-exams).
+
 ### Syllabus
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3020_AI.pdf)
@@ -53,3 +58,9 @@ One two-hour unseen written examination and coursework (Type I)
 ### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/artificial-intelligence).
+
+### Reinforcement Learning / Deep RL:
+- [Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction). - Hugging Face
+
+### Genetic Algorithms:
+- [Hands-On Genetic Algorithms with Python - Second Edition](https://learning.oreilly.com/library/view/hands-on-genetic-algorithms/9781805123798/). - Eyal Wirsansky

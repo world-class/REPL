@@ -6,12 +6,13 @@
 - [Professor(s)](#professors)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
-- [Mock exams](#mock-exams)
 - [Module specification](#module-specification)
+- [Past exams](#past-exams)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
 - [Design patterns](#design-patterns)
 - [Module cohesion and coupling](#module-cohesion-and-coupling)
+- [Secure coding practices](#secure-coding-practices)
 
 ---
 
@@ -52,13 +53,13 @@ software versioning tools to manage a software project as it develops.
 
 One two hour unseen written examination and coursework (Type I)
 
-## Mock exams
-
-[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm2010-sdd).
-
 ## Module specification
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2010_SDD-Module-Spec.pdf)
+
+## Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm2010-sdd/past-exams).
 
 ## Syllabus
 
@@ -78,3 +79,8 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Python] [Cohesion and coupling: write BETTER PYTHON CODE Part 1](https://www.youtube.com/watch?v=eiDyK_ofPPM) - ArjanCodes.
   - [Full playlist](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N) includes topics about dependency inversion/injection, design patterns, exception handling, inheritance, composition and more.
+
+## Secure coding practices
+
+- [Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/) - The Linux Foundation.
+  - This free course covers the same topics as the 'secure coding' section of the module in more depth along with other related topics. The course is heavily based on the reading of the mid-term assignment '_[Secure Programming HOWTO - Creating Secure Software](https://dwheeler.com/secure-programs/)_' as David Wheeler is the author of both materials.

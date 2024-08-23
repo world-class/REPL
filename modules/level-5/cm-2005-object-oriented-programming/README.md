@@ -7,8 +7,10 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Past exams](#past-exams)
 - [Syllabus](#syllabus)
 - [Resources](#resources)
+  - [Kinks to be aware of](#kinks-to-be-aware-of)
   - [Linux setup guide for OOP projects](#linux-setup-guide-for-oop-projects)
   - [Class diagram of starter code](#class-diagram-of-starter-code)
   - [Complementary learning](#complementary-learning)
@@ -55,6 +57,10 @@ Coursework only (Type II)
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM2005_OOP-Module-Spec.pdf)
 
+## Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm2005-oop/past-exams).
+
 ## Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2005_OOP.pdf)
@@ -62,6 +68,10 @@ Coursework only (Type II)
 ## Resources
 
 - :star: [Sourcetrail](https://www.sourcetrail.com) (Windows, macOS, Linux) - _"Free and open-source cross-platform source explorer"_. Supports C, C++, Java and Python.
+
+### Kinks to be aware of
+
+- [List of reported errors and bugs with the module](../../../kinks/level-5/cm-2005-object-oriented-programming/).
 
 ### Linux setup guide for OOP projects
 

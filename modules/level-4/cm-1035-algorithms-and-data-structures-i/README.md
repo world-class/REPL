@@ -7,6 +7,7 @@
   - [Topics covered](#topics-covered)
   - [Assessment](#assessment)
   - [Module specification](#module-specification)
+  - [Past exams](#past-exams)
   - [Syllabus](#syllabus)
   - [Resources](#resources)
     - [Complementary learning](#complementary-learning)
@@ -67,6 +68,10 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module-specification/CM1035_ADS1-Module-Spec.pdf)
 
+### Past exams
+
+[See past exams here](https://github.com/world-class/binary-assets/tree/master/modules/cm1035-ads1/past-exams).
+
 ### Syllabus
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1035_ADS1.pdf)
@@ -89,6 +94,7 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Comparison of Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms) - See time complexity at a glance for various popular algorithms.
 - [Data Structure & Algorithms Introduction](https://www.programiz.com/dsa/algorithm) - Sorting algorithms, data structures, tree data structure and more.
+- [Data Structures and Algorithms Tutorial](https://www.scaler.com/topics/data-structures/) - Step by Step Tutorial on DSA for beginners.
 
 ###### `mergeSort` algorithm
 

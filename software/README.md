@@ -11,6 +11,7 @@
   - [3D prototyping](#3d-prototyping)
   - [Antivirus](#antivirus)
   - [Audio](#audio)
+    - [Development](#development)
     - [Players](#players)
     - [Production](#production)
     - [Recording & Editing](#recording--editing)
@@ -132,6 +133,7 @@
 ### 3D animation
 
 - :star: [Blender](https://www.blender.org)
+- [Unity](https://www.unity.com) Cross-platform game engine. Unity is free for students enrolled at accredited educational institutions.
 
 ### 3D prototyping
 
@@ -144,6 +146,10 @@
 ### Audio
 
 - :star: [Comparison of free software for audio](https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio)
+
+#### Development
+
+- [JUCE 6 Projucer](https://juce.com) "JUCE is a partially open-source cross-platform C++ application framework, used for the development of desktop and mobile applications." Personal license grants single developer perpetual access. Education license for students allows JUCE to be used under same conditions as Personal license without limits on revenue. (Windows, macOS, Linux)
 
 #### Players
 
@@ -246,6 +252,8 @@
 ### IDE (Integrated Development Environment)
 
 - [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
+- [CLion](https://jetbrains.com/clion) - C, C++, Objective -C/C++, Python, Rust, Web, Swift, Fortran, Shell Script and more. (Windows, macOS, Linux)
+  Free educational license for students enrolled in an accredited programme.
 - :star: [Eclipse](https://eclipse.org) - C, C++, Java, Perl, PHP, Python, Ruby and more. (Windows, macOS, Linux)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) - AngularJS, CoffeeScript, CS, HTML, JavaScript, LESS, Node JS, PHP, Python, Ruby, Sass, TypeScript and more. (Windows, macOS, Linux)
 - :star: [Netbeans](https://netbeans.org) - C, C++, C++11, Fortan, HTML 5, Java, PHP and more. (Works with Java)
@@ -475,8 +483,6 @@
 
 #### Beginner friendly
 
-- :star: [Atom](https://atom.io)
-- :star: [Brackets](http://brackets.io) - Used in module [Introduction to Programming I](../modules/level-4/cm-1005-introduction-to-programming-i).
 - :star: [Visual Studio Code](https://code.visualstudio.com)
 
 ### Time trackers
@@ -496,6 +502,7 @@
 
 - [Mermaid.js](https://mermaid-js.github.io) - _"Mermaid lets you represent diagrams using text and code. This simplifies maintianing complex diagrams. It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically."_
 - [PlantUML](https://plantuml.com) - _"Generate UML diagram from textual description."_
+
 ### UX/UI design
 
 See also [Graphics software](#graphics-software).

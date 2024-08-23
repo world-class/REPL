@@ -13,6 +13,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 - [:one: Just enrolled - First steps](#one-just-enrolled---first-steps)
   - [Getting access to the programme](#getting-access-to-the-programme)
     - [How long do I have to wait to receive the student email and student card](#how-long-do-i-have-to-wait-to-receive-the-student-email-and-student-card)
+    - [What can I do if I can't log in to my student email](#what-can-i-do-if-i-cant-log-in-to-my-student-email)
     - [What is my username to log in to the student's portal at my.london.ac.uk](#what-is-my-username-to-log-in-to-the-students-portal-at-mylondonacuk)
     - [When do I get access to the modules on Coursera](#when-do-i-get-access-to-the-modules-on-coursera)
   - [Getting access to student perks](#getting-access-to-student-perks)
@@ -105,7 +106,6 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
   - [Which are the programming languages we will come across through the degree](#which-are-the-programming-languages-we-will-come-across-through-the-degree)
   - [Do we get a choice of back/front end frameworks to use during the web modules](#do-we-get-a-choice-of-backfront-end-frameworks-to-use-during-the-web-modules)
   - [There are a lot of technologies involved in data science. Can you run through some of the ones that will be covered](#there-are-a-lot-of-technologies-involved-in-data-science-can-you-run-through-some-of-the-ones-that-will-be-covered)
-  - [Have the Level 6 Modules been produced and tested](#have-the-level-6-modules-been-produced-and-tested)
   - [Have Level 5 and 6 modules been quality assured](#have-level-5-and-6-modules-been-quality-assured)
   - [If you're restructuring the program to adhere to accreditation standards, will that disrupt the current modules or impending modules](#if-youre-restructuring-the-program-to-adhere-to-accreditation-standards-will-that-disrupt-the-current-modules-or-impending-modules)
 - [Graduation and beyond](#graduation-and-beyond)
@@ -129,7 +129,7 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 
 - The [programme's official website](https://london.ac.uk/courses/computer-science).
 - The [programme's page on Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london).
-- The [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/) subreddit and the [discord server](https://discord.gg/zDpffJQ) where actual students answer questions.
+- The [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/) subreddit and the [discord server](https://discord.gg/GhRFG5X) where actual students answer questions.
 
 ### Who has enrolled in this degree so far
 
@@ -146,6 +146,10 @@ See https://github.com/yzhang-gh/vscode-markdown/issues/723#issuecomment-6423881
 #### How long do I have to wait to receive the student email and student card
 
 - Expect a delay of approximately 4 to 6 weeks before you get access. You will receive an email to activate your ISIC virtual student card.
+
+#### What can I do if I can't log in to my student email
+
+- Try updating your password in the [student portal](https://my.london.ac.uk): this password will also be used to log in to your university email.
 
 #### What is my username to log in to the student's portal at my.london.ac.uk
 
@@ -545,9 +549,8 @@ Some of the questions that can be answered by reading the programme regulations:
 
 > In one UoL's correspondence it said that we would need to reach out to our professor if we wanted to monetize it. How would we go about that for this degree being online?
 
-The section of the University’s Intellectual Property Rights Policy that specifically addresses your question is Part E. Please see [https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf](https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf).
-
-If you have any specific queries about something you have created which you are interested in publishing, please contact us via the support email <BscCs-support@london.ac.uk> and we can look into this further for you.
+- The section of the University’s Intellectual Property Rights Policy that specifically addresses your question is Part E. Please see [University of London – Policy on Intellectual Property Rights](https://london.ac.uk/sites/default/files/governance/intellectualpropertypolicy.pdf).
+- If you have any specific queries about something you have created which you are interested in publishing, please contact us via the support email <BscCs-support@london.ac.uk> and we can look into this further for you.
 
 ### Are there opportunities for students to gain some form of work experience in the industry or even undergo internships during the course
 
@@ -600,7 +603,7 @@ You can find the up-to-date list of certificates eligible for automatic RPL [her
 
 ### Can we still apply RPL for Google IT Support course anytime during this semester or next
 
-- You can apply at any time before you take your first level 5 module. Beware that RPL will take some time to be proceeded.
+- You can apply at any time before you take your first level 5 module. To study modules at level 5, you need to have attempted all modules at level 4 first or — in the case of a RPL for How Computers Work — have that module approved by the university _before_ you can register for new modules as it would not count as an attempt yet (since it is being attempted outside UoL and not yet validated). **Beware that the university may take some time to process your application for RPL**: a RPL yet to be approved will prevent you from registering modules at level 5 (this applies to any other modules at level 4, too). See the progression rules in the programme regulations for details.
 
 ### Does a possible RPL only get considered if it is from another university, or could the content (syllabus) of other certifications be looked at for possible matching/consideration
 
@@ -622,26 +625,24 @@ You can find the up-to-date list of certificates eligible for automatic RPL [her
 
 ### Which are the programming languages we will come across through the degree
 
-| Programming language | Module(s) where used                                                                                                                                                                                       |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| C#                   | Virtual Reality                                                                                                                                                                                            |
-| C++                  | Algorithms and Data Structures II\*, Object-Oriented Programming, Software Design and Development\*                                                                                                        |
-| JavaScript           | Intelligent Signal Processing, Introduction to Programming I, Introduction to Programming II, Algorithms and Data Structures I\*, Graphics Programming, Software Design and Development\*, Web Development |
-| Python               | Data Science, Databases and Advanced Data Techniques, Programming with Data, Software Design and Development\*                                                                                             |
+| Programming language | Module(s) where used                                                                                                                                                                                                                                                         |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| C#                   | 3D Graphics and Animation (Unity), Games Development (Unity), Virtual Reality                                                                                                                                                                                                |
+| C++                  | Algorithms and Data Structures II\*, Object-Oriented Programming, Physical Computing and the Internet of Things, Software Design and Development\*                                                                                                                           |
+| JavaScript           | Algorithms and Data Structures I\*, Graphics Programming, Intelligent Signal Processing, Introduction to Programming I, Introduction to Programming II, Mobile Development (React Native), Software Design and Development\*, Web Development                                |
+| Python               | Advanced Web Development (Django), Artificial Intelligence, Data Science, Databases and Advanced Data Techniques, Intelligent Signal Processing, Machine Learning and Neural Networks, Natural Language Processing, Programming with Data, Software Design and Development\* |
+| SQL                  | Databases and Advanced Data Techniques, Databases Networks and the Web                                                                                                                                                                                                       |
 
 \* This is not a major focus in the course.
 
 ### Do we get a choice of back/front end frameworks to use during the web modules
 
-- No.
+- For **Web Development**, no.
+- For **Advanced Web Development**, the backend must use Django, but the frontend is freely chosen (e.g., React and Vue.js are good options).
 
 ### There are a lot of technologies involved in data science. Can you run through some of the ones that will be covered
 
 - Python, `numpy`, `scipy` `pandas`, Jupyter notebooks, `TensorFlow`, data visualization tools.
-
-### Have the Level 6 Modules been produced and tested
-
-- Production commenced in early 2019. New modules will keep being made available for the whole of 2021.
 
 ### Have Level 5 and 6 modules been quality assured
 

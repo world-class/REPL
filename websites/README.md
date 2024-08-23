@@ -7,6 +7,7 @@
 - [Starting point](#starting-point)
 - [Artificial intelligence](#artificial-intelligence)
   - [Machine learning](#machine-learning)
+- [API documentation](#api-documentation)
 - [Books](#books)
 - [Career and growth](#career-and-growth)
   - [Advice](#advice)
@@ -25,6 +26,7 @@
   - [Jupyter](#jupyter)
   - [Pandas](#pandas)
   - [Working with data (Pandas, NumPy, Matplotlib, IPython, Scikit-Learn...)](#working-with-data-pandas-numpy-matplotlib-ipython-scikit-learn)
+- [Drawing](#drawing)
 - [Free e-books and video courses](#free-e-books-and-video-courses)
 - [Hacking](#hacking)
 - [LaTeX](#latex)
@@ -127,6 +129,10 @@
 - [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning) - University of Oxford
 - [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) - _"Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more."_
 
+## API documentation
+
+- [DevDocs](https://devdocs.io/) - API Documentation Browser. _"DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more."_
+
 ## Books
 
 - Have a look at [../books/README.md](../books/README.md): quite a few of those books are available for free online and pretty much all of them can be bought physically and/or digitally.
@@ -219,6 +225,11 @@ The Open University."_
 
 - [Kaggle: Micro-Courses](https://www.kaggle.com/learn/overview) - _"Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills."_
 - [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook) - _"This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks."_
+
+## Drawing
+
+- [Diagrams.net](https://app.diagrams.net/) - _"Powerful features. diagrams.net has everything you expect from a professional diagramming tool."_
+- [Excalidraw](https://excalidraw.com/) - _"Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them."_
 
 ## Free e-books and video courses
 
