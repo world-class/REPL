@@ -10,6 +10,7 @@
   - [Syllabus](#syllabus)
   - [Resources](#resources)
     - [:heart: Notes](#heart-notes)
+    - [Mock Papers](#mock-papers)
 
 ---
 
@@ -61,3 +62,6 @@ One two-hour unseen written examination and coursework (Type I)
 #### :heart: Notes
 
 - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-6/interaction-design).
+
+#### Mock papers
+- [Past exams](https://github.com/world-class/binary-assets/tree/master/modules/cm3055-id)
