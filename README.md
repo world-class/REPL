@@ -280,7 +280,7 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 </div>
 
 <blockquote>
-<p>Note: <strong>Agile Software Projects CM2020, will be withdrawn in October 2026.</strong> If you wish to study Agile Software Projects and have not yet registered on this module, your last opportunity to study this module will be in the <strong>>October 2024</strong> session. The final assessment retake opportunity for this module will be October 2026.</p>
+<p>Note: <strong>Agile Software Projects CM2020, will be withdrawn in October 2026.</strong> If you wish to study Agile Software Projects and have not yet registered on this module, your last opportunity to study this module will be in the <strong>October 2024</strong> session. The final assessment retake opportunity for this module will be October 2026.</p>
 
 <p>The <strong>Professional Practice for Computer Scientists</strong> module will be introduced in place of <strong>Agile Software Projects CM2020</strong> and will run for the first time in April 2025.</p>
 </blockquote>
