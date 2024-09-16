@@ -212,7 +212,7 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 </thead>
 <tbody>
 <tr>
-<td><a href="modules/level-5/cm-2020-agile-software-projects">Agile Software Projects</a></td>
+<td><a href="modules/level-5/cm-2020-agile-software-projects">Agile Software Projects</a><br /><strong>*will be withdrawn in October 2026. See Note below.</strong></td>
 <td><strong>ASP</strong></td>
 <td><strong>CM2020</strong></td>
 <td>No</td>
@@ -278,6 +278,10 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 </tbody>
 </table>
 </div>
+
+> Note: **Agile Software Projects CM2020, will be withdrawn in October 2026.** If you wish to study Agile Software Projects and have not yet registered on this module, your last opportunity to study this module will be in the **October 2024** session. The final assessment retake opportunity for this module will be October 2026.
+> <!-- intentionally empty -->
+> The **Professional Practice for Computer Scientists** module will be introduced in place of **Agile Software Projects CM2020** and will run for the first time in April 2025.
 
 </details>
 

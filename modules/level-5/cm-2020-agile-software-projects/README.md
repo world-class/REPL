@@ -14,9 +14,15 @@
   - [Complementary learning](#complementary-learning)
   - [:heart: Notes](#heart-notes)
   - [Textbooks listed for this module](#textbooks-listed-for-this-module)
-    - [Further reading recommended in Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons](#further-reading-recommended-in-interaction-design-beyond-human-computer-interaction-john-wiley--sons)
+    - [Further reading recommended in Interaction Design: Beyond Human-Computer Interaction, John Wiley \& Sons](#further-reading-recommended-in-interaction-design-beyond-human-computer-interaction-john-wiley--sons)
 
 ---
+
+<br />
+
+> Note: **Agile Software Projects CM2020, will be withdrawn in October 2026.** If you wish to study Agile Software Projects and have not yet registered on this module, your last opportunity to study this module will be in the **October 2024** session. The final assessment retake opportunity for this module will be October 2026.
+> <!-- intentionally empty -->
+> The **Professional Practice for Computer Scientists** module will be introduced in place of **Agile Software Projects CM2020** and will run for the first time in April 2025.
 
 ## Agile Software Projects
 
