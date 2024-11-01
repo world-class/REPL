@@ -71,6 +71,10 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2040_DNW.pdf)
 
+### Primary Programming language
+
+JavaScript
+
 ### Resources
 
 #### Kinks to be aware of

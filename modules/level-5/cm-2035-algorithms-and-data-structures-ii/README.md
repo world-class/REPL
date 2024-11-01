@@ -68,6 +68,10 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Syllabus PDF September 2020](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2035_ADS2.pdf)
 
+### Primary Programming language
+
+C++
+
 ### List of required reading
 
 Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to algorithms. (MIT Press, 2009) 3rd edition [ISBN 9780262533058].

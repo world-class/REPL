@@ -65,6 +65,10 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Syllabus (October 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2010_SDD.pdf)
 
+### Primary Programming language
+
+C++, Javascript, Python
+
 ## Resources
 
 - :heart: Notes - Visit [this page of world-class/notes](https://github.com/world-class/notes/tree/master/level-5/software-design-and-development).
