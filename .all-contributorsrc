@@ -797,6 +797,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "kraack-tech",
+      "name": "kraack-tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70644724?v=4",
+      "profile": "https://github.com/kraack-tech",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
