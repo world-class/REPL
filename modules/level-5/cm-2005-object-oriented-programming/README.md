@@ -65,6 +65,10 @@ Coursework only (Type II)
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2005_OOP.pdf)
 
+### Primary programming language
+
+C++
+
 ## Resources
 
 - :star: [Sourcetrail](https://www.sourcetrail.com) (Windows, macOS, Linux) - _"Free and open-source cross-platform source explorer"_. Supports C, C++, Java and Python.

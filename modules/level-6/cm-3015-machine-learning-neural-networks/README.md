@@ -65,6 +65,10 @@ Coursework only (Type II).
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3015_MLNN.pdf)
 
+### Primary programming language
+
+Python
+
 ### Resources
 
 #### :heart: Notes

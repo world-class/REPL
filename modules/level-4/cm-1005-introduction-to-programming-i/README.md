@@ -71,6 +71,10 @@ Coursework only (Type II)
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1005_ITP1.pdf)
 
+### Primary programming language
+
+JavaScript
+
 ### Resources
 
 #### Essential reading

@@ -51,6 +51,10 @@ Coursework only (Type II)
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3065_ISP.pdf)
 
+### Primary programming language
+
+Python & JavaScript
+
 ### Resources
 
 #### :heart: Notes
