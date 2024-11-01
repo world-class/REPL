@@ -70,7 +70,7 @@ Coursework only (Type III)
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1040_WD.pdf)
 
-### Primary Programming language
+### Primary programming language
 
 JavaScript
 

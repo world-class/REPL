@@ -51,7 +51,7 @@ Coursework only (Type II)
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2030_GP.pdf)
 
-### Primary Programming language
+### Primary programming language
 
 JavaScript
 

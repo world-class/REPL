@@ -59,7 +59,7 @@ One two-hour unseen written examination and coursework (Type I)
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3005_DS.pdf)
 
-### Primary Programming language
+### Primary programming language
 
 Python
 

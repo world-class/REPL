@@ -52,7 +52,7 @@ Coursework only (Type III)
 
 - [Syllabus PDF (December 2021)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3050_MD.pdf)
 
-### Primary Programming language
+### Primary programming language
 
 JavaScript
 

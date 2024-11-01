@@ -74,7 +74,7 @@ One two hour unseen written examination and coursework (Type I)
 
 - [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2015_PWD.pdf)
 
-### Primary Programming language
+### Primary programming language
 
 Python
 
