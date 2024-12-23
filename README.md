@@ -12,7 +12,7 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 
 # Current week
 
-- Week **10**.
+- Week **11**.
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
