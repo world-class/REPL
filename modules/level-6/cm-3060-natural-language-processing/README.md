@@ -53,6 +53,10 @@ One two-hour unseen written examination and coursework (Type I)
 
 - [Syllabus](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3060_NLP.pdf)
 
+### Primary programming language
+
+Python
+
 ### Resources
 
 #### :heart: Notes

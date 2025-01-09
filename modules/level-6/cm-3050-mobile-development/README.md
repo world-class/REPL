@@ -52,6 +52,10 @@ Coursework only (Type III)
 
 - [Syllabus PDF (December 2021)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM3050_MD.pdf)
 
+### Primary programming language
+
+JavaScript
+
 ### Resources
 
 - [Jest integration](https://react-native-async-storage.github.io/async-storage/docs/advanced/jest/) - Use of Jest and async-storage.
