@@ -57,9 +57,9 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 <p>Despite being ~100% remote, this degree is equipped with a team of tutors and SRMs (<em>Student Relationship Managers</em>) that can help you find what you need.</p>
 
 <ul>
-    <li>For module-specific inquiries, you can reach out to your tutors in the appropriate discussion forums on Coursera. Access any module you are enrolled in from the <a href="https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/">home page of this degree</a> on Coursera.</li>
-    <li>For non-academic questions, you can write <a href="https://www.coursera.org/learn/london-cs-orientation/discussions">in the <strong>Reach out</strong> forum</a> on Coursera.</li>
-   <li>For private matters and other types of inquiries, you can write an email to <a href="mailto:BScCS-Support@london.ac.uk">BScCS-Support@london.ac.uk</a> or find an alternative route <a href="#stay-in-touch">in this section</a>, including phone numbers, Student Advice Center, Slack workspace and Discord server.</li>
+    <li>For module-specific issues, you can reach out to your tutors in the appropriate discussion forums on Coursera. Access any module you are enrolled in from the <a href="https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/">home page of this degree</a> on Coursera.</li>
+    <li>For <em>general</em> non-academic issues, such as university policies and regulations, you may write <a href="https://www.coursera.org/learn/london-cs-orientation/discussions">in the <strong>Reach out</strong> forum</a> on Coursera</li>, or contact the university directly (see below).
+    <li>For <em>personal</em> non-academic issues, including - but not limited to - questions on enrollment, financing, recognition of prior learning, access requirements and mitigating circumstances - you may contact the university directly through the <a href="https://enquiries.london.ac.uk/">Enquiry Hub</a>, or by any of the means mentioned in <a href="#stay-in-touch">this section</a>.</li>
 </ul>
 
   </details>
@@ -537,9 +537,9 @@ relevant topic for the final project.</p>
 <summary><strong>Contacting UoL</strong></summary>
 
 <ul>
-<li><a href="https://london.ac.uk/contact-us">Contact page</a></li>
-<li><a href="https://my.london.ac.uk/">General enquiries <strong>for students</strong></a>: Click <em>"Ask a question"</em> in <a href="https://my.london.ac.uk/">the portal</a>.</li>
-<li>Reach out by phone (<strong>service not available during COVID-19</strong>): <code>+44 (0)20 7862 8000</code> (general), <code>+44 (0)20 7862 5766</code> (specific to this degree), <code>+44 (0)20 7862 8368</code> (fees office).</li>
+<li>General student enquiries should be made at the <a href="https://enquiries.london.ac.uk/">Enquiry Hub</a>, which is also accessible through the <em>"Ask a question"</em> button in the <a href="https://my.london.ac.uk/">student portal</a>.</li>
+<li><a href="https://london.ac.uk/contact-us">Main university contact page</a></li>
+<li>Reach out by phone: <code>+44 (0)20 7862 8000</code> (general), <code>+44 (0)20 7862 5766</code> (specific to this degree), <code>+44 (0)20 7862 8368</code> (fees office).</li>
 <li><a href="https://london.kb.help/">Student Advice Center</a>: knowledge base for frequently asked questions.</li>
 <li>To escalate an issue, create an official <a href="https://www.london.ac.uk/current-students/student-policies/complaints-appeals-procedure">Student Complaint</a> by emailing <a href = "mailto:a&c@london.ac.uk">A&C@london.ac.uk</a> and asking for a stage 2 complaint form, <strong>clearly outlining the problem</strong>.
 </li>
