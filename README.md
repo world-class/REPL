@@ -58,8 +58,8 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 
 <ul>
     <li>For module-specific inquiries, you can reach out to your tutors in the appropriate discussion forums on Coursera. Access any module you are enrolled in from the <a href="https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/">home page of this degree</a> on Coursera.</li>
-    <li>For non-academic questions, you can write <a href="https://www.coursera.org/learn/london-cs-orientation/discussions">in the <strong>Reach out</strong> forum</a> on Coursera.</li>
-   <li>For private matters and other types of inquiries, see the Enquiry Hub <a href="#stay-in-touch">in this section</a>, including phone numbers, Student Advice Center, Slack workspace and Discord server.</li>
+    <li>For non-academic questions, you may write <a href="https://www.coursera.org/learn/london-cs-orientation/discussions">in the <strong>Reach out</strong> forum</a> on Coursera</li>, or contact the university directly (see below).
+    <li>For any non-academic inquiries, including - but not limited to - inquiries about of enrollment, financing, recognition of prior learning, access requirements and mitigating circumstances - you may contact the university directly through the <a href="https://enquiries.london.ac.uk/">Enquiry Hub</a>, or by any of the other means mentioned in <a href="#stay-in-touch">this section</a>.</li>
 </ul>
 
   </details>
