@@ -57,9 +57,9 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 <p>Despite being ~100% remote, this degree is equipped with a team of tutors and SRMs (<em>Student Relationship Managers</em>) that can help you find what you need.</p>
 
 <ul>
-    <li>For module-specific inquiries, you can reach out to your tutors in the appropriate discussion forums on Coursera. Access any module you are enrolled in from the <a href="https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/">home page of this degree</a> on Coursera.</li>
-    <li>For non-academic questions, you may write <a href="https://www.coursera.org/learn/london-cs-orientation/discussions">in the <strong>Reach out</strong> forum</a> on Coursera</li>, or contact the university directly (see below).
-    <li>For any non-academic inquiries, including - but not limited to - inquiries about of enrollment, financing, recognition of prior learning, access requirements and mitigating circumstances - you may contact the university directly through the <a href="https://enquiries.london.ac.uk/">Enquiry Hub</a>, or by any of the other means mentioned in <a href="#stay-in-touch">this section</a>.</li>
+    <li>For module-specific issues, you can reach out to your tutors in the appropriate discussion forums on Coursera. Access any module you are enrolled in from the <a href="https://www.coursera.org/degrees/bachelor-of-science-computer-science-london/home/">home page of this degree</a> on Coursera.</li>
+    <li>For <em>general</em> non-academic issues, such as university policies and regulations, you may write <a href="https://www.coursera.org/learn/london-cs-orientation/discussions">in the <strong>Reach out</strong> forum</a> on Coursera</li>, or contact the university directly (see below).
+    <li>For <em>personal</em> non-academic issues, including - but not limited to - questions on enrollment, financing, recognition of prior learning, access requirements and mitigating circumstances - you may contact the university directly through the <a href="https://enquiries.london.ac.uk/">Enquiry Hub</a>, or by any of the means mentioned in <a href="#stay-in-touch">this section</a>.</li>
 </ul>
 
   </details>
