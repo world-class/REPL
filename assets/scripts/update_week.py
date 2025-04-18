@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import fileinput
 
 
-def main(semester_start_date: datetime = datetime(2024, 10, 14)) -> None:
+def main(semester_start_date: datetime = datetime(2025, 04, 10)) -> None:
     """
     Main function to execute. Simply update the date parameter (must fall on Monday) when
     the current semester is done to a Monday.
