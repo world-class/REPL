@@ -186,7 +186,7 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 <td><strong>WD</strong></td>
 <td><strong>CM1040</strong></td>
 <td>No</td>
-<td><strong>Yes: 30% of total grade</strong></td>
+<td>No</td>
 <td><code><a href="https://app.slack.com/client/TDT1N1BUG/CH3L72QD8">#cm1040-web-dev</a></code></td>
 </tr>
 </tbody>
