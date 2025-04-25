@@ -23,6 +23,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit --allow-empty -m "README: Update current week" -a
+      - name: Pull latest changes
+        run: git pull origin master --rebase
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
