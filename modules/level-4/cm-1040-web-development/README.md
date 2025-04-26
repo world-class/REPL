@@ -24,35 +24,26 @@
 
 ## Web Development
 
-This module provides you with a foundational web development skillset.
-You will learn the critical languages of the web: HTML, CSS and
-JavaScript. Using HTML and CSS, you'll learn how to markup, layout and
-style web content. You'll study the document object model and how you
-can dynamically manipulate it with JavaScript to create interactive web
-pages. You'll consider accessibility and usability issues, and how you
-can overcome them. You'll learn about website deployment and how to
-make your websites accessible to other people. The module also enables
-you to present your work online in the form of a website.
+This module equips you with the skills to design and implement dynamic web applications using foundational web programming concepts and frameworks. The course considers practical skills such as responsive design with CSS as well as the abstract underpinnings of markup languages. The course extends beyond general web programming and into areas of professional practice. These include accessibility standards and ethical, security, and sustainability aspects of web development. The course also considers team working scenarios; you will learn about how teams carry out the full process of developing a web site from assigning roles, through requirements gathering, onto testing and then deployment. The course culminates with an exploration of the exciting intersection of Generative AI and web development, preparing you for the future of the industry.
 
 Enrolled students only: [Course syllabus available on Coursera](https://www.coursera.org/learn/london-cs-orientation/supplement/p88ho/syllabus-web-development-cm1040).
 
 ### Professor(s)
 
-- Dr. Nick Hine
-- And more
+- Dr. Matthew Yee-King
 
 ### Topics covered
 
-- Introduction to Web Development
-- Web Site Design
-- Essential HTML
-- Introduction to CSS
-- Positioning in Styling & Design
-- Responsive CSS
-- Introduction to JavaScript for the Web
-- Manipulating the DOM using JavaScript
-- JavaScript Libraries
-- Web Hosting & Professional Practices
+- HTTP and HTML
+- Parsing markup languages
+- Layout for different devices
+- Accessibility and usability standards
+- Data sources and data security
+- Template engines and other presentation techniques
+- Website lifecycle
+- Methods for team collaboration and project management
+- Ethical, legal and sustainability issues for web development
+- Generative AI and web development
 
 ### Assessment
 
