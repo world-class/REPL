@@ -572,6 +572,13 @@ relevant topic for the final project.</p>
 
 </details>
 
+<details>
+<summary><strong>For Alumni</strong></summary>
+<ul>
+<li><a href="https://t.me/world_class_alumni">World Class Alumni (Telegram Group)</a> - University of London (Unofficial) Alumni Group</li>
+</ul>
+</details>
+
 <br /><br />
 
 ## Emojis: Their meaning in the REPL
