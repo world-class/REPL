@@ -59,6 +59,22 @@ None.
 
 ## Resources
 
+**Presentation and public speaking skills**
+-  [Be the BEST Bad Presenter Ever](https://learning.oreilly.com/course/be-the-best/9781491934234/) - Karen Hough
+
+**Legal and ethical foundations**
+-  [Cloud Computing Law Specialization](https://www.coursera.org/specializations/cloud-computing-law) - Queen Mary, University of London
+
+**Inclusive computing and ethical impacts**
+-  [Ethics for Open Source Development (LFC104)](https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/) - The Linux Foundation
+-  [Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility) - W3C
+
+**Sustainability in computing**
+-  [clean-IT: Towards Sustainable Digital Technologies](https://open.hpi.de/courses/cleanit2021) - openHPI
+
+**Project management**
+-  [Software Product Management Specialization](https://www.coursera.org/specializations/product-management) - University of Alberta
+
 ### :heart: Notes
 
 - None yet.
