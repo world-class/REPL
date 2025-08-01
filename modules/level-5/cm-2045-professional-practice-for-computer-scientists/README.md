@@ -72,6 +72,13 @@ None.
 **Sustainability in computing**
 -  [clean-IT: Towards Sustainable Digital Technologies](https://open.hpi.de/courses/cleanit2021) - openHPI
 
+**Risk management and security**
+- [Cybersecurity Risk Management Framework Specialization](https://www.coursera.org/specializations/cybersecurity-risk-management-framework) - InfoSec Institute on Coursera
+
+**Industry standards and best practices**
+- Introduction to standards - The British Standards Institution on the AI Standards Hub
+  - [Part 1](https://aistandardshub.org/training/introduction-to-standards-part-1), [Part 2](https://aistandardshub.org/training/introduction-to-standards-part-2) and [Part 3](https://aistandardshub.org/training/introduction-to-standards-part-3)
+
 **Project management**
 -  [Software Product Management Specialization](https://www.coursera.org/specializations/product-management) - University of Alberta on Coursera
 
