@@ -64,6 +64,7 @@ None.
 
 **Legal and ethical foundations**
 -  [Cloud Computing Law Specialization](https://www.coursera.org/specializations/cloud-computing-law) - Queen Mary University of London on Coursera
+-  [Open Source Licensing Basics for Software Developers (LFC191)](https://training.linuxfoundation.org/training/open-source-licensing-basics-for-software-developers/) - The Linux Foundation
 
 **Inclusive computing and ethical impacts**
 -  [Ethics for Open Source Development (LFC104)](https://training.linuxfoundation.org/training/ethics-for-open-source-development-lfc104/) - The Linux Foundation
