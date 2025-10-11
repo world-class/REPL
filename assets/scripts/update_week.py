@@ -4,9 +4,10 @@ writing text in the main README.md file.
 """
 from datetime import datetime, timedelta
 import fileinput
+##Change the start date:
+start_date = 2025, 10, 13 ##yyyy, mm, d
 
-
-def main(semester_start_date: datetime = datetime(2025, 4, 7)) -> None:
+def main(semester_start_date: datetime = datetime(start_date)) -> None:
     """
     Main function to execute. Simply update the date parameter (must fall on Monday) when
     the current semester is done to a Monday.
