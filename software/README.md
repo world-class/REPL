@@ -272,6 +272,7 @@
 #### Online editors
 
 - :cloud: [Overleaf](https://www.overleaf.com) - _"The easy to use, online, collaborative LaTeX editor."_
+- :cloud: [SpicyChai LaTeX](https://latex.spicychai.com/) - _"Online LaTeX editor and compiler with AI-powered template population and real-time PDF preview."_
 
 #### Plugins
 
