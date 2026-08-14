@@ -43,6 +43,7 @@
 - [Remote only](https://remoteonly.org/)
 - [Remote](https://remote.com/)
 - [We Work Remotely](https://weworkremotely.com/)
+- [Jobs in JavaScript](https://jobsinjs.com/remote-javascript-jobs/) - Remote JavaScript, TypeScript and Node.js roles, updated daily.
 
 ## Freelancing
 
