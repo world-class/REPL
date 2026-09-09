@@ -572,6 +572,7 @@ See also [Graphics software](#graphics-software).
 ##### Cross-browser
 
 - [Unhook YouTube](https://unhook.app/) - _"Watch YouTube free of distractions. Block suggestion feeds, comments, and more."_
+- [Not for You](https://notforyou.app) - _"A browser extension that removes the algorithm from every major social platform. No suggested posts, no recommended accounts, no \"people you may know.\" Just the accounts you chose to follow, in the order they posted."_
 
 ##### Firefox
 
