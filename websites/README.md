@@ -156,6 +156,7 @@ The Open University."_
 ### Resume building
 
 - [Kickresume](https://www.kickresume.com) - _" We help students take first steps towards a successful career. Kickresume Premium is now free for all students. Verify your student status with ISIC, ITIC or EURO>26."_
+- [ResumeAI](https://withresumeai.com/) - _"AI resume builder with free ATS checks (3/day anonymous, 10/day free account) and the open State of ATS 2026 dataset (738 employers; Workday 37.9%). Leaderboard is paid placement/visibility only — not pay-for-score."_
 
 ### Thinking tools
 
