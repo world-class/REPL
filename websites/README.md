@@ -338,6 +338,7 @@ The Open University."_
 ### Online tools
 
 - [Desmos](https://www.desmos.com) - _"Graph functions, plot data, evaluate equations, explore transformations, and much more – for free!"_
+- [Libre Calculator: Pythagorean theorem calculator](https://librecalculator.com/calculators/pythagorean-theorem/) - Find a missing side of a right triangle with input-specific steps and a diagram.
 - [Symbolab](https://www.symbolab.com) - _"Symbolab: equation search and math solver - solves algebra, trigonometry and calculus problems step by step."_ **(:heavy_dollar_sign: requires subscription for all features)**
 - [Wolfram Alpha](https://www.wolframalpha.com) - _"Wolfram Alpha is a computational knowledge engine or answer engine."_ **(:heavy_dollar_sign: requires subscription for all features)**
 
