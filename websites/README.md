@@ -517,7 +517,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 - [Pro Git Book](https://git-scm.com/book/en/v2) - _"The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com."_
 - [Productive Git for Developers](https://egghead.io/courses/productive-git-for-developers) - _"You will walk through a series of scenarios which you’ll most commonly encounter in your daily work life as a developer."_.
 - [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/) - _"Have you thought about contributing to an open source project, but you're too confused (or intimidated) by the process to even try? I've been there too!"_
-- [Try GitHub](http://try.github.io) - _Resources to learn Git: Handbook, cheat sheets, git commands in the browser, etc._
+- [Coddy Git Playground](https://coddy.tech/playground/git) - _"Run real git commands in your browser and watch the commit graph update after every line."_
 
 ### iOS
 
