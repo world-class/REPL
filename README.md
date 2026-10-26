@@ -12,7 +12,7 @@ A twist on the use of **REPL**, which stands for _read–eval–print loop_ in c
 
 # Current week
 
-- Week **27**. Did we forget to specify when the next semester is starting? Please [let us know by filing an issue](https://github.com/world-class/REPL/issues/new?labels=bug&title=%5BBUG%5D%20Start%20date%20of%20next%20semester%20should%20be%20displayed%20in%20the%20README)!
+- Week **28**. Did we forget to specify when the next semester is starting? Please [let us know by filing an issue](https://github.com/world-class/REPL/issues/new?labels=bug&title=%5BBUG%5D%20Start%20date%20of%20next%20semester%20should%20be%20displayed%20in%20the%20README)!
 
 # • [Frequently Asked Questions (FAQ)](faq/README.md)
 
