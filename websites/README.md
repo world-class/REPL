@@ -182,7 +182,7 @@ The Open University."_
 - [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) - Princeton University - _"Essential information that every serious programmer needs to know about algorithms and data structures."_
 - [Comparison of Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms) - See time complexity at a glance for various popular algorithms.
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads) - _"This is a dictionary of algorithms, algorithmic techniques, data structures, archetypal problems, and related definitions."_
-- [Introduction to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) ([problem sets](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/)) - MIT OpenCourseWare.
+- [Introduction to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) ([problem sets](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/assignments/)) - MIT OpenCourseWare.
 - [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms/) - _"We've partnered with Dartmouth college professors Tom Cormen and Devin Balkcom to teach introductory computer science algorithms, including searching, sorting, recursion, and graph theory. Learn with a combination of articles, visualizations, quizzes, and coding challenges."_
 - [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/).
 
@@ -285,7 +285,7 @@ The Open University."_
 ### Discrete mathematics
 
 - [cs2102: Discrete Math](https://uvacs2102.github.io/) - _"Propositions and proofs, Proof methods (including proof by construction, contradiction, and induction), Logic (Boolean logic, logical formulas, quantifiers), Binary relations, State machines, Finite and infinite sets, Number theory, Counting techniques, Probability theory."_
-- [Readings from MIT OpenCourseWare (2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
+- [Readings from MIT OpenCourseWare (2011)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/) on proofs, graph theory, recurrences, probability.
 - [Readings from MIT OpenCourseWare (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) on proofs, graph theory, recurrences, probability.
 
 #### Algorithms
@@ -481,7 +481,7 @@ _"Disposable email addressing, also known as DEA or dark mail, refers to an appr
 
 - [CSS Diner](https://flukeout.github.io) - _"It's a fun game to learn and practice CSS selectors."_
 - [Flexbox Froggy](http://flexboxfroggy.com) - _"A game for learning CSS flexbox."_
-- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) _"This is a Mastery Game. Each section unravels part of the plot, gives you mastery over a new flexbox concept, and presents zombie survival challenges that force you to solidify your new skills like your life depends on it."_
+- [Flexbox Zombies](https://flexboxzombies.com/) _"This is a Mastery Game. Each section unravels part of the plot, gives you mastery over a new flexbox concept, and presents zombie survival challenges that force you to solidify your new skills like your life depends on it."_
 - [Grid Critters](https://gridcritters.com) - _"Completely learn CSS Grid once and for all."_
 - [Grid Garden](https://codepip.com/games/grid-garden) - _"How well can you tend to your carrot garden using CSS grid? In this game, you must water your carrot crops and poison the weeds by mastering CSS grid, a powerful new module that makes 2-dimensional grid layouts a piece of cake. With it you can define columns, rows, and grid template areas."_
 
