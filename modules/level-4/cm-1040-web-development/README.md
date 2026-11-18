@@ -85,7 +85,7 @@ _Specific readings for each topic are listed with direct links to free online re
 
 - [CSS Diner](https://flukeout.github.io/) - _"A fun game to help you learn and practice CSS selectors."_
 - [Flexbox Froggy](http://flexboxfroggy.com/) - _"A game for learning CSS flexbox."_
-- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) - _"Master Flexbox layout: a game by geddski."_
+- [Flexbox Zombies](https://flexboxzombies.com/) - _"Master Flexbox layout: a game by geddski."_
 - [Grid Critters](https://gridcritters.com/) - _"Completely learn CSS Grid once and for all."_
 - [Grid Garden](https://codepip.com/games/grid-garden/) - _"How well can you tend to your carrot garden using CSS grid? In this game, you must water your carrot crops and poison the weeds by mastering CSS grid, a powerful new module that makes 2-dimensional grid layouts a piece of cake. With it you can define columns, rows, and grid template areas."_
 - [Service Workies](https://serviceworkies.com/) - _"Learn Service Workers inside and out with the new game of Service Worker mastery."_
