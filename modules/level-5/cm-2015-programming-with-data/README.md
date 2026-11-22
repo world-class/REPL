@@ -85,7 +85,7 @@ Python
 #### Data Science
 
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) - _"University of Michigan, Coursera."_
-- [CS 88: Computational Structures in Data Science](https://cs88-website.github.io/sp21/) - _"Spring 2021. Instructors: Gerald Friedland, Michael Ball"_
+- [CS 88: Computational Structures in Data Science](https://c88c.org/sp21/) - _"Spring 2021. Instructors: Gerald Friedland, Michael Ball"_
 - [Data 8: The Foundations of Data Science](http://data8.org/) - _"The UC Berkeley Foundations of Data Science course combines three perspectives: inferential thinking, computational thinking, and real-world relevance."_
 - [Data Science playlist](https://www.youtube.com/watch?v=GjKQ6V_ViQE&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp) - Youtube, by Keith Galli: web scraping, numpy, pandas, plotting, NLP, sklearn.
 - [Data Science: University of Cambridge](https://www.cl.cam.ac.uk/teaching/2021/DataSci/materials.html) - _"Department of Computer Science and Technology."_

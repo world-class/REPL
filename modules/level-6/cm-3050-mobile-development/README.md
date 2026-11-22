@@ -58,7 +58,7 @@ JavaScript
 
 ### Resources
 
-- [Jest integration](https://react-native-async-storage.github.io/async-storage/docs/advanced/jest/) - Use of Jest and async-storage.
+- [Jest integration](https://react-native-async-storage.github.io/latest/integrations/jest/) - Use of Jest and async-storage.
 - [Lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)](https://cs193p.sites.stanford.edu/).
 
 #### :heart: Notes
@@ -106,15 +106,15 @@ JavaScript
 
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 - [Code Signing](https://developer.apple.com/support/code-signing/)
-- [iOS Design Themes](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+- [Designing for iOS](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios)
 - [iOS Simulator](https://docs.expo.dev/workflow/ios-simulator/)
 
 # Misc
 
-- [Adaptivity and Layout](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/)
-- [Async Storage](https://react-native-async-storage.github.io/async-storage/docs/usage/)
+- [Adaptivity and Layout](https://developer.apple.com/design/human-interface-guidelines/layout)
+- [Async Storage](https://react-native-async-storage.github.io/latest/api/usage/)
 - [Dark Patterns](https://www.deceptive.design/)
-- [Haptics](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/)
+- [Haptics](https://developer.apple.com/design/human-interface-guidelines/playing-haptics)
 - [Layout with Flexbox](https://reactnative.dev/docs/flexbox)
 - [Material Design Guidelines](https://material.io/design/guidelines-overview)
 - [Notifications](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications)
